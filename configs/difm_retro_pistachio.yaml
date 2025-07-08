@@ -1,0 +1,74 @@
+name: vaedifm_retro_pistachio_uniform
+
+version: vaedifm_retro_pistachio_uniform
+chem:
+  reaction_data_dir: ./data/pistachio
+  reaction_file_tag: data
+  file_type: pickle
+data:
+  train_transforms:
+    - type: random_permute
+      attr_name: elements
+
+model:
+  name: vaedifm_uniform
+  flow:
+    kappa:
+      type: linear
+    sigma:
+      type: sqrtsquare
+  mol_encoder:
+    nlayer: 6
+    dim: 256
+    ntoken: 192
+    nhead: 8
+    dropout: 0.1
+  merge_encoder:
+    nlayer: 1
+    dim: 256
+    nhead: 8
+    dropout: 0.1
+  vae_decoder:
+    nlayer: 24
+    dim: 256
+    nhead: 8
+    dropout: 0.1 
+    out_logits: 4
+    pred_diff: false
+  decoder_only: true
+
+schedule_sampler:
+  name: continuous-uniform
+
+train:
+  mode: retro
+  loss_weights:
+    bond: 1.0
+    aroma: 1.0
+    charge: 1.0
+    element: 1.0
+  max_iters: 400000
+  val_freq: 5000
+  max_grad_norm: 5.0
+  optimizer:
+    type: adamw
+    lr: 1.e-4
+    weight_decay: 0
+    beta1: 0.9
+    beta2: 0.999
+  scheduler:
+    type: "cosine"
+    T_max: ${train.max_iters}  
+    eta_min: 1.e-6  
+    warmup_steps: 2000
+  seed: 42
+  batch_size: 128
+  num_workers: 8
+  devices: 4
+  num_nodes: 1
+  num_sanity_val_steps: 1
+  log_dir: ./logs
+  resume: null
+  wandb_project: null
+  sample_num: 1
+  sample_steps: 100
