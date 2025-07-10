@@ -44,6 +44,7 @@ Please download `data.zip` and unzip it, leading to the data file directoory as
 If you want the raw datasets for preprocessing, please refer to 
 `./preprocess/preprocess_txt.py`
 ## Training and Generating
+> **Note** This branch is mainly based on multitask reproduction, if you want to run SynBridge on separate tasks, please turn to [Separate Branch](https://github.com/EDAPINENUT/synbridge/tree/separate).
 ### Training from scratch
 Run the following command for training the multi-task version of synbridge:
 
