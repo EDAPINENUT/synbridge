@@ -94,15 +94,15 @@ def evaluate_single_sample(args):
 
 @click.command()
 @click.option("--ckpt_path", type=click.Path(exists=True), help="Path to checkpoint file", 
-              default="/fs_mol/linhaitao/synflow_mix/logs/vaedifm_usptomit_mix/2025_06_03__13_37_16-vaedifm_usptomit_mix/2025_06_03__13_37_16/epoch=561-step=224000-val_accuracy_smiles=0.5361.ckpt")
+              default="/logs/vaedifm_usptomit_uniform/2025_06_06__09_01_19-vaedifm_usptomit_uniform/2025_06_06__09_01_19/epoch=338-step=135000-val_accuracy_smiles=0.8535.ckpt")
 @click.option("--config_path", type=click.Path(exists=True), 
-              default="/fs_mol/linhaitao/synflow_mix/logs/vaedifm_usptomit_mix/2025_06_03__13_37_16-vaedifm_usptomit_mix/2025_06_03__13_37_16/config.yaml")
+              default="/logs/vaedifm_usptomit_uniform/2025_06_06__09_01_19-vaedifm_usptomit_uniform/2025_06_06__09_01_19/config.yaml")
 @click.option("--batch_size", type=int, default=32) 
 @click.option("--num_workers", type=int, default=4)
 @click.option("--device", type=str, default="cuda")
 @click.option("--sample_num", type=int, default=5)
 @click.option("--sample_steps", type=int, default=100)
-@click.option("--save_samples", type=bool, default=False)
+@click.option("--save_samples", is_flag=True, default=False)
 @click.option("--num_workers_eval", type=int, default=cpu_count()//8) # cpu_count()//4
 @click.option("--eval_mode", type=str, default='forward')
 def main(
@@ -146,8 +146,8 @@ def main(
 
     # Run sampling on test set
     datamodule.setup('test')
-    test_loader = datamodule.test_dataloader(indices=list(range(10000)))
-    # test_loader = datamodule.test_dataloader()
+    # test_loader = datamodule.test_dataloader(indices=list(range(7000)))
+    test_loader = datamodule.test_dataloader()
     print('Test set size:', len(test_loader.dataset))
     id = 0
     sample_all = {}
