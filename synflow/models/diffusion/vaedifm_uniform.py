@@ -6,7 +6,6 @@ from synflow.models.misc import shape_back, append_dims
 from synflow.models.transformers import (
     get_encoder, 
     get_variational_decoder,
-    get_merge_encoder
 )
 from synflow.chem.constants import element_id, get_element_id_batch, MAX_DIFF
 from typing import Dict, Tuple
@@ -109,7 +108,6 @@ class VAEDIFMUniform(nn.Module):
 
         self.reactant_encoder = get_encoder(config.mol_encoder)
         self.product_encoder = get_encoder(config.mol_encoder)
-        self.merge_encoder = get_merge_encoder(config.merge_encoder)
         self.product_decoder = get_variational_decoder(config.vae_decoder)
         self.decoder_only = config.decoder_only
         self.force_symbond = config.get('force_symbond', True)
@@ -276,7 +274,7 @@ class VAEDIFMUniform(nn.Module):
 
         return src, interm 
 
-    def encode_decode(self, src, interm=None, task_token=None, t=None):
+    def encode_decode(self, src, interm=None, t=None):
         src_bonds = src['bonds']
         src_aromas = src['aromas']
         src_charges = src['charges']
@@ -312,13 +310,9 @@ class VAEDIFMUniform(nn.Module):
             interm_segments, 
             interm_flags
         )
-        if task_token is not None:
-            merge_emb = self.merge_encoder(task_token, interm_emb + src_emb, src_masks)
-        else:
-            merge_emb = interm_emb + src_emb
 
         pred = self.product_decoder(
-            merge_emb, 
+            interm_emb + src_emb, 
             interm_bonds, 
             interm_masks,
             decoder_only=self.decoder_only
@@ -337,7 +331,7 @@ class VAEDIFMUniform(nn.Module):
 
         src, interm = self.sample_intermediate(translate_graph, t, mode=mode)
         
-        pred = self.encode_decode(src, interm, translate_graph['task_token'], t)
+        pred = self.encode_decode(src, interm, t)
         
         loss_dict = self.compute_loss(pred, translate_graph, mode=mode)
         
@@ -360,11 +354,14 @@ class VAEDIFMUniform(nn.Module):
             data['tgt_charges'], 
             data['tgt_masks']
         )
-        loss_element = self.element_loss(
-            pred['element_type_logits'], 
-            data['tgt_element_types'], 
-            data['tgt_masks']
-        )
+        if mode == 'retro':
+            loss_element = self.element_loss(
+                pred['element_type_logits'], 
+                data['tgt_element_types'], 
+                data['tgt_masks']
+            )
+        else:
+            loss_element = torch.tensor(0.0).to(data['src_elements'].device)
 
         return {
             'bond': loss_bond.mean(),
@@ -390,17 +387,10 @@ class VAEDIFMUniform(nn.Module):
         
         interm = copy.deepcopy(src)
 
-        if mode == 'retro':
-            task_token = torch.zeros((B, 1), device=src['elements'].device).long()
-        elif mode == 'forward':
-            task_token = torch.ones((B, 1), device=src['elements'].device).long()
-        else:
-            raise ValueError(f"Unknown mode: {mode}")
-
         for idx, t in enumerate(tqdm(ts[:-1], desc="Sampling on single batch...")):
             dt = ts[idx + 1] - ts[idx]
             t_curr = t * torch.ones((B,), device=src['elements'].device)
-            pred = self.encode_decode(src, interm, task_token, t_curr)
+            pred = self.encode_decode(src, interm, t_curr)
             interm = self.one_step_sample(interm, pred, src, t_curr, dt, straight_forward, mode)
             if mode == 'forward':
                 assert (interm['elements'] == src['elements']).all()
@@ -409,7 +399,6 @@ class VAEDIFMUniform(nn.Module):
         pred_aromas = interm['aromas']
         pred_charges = interm['charges']
         pred_elements = interm['elements']
-        pred_element_types = interm['element_types']
         if mode == 'forward':
             assert (pred_elements == src['elements']).all()
         src_masks = src['padding_masks']
@@ -420,8 +409,7 @@ class VAEDIFMUniform(nn.Module):
             'charges': pred_charges,
             'elements': pred_elements,
             'masks': src_masks,
-            'flags': src_flags,
-            'element_types': pred_element_types
+            'flags': src_flags
         }
         return preds
 

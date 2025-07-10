@@ -115,62 +115,44 @@ class Encoder(nn.Module):
 
 
 class MergeEncoder(nn.Module):
-    def __init__(self, dim, nhead, nlayer=1, dropout=0.1, ntoken=2):
+    def __init__(self, dim, nhead, nlayer, dropout):
         super().__init__()
-        self.task_embedding = nn.Embedding(ntoken, dim)
-        self.cross_attn = torch.nn.ModuleList(
-            [nn.MultiheadAttention(dim, nhead, dropout=dropout, batch_first=True) for _ in range(nlayer)]
-        )
-        self.norm = torch.nn.ModuleList(
-            [nn.LayerNorm(dim) for _ in range(nlayer)]
-        )
-        self.ffn = torch.nn.ModuleList(
-            [nn.Sequential(
-                nn.Linear(dim, dim * 4),
-                nn.GELU(),
-                nn.Linear(dim * 4, dim)
-            ) for _ in range(nlayer)]
-        )
-        self.norm2 = torch.nn.ModuleList(
-            [nn.LayerNorm(dim) for _ in range(nlayer)]
-        )
-        self.nlayer = nlayer
+        layer = TransformerDecoderLayer(dim, nhead, dim, dropout)
+        self.transformer_decoder = TransformerDecoder(layer, nlayer)
+        self.head = nn.Linear(dim, dim)
+        # self.vector_quantilizer = FSQ(dim = dim, levels = level_list)
 
-    def forward(self, task_token, token_emb, token_emb_padding_mask=None):
+    def forward(self, src, src_mask, tgt, tgt_mask):
         """
-        task_token: Tensor of shape (B, 1, 1)
-        token_emb: Tensor of shape (N, B, D)
-        token_emb_padding_mask: Bool Tensor of shape (B, N), True for padding positions
-        returns: Tensor of shape (N, B, D)
+        src, tgt [L, b, dim]
+        src_mask, tgt_mask, [B, L]
         """
-        task_token = self.task_embedding(task_token)
-        token_emb = token_emb.permute(1, 0, 2)
-        # Cross-attention: task_token attends to token_emb
-        for i in range(self.nlayer):
-            attn_out, _ = self.cross_attn[i](
-                query=token_emb,       # [B, N, D]
-                key=task_token,        # [B, 1, D]
-                value=task_token       # [B, 1, D]
-            )
-            token_emb = self.norm[i](token_emb + attn_out)
-            # Feed-forward
-            ffn_out = self.ffn[i](token_emb)
-            token_emb = self.norm2[i](token_emb + ffn_out)
-            if token_emb_padding_mask is not None:
-                # [B, N, 1] -> broadcast -> [B, N, D]
-                mask = token_emb_padding_mask.unsqueeze(-1)  # True for padding
-                token_emb = token_emb.masked_fill(mask, 0.0)
-        return token_emb.permute(1, 0, 2)  # [B, N, D]
+        l, b, dim = src.shape
+        src_mask, tgt_mask = src_mask.permute(0, 1), tgt_mask.permute(0, 1)
+        decoder_output = self.transformer_decoder(src, tgt,
+                                                  memory_key_padding_mask=tgt_mask, 
+                                                  tgt_key_padding_mask=src_mask).permute(1, 0, 2)
+        # [L, B, dim] to [B, dim, L]
+        # vq_emb, indices = self.vector_quantilizer(decoder_output)
+
+        # vq_emb, indices, commitment_loss = self.vector_quantilizer(decoder_output, mask=~src_mask)
+
+        decoder_output = decoder_output * (1-src_mask.float().unsqueeze(-1))
+        
+        # [B, dim]
+        decoder_output = self.head(decoder_output).permute(1, 0, 2)
+
+        return decoder_output
 
 
 def get_encoder(config):
     return Encoder(**config)
-
-def get_merge_encoder(config):
-    return MergeEncoder(**config)
 
 def get_variational_encoder(config):
     return VariationalEncoder(**config)
 
 def get_variational_decoder(config):
     return VariationalDecoder(**config)
+
+def get_vector_quantize_encoder(config):
+    return VectorQuantizeEncoder(**config)

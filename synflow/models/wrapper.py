@@ -10,9 +10,6 @@ from synflow.models.diffusion import get_vae_diffusion, Diffusion
 from synflow.models.diffusion.schedulers import get_schedule_sampler
 from typing import Any, Dict, List, Optional, Union
 from synflow.models.diffusion.utils import prepare_ground_truth
-from synflow.models.roundtrip_sample import prepare_roundtrip_sample, roundtrip_sample
-import random
-import copy
 
 def get_arccos_schedule(step, end_step, start_step, min_value, max_value):    
     """
@@ -136,14 +133,9 @@ class SynFlowWrapper(pl.LightningModule):
         """
         B, _ = batch['elements'].size()
         t, _ = self.schedule_sampler.sample(B, self.device)
-        if self.config.train.mode == 'mix':
-            mode = random.choice(['retro', 'forward'])
-        else:
-            mode = self.config.train.mode
-        loss_dict = self.diffusion.get_loss(batch, t=t, mode=mode)
-        loss_weights = copy.deepcopy(self.loss_weights)
+        loss_dict = self.diffusion.get_loss(batch, t=t, mode=self.config.train.mode)
 
-        loss_sum = sum_weighted_losses(loss_dict, loss_weights)
+        loss_sum = sum_weighted_losses(loss_dict, self.loss_weights)
 
         if is_loss_nan_check(loss_sum):
             self.print(f"Skip iteration with NaN loss: {self.global_step} steps")
@@ -175,46 +167,17 @@ class SynFlowWrapper(pl.LightningModule):
         """
         B, _ = batch['elements'].size()
         t, _ = self.schedule_sampler.sample(B, self.device)
-        if self.config.train.mode == 'mix':
-            mode = 'forward'
-            loss_dict_forward = self.diffusion.get_loss(batch, t=t, mode=mode)
-            pred_info_forward = self.sample(
-                batch, 
-                num_samples=self.config.train.sample_num, 
-                sample_steps=self.config.train.sample_steps,
-                mode=mode,
-                batched_out=True
-            )
-            loss_sum_forward = sum_weighted_losses(loss_dict_forward, self.loss_weights)
+        loss_dict = self.diffusion.get_loss(batch, t=t, mode=self.config.train.mode)
 
-            mode = 'retro'
-            loss_dict_retro = self.diffusion.get_loss(batch, t=t, mode=mode)
-            pred_info_retro = self.sample(
-                batch, 
-                num_samples=self.config.train.sample_num, 
-                sample_steps=self.config.train.sample_steps,
-                mode=mode,
-                batched_out=True
-            )
-            loss_sum_retro = sum_weighted_losses(loss_dict_retro, self.loss_weights)
-            
-            loss_sum = loss_sum_forward + loss_sum_retro
-            loss_dict = {**loss_dict_forward, **loss_dict_retro}
-            pred_info = {**pred_info_forward, **pred_info_retro}
+        pred_info = self.sample(
+            batch, 
+            num_samples=self.config.train.sample_num, 
+            sample_steps=self.config.train.sample_steps,
+            mode=self.config.train.mode,
+            batched_out=True
+        )
 
-        else:
-            mode = self.config.train.mode
-            loss_dict = self.diffusion.get_loss(batch, t=t, mode=mode)
-
-            pred_info = self.sample(
-                batch, 
-                num_samples=self.config.train.sample_num, 
-                sample_steps=self.config.train.sample_steps,
-                mode=mode,
-                batched_out=True
-            )
-
-            loss_sum = sum_weighted_losses(loss_dict, self.loss_weights)
+        loss_sum = sum_weighted_losses(loss_dict, self.loss_weights)
 
         self.log(
             "val/loss", loss_sum, 
@@ -235,6 +198,8 @@ class SynFlowWrapper(pl.LightningModule):
                 "loss": loss_sum,
                 "pred_info": pred_info
             }
+    
+
     
     def on_validation_epoch_start(self) -> None:
         """
@@ -278,7 +243,8 @@ class SynFlowWrapper(pl.LightningModule):
             if kl_loss_mean < 0.5:
                 self.loss_weights.kl *= 0.8
             elif kl_loss_mean > 1.0:
-                self.loss_weights.kl *= 1.6            
+                self.loss_weights.kl *= 1.6
+    
 
     @torch.no_grad()
     def sample(
@@ -288,8 +254,7 @@ class SynFlowWrapper(pl.LightningModule):
         max_sample_chunk: int = 100,  # TODO: add this to config as max_sample_chunk
         sample_steps: int = 20,
         batched_out: bool = False,
-        mode: str = 'retro',
-        roundtrip: bool = False
+        mode: str = 'retro'
     ) -> Dict[str, Dict[str, torch.Tensor]]:
         """
         Generate samples from the model.
@@ -309,7 +274,6 @@ class SynFlowWrapper(pl.LightningModule):
         batch_samples = expand_batch(batch, num_samples)
         preds = self.diffusion.sample(batch_samples, sample_steps=sample_steps, mode=mode)
         tgts, srcs = prepare_ground_truth(batch_samples, mode=mode, return_src=True)
-        
         if not batched_out:
             preds_batched = {k: shape_back(v, B).cpu() for k, v in preds.items()}
             tgts_batched = {k: shape_back(v, B).cpu() for k, v in tgts.items()}
@@ -318,9 +282,6 @@ class SynFlowWrapper(pl.LightningModule):
             preds_batched = {k: v.cpu() for k, v in preds.items()}
             tgts_batched = {k: v.cpu() for k, v in tgts.items()}
             srcs_batched = {k: v.cpu() for k, v in srcs.items()}
-        if roundtrip:
-            return prepare_roundtrip_sample(preds_batched, tgts_batched, srcs_batched)
-        
         output_samples = {}
         if 'id' in batch and batched_out:
             list_id, select_dim = batch_samples['id'], 0
@@ -338,7 +299,6 @@ class SynFlowWrapper(pl.LightningModule):
                 "pred_aromas": select(preds_batched['aromas']),
                 "pred_charges": select(preds_batched['charges']),
                 "pred_elements": select(preds_batched['elements']),
-                "pred_element_types": select(preds_batched['element_types']),
                 "src_masks": select(preds_batched['masks']),
                 "src_flags": select(preds_batched['flags']),
                 "tgt_masks": select(tgts_batched['masks']),
@@ -346,17 +306,12 @@ class SynFlowWrapper(pl.LightningModule):
                 "true_aromas": select(tgts_batched['aromas']),    
                 "true_charges": select(tgts_batched['charges']),
                 "true_elements": select(tgts_batched['elements']),
-                "true_element_types": select(tgts_batched['element_types']),
                 "input_bonds": select(srcs_batched['bonds']),
                 "input_aromas": select(srcs_batched['aromas']),
                 "input_charges": select(srcs_batched['charges']),
                 "input_elements": select(srcs_batched['elements']),
-                "input_element_types": select(srcs_batched['element_types']),
                 "input_masks": select(srcs_batched['masks']),
                 "input_flags": select(srcs_batched['flags']),
             }
 
         return output_samples
-
-    def roundtrip_sample(self, batch: DeltaGraphBatch, num_samples: int = 1000, sample_steps: int = 20) -> Dict[str, Dict[str, torch.Tensor]]:
-        return roundtrip_sample(self, batch, num_samples, sample_steps)

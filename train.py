@@ -18,7 +18,8 @@ torch.backends.cuda.matmul.allow_tf32 = True
 torch.backends.cudnn.allow_tf32 = True
 torch.set_float32_matmul_precision("medium")
 
-@hydra.main(version_base=None, config_path="./configs", config_name="difm_retro_usptomit")
+@hydra.main(version_base=None, config_path="./configs", config_name="difm_retro_uspto50k")
+# @hydra.main(version_base=None, config_path="./configs")
 def main(config: DictConfig):
     # Get command line overrides
     batch_size = config.train.batch_size
@@ -48,6 +49,7 @@ def main(config: DictConfig):
     # Initialize wandb
     lightning_loggers = []
     if config.train.wandb_project is not None:
+        wandb.login(key="01d5809ff369576e287cdcd8ca2fb471b0a27110")
         lightning_loggers.append(
             loggers.WandbLogger(
                 project=wandb_project,

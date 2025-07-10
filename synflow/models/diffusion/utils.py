@@ -26,8 +26,6 @@ class TranslateGraph(TypedDict):
     tgt_segments: torch.Tensor
     tgt_flags: torch.Tensor
     tgt_bond_masks: torch.Tensor
-    # task
-    task_token: torch.Tensor
 
 OneSideGraph = Dict[str, torch.Tensor]
 
@@ -219,7 +217,6 @@ def prepare_translate_graph(data: DeltaGraphBatch, mode: str = 'retro') -> Trans
         tgt_segments = data['reactant_segments']
         tgt_flags = data['reactant_flags']
         tgt_bond_masks = reactant_bond_masks
-        task_token = torch.zeros(padding_masks.shape[0], 1).to(padding_masks.device).long()
     
     elif mode == 'forward':
         padding_masks = data['padding_masks']
@@ -250,8 +247,7 @@ def prepare_translate_graph(data: DeltaGraphBatch, mode: str = 'retro') -> Trans
         tgt_segments = data['product_segments']
         tgt_flags = (~data['product_masks']).long()
         tgt_bond_masks = product_bond_masks
-        task_token = torch.ones(padding_masks.shape[0], 1).to(padding_masks.device).long()
-
+    
     assert src_bonds.max() <= MAX_DIFF
     assert tgt_bonds.max() <= MAX_DIFF
 
@@ -275,7 +271,6 @@ def prepare_translate_graph(data: DeltaGraphBatch, mode: str = 'retro') -> Trans
         "tgt_segments": tgt_segments,
         "tgt_flags": tgt_flags,
         "tgt_bond_masks": tgt_bond_masks,
-        "task_token": task_token,
     }
     return translate_graph
 
