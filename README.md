@@ -3,6 +3,7 @@
     <img src="temp/schematic.png" width="800" class="center" alt="PPFlow Workflow"/>
     <br/>
 </p>
+This is the official codebase of [Synbridge](https://arxiv.org/abs/2507.08475) for reproduction.
 
 ## Installation
 
@@ -114,6 +115,14 @@ python test.py --ckpt_path ./ckpts/usptomit_mix/epoch=561-step=224000.ckpt \
 ## Citation
 If our paper or the code in the repository is helpful to you, please cite the following:
 ```
-IN PROCESS
+@misc{lin2025synbridgebridgingreactionstates,
+      title={SynBridge: Bridging Reaction States via Discrete Flow for Bidirectional Reaction Prediction}, 
+      author={Haitao Lin and Junjie Wang and Zhifeng Gao and Xiaohong Ji and Rong Zhu and Linfeng Zhang and Guolin Ke and Weinan E},
+      year={2025},
+      eprint={2507.08475},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.08475}, 
+}
 ```
 
