@@ -4,6 +4,8 @@
     <br/>
 </p>
 
+This is the official codebase of [Synbridge](https://arxiv.org/abs/2507.08475) for reproduction.
+
 ## Installation
 
 #### Create the conda environment and activate it.
@@ -104,6 +106,14 @@ python test.py --ckpt_path ./ckpts/uspto50k_forward/epoch=313-step=98000.ckpt \
 ## Citation
 If our paper or the code in the repository is helpful to you, please cite the following:
 ```
-IN PROCESS
+@misc{lin2025synbridgebridgingreactionstates,
+      title={SynBridge: Bridging Reaction States via Discrete Flow for Bidirectional Reaction Prediction}, 
+      author={Haitao Lin and Junjie Wang and Zhifeng Gao and Xiaohong Ji and Rong Zhu and Linfeng Zhang and Guolin Ke and Weinan E},
+      year={2025},
+      eprint={2507.08475},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.08475}, 
+}
 ```
 
