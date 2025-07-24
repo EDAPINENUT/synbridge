@@ -3,6 +3,7 @@
     <img src="temp/schematic.png" width="800" class="center" alt="PPFlow Workflow"/>
     <br/>
 </p>
+
 This is the official codebase of [Synbridge](https://arxiv.org/abs/2507.08475) for reproduction.
 
 ## Installation
