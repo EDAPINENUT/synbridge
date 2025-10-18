@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "text": "Br[Mg]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](O)(C[C@](C)(O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=6:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(C)OC(C)=O",
+      "type": "reactants"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)c1cccc([Mg]Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](O)(C[C@](C)(O)c1cccc(C(F)(F)F)c1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=6.1:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(C)OC(C)=O",
+      "type": "reactants"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc([Mg]Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@](C)(O)C[C@](C)(O)c2ccc(OC)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield",
+        "dr=1.5:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(C)OC(C)=O",
+      "type": "reactants"
+    }
+  ]
+]

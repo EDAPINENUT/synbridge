@@ -1,0 +1,93 @@
+[
+  [
+    {
+      "text": "c1ccc(C=Cc2cccs2)cc#1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=Cc1cccs1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "Z:E = 99:1",
+        "alkene:alkane = 83:17"
+      ]
+    },
+    {
+      "relations": [
+        "23 bar"
+      ],
+      "text": "[H][H]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([NH-]->[Zn+2]<-[NH-]c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#CCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "18% yield",
+        "alkene:alkane = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "23 bar"
+      ],
+      "text": "[H][H]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([NH-]->[Zn+2]<-[NH-]c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-18 h",
+      "type": "time"
+    }
+  ]
+]

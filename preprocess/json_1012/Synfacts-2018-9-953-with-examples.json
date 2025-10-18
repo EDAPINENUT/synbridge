@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "text": "FC(F)(F)c1ccc(P(=S)(N=Cc2ccccc2)c2ccc(C(F)(F)F)cc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1cccc([C@H](CB2OC(C)(C)C(C)(C)O2)[C@@H](NP(=S)(c2ccc(C(F)(F)F)cc2)c2ccc(C(F)(F)F)cc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "99% ee",
+        "anti/syn = >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "ligand A"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "B1OC(C)(C)C(C)(C)O1B2OC(C)(C)C(C)(C)O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4h",
+      "type": "time"
+    }
+  ]
+]

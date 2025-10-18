@@ -1,0 +1,47 @@
+[
+  [
+    {
+      "text": "CCCCC(=O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC=CCC1(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "dppbz"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-24 h",
+      "type": "time"
+    }
+  ]
+]

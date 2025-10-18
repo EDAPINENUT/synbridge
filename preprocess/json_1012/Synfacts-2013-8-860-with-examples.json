@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC(=O)OCC=CCCCCl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C(=O)OC[C@@H]2[C@H](Br)CCCCl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "Trost ligand"
+      ],
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48\u201372 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "up to 15 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CCC(C)C)COC(=O)NS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C(=O)OC[C@@]2(C)[C@H](Br)CC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "Trost ligand"
+      ],
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48\u201372 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "up to 15 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C1=Cc2ccccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])[C@@H]1CCc2ccccc2[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "86% ee"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C=C.C=C.CC(=O)C=C(C)[O-].[Rh+]"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "N(C)(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1.O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "100\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "20 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1=Cc2ccccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@H]2c3cccc(Br)c3CC[C@H]2[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield",
+        "80% ee"
+      ]
+    },
+    {
+      "text": "Cc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C=C.C=C.CC(=O)C=C(C)[O-].[Rh+]"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "N(C)(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1.O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "100\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "20 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ]
+]

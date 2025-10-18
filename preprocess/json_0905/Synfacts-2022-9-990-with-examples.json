@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "text": "CC(=NO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NO)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20:1"
+      ],
+      "text": "CC(=O)O.OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

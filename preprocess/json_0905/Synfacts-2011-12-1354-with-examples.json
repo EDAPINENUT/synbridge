@@ -1,0 +1,573 @@
+[
+  [
+    {
+      "text": "CCCCC1C=C[Si](C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCc1ccccc1C(O)CCCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "NuLi = n-BuLi"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH3-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "CCCC[Cu-]CCCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "C=CCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "BrCc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "tetrabutylammonium fluoride"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1C=C(c2ccccc2)[Si](C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(=CC(O)CCCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "NuLi = PhLi"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH3-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "CCCC[Cu-]CCCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "C=CCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "BrCc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "tetrabutylammonium fluoride"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1C=C[Si](C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(C[C@H](O)CCCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "syn/anti = 1:1",
+        "NuLi = (n-Bu)2CuLi"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH3-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "CCCC[Cu-]CCCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "C=CCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "BrCc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "tetrabutylammonium fluoride"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1C=C[Si](C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(O)c1ccccc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "NuLi = MeLi"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH3-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "CCCC[Cu-]CCCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "C=CCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "BrCc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "tetrabutylammonium fluoride"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1C=C(c2ccccc2)[Si](C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(O)C=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "NuLi = MeLi"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH3-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "NuLi"
+      ],
+      "text": "CCCC[Cu-]CCCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "C=CCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "BrCc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "electrophile"
+      ],
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "tetrabutylammonium fluoride"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    }
+  ]
+]

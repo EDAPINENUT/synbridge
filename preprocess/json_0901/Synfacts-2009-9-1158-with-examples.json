@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "C[N+]([O-])=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1ON(C)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H]1ON(C)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N[C@H](Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1-c1c(NC(=O)[C@H](N)Cc2ccccc2)ccc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "cat. 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "text": "TfOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "[O-][N+](=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1ON(Cc2ccccc2)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H]1ON(Cc2ccccc2)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N[C@H](Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1-c1c(NC(=O)[C@H](N)Cc2ccccc2)ccc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "cat. 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "text": "TfOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,833 @@
+[
+  [
+    {
+      "text": "O=CC1CCCC1CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2cc3c(cn2)CCC3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "BrC#CCC1CCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage1"
+      ],
+      "text": "[IPrAu(NCMe)][SbF6]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "BrC1=CC2CCCC2C1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "arylboronic acid",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1",
+        "stage2"
+      ],
+      "text": "COCCOC.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=[O+][O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage3"
+      ],
+      "text": "[Cl-].[NH3+]O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC1CCCC1CC(=O)c1cccnc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1cncc(-c2cc3c(cn2)CCC3)c1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "BrC#CCC1CCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage1"
+      ],
+      "text": "[IPrAu(NCMe)][SbF6]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "BrC1=CC2CCCC2C1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "arylboronic acid",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1",
+        "stage2"
+      ],
+      "text": "COCCOC.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=[O+][O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage3"
+      ],
+      "text": "[Cl-].[NH3+]O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC1CCCC1CC(=O)c1cccc(-c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2cccc(-c3cc4c(cn3)CCCC4)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "28% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "BrC#CCC1CCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage1"
+      ],
+      "text": "[IPrAu(NCMe)][SbF6]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "BrC1=CC2CCCC2C1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "arylboronic acid",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1",
+        "stage2"
+      ],
+      "text": "COCCOC.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=[O+][O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage3"
+      ],
+      "text": "[Cl-].[NH3+]O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC1CCCC1CC(=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2cc(-c3cc4c(cn3)CCCCCCCCCC4)ccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "BrC#CCC1CCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage1"
+      ],
+      "text": "[IPrAu(NCMe)][SbF6]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "BrC1=CC2CCCC2C1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "arylboronic acid",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1",
+        "stage2"
+      ],
+      "text": "COCCOC.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=[O+][O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage3"
+      ],
+      "text": "[Cl-].[NH3+]O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC1CCCC1CC(=O)c1cccnc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1cncc(-c2cc3c(cn2)CCCCCCCCCC3)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "BrC#CCC1CCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage1"
+      ],
+      "text": "[IPrAu(NCMe)][SbF6]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "BrC1=CC2CCCC2C1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "arylboronic acid",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1",
+        "stage2"
+      ],
+      "text": "COCCOC.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=[O+][O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage3"
+      ],
+      "text": "[Cl-].[NH3+]O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

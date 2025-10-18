@@ -1,0 +1,276 @@
+[
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@H](c2ccccc2)C(C(=O)OCc2ccccc2)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr=1:1",
+        "94% ee",
+        "Mg(Ot-Bu)2 used instead of Ca(OMe)2"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NHC"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CC[C@H]3C(O[Si](C)(C)C)(c2ccccc2)c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "C[O-].C[O-].[Ca+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "hydrogen-bonding donor (HBD)"
+      ],
+      "text": "S=C(Nc1ccccc1)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "DBU"
+      ],
+      "text": "C1CC2(CN1)C1CCN2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(c2ccccc2)OC(=O)C[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "dr=3:1",
+        "92% ee",
+        "Mg(Ot-Bu)2 used instead of Ca(OMe)2"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NHC"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CC[C@H]3C(O[Si](C)(C)C)(c2ccccc2)c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "C[O-].C[O-].[Ca+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "hydrogen-bonding donor (HBD)"
+      ],
+      "text": "S=C(Nc1ccccc1)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "DBU"
+      ],
+      "text": "C1CC2(CN1)C1CCN2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OC(c1ccccc1)c1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1CC(=O)O[C@@]1(C(=O)OC(c1ccccc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield",
+        "dr=2:1",
+        "87% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NHC"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CC[C@H]3C(O[Si](C)(C)C)(c2ccccc2)c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "C[O-].C[O-].[Ca+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "hydrogen-bonding donor (HBD)"
+      ],
+      "text": "S=C(Nc1ccccc1)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "DBU"
+      ],
+      "text": "C1CC2(CN1)C1CCN2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C(=O)OC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(C(=O)OC(c2ccccc2)c2ccccc2)OC(=O)C[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr=2:1",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NHC"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CC[C@H]3C(O[Si](C)(C)C)(c2ccccc2)c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "C[O-].C[O-].[Ca+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "hydrogen-bonding donor (HBD)"
+      ],
+      "text": "S=C(Nc1ccccc1)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "DBU"
+      ],
+      "text": "C1CC2(CN1)C1CCN2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "O=C1CCC2=C(CCCC2)N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC(C)(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(O)C#Cc1ccc2ccccc2n1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "PyBroP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Pd](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201310 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t. to 80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

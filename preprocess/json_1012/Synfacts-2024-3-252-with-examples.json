@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "Clc1cccc(Cl)c1-c1ccccc1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2ccc(Cl)c(-c3ccccc3-c3ccccc3)c2Cl)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "99% ee",
+        "R2=3-Me",
+        "83% yield",
+        ">99% ee",
+        "R2=4-Me",
+        "81% yield",
+        ">99% ee",
+        "R2=4-OMe",
+        "82% yield",
+        "99% ee",
+        "R2=4-F",
+        "83% yield",
+        ">99% ee",
+        "R2=5-Me",
+        "79% yield",
+        "97% ee",
+        "R2=5-F",
+        "78% yield",
+        "98% ee",
+        "R2=5-OBn",
+        "78% yield",
+        ">99% ee",
+        "R2=4,5-2F"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "B1OC(C)(C)C(C)(C)O1B2OC(C)(C)C(C)(C)O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Ir+]1(C1=CCCC=CCC1)3.[Ir+]2(C1=CCCC=CCC1)4.[Cl-]12.[Cl-]34",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "CBL8"
+      ],
+      "text": "CC(C)c1cc(-c2ccccc2N2B([Si](C)(C)c3ccccc3)N(c3ccc(-c4c(-c5ccccc5)cccc4-c4ccccc4)cn3)[C@@H](c3ccccc3)[C@@H]2c2ccccc2)cc(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,630 @@
+[
+  [
+    {
+      "text": "CC[C@@H](C(=O)NC(C)(C)c1ccccn1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](F)[C@@H](C(=O)NC(C)(C)c1ccccn1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr = 7:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(NC(=O)[C@H](CCc1ccccc1)N1C(=O)c2ccccc2C1=O)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(NC(=O)[C@@H]([C@@H](F)Cc1ccccc1)N1C(=O)c2ccccc2C1=O)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(NC(=O)[C@@H]1CCCCN1C(=O)OCc1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(NC(=O)[C@@H]1[C@H](F)CCCN1C(=O)OCc1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(NC(=O)[C@H](Cc1ccc(Cl)cc1)Nc1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(NC(=O)[C@@H](Nc1ccccc1)[C@H](F)c1ccc(Cl)cc1)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(NC(=O)CCC1CCCC1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(NC(=O)C[C@H](F)C1CCCC1)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC[C@@H](C(=O)NC(C)(C)c1ccccn1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](F)[C@H](C(=O)NC(C)(C)c1ccccn1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@@H](Cc1ccccc1)C(=O)NC(C)(C)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H](C(=O)NC(C)(C)c1ccccn1)[C@@H](F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC[C@@H](C(=O)NC(C)(C)c1ccccn1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](F)[C@@H](C(=O)NC(C)(C)c1ccccn1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 9:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@@H](C(=O)NC(C)(C)c1ccccn1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](F)[C@H](C(=O)NC(C)(C)c1ccccn1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr = 5:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "Selectfluor"
+      ],
+      "text": "F[B-](F)(F)F.F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)[O-]->[Fe+2]<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ]
+]

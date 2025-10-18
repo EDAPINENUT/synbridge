@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "text": "CSc1ccc2c(c1)C(=O)C(C(=O)OC(C)(C)C)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OI(C(F)(F)F)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSc1ccc2c(c1)C(=O)[C@@](C(=O)OC(C)(C)C)(C(F)(F)F)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(=CC3=N[C@@H](c4ccccc4)CO3)[nH]c(=CC3=N[C@@H](c4ccccc4)CO3)c2cc1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cu(OTf)2"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [
+        "0.1 mmol scale"
+      ],
+      "type": "conditions",
+      "text": "4AMS, CH2Cl2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    }
+  ]
+]

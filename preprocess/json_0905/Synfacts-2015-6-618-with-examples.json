@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "O=C1c2ccccc2CC1(F)C(O)(O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C[C@]1(F)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr=80:20",
+        "77% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*",
+        "12 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(CC2=N[C@@H](C(C)(C)C)CO2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

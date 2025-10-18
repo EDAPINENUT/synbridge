@@ -1,0 +1,121 @@
+[
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@H](C#C[Si](C(C)C)(C(C)C)C(C)C)CCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@H](CCc1ccccc1)C(F)(F)F)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "TMSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "KF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "TMSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "KF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "CuCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "TMSCF2CONEt2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KF",
+      "type": "conditions"
+    }
+  ]
+]

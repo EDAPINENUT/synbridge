@@ -1,0 +1,233 @@
+[
+  [
+    {
+      "text": "C=C=C(Cc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1cc(C(Cc2ccccc2)C(=O)OC)c[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "method A",
+        "5a"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "PhgP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "6"
+      ],
+      "text": "C[C@@H](O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)[C@H](NC(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(=O)N[C@H](CP(c1ccccc1)c1ccccc1)[C@@H](C)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(Cc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)CC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)c1c[nH]c(S(=O)(=O)c2ccc(C)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "84% ee",
+        "method B",
+        "5b"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "PhgP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "6"
+      ],
+      "text": "C[C@@H](O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)[C@H](NC(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(=O)N[C@H](CP(c1ccccc1)c1ccccc1)[C@@H](C)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(Cc1ccc(C)cc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)CC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccc(C)cc1)c1c[nH]c(S(=O)(=O)c2ccc(C)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "82% ee",
+        "method B",
+        "5c"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "PhgP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "6"
+      ],
+      "text": "C[C@@H](O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)[C@H](NC(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(=O)N[C@H](CP(c1ccccc1)c1ccccc1)[C@@H](C)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(Cc1ccccc1C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)CC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1C)c1c[nH]c(S(=O)(=O)c2ccc(C)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield",
+        "88% ee",
+        "method B",
+        "5d"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "PhgP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "6"
+      ],
+      "text": "C[C@@H](O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)[C@H](NC(=O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(=O)N[C@H](CP(c1ccccc1)c1ccccc1)[C@@H](C)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "type": "catalyst"
+    }
+  ]
+]

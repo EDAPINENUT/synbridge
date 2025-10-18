@@ -1,0 +1,506 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccc(CCc2ccc(C#N)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "7% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CCc2cc(OC)cc(OC)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cc(CCc2cncnc2)cc(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(CCc2ccc(C=O)o2)s1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(CCC(C)=C(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cncc(CCC=C2CCCCC2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C[B-](F)(F)F.[K+]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "9-BBN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1,2-dianion equivalent",
+        "stage 1"
+      ],
+      "text": "F[B-](F)(F)CCB1C2CCCC1CCC2.[K+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "DavePhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "X-Phos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "ligand"
+      ],
+      "text": "RuPhos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R1X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "electrophile"
+      ],
+      "text": "R2X",
+      "type": "other conditions"
+    }
+  ]
+]

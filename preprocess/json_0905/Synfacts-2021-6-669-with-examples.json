@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "O=C1CC23CCCC[C@H]2CC13",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC12CCCC[C@H]1CCC(=O)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "9\u03b1:9\u03b2=24:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC[Al](CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)O[C@H]1CC[C@H]2[C@@H](CCC3CC(=O)CC[C@@H]32)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)O[C@H]1CC[C@H]2[C@@H](CCC3(C#N)CC(=O)CC[C@H]23)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "11\u03b1:11\u03b2=9:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC[Al](CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CCC4CC(=O)CC[C@@]4(C)[C@H]3CC[C@]12C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CCC4(C#N)CC(=O)CC[C@@]4(C)[C@H]3CC[C@]12C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "5\u03b1:5\u03b2=2:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC[Al](CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

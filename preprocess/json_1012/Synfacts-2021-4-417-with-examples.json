@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "O=c1[nH]c2ccccc2cc1[SH]=NS(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS(=NS(=O)(=O)c1ccc([N+](=O)[O-])cc1)c1cc2ccccc2[nH]c1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "chiral ligand",
+        "12 mol%"
+      ],
+      "text": "O=C1NC[C@@H]2[C@H]3CC[C@H]([C@H]3C#Cc3ccnc4c3ccc3cccnc34)[C@H]12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=[N+]([O-])c1ccc(S(=O)(=O)N=Ic2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "n1cccc2c3ccccn3ccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

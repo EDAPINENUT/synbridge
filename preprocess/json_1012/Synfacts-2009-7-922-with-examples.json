@@ -1,0 +1,227 @@
+[
+  [
+    {
+      "text": "CCCCCCCCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)CO",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H]1CO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation/ \u03b1-chlorination",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(CC=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)C=O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)CO)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H]2CO2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation/ \u03b1-chlorination",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "OC[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(C[C@@H]2CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation/ \u03b1-chlorination",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ]
+]

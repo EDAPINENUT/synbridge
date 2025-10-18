@@ -1,0 +1,161 @@
+[
+  [
+    {
+      "text": "COc1ccc(C2=NS(=O)(=O)NC2c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@]2(c3ccccc3)NS(=O)(=O)N=C2c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand L/ent-L"
+      ],
+      "type": "catalyst",
+      "text": "C(=N/N1[C@@H](c2ccccc2)CC[C@@H]1c1ccccc1)\\c1ccccn1"
+    },
+    {
+      "relations": [
+        "2,2,2-trifluoroethanol"
+      ],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1=NS(=O)(=O)NC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(c2ccc(F)cc2)NS(=O)(=O)N=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand L/ent-L"
+      ],
+      "type": "catalyst",
+      "text": "C(=N/N1[C@@H](c2ccccc2)CC[C@@H]1c1ccccc1)\\c1ccccn1"
+    },
+    {
+      "relations": [
+        "2,2,2-trifluoroethanol"
+      ],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1=NS(=O)(=O)NC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(c2cccc(Br)c2)NS(=O)(=O)N=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "text": "OB(O)c1cccc(Br)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand L/ent-L"
+      ],
+      "type": "catalyst",
+      "text": "C(=N/N1[C@@H](c2ccccc2)CC[C@@H]1c1ccccc1)\\c1ccccn1"
+    },
+    {
+      "relations": [
+        "2,2,2-trifluoroethanol"
+      ],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

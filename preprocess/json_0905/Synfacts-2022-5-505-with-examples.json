@@ -1,0 +1,616 @@
+[
+  [
+    {
+      "text": "CO[C@H]1O[C@@H](OCc2ccccc2)[C@H](COCc2ccccc2)[C@@H](O)[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@H]1C[C@@H](O)[C@@H](O)C(COCc2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Oc1ccc(O[C@@H]2O[C@@H]3COC(c4ccccc4)O[C@@H]3[C@@H](O)[C@@H]2O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C2OCC3OC(C(O)C2O)C(OC)C3O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@@H]1O[C@H](CO[Si](C)(C)C(C)(C)C)[C@@H](O)[C@H](O)[C@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC[C@@H]1O[C@@H]2COC(c3ccccc3)O[C@@H]2[C@@H](O)[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Up to 96% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@H]1O[C@@H]2CO[Si](OC(C)(C)C)(OC(C)(C)C)O[C@@H]2[C@@H](O)[C@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC1O[C@H](COCc2ccccc2)[C@H](OCc2ccccc2)[C@H](O[C@@H]2O[C@@H]3CO[C@@H](c4ccccc4)O[C@@H]3[C@H](O)[C@H]2O)C1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O[C@@H]1[C@@H](O[C@@H]2OC3COC(c4ccccc4)O[C@@H]3[C@H](O)[C@H]2O)OC2COC(c3ccccc3)OC2[C@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@H]1O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](COCc4ccccc4)[C@@H](OCc4ccccc4)[C@@H]3OCc3ccccc3)[C@H](O)[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "O[C@H]1[C@H](Oc2ccccc2)[C@@H](O)CCC[C@@H]1O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ru](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Shvo's catalyst"
+      ],
+      "text": "c1ccc(C2=C3OOc4c(c(-c5ccccc5)c(-c5ccccc5)c(-c5ccccc5)c4-c4ccccc4)OC(c4ccccc4)C(c4ccccc4)=C3C(c3ccccc3)=C2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

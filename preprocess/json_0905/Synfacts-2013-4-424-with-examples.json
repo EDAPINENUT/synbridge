@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "text": "O=C1OC(=O)C2CCCCC12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1(CC=C)OC(=O)C2CCCCC21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "C=CC[B-](F)(F)F.[K+]"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[O+](CC)[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    }
+  ]
+]

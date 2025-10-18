@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S,S)-L\u00b7HBF4"
+      ],
+      "text": "Cc1cc(C)c(N2C=[N+](c3ccccc3O)[C@@H](c3ccccc3)[C@@H]2c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.6 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 parts (mixture 4:1)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part (mixture 4:1)"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50 to -10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.15 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CC(C)(C)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)OCC=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](C#CC(C)(C)O[Si](C)(C)C(C)(C)C)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "81% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S,S)-L\u00b7HBF4"
+      ],
+      "text": "Cc1cc(C)c(N2C=[N+](c3ccccc3O)[C@@H](c3ccccc3)[C@@H]2c2ccccc2)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.6 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 parts (mixture 4:1)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part (mixture 4:1)"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50 to -10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.15 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,117 @@
+[
+  [
+    {
+      "text": "C=CCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)[C@](O)(CC=CC(=O)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er = 96:4"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)[C@H](CN1CCCC1)NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)[C@](O)(CC=CC(=O)C(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "E/Z \u2265 99:1",
+        "er = 94.5:5.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)[C@H](CN1CCCC1)NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Nc2cc(Br)ccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=CC[C@@]1(O)C(=O)Nc2cccc(Br)c21)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er = 97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)[C@H](CN1CCCC1)NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    }
+  ]
+]

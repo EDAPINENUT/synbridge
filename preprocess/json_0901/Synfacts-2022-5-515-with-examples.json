@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "Cc1ncsc1C(=O)OCCCC(Br)P(=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ncsc1C(=O)OCCC[C@@H](c1ccc(C(F)(F)F)cc1)P(=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@H](C)[C@@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NiBr2DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4CE",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cs\u2082CO\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (30 W)",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)C(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#Cc1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](CCc1ccccc1)c1ccc(C#C[Si](C)(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@H](C)[C@@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NiBr2DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4CE",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cs\u2082CO\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (30 W)",
+      "type": "conditions"
+    }
+  ]
+]

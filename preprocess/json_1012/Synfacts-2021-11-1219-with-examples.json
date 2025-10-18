@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc(COC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccccc23)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CCCCOCc1ccccc1.Cc1c(CC(=O)OCc2ccc(CC(Br)C#C[Si](C)(C)C)cc2)c2ccccc2n1C(=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "indomethacin derivative"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "reactants",
+      "text": "C[Si](C)(C)C#CBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "75\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "20 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "under air"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CC(Br)CCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "reactants",
+      "text": "C[Si](C)(C)C#CBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "75\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "20 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "under air"
+    }
+  ]
+]

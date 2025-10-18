@@ -1,0 +1,436 @@
+[
+  [
+    {
+      "text": "CC(C)=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc2ccc(Br)cc2oc1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=CC=C2C(=O)Oc3cc(Br)ccc3[C@H]2C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@]2(C)C[C@@]1(C)c1ccc(Br)cc1O2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2cc(C(=O)O)c(=O)oc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)OC(=O)C1=CC=CC[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@@H]2C[C@@]1(C)c1ccc(OC)cc1O2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CC=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc2ccc(Br)cc2oc1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Oc2cc(Br)ccc2[C@H]2CC(c3ccccc3)=CC=C12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@]2(c3ccccc3)C[C@@]1(C)c1ccc(Br)cc1O2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc2cc([N+](=O)[O-])ccc2oc1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H]1C=CC=C2C(=O)Oc3ccc([N+](=O)[O-])cc3[C@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@H]2Oc3ccc([N+](=O)[O-])cc3[C@]1(C)[C@H]2CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc2cc(Br)ccc2oc1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C=C[C@@]2(c3cccc(C)c3)Oc3ccc(Br)cc3[C@]1(C)[C@H]2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@H]2Oc3ccc(Br)cc3[C@]1(C)[C@H]2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2cc(C(=O)O)c(=O)oc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C=C[C@]2(C)Oc3cc(OC)ccc3[C@@]1(C)[C@@H]2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@H]2Oc3cc(OC)ccc3[C@]1(C)C2=C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc2ccc(Br)cc2oc1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C=C[C@@H]2Oc3cc(Br)ccc3[C@]1(C)[C@@H]2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC(c1cccc2ccccc12)(c1cccc2ccccc12)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C1C=C[C@H]2Oc3cc(Br)ccc3[C@]1(C)C2=C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "one pot LiAlH4 or NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10% HCl",
+        "stage 2"
+      ],
+      "text": "10% HCl",
+      "type": "conditions"
+    }
+  ]
+]

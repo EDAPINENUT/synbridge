@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "CC=CC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OO)C(O)N=CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1N[C@H](c2ccccc2)[C@H](C(=O)c2ccccc2)[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(CCc2ccc(C)c(O)c2C2=N[C@@H](c3ccccc3)CN2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "11.5 mol%"
+      ],
+      "text": "Zn(OTf)2 L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OO)C(O)N=CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1N[C@H](c2ccc([Fe]3=CC=CC=C3)cc2)[C@H](C(=O)c2ccccc2)[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(CCc2ccc(C)c(O)c2C2=N[C@@H](c3ccccc3)CN2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "11.5 mol%"
+      ],
+      "text": "Zn(OTf)2 L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ]
+]

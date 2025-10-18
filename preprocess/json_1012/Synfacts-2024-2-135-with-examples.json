@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "O=C(c1ccccc1)C1CC1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Clc1ccc(N=C(c2ccccc2)C2CC2Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "BrB(Br)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Clc1ccc(N2B(c3ccccc3)C(Br)=CC=C2c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    }
+  ]
+]

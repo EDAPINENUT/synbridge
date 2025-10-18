@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "C=C(C)COCC(C)=CI",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC1=C[C@@](C)(CO[N+](=O)[O-])COC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "ee n.d."
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "F[B-](F)(F)F.c1cc[nH+]cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=[N+]([O-])[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (with PhMe)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

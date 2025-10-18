@@ -1,0 +1,155 @@
+[
+  [
+    {
+      "text": "CCOC(=O)N1c2ccc([N+](=O)[O-])cc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1ccccc1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccc([N+](=O)[O-])cc2C=C[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "er = 92:8"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H](O)[C@@H](O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "OC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "N-methylpyrrolidinone"
+      ],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1c2ccccc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1ccsc1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccccc2C=C[C@@H]1C=Cc1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "er = 96:4"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H](O)[C@@H](O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "OC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "N-methylpyrrolidinone"
+      ],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1c2ccc(OC)cc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1cccc(F)c1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccc(OC)cc2C=C[C@@H]1C=Cc1cccc(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "er = 88:12"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H](O)[C@@H](O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "OC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "hexamethylphosphoramide"
+      ],
+      "text": "CN(C)P(=O)(N(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "N-methylpyrrolidinone"
+      ],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    }
+  ]
+]

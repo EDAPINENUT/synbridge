@@ -1,0 +1,45 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)N1CCOCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(CC(C(=O)N2CCOCC2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Mnz(CO)gBr2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.04 M"
+      ],
+      "text": "EOH Et2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

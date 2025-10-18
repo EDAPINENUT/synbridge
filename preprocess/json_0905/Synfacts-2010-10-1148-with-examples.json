@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "CC(=N[C@@H](C)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H](C)c1ccccc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% conversion",
+        "86% de"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-Cu/C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=N[C@@H](C)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@H](C)N[C@@H](C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% conversion",
+        "78% de"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-Cu/C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCC(=N[C@@H](C)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@H](N[C@@H](C)c1ccccc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% conversion",
+        "95% de"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-Cu/C",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NBS",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1CC2[C@@H](OC(=S)Nc1ccc(OC)cc1OC)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "NsNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:2"
+      ],
+      "text": "CHClz\u2013PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NBS",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1CC2[C@@H](OC(=S)Nc1ccc(OC)cc1OC)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2cccc(F)c2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "NsNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:2"
+      ],
+      "text": "CHClz\u2013PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NBS",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1CC2[C@@H](OC(=S)Nc1ccc(OC)cc1OC)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)[C@@]1(CBr)CCC(=O)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "NsNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:2"
+      ],
+      "text": "CHClz\u2013PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

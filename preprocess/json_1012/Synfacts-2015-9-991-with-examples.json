@@ -1,0 +1,422 @@
+[
+  [
+    {
+      "text": "COc1ccccc1N=NC(=Cc1ccccc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1NN=C(C(C)C)[C@@H](Nc1ccccc1OC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er=96:4"
+      ]
+    },
+    {
+      "text": "COc1ccccc1N[C@H](C(=O)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst",
+        "stage 1"
+      ],
+      "text": "O=P1(O)Oc2c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc3c2-c2c(c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "5A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CC(*)c1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1N=NC(=Cc1ccc(F)cc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1NN=C(C(C)C)[C@@H](Nc1ccccc1OC)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "text": "COc1ccccc1N[C@H](C(=O)C(C)C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst",
+        "stage 1"
+      ],
+      "text": "O=P1(O)Oc2c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc3c2-c2c(c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "5A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CC(*)c1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1N=NC(=Cc1ccccc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1NN=C(C(C)C)[C@@H](Nc1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "text": "Cc1ccc(N[C@H](C(=O)C(C)C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst",
+        "stage 1"
+      ],
+      "text": "O=P1(O)Oc2c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc3c2-c2c(c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "5A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CC(*)c1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1N=NC(=Cc1ccccc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1NN=C(C(C)C)[C@@H](Nc1ccc(C(F)(F)F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "text": "CC(C)C(=O)[C@@H](Nc1ccc(C(F)(F)F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst",
+        "stage 1"
+      ],
+      "text": "O=P1(O)Oc2c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc3c2-c2c(c(-c3c(C4CCCCC4)cc(C4CCCCC4)cc3C3CCCCC3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "5A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "*CC(*)c1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ]
+]

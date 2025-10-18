@@ -1,0 +1,338 @@
+[
+  [
+    {
+      "text": "COC(=O)C12CC(C(=O)NOC(=O)c3ccccc3)(C1)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C12CC(C(=O)NNc3ccc(C)cc3)(C1)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N1C=CN(C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cat. 1 PhSil",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNC1COC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(NC(=O)c1ccccc1)C1COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N1C=CN(C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cat. 1 PhSil",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1ccccc1NNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N1C=CN(C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cat. 1 PhSil",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNCC[C@H](Oc1cccc2ccccc12)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(CC[C@H](Oc1cccc2ccccc12)c1cccs1)NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N1C=CN(C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cat. 1 PhSil",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C12CC(C(=O)NOC(=O)c3ccccc3)(C1)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C12CC(C(=O)NNc3ccc(C)cc3)(C1)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(C(=O)OC(C(C)C)C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiH3 MSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNC1COC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(NC(=O)c1ccccc1)C1COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(C(=O)OC(C(C)C)C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiH3 MSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1ccccc1NNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(C(=O)OC(C(C)C)C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiH3 MSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NOC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNCC[C@H](Oc1cccc2ccccc12)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(CC[C@H](Oc1cccc2ccccc12)c1cccs1)NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(C(=O)OC(C(C)C)C(C)C)C1[Ni](Cl)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiH3 MSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:4",
+        "0.2 M"
+      ],
+      "text": "CH2Cl2-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

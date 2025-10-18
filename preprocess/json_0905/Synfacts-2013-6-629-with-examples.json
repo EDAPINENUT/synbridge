@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "Cc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=C2CO[C@]3(C)C=CC(=O)C[C@@H]23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "C#CCOC1(C)C=CC(=O)C=C1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.[Cl-].[Cl-]"
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "ligand L*"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(C2=CC3C=CC2(C)C3(C)OC)cc1OC"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "30\u2013120 min"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C2CCO[C@]3(C)C=CC(=O)C[C@H]23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "81% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "C#CCOC1(C)C=CC(=O)C=C1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.[Cl-].[Cl-]"
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "ligand L*"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(C2=CC3C=CC2(C)C3(C)OC)cc1OC"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "30\u2013120 min"
+    }
+  ]
+]

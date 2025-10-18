@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(Br)cn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1\u20135 mol%",
+        "m-NBSA"
+      ],
+      "text": "O=[N+]([O-])c1cccc(S(=O)(=O)O)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TfOH"
+      ],
+      "text": "O=S(=O)(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.6 equiv",
+        "DBDMH"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "NIS"
+      ],
+      "text": "O=C1CCC(=O)N1I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 equiv",
+        "TCCA"
+      ],
+      "text": "O=c1n(Cl)c(=O)n(Cl)c(=O)n1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25\u20130.5 M",
+        "HFIP"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1\u201324 h",
+      "type": "time"
+    }
+  ]
+]

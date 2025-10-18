@@ -1,0 +1,392 @@
+[
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield (SP1)",
+        "90% ee (S, SP1)",
+        "93% yield (SP2)",
+        "95% ee (R, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccc(F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield (SP1)",
+        "75% ee (+, SP1)",
+        "86% yield (SP2)",
+        "94% ee (-, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)c1ccccc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield (SP1)",
+        "73% ee (S, SP1)",
+        "54% yield (SP2)",
+        "93% ee (R, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=CC1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)c1ccccc1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield (SP1)",
+        "91% ee (R, SP1)",
+        "77% yield (SP2)",
+        "96% ee (S, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(C)=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield (SP1)",
+        "64% ee (S, SP1)",
+        "59% yield (SP2)",
+        "85% ee (R, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1CCCC(=O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (SP1)",
+        "92% ee (R, SP1)",
+        "98% yield (SP2)",
+        "17% ee (S, SP2)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP1"
+      ],
+      "text": "Oc1c(P(c2ccccc2)c2ccccc2)ccc2c1C1(CC2)CCc2ccc(P(c3ccccc3)c3ccccc3)c(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "SP2",
+        "(S)-6,6-SPINOL-PHOS",
+        "(S)-4,4-SPINOL-PHOS"
+      ],
+      "text": "Oc1ccc(P(c2ccccc2)c2ccccc2)c2c1C1(CC2)CCc2c(P(c3ccccc3)c3ccccc3)ccc(O)c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu salt",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    }
+  ]
+]

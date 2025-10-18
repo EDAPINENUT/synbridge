@@ -1,0 +1,215 @@
+[
+  [
+    {
+      "text": "CCCCCCCCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)CO",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H]1CO1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "o-chlorination",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "then NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "then KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(CC=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)C=O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)CO)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@H]2CO2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "o-chlorination",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "then NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "then KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "OC[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(C[C@@H]2CO2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "SOMO activation",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "o-chlorination",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "then NaBH4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "15 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "then KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "text": "23\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

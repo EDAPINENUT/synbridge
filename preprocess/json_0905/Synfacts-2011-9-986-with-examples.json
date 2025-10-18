@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "text": "C#CC1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[C-]#[NH+]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C=C(C=N)C1=CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "E/Z=97:3"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C=C(C=N)C1=CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Rh].[Rh].[Rh].[Rh]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[SiH](C)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ]
+]

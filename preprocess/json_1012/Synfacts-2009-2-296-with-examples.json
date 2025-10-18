@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[Si]1(c2ccccc2)OCc2ccccc2CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]CCCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCC[Si@](OCc1ccccc1CO)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "55% ee (R)",
+        "deprotection yield 93%"
+      ]
+    },
+    {
+      "text": "CCCC[Si](O)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Ligand",
+        "stage1"
+      ],
+      "text": "CCC(CC)(C1=N[C@@H](C(C)C)CO1)C1=N[C@@H](C(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C[Si]1(c2ccccc2)OCc2ccccc2CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C(C)(C)C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)[Si@@](C)(OCc1ccccc1CO)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "66% ee (R)",
+        "deprotection yield 99%"
+      ]
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Ligand",
+        "stage1"
+      ],
+      "text": "CCC(CC)(C1=N[C@@H](C(C)C)CO1)C1=N[C@@H](C(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C[Si]1(C2CCCCC2)OCc2ccccc2CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C(C)(C)C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)[Si@@](C)(OCc1ccccc1CO)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "84% ee (S)",
+        "deprotection yield 83%"
+      ]
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(O)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Ligand",
+        "stage1"
+      ],
+      "text": "CCC(CC)(C1=N[C@@H](C(C)C)CO1)C1=N[C@@H](C(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

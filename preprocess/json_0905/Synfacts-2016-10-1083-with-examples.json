@@ -1,0 +1,310 @@
+[
+  [
+    {
+      "text": "O=C(C=C(c1ccc(F)cc1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@@](C#Cc1ccccc1)(c1ccc(F)cc1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=85.5:15.5"
+      ]
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@](C#Cc1ccccc1)(c1ccccc1)C(F)(F)F)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=83:17"
+      ]
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CC(=O)c1ccc2ccccc2c1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](C#Cc1ccccc1)(CC(=O)c1ccc2ccccc2c1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=71.5:28.5"
+      ]
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C(=CC(=O)c2ccc3ccccc3c2)C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C#C[C@@](CC(=O)c2ccc3ccccc3c2)(c2cccc(C)c2)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=CC(=O)c2ccc3ccccc3c2)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@](C#Cc2ccc(F)cc2)(CC(=O)c2ccc3ccccc3c2)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@@](C#Cc1ccsc1)(c1ccccc1)C(F)(F)F)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "ligand",
+        "20 mol%"
+      ],
+      "text": "Oc1c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc2c1-c1c(O)c(-c2c(F)c(F)c(F)c(F)c2F)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 equiv"
+      ],
+      "text": "R3-H",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 h",
+      "type": "time"
+    }
+  ]
+]

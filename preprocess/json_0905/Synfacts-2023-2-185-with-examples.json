@@ -1,0 +1,350 @@
+[
+  [
+    {
+      "text": "C=CC=C(c1cccc(Br)c1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FCC=CC(F)(c1cccc(Br)c1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:7.5",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "amine\u2022HF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=C(c1ccc([N+](=O)[O-])cc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(F)(C=CCF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:7.5",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "amine\u2022HF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=C(F)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCC=CC(F)(F)C(F)(F)F)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:7.5",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "amine\u2022HF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=C(c1cccc(Br)c1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FCC=CC(F)(c1cccc(Br)c1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201330 equiv"
+      ],
+      "text": "nucleophile",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "70 wt%",
+        "HF:py",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "Olah's reagent",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=C(c1ccc([N+](=O)[O-])cc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(F)(C=CCF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201330 equiv"
+      ],
+      "text": "nucleophile",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "70 wt%",
+        "HF:py",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "Olah's reagent",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=C(F)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCC=CC(F)(F)C(F)(F)F)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "selectfluor"
+      ],
+      "text": "F[N+]12CC[N+](CCl)(CC1)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201330 equiv"
+      ],
+      "text": "nucleophile",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "70 wt%",
+        "HF:py",
+        "amine\u2022HF = mixture of Et3N\u20223HF and Olah's reagent"
+      ],
+      "text": "Olah's reagent",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

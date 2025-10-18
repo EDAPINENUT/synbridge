@@ -1,0 +1,45 @@
+[
+  [
+    {
+      "text": "C=CC1(O[Si](c2ccccc2)(c2ccccc2)C(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=C(C(=O)OCC(F)(F)F)c1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](OC1(C=C(C(=O)OCC(F)(F)F)c2ccccc2F)CCC1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "A/B = 4:1"
+      ]
+    },
+    {
+      "text": "C=CC(C)(C=C(C(=O)OCC(F)(F)F)c1ccccc1F)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    }
+  ]
+]

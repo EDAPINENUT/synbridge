@@ -1,0 +1,101 @@
+[
+  [
+    {
+      "text": "COc1ccc(C(O)c2ccccc2COC(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(O)c2ccccc2COC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@@H]2OCc3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "s=33"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC1CCC(C)(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC1CCC(C)(O)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)CC[C@H](c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "s=82"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(OC(C)(C)C)c2ccccc2C(C)(C)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(OC(C)(C)C)c2ccccc2C(C)(C)O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@@H]2OC(C)(C)c3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "s=570"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    }
+  ]
+]

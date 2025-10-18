@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "COC(=O)C1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccccc1)[C@@]1(C(=O)OC)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "A/B=95:5",
+        "dr=>20:1",
+        ">99% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)C1(CC=Cc2ccccc2)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Ir](Cl)C1=CCCC=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L1",
+        "4 mol%"
+      ],
+      "text": "C[C@@H]1CCc2ccccc2N1p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "TBD",
+        "10 mol%"
+      ],
+      "text": "C1CN=C2NCCCN2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

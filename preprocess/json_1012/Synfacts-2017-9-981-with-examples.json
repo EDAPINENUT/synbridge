@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "text": "CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@H](C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "15% yield",
+        "120 TON",
+        "er >99.5:0.5",
+        "2b"
+      ]
+    },
+    {
+      "text": "C[C@H](N)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)N=[N+]=[N-])cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "whole cells"
+      ],
+      "text": "cytochrome P411cHA",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Sm+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCNC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1.5 h",
+      "type": "time"
+    }
+  ]
+]

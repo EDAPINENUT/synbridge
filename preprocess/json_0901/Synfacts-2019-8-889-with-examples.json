@@ -1,0 +1,290 @@
+[
+  [
+    {
+      "text": "C=CCOc1ccc([Si](C)(C(=O)[SiH3])c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOc1ccc([Si](C)(c2ccccc2)[C@@](O)(c2ccccc2)[C@H](CO)C(=C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuCI"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "type": "conditions",
+      "text": "t-BuOK"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "B2pin2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "PhMe-THF 10:1"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "up to 70 h"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "H2O2-NaOH"
+    },
+    {
+      "relations": [
+        "ligand"
+      ],
+      "type": "conditions",
+      "text": "c1ccc2c(c1)ccc1op(N(C(C)C)[C@H](C)c3ccccc3)oc3ccc4ccccc4c3c12"
+    }
+  ],
+  [
+    {
+      "text": "O=C([SiH3])C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)[C@H](CO)[C@@](O)(C1CCCCC1)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuCI"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "type": "conditions",
+      "text": "t-BuOK"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "B2pin2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "PhMe-THF 10:1"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "up to 70 h"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "H2O2-NaOH"
+    },
+    {
+      "relations": [
+        "ligand"
+      ],
+      "type": "conditions",
+      "text": "c1ccc2c(c1)ccc1op(N(C(C)C)[C@H](C)c3ccccc3)oc3ccc4ccccc4c3c12"
+    }
+  ],
+  [
+    {
+      "text": "O=C([SiH3])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)[C@@](O)(c1ccccc1)[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuCI"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "type": "conditions",
+      "text": "t-BuOK"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "B2pin2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "PhMe-THF 10:1"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "up to 70 h"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "H2O2-NaOH"
+    },
+    {
+      "relations": [
+        "ligand"
+      ],
+      "type": "conditions",
+      "text": "c1ccc2c(c1)ccc1op(N(C(C)C)[C@H](C)c3ccccc3)oc3ccc4ccccc4c3c12"
+    }
+  ],
+  [
+    {
+      "text": "O=C([SiH3])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1ccccc1)[C@H](CO)[C@@](O)(c1ccccc1)[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuCI"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "type": "conditions",
+      "text": "t-BuOK"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "B2pin2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "PhMe-THF 10:1"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "up to 70 h"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "H2O2-NaOH"
+    },
+    {
+      "relations": [
+        "ligand"
+      ],
+      "type": "conditions",
+      "text": "c1ccc2c(c1)ccc1op(N(C(C)C)[C@H](C)c3ccccc3)oc3ccc4ccccc4c3c12"
+    }
+  ]
+]

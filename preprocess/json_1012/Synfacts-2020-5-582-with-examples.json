@@ -1,0 +1,320 @@
+[
+  [
+    {
+      "text": "CC(=O)OCC=C(C)CCC=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OCC=C(C)CCC1NC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield (with A)",
+        "rr>20:1 (with A)",
+        "87% yield (with B)",
+        "rr>20:1 (with B)"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NOS(=O)(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone A"
+      ],
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone B"
+      ],
+      "text": "CC12CCC(C(C(=O)C(F)(F)F)C1=O)C2(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)(CCC=C(C)C)OC(=O)CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)(CCC1NC1(C)C)OC(=O)CC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield (with A)",
+        "rr>20:1 (with A)",
+        "dr=1:1 (with A)"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NOS(=O)(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone A"
+      ],
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone B"
+      ],
+      "text": "CC12CCC(C(C(=O)C(F)(F)F)C1=O)C2(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C1=CCC2(C)NC2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield (with A)",
+        "rr=10:1 (with A)"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NOS(=O)(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone A"
+      ],
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone B"
+      ],
+      "text": "CC12CCC(C(C(=O)C(F)(F)F)C1=O)C2(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OCC=C(C)CCC=C(C)CCC1NC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield (with A)",
+        "rr=4:1 (with A)"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NOS(=O)(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone A"
+      ],
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone B"
+      ],
+      "text": "CC12CCC(C(C(=O)C(F)(F)F)C1=O)C2(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC[C@H]1CC[C@@H]2N[C@@H]2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield (with A)",
+        "dr>20:1 (with A)"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NOS(=O)(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone A"
+      ],
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "ketone B"
+      ],
+      "text": "CC12CCC(C(C(=O)C(F)(F)F)C1=O)C2(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ]
+]

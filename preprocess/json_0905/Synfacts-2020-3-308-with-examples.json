@@ -1,0 +1,712 @@
+[
+  [
+    {
+      "text": "COC(=O)c1cc(C=O)ccc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc(OC)c(C(=O)OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr=1.9:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc2c(c1)OCCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc2c(c1)OCCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=1.7:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr=2.0:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C(C)(C)C(O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2cccc2C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1cccn1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr=4.5:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr=1.2:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCCCCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)CCCCCl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr=1.6:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr=1.3:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)O[C@@H]2O[C@@H](OC(=O)c3cccc(C=O)c3)[C@@H]([C@@H]3COC(C)(C)O3)[C@@H]2O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)C(O)c1cccc(C(=O)O[C@@H]2O[C@H]3OC(C)(C)O[C@H]3[C@@H]2[C@@H]2COC(C)(C)O2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr=1.4:1.0"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir catalyst"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni catalyst"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

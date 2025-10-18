@@ -1,0 +1,278 @@
+[
+  [
+    {
+      "text": "C=CC(N=CCc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1CCNC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@H](N)c1ccccc1)N1CCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr=11:1"
+      ]
+    },
+    {
+      "relations": [
+        "1-2 mol%",
+        "[(DPEphos)Rh(cod)]BF4",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Cc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.8 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(N=CCc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1COCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@H](N)c1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr=25:1"
+      ]
+    },
+    {
+      "relations": [
+        "1-2 mol%",
+        "[(DPEphos)Rh(cod)]BF4",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Cc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.8 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(N=CCc1ccc(OC)cc1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1COCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@H](N)C1CCCCC1)N1CCOCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "1-2 mol%",
+        "[(DPEphos)Rh(cod)]BF4",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Cc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.8 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(CCc1ccccc1)N=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1COCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@H](N)CCc1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr=16:1"
+      ]
+    },
+    {
+      "relations": [
+        "1-2 mol%",
+        "[(DPEphos)Rh(cod)]BF4",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Cc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.8 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    }
+  ]
+]

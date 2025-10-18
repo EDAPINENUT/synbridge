@@ -1,0 +1,98 @@
+[
+  [
+    {
+      "text": "CC(C)(C)COC(=O)C(C)(C)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)CCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNc1cccc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=O)[C@H](CC(C)(C)C(=O)OCC(C)(C)C)N(C)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cu(dtbbpy)2](OT)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "KgPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)COC(=O)C(C)(C)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(c1ccc(Br)cc1)[C@@H](CCc1ccccc1)CC(C)(C)C(=O)OCC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cu(dtbbpy)2](OT)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "KgPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

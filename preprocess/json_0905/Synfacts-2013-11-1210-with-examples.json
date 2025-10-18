@@ -1,0 +1,155 @@
+[
+  [
+    {
+      "text": "C=C=CCC(CC=CC(=O)OC)(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C#N)C(=C)[C@@H]1CC(C(=O)OCC)(C(=O)OCC)C[C@@H]1CC(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.048 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CCOCC=CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@@H](C(=O)OC(C)(C)C)[C@H](C(=O)OCC)[C@H]2COC[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1P(c1ccccc1C)c1ccccc1C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.048 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CCCCC=CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@@H](C(=O)OC(C)(C)C)[C@H](C(=O)OCC)[C@H]2CCC[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1P(c1ccccc1C)c1ccccc1C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.048 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CCC(CC=CC(=O)OC)(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CS(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@@H](S(=O)(=O)c2ccccc2)[C@H](C(=O)OC)[C@H]2CC(C(=O)OCC)(C(=O)OCC)C[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1P(c1ccccc1C)c1ccccc1C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.048 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CCC(CC=CC(=O)OC)(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@@H](C(=O)OC(C)(C)C)[C@H](C(=O)OC)[C@H]2CC(C(=O)OCC)(C(=O)OCC)C[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1P(c1ccccc1C)c1ccccc1C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.048 mmol scale"
+    }
+  ]
+]

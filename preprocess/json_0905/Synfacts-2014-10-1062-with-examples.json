@@ -1,0 +1,312 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C=C1C(=O)N(C(C)=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@@H]([Si](C(C)C)(C(C)C)C(C)C)C[C@@]12C(=O)N(C(C)=O)c1ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=95:5",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "reactants",
+      "text": "C=CC[SiH](C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.C1CCOC1.C1CCOC1.Cl[Sc](Cl)Cl"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "(R,S)-indapybox"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NaBArF"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)N1C(=O)C(=CC(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N1C(=O)[C@]2(C[C@H]([Si](C(C)C)(C(C)C)C(C)C)C[C@@H]2C(=O)OC(C)(C)C)c2cc(F)ccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr=85:10:5",
+        "er=99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "reactants",
+      "text": "C=CC[SiH](C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.C1CCOC1.C1CCOC1.Cl[Sc](Cl)Cl"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "(R,S)-indapybox"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NaBArF"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)N1C(=O)C(=Cc2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N1C(=O)[C@]2(C[C@H]([Si](C(C)C)(C(C)C)C(C)C)C[C@H]2c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr=92:8",
+        "er=84:16"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "reactants",
+      "text": "C=CC[SiH](C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.C1CCOC1.C1CCOC1.Cl[Sc](Cl)Cl"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "(R,S)-indapybox"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NaBArF"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=C1C(=O)N(C(=O)OCc2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@H]([Si](C(C)C)(C(C)C)C(C)C)C[C@]12C(=O)N(C(=O)OCc1ccccc1)c1ccc(F)cc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr=99:1",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "reactants",
+      "text": "C=CC[SiH](C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.C1CCOC1.C1CCOC1.Cl[Sc](Cl)Cl"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "(R,S)-indapybox"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NaBArF"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C1C(=O)Nc2ccccc21)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C(C)C)(C(C)C)[C@@H]1C[C@H](C(=O)OCc2ccccc2)[C@]2(C1)C(=O)Nc1ccc(F)cc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr=97:3",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "reactants",
+      "text": "C=CC[SiH](C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.C1CCOC1.C1CCOC1.Cl[Sc](Cl)Cl"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "(R,S)-indapybox"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NaBArF"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    }
+  ]
+]

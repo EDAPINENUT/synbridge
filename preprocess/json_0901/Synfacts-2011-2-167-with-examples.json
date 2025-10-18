@@ -1,0 +1,242 @@
+[
+  [
+    {
+      "text": "CC=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@@H](CC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1-3 mol%"
+      ],
+      "text": "NHC copper(I) complex",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "B2Pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Et2O or PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-55 or -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)C[C@@H](B1OC(C)(C)C(C)(C)O1)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1-3 mol%"
+      ],
+      "text": "NHC copper(I) complex",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "B2Pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Et2O or PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-55 or -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C=CC(=O)OCC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc([C@H](CC(=O)OCC(C)C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1-3 mol%"
+      ],
+      "text": "NHC copper(I) complex",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "B2Pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Et2O or PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-55 or -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccccc1[C@@H](CC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1-3 mol%"
+      ],
+      "text": "NHC copper(I) complex",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "B2Pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Et2O or PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-55 or -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ]
+]

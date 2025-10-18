@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "COC1CC(C(C)(C)C)O[Si](C(C)C)(C(C)C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(CC(O[Si](C)(C)C(C)(C)C)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield (syn)",
+        "A/B \u226550:1 (syn)",
+        "94% yield (anti)",
+        "A/B \u226550:1 (anti)"
+      ]
+    },
+    {
+      "text": "COC(CC(c1ccccc1)C(C)(C)C)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH3-].[Li+]"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.CN(C)P(=O)(N(C)C)N(C)C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "5.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CI"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)O"
+    }
+  ],
+  [
+    {
+      "text": "COC1CC(C(C)(C)C)O[Si](C(C)C)(C(C)C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(C)CC(O[Si](C)(C)C(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield (syn)",
+        "A/B \u226550:1 (syn)",
+        "92% yield (anti)",
+        "A/B \u226550:1 (anti)"
+      ]
+    },
+    {
+      "text": "COC(CC(C)C(C)(C)C)O[Si](C)(C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH3-].[Li+]"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1.CN(C)P(=O)(N(C)C)N(C)C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "5.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CI"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)O"
+    }
+  ]
+]

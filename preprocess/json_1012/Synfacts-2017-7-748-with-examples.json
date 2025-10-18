@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "Cc1ccccc1C1(C(=O)N(C)C)CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Cc2ccccc2C12CCOCC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[H-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[I-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "85\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20134 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "sealed tube",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)C(=O)C(C)(C)c1ccccc1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)C(=O)[C@H](c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[H-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[I-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "85\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20134 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "sealed tube",
+      "type": "other conditions"
+    }
+  ]
+]

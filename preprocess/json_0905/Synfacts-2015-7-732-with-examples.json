@@ -1,0 +1,492 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield (Method 1)",
+        "96% ee (Method 1)",
+        "93% yield (Method 2)",
+        "98% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@H](C)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield (Method 1)",
+        "95% ee (Method 1)",
+        "84% yield (Method 2)",
+        "99% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield (Method 1)",
+        "91% ee (Method 1)",
+        "68% yield (Method 2)",
+        "96% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield (Method 1)",
+        "95% ee (Method 1)",
+        "98% yield (Method 2)",
+        "96% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield (Method 1)",
+        "96% ee (Method 1)",
+        "99% yield (Method 2)",
+        "96% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield (Method 1)",
+        "97% ee (Method 1)",
+        "99% yield (Method 2)",
+        "97% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](C)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (Method 1)",
+        "17% ee (Method 1)",
+        "99% yield (Method 2)",
+        "24% ee (Method 2)"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 mol%",
+        "R = CEt3 (Method 1)",
+        "R = NiPr2 (Method 2)"
+      ],
+      "text": "[Fe(CNR)2(L*)](BF4)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*"
+      ],
+      "text": "c1ccc([P@]2CC[P](c3ccccc3)(c3ccccc3)c3ccccc3NC[C@H]3CCCC[C@@H]3CNc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Method 1"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Method 2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20135 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "S/C/B = 1000:1:10 (Substrate/Catalyst/Base)",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "CC(=O)CCC(O)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)CCC(O)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[Si](C)(C)OS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "nucleophile (Nu)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "sat."
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

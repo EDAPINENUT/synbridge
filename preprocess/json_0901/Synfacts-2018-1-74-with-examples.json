@@ -1,0 +1,350 @@
+[
+  [
+    {
+      "text": "C=CCc1cccc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(c1cccc(OC)c1)C(C)(C)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cccc(C=CCC(C)(C)O)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C=CCC(C)(O)c2ccc(C(F)(F)F)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCC(C)(O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C=CCC(C)(O)c2ccc(OC)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCC(C)(O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1cnc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(c1cnc2ccccc2c1)C(C)(C)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(O)CC=Cc1cnc2ccccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(O)(CC=Cc1cnc2ccccc2c1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCC(C)(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C=CCC2(O)CCCCCC2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCC1(O)CCCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "AIMez",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ]
+]

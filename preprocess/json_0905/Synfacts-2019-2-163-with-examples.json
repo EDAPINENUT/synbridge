@@ -1,0 +1,190 @@
+[
+  [
+    {
+      "text": "CC1(C)OB(C=CCCc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@@H](c1ccccc1)[C@@H](CCc1ccccc1)Sc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "er=98:2"
+      ]
+    },
+    {
+      "text": "[Li]c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "sulfenylating agent"
+      ],
+      "type": "catalyst",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1Sc1ccccc1"
+    },
+    {
+      "relations": [
+        "(S)-2",
+        "chiral selenophosphoramide agent",
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)N(C(C)C)P1(=[Se])N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "1,2-shift"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O[B-]1(O)OO[B-](O)(O)OO1.[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OB(C=CCCc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](O)[C@@H](CCc1ccccc1)Sc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "er=81:19"
+      ]
+    },
+    {
+      "text": "[Li]CCCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "sulfenylating agent"
+      ],
+      "type": "catalyst",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1Sc1ccccc1"
+    },
+    {
+      "relations": [
+        "(S)-2",
+        "chiral selenophosphoramide agent",
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)N(C(C)C)P1(=[Se])N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "1,2-shift"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O[B-]1(O)OO[B-](O)(O)OO1.[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    }
+  ]
+]

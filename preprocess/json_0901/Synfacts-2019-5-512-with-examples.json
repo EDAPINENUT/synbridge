@@ -1,0 +1,344 @@
+[
+  [
+    {
+      "text": "C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCC[Mg]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1CC1(C=C)O[Si](C)(C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@H]1C=CCC(C(=O)OC)=C2CCC[C@@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "MeMgBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "TBSO1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "Ir(cod)Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "stage 2"
+      ],
+      "text": "PCy3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "NaBArE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-DCE, r.t. to 85\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "n-Bu4NF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCC[Mg]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1CC1(O[Si](C)(C)C(C)(C)C)C1=CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@@H]1C=CCC(=O)[C@H]2CCCC[C@@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "MeMgBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "TBSO1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "Ir(cod)Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "stage 2"
+      ],
+      "text": "PCy3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "NaBArE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-DCE, r.t. to 85\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "n-Bu4NF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C2C(C[Mg]Br)C12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C2C1C21CC1(O[Si](C)(C)C(C)(C)C)C1=CCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC[C@@H]1C=CCC(=O)[C@H]2CCC[C@@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "text": "MeMgBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "TBSO1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "Ir(cod)Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "stage 2"
+      ],
+      "text": "PCy3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "NaBArE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-DCE, r.t. to 85\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "n-Bu4NF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "stage 2"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF, 0\u00b0C to r.t.",
+      "type": "conditions"
+    }
+  ]
+]

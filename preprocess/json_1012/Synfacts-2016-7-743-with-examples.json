@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "er=91:9"
+      ]
+    },
+    {
+      "relations": [
+        "0.25\u20132.5 mol%"
+      ],
+      "text": "O=c1c(Nc2ccc3ccccc3c2-c2c(O)ccc3ccccc23)c(N[C@@H]2CCCC[C@H]2N2CCCCC2)c1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-24\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-144 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@@H](O)c1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">95% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "0.25\u20132.5 mol%"
+      ],
+      "text": "O=c1c(Nc2ccc3ccccc3c2-c2c(O)ccc3ccccc23)c(N[C@@H]2CCCC[C@H]2N2CCCCC2)c1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-24\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-144 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "er=88:12"
+      ]
+    },
+    {
+      "relations": [
+        "0.25\u20132.5 mol%"
+      ],
+      "text": "O=c1c(Nc2ccc3ccccc3c2-c2c(O)ccc3ccccc23)c(N[C@@H]2CCCC[C@H]2N2CCCCC2)c1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-24\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-144 h",
+      "type": "time"
+    }
+  ]
+]

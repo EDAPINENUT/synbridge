@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "text": "Cc1ccc2nc(N3C(=O)OC[C@@H]3C(C)C)cc(C)c2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(N2C(=O)OC[C@@H]2C(C)C)nc2c1CC(C)CC2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(N2C(=O)OC[C@@H]2C(C)C)nc2c1C[C@H](C)CC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr (major/minor)=81:19"
+      ]
+    },
+    {
+      "relations": [
+        "20 wt%"
+      ],
+      "text": "O=[Pt]=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

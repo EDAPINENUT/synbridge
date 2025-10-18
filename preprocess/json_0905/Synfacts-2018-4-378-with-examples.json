@@ -1,0 +1,86 @@
+[
+  [
+    {
+      "text": "CC(C)CC1(O)CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CO)CC1(O)CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield"
+      ]
+    },
+    {
+      "relations": [
+        "0.1\u20130.2 mol%"
+      ],
+      "text": "C1=C\\CC/C=C\\CC/1.C1=C\\CC/C=C\\CC/1.CO1->[Ir](C)(C)O(C)->[Ir]1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC[SiH2]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "Xantphos"
+      ],
+      "text": "[Cl-].[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C1=CC2CCC1C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "[H-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    }
+  ]
+]

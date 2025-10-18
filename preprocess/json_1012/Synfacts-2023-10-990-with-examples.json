@@ -1,0 +1,285 @@
+[
+  [
+    {
+      "text": "C=CC1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(Br)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Br[Zn]c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](C[C@@H](c1ccc2ccccc2c1)C1CC1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield",
+        "dr=1.4:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "additive"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "COC(=O)/C=C/C(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(Br)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCCC[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C[C@@H](CCCOC)Cc2ccc(OC)cc2)CCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "additive"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "COC(=O)/C=C/C(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)(C)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[Zn]Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)(C)C[C@H](Cc1ccc(OC)cc1)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "additive"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "COC(=O)/C=C/C(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCCC[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)C[C@H](CCCOC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield (R=Me)",
+        "54% yield (R=Ph)",
+        "single diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "additive"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "COC(=O)/C=C/C(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "additive",
+        "catalytic"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    }
+  ]
+]

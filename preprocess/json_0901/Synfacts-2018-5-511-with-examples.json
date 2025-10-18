@@ -1,0 +1,357 @@
+[
+  [
+    {
+      "text": "OC1(c2ccccc2)CCC1=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@@H]2C(=Cc3ccccc3)CC[C@@](O)(c3ccccc3)[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1CC[C@@H](C(C)C)P1c1ccccc1P1[C@H](C(C)C)CC[C@H]1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OH)(cod)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C2(O)CCC2=Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@]2(O)CCC(=Cc3ccccc3)[C@H]3CCCC(=O)[C@@H]32)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1CC[C@@H](C(C)C)P1c1ccccc1P1[C@H](C(C)C)CC[C@H]1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OH)(cod)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(O)CCC1=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(O)CCC(=Cc2ccccc2)[C@@H]2CCCC(=O)[C@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1CC[C@@H](C(C)C)P1c1ccccc1P1[C@H](C(C)C)CC[C@H]1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OH)(cod)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C2(O)CCC2=Cc2cccc(Cl)c2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@]2(O)CCC(=Cc3cccc(Cl)c3)[C@H]3CCCC(=O)[C@H]32)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1CC[C@@H](C(C)C)P1c1ccccc1P1[C@H](C(C)C)CC[C@H]1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OH)(cod)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C=C1CCC1(O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C=C1CC[C@](O)(c2cccc(Cl)c2)[C@H]2C(=O)CCCC[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1CC[C@@H](C(C)C)P1c1ccccc1P1[C@H](C(C)C)CC[C@H]1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OH)(cod)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "conditions"
+    }
+  ]
+]

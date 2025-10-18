@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC[C@H](Cl)[C@H](Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "er=90.5:9.5",
+        "from E-olefin"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "ClI(Cl)c1ccc(-c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC[C@H](Cl)[C@@H](Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield",
+        "er=62.5:37.5",
+        "from Z-olefin"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "ClI(Cl)c1ccc(-c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(O)[C@H](Cl)[C@H](Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "er=71.5:28.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "ClI(Cl)c1ccc(-c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "OCC=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC[C@H](Cl)[C@H](Cl)COCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "er=71.5:28.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "ClI(Cl)c1ccc(-c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,111 @@
+[
+  [
+    {
+      "text": "CC1(CCc2ccccc2)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CO)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ti](Cl)(c1cccc1)c1cccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DIPEA",
+        "3 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "COC(=O)CS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "green LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C1CCC2(CC1)CO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@H]1CC[C@H](CO)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "trans/cis=83:17"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ti](Cl)(c1cccc1)c1cccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DIPEA",
+        "3 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "COC(=O)CS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "green LED",
+      "type": "other conditions"
+    }
+  ]
+]

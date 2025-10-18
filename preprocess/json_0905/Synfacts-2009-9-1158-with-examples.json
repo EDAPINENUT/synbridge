@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "C[N+]([O-])=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1ON(C)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr (endo/exo) = 12:1",
+        "er = 85:15"
+      ]
+    },
+    {
+      "text": "C[C@H]1ON(C)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst 1"
+      ],
+      "text": "N[C@H](Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1-c1c(NC(=O)[C@@H](N)Cc2ccccc2)ccc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "text": "O=S(=O)(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "[O-][N+](=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1ON(Cc2ccccc2)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "dr (endo/exo) = 2:1",
+        "er = 90.5:9.5"
+      ]
+    },
+    {
+      "text": "C[C@H]1ON(Cc2ccccc2)[C@H](c2ccccc2)[C@H]1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst 1"
+      ],
+      "text": "N[C@H](Cc1ccccc1)C(=O)Nc1ccc2ccccc2c1-c1c(NC(=O)[C@@H](N)Cc2ccccc2)ccc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "text": "O=S(=O)(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

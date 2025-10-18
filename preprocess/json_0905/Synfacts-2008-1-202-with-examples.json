@@ -1,0 +1,119 @@
+[
+  [
+    {
+      "text": "C=CCN=CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN(C(=O)C(F)(F)F)[C@H](C#N)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "cat. 1"
+      ],
+      "text": "COC(=O)C1=C[C@H]2CCC2=CC=C1.CO[C@@H]1[C@@H](OC)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@@H]1OC(=O)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[SiH](C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C(OC(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C(=NCc1ccccc1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@H](C1CCCCC1)N(Cc1ccccc1)C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "cat. 1"
+      ],
+      "text": "COC(=O)C1=C[C@H]2CCC2=CC=C1.CO[C@@H]1[C@@H](OC)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@@H]1OC(=O)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[SiH](C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C(OC(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=NCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C#N)N(Cc2ccccc2)C(=O)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "er = 91:9"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "cat. 1"
+      ],
+      "text": "COC(=O)C1=C[C@H]2CCC2=CC=C1.CO[C@@H]1[C@@H](OC)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@H](OC(=O)C(C)(C)C)[C@@H](OC(=O)C(C)(C)C)[C@@H]1OC(=O)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[SiH](C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C(OC(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    }
+  ]
+]

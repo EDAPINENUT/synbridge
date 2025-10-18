@@ -1,0 +1,98 @@
+[
+  [
+    {
+      "text": "CN(C#Cc1ccccc1)S(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(c1nc2ncc(-c3ccc(Br)nc3)cn2c1-c1ccccc1)S(C)(=O)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "c1cc[n+]([N-]c2ncccn2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Au catalyst A"
+      ],
+      "text": "CC#N->[Au+][PH](Oc1ccc(C(C)(C)C)cc1C(C)(C)C)(Oc1ccc(C(C)(C)C)cc1C(C)(C)C)Oc1ccc(C(C)(C)C)cc1C(C)(C)C.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Au catalyst B"
+      ],
+      "text": "O=C1O[Au](Cl)(Cl)[n+]2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CS(=O)(=O)N(C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS(=O)(=O)N(c1ccccc1)c1nc2ncccn2c1-c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "c1cc[n+]([N-]c2ncccn2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Au catalyst A"
+      ],
+      "text": "CC#N->[Au+][PH](Oc1ccc(C(C)(C)C)cc1C(C)(C)C)(Oc1ccc(C(C)(C)C)cc1C(C)(C)C)Oc1ccc(C(C)(C)C)cc1C(C)(C)C.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Au catalyst B"
+      ],
+      "text": "O=C1O[Au](Cl)(Cl)[n+]2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

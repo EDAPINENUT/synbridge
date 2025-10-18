@@ -1,0 +1,533 @@
+[
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1ccc(C(=O)N(C)Oc2ccc([N+](=O)[O-])cc2[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(C(=O)N(C)c2[nH]c3ccccc3c2C[C@H](NC(C)=O)C(=O)OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(N(C)C(=O)c2ccco2)[nH]c2ccccc12)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "36% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(N(C)C(=O)C=Cc2ccccc2)[nH]c2ccccc12)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "21% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CNN[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CNC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NN[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(C)=O)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NN[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(C)=O)C(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(C)=O)C(C)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(=O)CNC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(=O)CNC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CN(Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON[C@@H](Cc1c[nH]c2ccccc12)C(=O)C(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(N(C)C(=O)c2ccc(C(F)(F)F)cc2)[nH]c2ccccc12)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Na+].[Na+].O=C([O-])c1c(Br)cc(Br)c2oc3c(Br)cc(Br)c(O)c3C(=O)c2c1[O-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "green LEDs"
+    }
+  ]
+]

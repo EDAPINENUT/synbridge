@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "text": "COC(=O)c1ccc(C(C)(C)C)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)ON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C(C)(C)C)nc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPP"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10 W LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "N2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(C(C)(C)C)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)ON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C(C)(C)C)nc1N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPP"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10 W LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "N2",
+      "type": "other conditions"
+    }
+  ]
+]

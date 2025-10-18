@@ -1,0 +1,498 @@
+[
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](c1ccc(OC)cc1)C(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr = 30:1",
+        "75% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=Cc1cc2ccccc2o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](c1cc2ccccc2o1)C(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr >30:1",
+        "73% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=Cc1cnoc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](c1cnoc1C)C(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "dr >30:1",
+        "86% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=Cc1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](c1cccnc1)[C@H](C(=O)O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr = 8:1",
+        "76% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](CC(=O)OC(C)(C)C)[C@H](C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr = 5:1",
+        "84% ee",
+        "amine 2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=CC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@@H]([C@@H](C(=O)O)c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr >30:1",
+        "58% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=CC1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](C1CC1)C(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr = 5:1",
+        "85% ee",
+        "amine 2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](c1ccccc1)[C@H](C(=O)O)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr >30:1",
+        "94% ee",
+        "amine 1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 1"
+      ],
+      "text": "c1ccc([C@H](CN2CCCCC2)NCCCN[C@H](CN2CCCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "chiral amine 2"
+      ],
+      "text": "c1ccc([C@@H](CN2CCCC2)NCCCN[C@H](CN2CCCC2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    }
+  ]
+]

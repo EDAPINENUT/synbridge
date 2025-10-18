@@ -1,0 +1,779 @@
+[
+  [
+    {
+      "text": "CC(C)N(CCCO)Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[N+]([O-])(CCCO)Cc1ccccc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C[N+]([O-])(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C[N+]([O-])(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN(CCCO)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+]([O-])(CCCO)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCCCN1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[O-][N+]1(CCC(O)c2ccccc2)CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCN(CC)CCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[N+]([O-])(CC)CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCCCN1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[O-][N+]1(CC(CO)c2ccccc2)CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(CCCO)Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[N+]([O-])(CCCO)Cc1ccccc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N(CCCO)Cc1ccccc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C[N+]([O-])(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C[N+]([O-])(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccccc1CN(CCCO)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN(CCCO)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+]([O-])(CCCO)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(CCCO)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC(CCN1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[O-][N+]1(CCC(O)c2ccccc2)CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "OC(CCN1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCN(CC)CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[N+]([O-])(CC)CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCN(CC)CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCC(CN1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[O-][N+]1(CC(CO)c2ccccc2)CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "OCC(CN1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2ccc(-c3cc4ccccc4c(-c4c(O)c(-c5ccc6ccc(C(C)(C)C)c(O)c6n5)cc5ccccc45)c3O)nc2c1O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ti(OiPr)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 or 1.6 equiv"
+      ],
+      "text": "70% aq TBHP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u201324 h",
+      "type": "conditions"
+    }
+  ]
+]

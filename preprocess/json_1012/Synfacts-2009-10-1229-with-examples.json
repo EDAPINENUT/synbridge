@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "COc1ccc(C(=O)C=C(C)NC(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](O)C[C@H](C)NC(C)=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "95% ee",
+        "syn/anti = 8:92"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)duanphos]BF4"
+      ],
+      "text": "CC(C)(C)[P@@]12CC3=CC=C4CCCC=C4[P+]3(C(C)(C)C)[P@]1(C(C)(C)C)[C@H]1c3ccccc3C[P@@]12C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u2013100 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(C)=CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "99% ee",
+        "syn/anti = 5:95"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)duanphos]BF4"
+      ],
+      "text": "CC(C)(C)[P@@]12CC3=CC=C4CCCC=C4[P+]3(C(C)(C)C)[P@]1(C(C)(C)C)[C@H]1c3ccccc3C[P@@]12C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u2013100 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(C)=CC(=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C[C@@H](O)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "99% ee",
+        "syn/anti = 5:95"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)duanphos]BF4"
+      ],
+      "text": "CC(C)(C)[P@@]12CC3=CC=C4CCCC=C4[P+]3(C(C)(C)C)[P@]1(C(C)(C)C)[C@H]1c3ccccc3C[P@@]12C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u2013100 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(C)=CC(=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C[C@@H](O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "97% ee",
+        "syn/anti <1:99"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)duanphos]BF4"
+      ],
+      "text": "CC(C)(C)[P@@]12CC3=CC=C4CCCC=C4[P+]3(C(C)(C)C)[P@]1(C(C)(C)C)[C@H]1c3ccccc3C[P@@]12C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u2013100 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C=C(C)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C[C@H](C)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "96% ee",
+        "syn/anti <1:99"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)duanphos]BF4"
+      ],
+      "text": "CC(C)(C)[P@@]12CC3=CC=C4CCCC=C4[P+]3(C(C)(C)C)[P@]1(C(C)(C)C)[C@H]1c3ccccc3C[P@@]12C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u2013100 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ]
+]

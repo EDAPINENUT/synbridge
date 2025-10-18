@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "C=CCCCC(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]12CCC[C@H]1[C@@H](c1ccccc1)OC2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Mn(OAc)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCC(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]12CCC[C@H]1[C@@H](c1cccc(OC)c1)OC2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Mn(OAc)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(CCCC=Cc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@@]12CCC[C@@]1(C(=O)OC)C(=O)O[C@H]2c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Mn(OAc)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ]
+]

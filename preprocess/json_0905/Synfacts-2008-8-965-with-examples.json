@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "text": "C=C(C)CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C[C@H](O)CCCO[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "91% ee",
+        "C"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Br-].[Br-].[Br-].[Cr+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "ligand A"
+      ],
+      "text": "Cc1cccc(C)c1CS(=O)(=O)Nc1ccccc1C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zr+4].c1cc[cH-]c1.c1cc[cH-]c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Co+2].c1ccc2c(c1)-c1nc-2nc2[n-]c(nc3nc(nc4[n-]c(n1)c1ccccc41)-c1ccccc1-3)c1ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "42\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20\u201330 g scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)=CCBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)(C)[C@H](O)C[C@H](C)CCCC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "95% de",
+        "E"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Br-].[Br-].[Br-].[Cr+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "ligand A"
+      ],
+      "text": "Cc1cccc(C)c1CS(=O)(=O)Nc1ccccc1C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zr+4].c1cc[cH-]c1.c1cc[cH-]c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Co+2].c1ccc2c(c1)-c1nc-2nc2[n-]c(nc3nc(nc4[n-]c(n1)c1ccccc41)-c1ccccc1-3)c1ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "42\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20\u201330 g scale",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,518 @@
+[
+  [
+    {
+      "text": "CC1(C)OB(C2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH2-](C1CCCCC1)C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OB([C@@]2(C3CCCCC3)C[C@@H](c3ccccc3)C2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OB(C2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH2-](C1CCCCC1)C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@H]1C[C@](B2OC(C)(C)C(C)(C)O2)(C2CCCCC2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[BH2-]C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OB([C@@]2(C)C[C@H](c3ccccc3)C2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OB(C2CC2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH2-](C1CC1)C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OB([C@@]2(C3CC3)C[C@@H](c3ccccc3)C2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OB(C23CC4CC(CC(C4)C2)C3)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH2-](C12CC3CC(CC(C3)C1)C2)C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OB(C2(C34CC5CC(CC(C5)C3)C4)CC(c3ccccc3)C2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[BH2-]C12CC1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@]1(B2OC(C)(C)C(C)(C)O2)C[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)P(C1=CC=CC1[Fe]c1ccccc1P(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "stage 1"
+      ],
+      "text": "t-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "R4-OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 2"
+      ],
+      "text": "Pd(dba)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "stage 2"
+      ],
+      "text": "dippf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ]
+]

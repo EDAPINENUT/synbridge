@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CCO[C@@H]1C=C(C(=O)OCC(N)=O)C[C@@H](Br)[C@H]1NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[NH+]C(=O)Br",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@@H](OCC)[C@H](NC(C)=O)[C@H](Br)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2-2.0 equiv"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "23 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CBr4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "CCl4 or i-Pr-I",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "RS-SR",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "K\u2083PO\u2084",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "P(OEt)\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "O\u2082 (1 atm) then PPh\u2083",
+      "type": "conditions"
+    }
+  ]
+]

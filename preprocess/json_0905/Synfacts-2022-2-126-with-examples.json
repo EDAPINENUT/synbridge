@@ -1,0 +1,318 @@
+[
+  [
+    {
+      "text": "O=C(O)c1ccccc1-c1cc(-c2ccccc2)on1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=C1NC(=O)c2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(-c2cc(-c3ccccc3C(=O)O)no2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)C=C2NC(=O)c3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(-c2cc(-c3ccccc3C(=O)O)no2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)C=C2NC(=O)c3cc(Cl)ccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1-c1cc(-c2cccnc2)on1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=C1NC(=O)c2ccccc21)c1cccnc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ncc(-c2cc(-c3ccccc3C(=O)O)no2)[nH]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ncc(C(=O)C=C2NC(=O)c3ccccc32)[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1-c1cc(C2CC2)on1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1NC(=CC(=O)C2CC2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1-c1cc(C2CCOC2)on1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1NC(=CC(=O)C2CCOC2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Fe]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CCO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,326 @@
+[
+  [
+    {
+      "text": "NC(=O)[C@H](CS)NC(=O)CNC(=O)[C@@H](N)CS",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)[C@@H]1CSCSC[C@H](N)C(=O)NCC(=O)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](NC(=O)[C@@H](N)CS)C(=O)N[C@@H](CS)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1NC(=O)[C@H](N)CSCSC[C@@H](C(N)=O)NC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "NCCCC[C@@H](NC(=O)[C@@H](N)CS)C(=O)N[C@@H](CS)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NCCCC[C@@H]1NC(=O)[C@@H](N)CSCSC[C@@H](C(N)=O)NC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CSCC[C@@H](NC(=O)[C@@H](N)CS)C(=O)N[C@@H](CS)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC[C@@H]1NC(=O)[C@@H](N)CSCSC[C@@H](C(N)=O)NC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "NC(=O)[C@H](CS)NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H](N)CS",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)[C@@H]1CSCSC[C@H](N)C(=O)N[C@@H](Cc2ccccc2)C(=O)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "NC(=O)[C@H](CS)NC(=O)[C@@H](CO)NC(=O)[C@@H](N)CS",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)[C@@H]1CSCSC[C@H](N)C(=O)N[C@@H](CO)C(=O)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc([PH](c2ccccc2)(c2ccccc2)[RhH+]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "dppb ligand"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CO.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,308 @@
+[
+  [
+    {
+      "text": "Cc1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@@H](C[N+](=O)[O-])c2cccc(Cl)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@@H](C[N+](=O)[O-])c2ccc(C(F)(F)F)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=C[N+](=O)[O-])cc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C[N+](=O)[O-])c2ccc(C)cc2)cc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@H](c1ccccc1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@H](c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "86% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)c1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@H](C[N+](=O)[O-])c2cccc(Cl)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "iPr-IsoQuinox"
+      ],
+      "text": "CC(C)[C@H]1COC(c2nccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ]
+]

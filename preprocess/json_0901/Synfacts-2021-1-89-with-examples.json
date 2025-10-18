@@ -1,0 +1,277 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)C(C)=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)C[C@H](c2ccccc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](Nc1c(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)c(=O)c1=O)C(=O)N1CCC[C@@]1(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=c1c(Nc2ccccc2)c(Nc2ccccc2)c1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "A"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "5 mol% after 48 h"
+      ],
+      "type": "conditions",
+      "text": "TMS\u2013OTf"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.05 M"
+      ],
+      "type": "conditions",
+      "text": "toluene-n-Bu20"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "96 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)C(C)=Cc1ccc(Br)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccc(Br)cc2)C[C@@H](c2ccccc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](Nc1c(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)c(=O)c1=O)C(=O)N1CCC[C@@]1(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=c1c(Nc2ccccc2)c(Nc2ccc(Br)cc2)c1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "A"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "5 mol% after 48 h"
+      ],
+      "type": "conditions",
+      "text": "TMS\u2013OTf"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.05 M"
+      ],
+      "type": "conditions",
+      "text": "toluene-n-Bu20"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "96 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)C(C)=Cc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C2=C(C)C(=O)[C@H](c3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](Nc1c(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)c(=O)c1=O)C(=O)N1CCC[C@@]1(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(Nc2c(Nc3ccccc3)c(=O)c2=O)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "A"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "5 mol% after 48 h"
+      ],
+      "type": "conditions",
+      "text": "TMS\u2013OTf"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.05 M"
+      ],
+      "type": "conditions",
+      "text": "toluene-n-Bu20"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "96 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)C(C)=Cc1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)C[C@@H](c2ccc(F)cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](Nc1c(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)c(=O)c1=O)C(=O)N1CCC[C@@]1(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=c1c(Nc2ccccc2)c(Nc2ccc(F)cc2)c1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "A"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "5 mol% after 48 h"
+      ],
+      "type": "conditions",
+      "text": "TMS\u2013OTf"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.05 M"
+      ],
+      "type": "conditions",
+      "text": "toluene-n-Bu20"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "96 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C(=O)C(C)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)C[C@@H](C)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](Nc1c(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)c(=O)c1=O)C(=O)N1CCC[C@@]1(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CNc1c(Nc2ccccc2)c(=O)c1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "A"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "5 mol% after 48 h"
+      ],
+      "type": "conditions",
+      "text": "TMS\u2013OTf"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.05 M"
+      ],
+      "type": "conditions",
+      "text": "toluene-n-Bu20"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "96 h"
+    }
+  ]
+]

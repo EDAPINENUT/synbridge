@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)OC1=CC=CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@H]2CCC=C(O[Si](C)(C)C)C2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "88% ee",
+        "3/4 > 20:1"
+      ]
+    },
+    {
+      "text": "CC1(C)OB([C@H]2C=CCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(C)(C)[O-]->[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "(R,R)-Me-DuPhos",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ]
+]

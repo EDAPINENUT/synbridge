@@ -1,0 +1,206 @@
+[
+  [
+    {
+      "text": "Cc1cc2ccccc2c(=O)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1Cc2ccccc2C(=O)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "Catalyst A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "n-Hexane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "15\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "R = 4-Me",
+        "R = H"
+      ],
+      "text": "Catalyst A: R = 4-Me Catalyst B: R = H",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1=Cc2ccccc2S1(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1Cc2ccccc2S1(=O)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Catalyst B",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.7 mol%"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "R = 4-Me",
+        "R = H"
+      ],
+      "text": "Catalyst A: R = 4-Me Catalyst B: R = H",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1=Cc2ccc(C(F)(F)F)cc2S1(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1Cc2ccc(C(F)(F)F)cc2S1(=O)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Catalyst B",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.7 mol%"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "R = 4-Me",
+        "R = H"
+      ],
+      "text": "Catalyst A: R = 4-Me Catalyst B: R = H",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.3 mol%"
+      ],
+      "text": "Catalyst A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "R = 4-Me",
+        "R = H"
+      ],
+      "text": "Catalyst A: R = 4-Me Catalyst B: R = H",
+      "type": "conditions"
+    }
+  ]
+]

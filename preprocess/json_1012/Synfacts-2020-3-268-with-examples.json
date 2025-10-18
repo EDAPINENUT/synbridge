@@ -1,0 +1,222 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1n[nH]c(C(F)F)c1C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "NCC(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=CC(F)F",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)(C)ON=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "103 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "32 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "chamber A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "balloon"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "70 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "32 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "chamber B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1n[nH]c(C(F)F)c1CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "NCC(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=CC(F)F",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)(C)ON=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "103 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "32 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "chamber A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "balloon"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "70 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "32 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "chamber B",
+      "type": "other conditions"
+    }
+  ]
+]

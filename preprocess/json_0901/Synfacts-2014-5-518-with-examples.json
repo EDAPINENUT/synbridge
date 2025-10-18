@@ -1,0 +1,386 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(Cc2ccccc2)(C(F)(F)[Si](C)(C)C)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)(C(=O)OCC)C(F)(F)[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1OCCC1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C(F)(F)C1(Cc2ccccc2)CCOC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCN(CC)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(c1ccc(C(F)(F)F)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC(=O)N(Cc2ccccc2)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C(=O)N(Cc2ccccc2)Cc2ccccc2)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@@H](C(=O)N1C(=O)OC[C@H]1c1ccccc1)C(C(F)(F)[Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cc1ccc(Br)cc1)N1C(=O)OC[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C(F)(F)[C@@H](C(=O)N1C(=O)OC[C@H]1c1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "F3CTMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u201336 h",
+      "type": "conditions"
+    }
+  ]
+]

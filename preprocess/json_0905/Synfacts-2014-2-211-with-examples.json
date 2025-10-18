@@ -1,0 +1,232 @@
+[
+  [
+    {
+      "text": "CC(C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C=O)(Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "catalyst A"
+      ],
+      "text": "O=C(O)[C@]12CCCC(CN1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "COc1ccc(C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C=O)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)(Cc1ccccc1)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=98.5:1.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "catalyst A"
+      ],
+      "text": "O=C(O)[C@]12CCCC(CN1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "COc1ccc(C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(C)C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@](C)(C=O)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "catalyst A"
+      ],
+      "text": "O=C(O)[C@]12CCCC(CN1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "COc1ccc(C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrCc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C=O)(Cc1ccc(I)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "catalyst A"
+      ],
+      "text": "O=C(O)[C@]12CCCC(CN1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "COc1ccc(C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,243 @@
+[
+  [
+    {
+      "text": "C=C(C#Cc1ccc2c(c1)OCO2)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        ">98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Cl[Co]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C#Cc1ccsc1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C=Cc1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Cl[Co]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C#CC1CCCC1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C=CC1CCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        ">99% ee",
+        "94% yield",
+        ">99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Cl[Co]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C#CCCCCC)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC=C[C@H](C)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        ">99% ee",
+        "CoCl(PPh3)3 2.0 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Cl[Co]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C#Cc1ccccc1Br)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C)C=Cc1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        ">99% ee",
+        "8% de-Br"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Cl[Co]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@H](c3ccccc3)P2CCP2[C@@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

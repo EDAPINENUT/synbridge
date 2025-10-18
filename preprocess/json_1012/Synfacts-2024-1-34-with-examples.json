@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C=CN=[N+]=[N-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(CCN=[N+]=[N-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[N-]=[N+]=[N-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "350 W",
+        "466 nm"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C(C)(C)N=[N+]=[N-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(C)(C)N=[N+]=[N-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[N-]=[N+]=[N-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "350 W",
+        "466 nm"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,221 @@
+[
+  [
+    {
+      "text": "CCCCCCCCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H](Cl)CO",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCCCCC[C@@H]1CO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "SOMO activation/ \u03b1-chlorination"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "[BH4-].[Na+]"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "time",
+      "text": "30 min"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(CC=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)C=O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@@H](Cl)CO)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC([C@H]2CO2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "SOMO activation/ \u03b1-chlorination"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "[BH4-].[Na+]"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "time",
+      "text": "30 min"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "OC[C@H](Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(C[C@@H]2CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "SOMO activation/ \u03b1-chlorination"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "[BH4-].[Na+]"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [
+        "stage3"
+      ],
+      "type": "time",
+      "text": "30 min"
+    }
+  ]
+]

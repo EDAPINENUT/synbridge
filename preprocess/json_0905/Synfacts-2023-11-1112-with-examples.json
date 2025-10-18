@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=3-F: 72% yield",
+        "R=4-Cl: 60% yield",
+        "R=4-CF3: 58% yield",
+        "R=4-OCF3: 61% yield",
+        "R=4-SMe: 69% yield",
+        "silylative cross-coupling"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "*Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "Br[Mg]c1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "Cl[Cr]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "X-EI",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "X-EI = Cl-SiR3 or TsO-Alk",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc([C@H]2CCCCCCOc3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "intra- and inter-molecular coupling"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "*Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "Br[Mg]c1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "Cl[Cr]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "X-EI",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "X-EI = Cl-SiR3 or TsO-Alk",
+      "type": "other conditions"
+    }
+  ]
+]

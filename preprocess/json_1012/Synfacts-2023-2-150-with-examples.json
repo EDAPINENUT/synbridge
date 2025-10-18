@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "O=C(OCCCBr)c1cccnc1Nc1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[Si](C)(C)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[Si](C)(C)[C@@H](C#N)CCCCOC(=O)c1cccnc1Nc1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "from niflumic acid"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C=CC#N",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ni](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "PyOX ligand"
+      ],
+      "text": "c1ccc(C2=NCCO2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "time"
+    }
+  ]
+]

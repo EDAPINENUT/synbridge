@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)CCC=CB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=CCCC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "E/Z mixture"
+      ]
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "phen"
+      ],
+      "text": "c1ccc2c(c1)ccc1ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "DCB"
+      ],
+      "text": "N#Cc1ccc(C#N)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-2 equiv"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "hv",
+      "type": "other conditions"
+    }
+  ]
+]

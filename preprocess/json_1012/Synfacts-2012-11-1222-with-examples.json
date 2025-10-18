@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "COC(=O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCOC(=O)C=Cc1cc(OC)ccc1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ]
+]

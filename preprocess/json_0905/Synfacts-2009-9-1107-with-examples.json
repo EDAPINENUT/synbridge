@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "C[C@H]([NH3+])c1ccc(C=NCl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@H](C)[NH3+])cc1.[Cl-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(S,S)-1"
+      ],
+      "text": "c1ccc(P2Cc3ccc4ccccc4c3-c3c(ccc4ccccc34)C2)cc1.c1ccc(P2Cc3ccccc3-c3c(ccc4ccccc34)C2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+][C@@H](C=NCl)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]([NH3+])c1ccc(C(F)(F)F)cc1.[Cl-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(S,S)-1"
+      ],
+      "text": "c1ccc(P2Cc3ccc4ccccc4c3-c3c(ccc4ccccc34)C2)cc1.c1ccc(P2Cc3ccccc3-c3c(ccc4ccccc34)C2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H]([NH3+])c1ccc(OC=NCl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C)[NH3+])cc1.[Cl-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(S,S)-1"
+      ],
+      "text": "c1ccc(P2Cc3ccc4ccccc4c3-c3c(ccc4ccccc34)C2)cc1.c1ccc(P2Cc3ccccc3-c3c(ccc4ccccc34)C2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+][C@@H](C=NCl)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]([NH3+])C1CCCCC1.[Cl-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "73% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(S,S)-1"
+      ],
+      "text": "c1ccc(P2Cc3ccc4ccccc4c3-c3c(ccc4ccccc34)C2)cc1.c1ccc(P2Cc3ccccc3-c3c(ccc4ccccc34)C2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

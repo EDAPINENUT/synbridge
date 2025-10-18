@@ -1,0 +1,716 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr = 94:6",
+        "92% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(N)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@](N)(C(=O)OCC)[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr = 80:20",
+        "86% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](N)(c1ccccc1)[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr = 67:33",
+        "52% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr = 73:27",
+        "96% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1Cl)c1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@H](C=Cc1ccccc1Cl)c1ccccc1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr = 77:23",
+        "96% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccc(C(F)(F)F)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccc(C(F)(F)F)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 64:36",
+        "98% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccsc1)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@](C)(N)[C@@H](C=Cc1ccsc1)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr = 74:26",
+        "98% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "L2"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr = 94:6",
+        "92% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(N)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@](N)(C(=O)OCC)[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr = 80:20",
+        "86% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](N)(c1ccccc1)[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr = 67:33",
+        "52% ee",
+        "50\u00b0C",
+        "Method A"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr = 73:27",
+        "96% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1Cl)c1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@H](C=Cc1ccccc1Cl)c1ccccc1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr = 77:23",
+        "96% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccc(C(F)(F)F)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](C)(N)[C@@H](C=Cc1ccc(C(F)(F)F)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 64:36",
+        "98% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccsc1)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@](C)(N)[C@@H](C=Cc1ccsc1)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr = 74:26",
+        "98% ee",
+        "50\u00b0C",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "0.02 mmol",
+        "chiral aldehyde"
+      ],
+      "type": "catalyst",
+      "text": "O=Cc1cc2ccccc2c(-c2c(O)c(-c3ccc(Cl)cc3)cc3ccccc23)c1O"
+    },
+    {
+      "relations": [
+        "0.01 mmol"
+      ],
+      "type": "catalyst",
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl"
+    },
+    {
+      "relations": [
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc2ccccc2c1-c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12"
+    }
+  ]
+]

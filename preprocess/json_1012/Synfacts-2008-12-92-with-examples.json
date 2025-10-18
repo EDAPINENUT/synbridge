@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(NC(=O)OC(C)(C)C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NC(=O)OC(C)(C)C)[C@H](C=O)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr=98:2",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage1"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "in situ generation of N-carbamoyl imine",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst 1",
+        "stage2"
+      ],
+      "text": "C[Si](C)(C)OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M",
+        "stage2"
+      ],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

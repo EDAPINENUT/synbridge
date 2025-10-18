@@ -1,0 +1,668 @@
+[
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C=C(I)[Si](CC)(CC)CC)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "Z/E >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C=C(I)B1OC(C)(C)C(C)(C)O1)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "Z/E = 6:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C=C(I)C(=O)OC)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "Z/E = 14:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C=C(I)c1ccc(OC)cc1)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "Z/E = 7:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C(I)=C[C@@H](Cc1ccc(OC)cc1)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "Z/E >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](OCC=O)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C(I)=C[C@H](CO[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "Z/E >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC(CC=O)CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C(I)=C[C@H](CC1CCN(S(=O)(=O)c2ccc(C)cc2)CC1)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "Z/E = 7:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C(I)=CC(C)(OC(C)=O)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "Z/E >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC(=O)Oc1c(C)c(C)c2c(c1C)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C=C(I)C(=O)Oc1c(C)c(C)c2c(c1C)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2)OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "Z/E = 2:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Mn].[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

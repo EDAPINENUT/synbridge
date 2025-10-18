@@ -1,0 +1,274 @@
+[
+  [
+    {
+      "text": "COc1ccc(N2CCc3ccc(Cl)cc3C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C=O)[C@H]1c2cc(Cl)ccc2CCN1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "organocatalyst"
+      ],
+      "text": "C=CC1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(N2CCc3ccccc3C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C#N)[C@H]1c2ccccc2CCN1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "organocatalyst"
+      ],
+      "text": "C=CC1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(N2CCc3ccccc3C2)cc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C=O)[C@H]1c2ccccc2CCN1c1ccc(C)c(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "organocatalyst"
+      ],
+      "text": "C=CC1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc(N2CCc3ccccc3C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(C)=O)[C@H]1c2ccccc2CCN1c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "organocatalyst"
+      ],
+      "text": "C=CC1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

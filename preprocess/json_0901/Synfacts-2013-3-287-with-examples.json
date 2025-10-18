@@ -1,0 +1,47 @@
+[
+  [
+    {
+      "text": "C#CCN(CC(=C)c1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)N(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2CCCC4)CCCC3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC3=C[C@@H](C(=O)N(C)c4ccccc4)CC[C@]3(c3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3-10 mol%",
+        "[Rh(cod),BF4]"
+      ],
+      "text": "(R)-Hg-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ]
+]

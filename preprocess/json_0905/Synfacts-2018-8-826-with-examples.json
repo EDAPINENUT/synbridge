@@ -1,0 +1,123 @@
+[
+  [
+    {
+      "text": "CCOC=CC(=O)n1nc(C)cc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCO[C@@H](CC(=O)n1nc(C)cc1C)CN(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.[Ni+2].[O-][Cl+3]([O-])([O-])[O-].[O-][Cl+3]([O-])([O-])[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc([C@@H]2COC(c3cccc4c3oc3c(C5=N[C@@H](c6ccccc6)CO5)cccc34)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 W blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.10 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC(=O)n1nc(C)cc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)n(C(=O)C[C@H](C)CN(C)c2ccccc2)n1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "0% yield",
+        "R = 2-Me",
+        "59% yield",
+        "90% ee",
+        "R = 3-Me",
+        "86% yield",
+        "89% ee",
+        "R = 4-Me",
+        "76% yield",
+        "90% ee",
+        "R = 4-F"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.[Ni+2].[O-][Cl+3]([O-])([O-])[O-].[O-][Cl+3]([O-])([O-])[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc([C@@H]2COC(c3cccc4c3oc3c(C5=N[C@@H](c6ccccc6)CO5)cccc34)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 W blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.10 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

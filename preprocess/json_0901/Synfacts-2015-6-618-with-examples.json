@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "O=C1c2ccccc2CC1(F)C(O)(O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C[C@]1(F)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[C@H]1COC(CC2=N[C@@H](C(C)(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "conditions"
+    }
+  ]
+]

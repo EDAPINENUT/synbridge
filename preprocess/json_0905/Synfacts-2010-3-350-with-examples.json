@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)O[C@@H](C=O)[C@@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr (anti/syn) = 98:2",
+        "er = 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[Si](C)(C)OCC=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

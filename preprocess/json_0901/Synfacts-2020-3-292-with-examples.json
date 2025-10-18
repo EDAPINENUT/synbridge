@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "CC(Br)S(=O)(=O)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](C)S(=O)(=O)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(Cc1ccccc1)(C1=N[C@H](c2ccccc2)C(c2ccccc2)(c2ccccc2)O1)C1=N[C@H](c2ccccc2)C(c2ccccc2)(c2ccccc2)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "NiBr\u2082(dic (S,S)-ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "(MeO)\u2083SiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "glyme\u2212DCE (2:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ]
+]

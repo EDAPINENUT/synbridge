@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "text": "C=CC(=C)CCC=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CCC=C(C)C)C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr=100:0"
+      ]
+    },
+    {
+      "relations": [
+        "1-10 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0-2.4 equiv",
+        "alternative to Et2Zn"
+      ],
+      "text": "CCB(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0-2.4 equiv",
+        "alternative to Et3B"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C=O)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)C[C@@H](O)C(=C)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "dr=100:0"
+      ]
+    },
+    {
+      "relations": [
+        "1-10 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0-2.4 equiv",
+        "alternative to Et2Zn"
+      ],
+      "text": "CCB(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0-2.4 equiv",
+        "alternative to Et3B"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

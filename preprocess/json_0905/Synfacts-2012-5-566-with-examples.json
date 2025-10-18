@@ -1,0 +1,249 @@
+[
+  [
+    {
+      "text": "CCCCC=CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(CC(C)=O)c1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ],
+  [
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@@H](c2c[nH]c3ccccc23)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er = 92:8"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)CC(c1ccccc1)c1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">80% yield",
+        "er = 91.5:8.5",
+        "<10% yield at 1 bar"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC(C)=O)c1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er = 89:11"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@@H](CCc1ccccc1)CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](CCc1ccccc1)(CC(C)=O)c1c[nH]c2ccc(OC)cc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "er = 90:10"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@]12CCC1C(=O)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(c2c[nH]c3ccccc23)CCCC(=O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "er = 74:26"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "c1ccc2[nH]ccc2c1"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "catalyst 1"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](N)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [
+        "2\u20132.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "9\u201310 kbar"
+    }
+  ]
+]

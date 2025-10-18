@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "text": "CC1(C)COB(c2ccccc2[N+](=O)[O-])OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(c2c(C(C)C)cccc2C(C)C)C1[Cu]Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 bar"
+      ],
+      "text": "CO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "t-BuOK",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "aq HCl",
+      "type": "conditions"
+    }
+  ]
+]

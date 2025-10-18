@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "text": "COc1cccc(C(=O)N(C(C)C)C(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C(=O)N(C(C)C)C(C)C)c1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.3-2.2 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1->[Cu+](<-[C-]#N)<-[N-]1C(C)(C)CCCC1(C)C.[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2-2.0 equiv"
+      ],
+      "text": "CC(C)(C)OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "time"
+    }
+  ]
+]

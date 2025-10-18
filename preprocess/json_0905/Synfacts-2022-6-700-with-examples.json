@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(NC(=O)c1ccc(C)cc1)(OC(C)=O)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1cc[nH]c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(NC(=O)c1ccc(C)cc1)(C(=O)OCC)c1ccc(CC)[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "quantitative yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "sealed tube",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(NC(=O)C(F)(F)F)(OC(C)=O)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1cc[nH]c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(NC(=O)C(F)(F)F)(C(=O)OCC)c1ccc[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "sealed tube",
+      "type": "other conditions"
+    }
+  ]
+]

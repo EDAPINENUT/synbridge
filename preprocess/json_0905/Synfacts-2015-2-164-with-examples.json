@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "text": "C#CC(C)(C)Oc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)Oc2ccc(C#N)cc2C1=CC(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "E/Z=10:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu+].[I-]"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ],
+  [
+    {
+      "text": "C#CC(C)(C)Oc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)Oc2ccc(C=O)cc2C1=CC(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "E/Z=14:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu+].[I-]"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ]
+]

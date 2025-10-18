@@ -1,0 +1,85 @@
+[
+  [
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)c(OS(C)(=O)=O)c(Cl)c1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "from procymidone"
+      ]
+    },
+    {
+      "relations": [
+        "(1.1\u20132.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "CS(=O)(=O)OOS(C)(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12-24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)c(OS(C)(=O)=O)c(Cl)c1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "from procymidone"
+      ]
+    },
+    {
+      "relations": [
+        "(1.1\u20132.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "CS(=O)(=O)OOS(C)(=O)=O"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.[Ru+2].c1ccc(-c2ccccn2)nc1.c1ccc(-c2ccccn2)nc1.c1ccc(-c2ccccn2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ]
+]

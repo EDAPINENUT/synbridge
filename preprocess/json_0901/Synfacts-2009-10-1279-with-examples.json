@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "text": "CC(=O)N1C(=O)C(=Cc2ccco2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(N)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)N[C@H](c2ccc([N+](=O)[O-])cc2)[C@@H](c2ccco2)[C@]12C(=O)N(C(C)=O)c1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)NC(c2ccc([N+](=O)[O-])cc2)[C@]2(C(=O)N(C(C)=O)c3ccccc32)[C@@H]1c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=P1(O)Oc2c(-c3ccc4ccccc4c3)cc3ccccc3c2-c2c(c(-c3ccc4ccccc4c3)cc3ccccc23)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)N1C(=O)C(=CCC(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(N)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)N[C@H](c2ccc([N+](=O)[O-])cc2)[C@@H](CC(C)C)[C@]12C(=O)N(C(C)=O)c1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)NC(c2ccc([N+](=O)[O-])cc2)[C@]2(C(=O)N(C(C)=O)c3ccccc32)[C@@H]1CC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=P1(O)Oc2c(-c3ccc4ccccc4c3)cc3ccccc3c2-c2c(c(-c3ccc4ccccc4c3)cc3ccccc23)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

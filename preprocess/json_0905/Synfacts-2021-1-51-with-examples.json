@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)n1ccc2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(c2ccccc2)Cc2cc3ccccc3n21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "Fc1c[c-]c(-c2ccccn2)c(F)c1.Fc1c[c-]c(-c2ccccn2)c(F)c1.Fc1ccc(-c2ccccn2)c(F)c1.[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Fc1cc(F)cc([C@@](c2ccccc2)(c2ccc(F)cc2F)[n+]2ccccc2)c1.[I+].[I-].[I-].[I-].[I-].[I-].[I-].[I-].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.3 mmol",
+      "type": "other conditions"
+    }
+  ]
+]

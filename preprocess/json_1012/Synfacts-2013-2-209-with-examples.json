@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "text": "O=CON1C(=O)CCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)CCC1=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "EtOAc",
+        "70\u00b0C",
+        "12 h"
+      ]
+    },
+    {
+      "text": "COC(=O)ON1C(=O)CCC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[AgH]"
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage1"
+      ],
+      "text": "CC(C)(C)OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6-12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=CN[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "EtOAc",
+        "r.t.",
+        "6 h"
+      ]
+    },
+    {
+      "text": "COC(=O)N[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[AgH]"
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage1"
+      ],
+      "text": "CC(C)(C)OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6-12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ]
+]

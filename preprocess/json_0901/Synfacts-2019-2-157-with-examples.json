@@ -1,0 +1,73 @@
+[
+  [
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS(=O)(=O)OOS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)c(OS(C)(=O)=O)c(Cl)c1)C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "HFIP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12-24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)cc(Cl)c1)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS(=O)(=O)OOS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CC1(C)C(=O)N(c1cc(Cl)c(OS(C)(=O)=O)c(Cl)c1)C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[R (bpy)a(PF)2]",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16\u201324 h",
+      "type": "conditions"
+    }
+  ]
+]

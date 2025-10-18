@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "CC1(CC#Cc2ccccc2)C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]12CC(c3ccccc3)=C(c3ccccc3)[C@]1(O)c1ccccc1C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "42% ee"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand ent-L",
+        "10 mol%"
+      ],
+      "text": "c1ccc([C@@H]2COC(c3ccccc3P(c3ccccc3)c3ccccc3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC1CCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "MeCN:MeTHF = 3:2 (v/v)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "up to 89% yield",
+        "up to 97% ee"
+      ],
+      "text": "general performance",
+      "type": "other conditions"
+    }
+  ]
+]

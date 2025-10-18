@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)c2nccn2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1C(=C)C[C@H](C(=O)c2nccn2-c2ccccc2)[C@H]1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "dr=11:1",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "C=CC(OC(C)=O)C(=C)C[Si](C)(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Pd+2].[cH-]1cccc1.[CH2-]C=CH2"
+    },
+    {
+      "relations": [
+        "8 mol%",
+        "diamidophosphite ligand"
+      ],
+      "type": "catalyst",
+      "text": "C[C@H](C[C@H](C)OP1N(c2ccccc2)[C@@H]2CCCC[C@H]2N1c1ccccc1)OP1N(c2ccccc2)[C@@H]2CCCC[C@H]2N1c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.1 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccsc1)c1nccn1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1C(=C)C[C@H](C(=O)c2nccn2-c2ccccc2)[C@H]1c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=8.5:1",
+        "80% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "C=CC(OC(C)=O)C(=C)C[Si](C)(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Pd+2].[cH-]1cccc1.[CH2-]C=CH2"
+    },
+    {
+      "relations": [
+        "8 mol%",
+        "diamidophosphite ligand"
+      ],
+      "type": "catalyst",
+      "text": "C[C@H](C[C@H](C)OP1N(c2ccccc2)[C@@H]2CCCC[C@H]2N1c1ccccc1)OP1N(c2ccccc2)[C@@H]2CCCC[C@H]2N1c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.1 mmol scale"
+    }
+  ]
+]

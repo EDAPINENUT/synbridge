@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "text": "CC(=CC=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CC=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield (with host)",
+        "74% ee (S, with host)",
+        "27% yield (without host)",
+        "9% ee (S, without host)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H]1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "26 mol%"
+      ],
+      "text": "host present",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "[2H]C(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C(C)=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@@H](C)CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield (with host)",
+        "78% ee (S, with host)",
+        "28% yield (without host)",
+        "9% ee (S, without host)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H]1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "26 mol%"
+      ],
+      "text": "host present",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "[2H]C(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CC=O)c1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@@H](C)CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "12% yield (with host)",
+        "73% ee (S, with host)",
+        "28% yield (without host)",
+        "19% ee (R, without host)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)[C@@H]1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "26 mol%"
+      ],
+      "text": "host present",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "[2H]C(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

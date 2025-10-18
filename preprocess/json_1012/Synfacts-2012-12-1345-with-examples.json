@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(O)(CC=C(C)CCC=C(C)C)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "C=CC(=C)CCC=C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ru]1(C#O)(C#O)(C#O)(C#O)-[Ru](C#O)(C#O)(C#O)(C#O)-[Ru](C#O)(C#O)(C#O)(C#O)-1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20134 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.3 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(O)(CC=C(C)CCC=C(C)C)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "C=CC(=C)CCC=C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ru]1(C#O)(C#O)(C#O)(C#O)-[Ru](C#O)(C#O)(C#O)(C#O)-[Ru](C#O)(C#O)(C#O)(C#O)-1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20134 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.3 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

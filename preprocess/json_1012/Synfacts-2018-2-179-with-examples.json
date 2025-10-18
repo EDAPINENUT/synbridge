@@ -1,0 +1,429 @@
+[
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "N=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield (glycine)",
+        "79% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C#N)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Cc1cccc(C(=N)c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cccc(C(=O)c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield (glycine)",
+        "82% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1F",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "N=C(c1ccccc1)c1ccccc1F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield (glycine)",
+        "86% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccc(F)cc1C(F)(F)F",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "N=C(c1ccccc1)c1ccc(F)cc1C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1ccc(F)cc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield (glycine)",
+        "76% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccccc1C(=N)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield (glycine)",
+        "43% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1cccc(F)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "N=C(c1ccccc1)c1cccc(F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1cccc(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield (glycine)",
+        "69% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "N=C(c1ccccc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield (glycine)",
+        "77% yield (H2O)"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "NCC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "air atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "hydrolysis",
+      "type": "other conditions"
+    }
+  ]
+]

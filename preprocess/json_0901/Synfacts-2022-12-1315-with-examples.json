@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "O=c1[nH]n(-c2ccc(C(F)(F)F)cc2)c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1occo1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1c2ccccc2n2n1C(O)Cc1cc(C(F)(F)F)ccc1-2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "X= OAc or Cl"
+      ],
+      "type": "conditions",
+      "text": "[RhCp*X2]2"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "AgOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=c1[nH]n(-c2cccc(Cl)c2)c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1occo1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1c2ccccc2n2n1C(O)Cc1ccc(Cl)cc1-2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "X= OAc or Cl"
+      ],
+      "type": "conditions",
+      "text": "[RhCp*X2]2"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "AgOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20h",
+      "type": "conditions"
+    }
+  ]
+]

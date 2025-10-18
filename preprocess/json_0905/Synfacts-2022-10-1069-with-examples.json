@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "text": "C(#Cc1cc2ccccc2[nH]1)C1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1oc(C2=CCCCC2)cc2cc3ccccc3n12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "2e"
+      ]
+    },
+    {
+      "relations": [
+        "10\u201320 mol%",
+        "silver(I) picolinate"
+      ],
+      "text": "O=C([O-])c1ccccn1.O=C([O-])c1ccccn1.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MTBD",
+        "1 equiv"
+      ],
+      "text": "CN1CCCN2CCCN=C12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 MPa"
+      ],
+      "text": "O=C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(#Cc1cc2ccccc2[nH]1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc2c1cc1cc(-c3ccccc3)oc(=O)n12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "2i"
+      ]
+    },
+    {
+      "relations": [
+        "10\u201320 mol%",
+        "silver(I) picolinate"
+      ],
+      "text": "O=C([O-])c1ccccn1.O=C([O-])c1ccccn1.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MTBD",
+        "1 equiv"
+      ],
+      "text": "CN1CCCN2CCCN=C12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 MPa"
+      ],
+      "text": "O=C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ]
+]

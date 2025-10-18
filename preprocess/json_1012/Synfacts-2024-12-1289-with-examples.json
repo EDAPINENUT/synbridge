@@ -1,0 +1,551 @@
+[
+  [
+    {
+      "text": "CC(C)N(c1ccccc1Cl)[PH](=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)N(C(C)C)[P@@](=O)(C=Cc1ccccc1Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "85% ee",
+        "Vinylation"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[PH](=O)N(c1ccccc1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[P@](=O)(C=Cc1ccccc1)Nc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "59% ee",
+        "Vinylation"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[PH](=O)N(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(c1ccccc1)[P@@](=O)(C=Cc1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "36% yield",
+        "94% ee",
+        "Vinylation"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(P=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1cccc([P@@](=O)(c2ccccc2)N(C(C)C)C(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "99% ee",
+        "Arylation"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(C(C)C)[PH](=O)C=Cc1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)N(C(C)C)[P@@](=O)(C=Cc1ccccc1Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "85% ee",
+        "Vinylation"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(C(C)C)[PH](=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)N(C(C)C)[P@](=O)(c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "96% ee",
+        "Arylation"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "N[PH](=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)N(C(C)C)[P@](=O)(c1ccccc1)c1ccc2occc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "97% ee",
+        "Arylation"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(C(C)C)[PH](=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)N(C(C)C)[P@](=O)(c1ccccc1)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "98% ee",
+        "Arylation"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1cccc([PH](=O)N(C(C)C)C(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1cccc([P@@](=O)(c2ccccc2)N(C(C)C)C(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "99% ee",
+        "Arylation"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "11 mol%",
+        "L"
+      ],
+      "text": "c1ccc([Fe]c2cccc(C3=N[C@@H](c4ccccc4)CO3)c2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,239 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C2SCCCS2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=C[C@H](c1ccccc1)C1(c2ccccc2)SCCCS1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[P@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd(n3-C3H5)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "BenzP*",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "Lil",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C2SCCCS2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[P@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C(=C[C@H](c1ccccc1)C1(c2ccccc2)SCCCS1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd(n3-C3H5)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "BenzP*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "15-crown-5",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C1SCCCS1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[P@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)C1([C@H](C=Cc2ccccc2)c2ccccc2)SCCCS1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd(n3-C3H5)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "BenzP*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "15-crown-5",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C(=O)C2SCCCS2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[P@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C(=O)C2([C@@H](C=Cc3ccccc3)c3ccccc3)SCCCS2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd(n3-C3H5)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "BenzP*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "15-crown-5",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "conditions"
+    }
+  ]
+]

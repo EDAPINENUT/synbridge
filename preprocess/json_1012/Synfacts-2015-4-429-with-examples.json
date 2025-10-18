@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "text": "COc1cccc(B2OCC(C)(C)CO2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(CCc2ccc3c(c2)OCO3)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(CC(C)(O)CCc2ccc3c(c2)OCO3)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand L"
+      ],
+      "text": "O=C(CC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[I-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "14 h",
+      "type": "time"
+    }
+  ]
+]

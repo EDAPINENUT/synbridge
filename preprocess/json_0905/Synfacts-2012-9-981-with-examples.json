@@ -1,0 +1,162 @@
+[
+  [
+    {
+      "text": "CC(=O)C(C)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)[C@@H](C)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "99.4% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "type": "other conditions",
+      "text": "catalyst A"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)C(C)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)[C@@H](C)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "99.1% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "type": "other conditions",
+      "text": "catalyst A"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=Cc1ccccc1)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](Cc1ccccc1)C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "99.7% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "type": "other conditions",
+      "text": "catalyst A"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=C2CCCCC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@@H]2CCCCC2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "type": "other conditions",
+      "text": "catalyst A"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ]
+]

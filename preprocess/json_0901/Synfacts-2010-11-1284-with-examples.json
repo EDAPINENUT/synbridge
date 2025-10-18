@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CCOC(C)=NOc1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1cccc2c3c(oc12)CCCC3",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "HCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(C)=NOc1cccc(C(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1cccc2cc(-c3ccccc3)oc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "HCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,912 @@
+[
+  [
+    {
+      "text": "Cc1cccc(C#N)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1c(-c2ccccc2)c[nH]c1-c1cccc(C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1c(-c2ccccc2)c[nH]c1-c1ccc(C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1c(-c2ccccc2)c[nH]c1-c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1c(-c2ccc(OC)cc2)c[nH]c1-c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1c(-c2ccccc2)c[nH]c1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#N",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCCc1c[nH]c(CC)c1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#N",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCCc1c[nH]c(-c2ccccc2)c1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CCOC(=O)CBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1\u20131.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage2"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.2 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "1\u20135 h",
+      "type": "time"
+    }
+  ]
+]

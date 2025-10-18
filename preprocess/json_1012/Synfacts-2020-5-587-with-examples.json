@@ -1,0 +1,159 @@
+[
+  [
+    {
+      "text": "CC1(C)COP(=O)(O[C@H]2OC(COCc3ccccc3)C(OCc3ccccc3)C2OCc2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)O[C@@H]1O[C@H](COCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "\u03b2/\u03b1 >30:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "bis-thiourea catalyst",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.04 M"
+      ],
+      "text": "CCCOCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 g/mmol"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COP(=O)(O[C@H]2OC(COCc3ccccc3)C(OCc3ccccc3)C2OCc2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@H]1O[C@@H](C)[C@@H](O)[C@H]2OC(C)(C)O[C@@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@H]1O[C@@H](C)[C@H](O[C@@H]2O[C@H](COCc3ccccc3)[C@@H](OCc3ccccc3)[C@@H]2OCc2ccccc2)[C@H]2OC(C)(C)O[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "\u03b2/\u03b1 >30:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "bis-thiourea catalyst",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.04 M"
+      ],
+      "text": "CCCOCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 g/mmol"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COP(=O)(O[C@H]2OC(COCc3ccccc3)C(OCc3ccccc3)C2O[C@@H]2O[C@H](COCc3ccccc3)[C@@H](OCc3ccccc3)[C@@H]2OCc2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@H]1O[C@H](COCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1O[C@@H]1O[C@H](COCc2ccccc2)[C@@H](OCc2ccccc2)[C@@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "\u03b2/\u03b1 = 22:1",
+        "\u03b1-D-arabinofuranose"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "bis-thiourea catalyst",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.04 M"
+      ],
+      "text": "CCCOCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 g/mmol"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

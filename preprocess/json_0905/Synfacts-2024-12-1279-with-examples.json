@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "text": "COc1cccc(SNc2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([S@@+](c2ccc(C)cc2)N(C)c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "OB(O)c1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "Pylm ligand"
+      ],
+      "text": "CC(C)(C)[C@@H]1N=C(c2ccccn2)N(c2ccccc2)[C@@H]1Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuTc",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CsE",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-18 h",
+      "type": "time"
+    }
+  ]
+]

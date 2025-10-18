@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "Br[C@@H]1C=C[C@H](Br)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1C=CCC[C@H]1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "er=99:1"
+      ]
+    },
+    {
+      "text": "[Li]C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CSC.[Cu]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Br[C@@H]1C=C[C@H](Br)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H]1C=CCC[C@H]1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "text": "[Li]C(C)C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CSC.[Cu]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

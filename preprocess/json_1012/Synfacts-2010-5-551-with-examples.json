@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@@](=O)N[C@@H](CC#C[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr=99.4:0.6"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1(C)OB(CC#C[Si](C)(C)C)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@@](=O)N[C@@H](CC#C[Si](C)(C)C)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "dr=99.7:0.3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1(C)OB(CC#C[Si](C)(C)C)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@@](=O)N[C@@H](CC#C[Si](C)(C)C)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr=96:4"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1(C)OB(CC#C[Si](C)(C)C)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ]
+]

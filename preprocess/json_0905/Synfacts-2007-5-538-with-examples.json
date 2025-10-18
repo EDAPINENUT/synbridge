@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCC[C@H]1[C@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr=94:6",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "ketone = cyclohexanone, cyclopentanone, -CH2SCH2-, -CH2OCH2-, etc."
+      ],
+      "type": "reactants",
+      "text": "O=C1CCC1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst 1-TFA"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c3c(ccc2c1)CN(C[C@@H]1CCCN1)Cc1ccc2ccccc2c1-3"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "7\u201330 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "brine"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCC[C@H]1[C@@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr=94:6",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "ketone = cyclohexanone, cyclopentanone, -CH2SCH2-, -CH2OCH2-, etc."
+      ],
+      "type": "reactants",
+      "text": "O=C1CCC1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst 1-TFA"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c3c(ccc2c1)CN(C[C@@H]1CCCN1)Cc1ccc2ccccc2c1-3"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "7\u201330 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "brine"
+    }
+  ]
+]

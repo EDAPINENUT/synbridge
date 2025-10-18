@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "OCC=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1C(=O)N(c2ccc(Cl)cc2)N=C1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@]1(CC=Cc2ccccc2Br)C(=O)N(c2ccc(Cl)cc2)N=C1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "L"
+      ],
+      "text": "N(Cc1ccccc1)(c1ccc2ccccc2c1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "PA"
+      ],
+      "text": "O=P1(O)Oc2ccc3ccccc3c2-c2c(ccc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

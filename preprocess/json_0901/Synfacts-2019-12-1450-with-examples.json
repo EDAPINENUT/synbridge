@@ -1,0 +1,200 @@
+[
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](CC(c1ccccc1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCCC1)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCC1)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C(C[C@H](N)C(=O)O)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC(c1ccc2ccccc2c1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](CO)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C(C[C@H](N)C(=O)O)[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase(TrpB) of Pyrococcus furiosus",
+        "68V,F95L. I16V. F274S, T292S, T321A,V384A",
+        "P(B-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, 165T"
+      ],
+      "text": "enzyme A (Pf(NMB))",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "buffer 50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

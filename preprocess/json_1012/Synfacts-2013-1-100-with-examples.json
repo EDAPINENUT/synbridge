@@ -1,0 +1,128 @@
+[
+  [
+    {
+      "text": "CCCCC#CC=C(C(C)=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NS(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(NS(=O)(=O)c1ccc([N+](=O)[O-])cc1)c1cc(C(C)=O)c(C)o1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10-20 mol%"
+      ],
+      "text": "C1CCSC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24-48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC#CC=C(C(C)=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CO)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(OCc1ccc(OC)cc1)c1cc(C(C)=O)c(C)o1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10-20 mol%"
+      ],
+      "text": "C1CCSC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24-48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC[Si](CC)(CC)OC#CC=C(C(C)=O)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)OC(OC(=O)OCc1ccccc1)c1cc(C(C)=O)c(C)o1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10-20 mol%"
+      ],
+      "text": "C1CCSC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24-48 h",
+      "type": "time"
+    }
+  ]
+]

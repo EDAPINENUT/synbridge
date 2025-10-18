@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "CC(=O)COCC(C)=C=C1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1COC2COCC(Cc3ccccc3)=C12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield"
+      ]
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CC(C)(C)P([c-]1cccc1)C(C)(C)C.CC(C)(C)P([c-]1cccc1)C(C)(C)C.[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ]
+]

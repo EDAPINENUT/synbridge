@@ -1,0 +1,1094 @@
+[
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=C(Br)C1=CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C=C(C1=CCCCC1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=C(Br)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(=CC(C)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(C(Br)=CC(C)c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCCCC(=CC(C)c1ccccc1)c1cccc(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#Cc1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=C(Br)c1ccc(OC)nc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCC(=C(c1ccc(Cl)cc1)c1ccc(OC)nc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=C(Br)c1ccccc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC(=C(C)c1ccccc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=C(Br)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(=CC(C)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "150 mol%",
+        "2h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=C(Br)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C=C(C1=CCCCC1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(OC(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(Br)=CC(C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(=CC(C)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCCC(Br)=CC(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCCCC(=CC(C)c1ccccc1)c1cccc(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=C(Br)c1ccc(Cl)cc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCC(=C(c1ccc(Cl)cc1)c1ccc(OC)nc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#CCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=C(C)Br)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC(=C(C)c1ccccc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(OC(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(Br)=CC(C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)Oc1ccc(C(=CC(C)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%",
+        "48 h"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.5 equiv"
+      ],
+      "text": "R\u00b3\u2212B(OH)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "4 mol%"
+      ],
+      "text": "Ph3P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2 equiv"
+      ],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013MeOH (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "40\u00b0C, 16 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "text": "CC(C)[C@@H](NC(=O)[C@@H]1CCCN1)C(=O)N1CCC[C@@H]1C(=O)N[C@@H]1C(=O)SC1c1ccc(O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](C(S)c2ccc(O)cc2)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "Drax",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4"
+      ],
+      "text": "S buffer",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4-8 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mM"
+      ],
+      "text": "VA-044",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "TCEP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "glutathione",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N[C@H](CS)C(=O)N1CCC[C@@H]1C(=O)N[C@H]1CSC1=O)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1N[C@H](CS)C(=O)N2CCC[C@@H]2C(=O)N[C@@H](CS)C(=O)N2CCC[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H]1C(=O)N2CCC[C@@H]2C(=O)N[C@@H](CS)C(=O)N2CCC[C@@H]2C(=O)N1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "Drax",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4"
+      ],
+      "text": "S buffer",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4-8 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mM"
+      ],
+      "text": "VA-044",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "TCEP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "glutathione",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(S)[C@@H](NC(=O)[C@@H]1CCCN1)C(=O)N1CCC[C@@H]1C(=O)N[C@@H]1C(=O)SC1CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(S)[C@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](C(S)CC(=O)O)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(S)[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](CCC(=O)O)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "Drax",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4"
+      ],
+      "text": "S buffer",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4-8 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 mM"
+      ],
+      "text": "VA-044",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "TCEP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.07 M"
+      ],
+      "text": "glutathione",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    }
+  ]
+]

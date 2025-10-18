@@ -1,0 +1,810 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](N[S@+]([O-])C(C)(C)C)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 1:20"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@+]([O-])N=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@+]([O-])N[C@H](c1ccc2ccccc2c1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr = 1:13"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@+]([O-])N=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@+]([O-])N[C@H](c1ccc(C(F)(F)F)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "dr = 1:5"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C=N[S@@+]([O-])C(C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr = 1:11"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)c1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1ccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 6:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C=N[S@@+]([O-])C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@H](N[S@+]([O-])C(C)(C)C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr = 35:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)cc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr = 44:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C=N[S@@+]([O-])C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(N[S@@+]([O-])C(C)(C)C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "dr = 49:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "KHMDS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](N[S@+]([O-])C(C)(C)C)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 1:20"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@+]([O-])N=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@+]([O-])N[C@H](c1ccc2ccccc2c1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr = 1:13"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@+]([O-])N=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[S@+]([O-])N[C@H](c1ccc(C(F)(F)F)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "dr = 1:5"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C=N[S@@+]([O-])C(C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr = 1:11"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)c1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1ccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr = 6:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C=N[S@@+]([O-])C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@H](N[S@+]([O-])C(C)(C)C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr = 35:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=N[S@@+]([O-])C(C)(C)C)cc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](N[S@@+]([O-])C(C)(C)C)C(F)(F)F)cc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr = 44:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C=N[S@@+]([O-])C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(N[S@@+]([O-])C(C)(C)C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "dr = 49:1",
+        "Method B"
+      ]
+    },
+    {
+      "relations": [
+        "excess"
+      ],
+      "text": "FC(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "P4-t-Bu",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "method B",
+      "type": "other conditions"
+    }
+  ]
+]

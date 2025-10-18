@@ -1,0 +1,806 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)[C@@H](C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C)C(=O)CCC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc2occc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=O)C(C)c1ccc2occc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)[C@@H](C)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc2c(c1)c1ccccc1n2CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCn1c2ccccc2c2cc(C(C)C(=O)CCC(C)C)ccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)OCC=Cc1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)[C@@H](CCOC(=O)C(C)(C)C)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC[C@@H](C(=O)CC(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(COCC=Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(COCC[C@H](C(=O)CC(C)C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cnc(N2CCCCC2)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C(=O)CCCOCc1ccccc1)c1cnc(N2CCCCC2)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C)C(=O)CC2CCOCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCCC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCCCCC(=O)[C@@H](C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(CCC=CC(=O)O)[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C)C(=O)CCCCC(C)(C)[N+](=O)[O-])cn1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc2occc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCCC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCCCCC(=O)C(C)c1ccc2occc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.4 mol%",
+        "(S,S)-Ph-BPE"
+      ],
+      "text": "c1ccc([C@H]2CC[C@@H](c3ccccc3)[P+]23CC[PH]2([C@@H](c4ccccc4)CC[C@@H]2c2ccccc2)[P+]32(c3ccccc3)CCc3ccccc32)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 equiv"
+      ],
+      "text": "CO[SiH](C)(C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "NH4F workup",
+      "type": "other conditions"
+    }
+  ]
+]

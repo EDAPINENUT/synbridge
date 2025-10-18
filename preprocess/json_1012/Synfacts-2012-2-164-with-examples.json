@@ -1,0 +1,124 @@
+[
+  [
+    {
+      "text": "C=C(CCC=O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@H](CCc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "95% ee",
+        "with (R)-3"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "[Rh]123456(C1=C2)(C3=C4)Cl5[Rh]7890(C7=C8)(C9=C0)Cl6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%",
+        "(R)-3"
+      ],
+      "text": "C1=Cc2ccccc2N(P2Oc3cccc4c3C3(CC4)CCc4cccc(c43)O2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%"
+      ],
+      "text": "CP(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@H](c2ccc(C(F)(F)F)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "97% ee",
+        "with (S)-3"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "[Rh]123456(C1=C2)(C3=C4)Cl5[Rh]7890(C7=C8)(C9=C0)Cl6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%",
+        "(R)-3"
+      ],
+      "text": "C1=Cc2ccccc2N(P2Oc3cccc4c3C3(CC4)CCc4cccc(c43)O2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%"
+      ],
+      "text": "CP(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ]
+]

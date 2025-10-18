@@ -1,0 +1,422 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1OC(c2ccccc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1C#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1OC(c2ccc(Cl)cc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1C#Cc1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(C2=Cc3ccccc3[C@H](C)O2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cc(C#Cc2ccccc2C(C)=O)cc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(OC)cc(C2=Cc3ccccc3[C@H](C)O2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(Cl)cc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1OC(c2ccccc2)=Cc2cc(Cl)ccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)c1ccccc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H]1OC(c2ccccc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2c([Si](c3ccccc3)(c3ccccc3)c3ccccc3)cc3c(c2-c2c4c(cc([Si](c5ccccc5)(c5ccccc5)c5ccccc5)c2O1)CCCC4)CCCC3",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv"
+      ],
+      "text": "3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35 h",
+      "type": "conditions"
+    }
+  ]
+]

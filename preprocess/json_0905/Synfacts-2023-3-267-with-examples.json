@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "COc1cc(N(C)S(=O)(=O)c2ccccc2Br)nc(OC)n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(N(C)S(=O)(=O)c2ccc(C(O)C(F)(F)F)cc2)nc(OC)n1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "from sulfadimethoxine"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C1c2ccccc2C(=O)N1OCC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NiBr2(dtbbpy)"
+      ],
+      "text": "CC(C)(C)C1=CC2c3cc(C(C)(C)C)cc[n+]3[Si](Br)(Br)N2C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20 W purple LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "399 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    }
+  ]
+]

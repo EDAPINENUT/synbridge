@@ -1,0 +1,353 @@
+[
+  [
+    {
+      "text": "C=CC(O)C(=C=C1CCCC1)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1OC(=O)C(C(=C)C)=C1CCCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1,4-benzoquinone"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)C=C=C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C=C(C(=C)C)C(=O)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1,4-benzoquinone"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(C=C=C2CCCC2)C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C1=CC2(C=CCCC2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1,4-benzoquinone"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(O)C=C=C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C1=C(CCCC)[C@H]2OC(=O)C[C@H]2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd-AmP-MCF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "2-methyl-1,4-benzoquinone"
+      ],
+      "text": "CC1=CC(=O)C(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)C=C=C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C1=C[C@H]2OC(=O)C[C@H]2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd-AmP-MCF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "2-methyl-1,4-benzoquinone"
+      ],
+      "text": "CC1=CC(=O)C(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)C(=C=C1CCCC1)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC1=C(C2=CCCCCCC2)C(=O)[C@@H]2CC(=O)O[C@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd-AmP-MCF",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "2-methyl-1,4-benzoquinone"
+      ],
+      "text": "CC1=CC(=O)C(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 atm",
+      "type": "other conditions"
+    }
+  ]
+]

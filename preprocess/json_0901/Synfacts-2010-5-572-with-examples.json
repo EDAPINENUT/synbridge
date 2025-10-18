@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "Cc1ccc2nc(N3C(=O)OC[C@@H]3C(C)C)cc(C)c2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(N2C(=O)OC[C@@H]2C(C)C)nc2c1CC(C)CC2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(N2C(=O)OC[C@@H]2C(C)C)nc2c1C[C@H](C)CC2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 wt%"
+      ],
+      "text": "PtO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20h",
+      "type": "conditions"
+    }
+  ]
+]

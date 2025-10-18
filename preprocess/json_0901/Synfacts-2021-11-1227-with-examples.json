@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "C=CCc1ccccc1NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H]1c2ccccc2N(C(=O)OCc2ccccc2)[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P2Cc3cccc4c3C3(CC4)CCc4cccc(c43)C2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "10-20 mol%"
+      ],
+      "text": "Pd2(dba)3, L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2.5-DMBQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1ccccc1NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H]1c2ccccc2N(C(=O)OCc2ccccc2)[C@H](c2ccc(Cl)cc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P2Cc3cccc4c3C3(CC4)CCc4cccc(c43)C2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "10-20 mol%"
+      ],
+      "text": "Pd2(dba)3, L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2.5-DMBQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,345 @@
+[
+  [
+    {
+      "text": "CC(S)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](S)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=S)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](S)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "27% yield",
+        "48% conversion",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "(hydroxymethylfurfural) oxidase",
+        "stage1"
+      ],
+      "text": "HMFO (Val465Ser)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(\u00b1)-dithiothreitol",
+        "stage1"
+      ],
+      "text": "OCC(S)C(S)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.0",
+        "stage1"
+      ],
+      "text": "NaPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u2212H2S (spontaneous)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(S)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](S)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=S)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](S)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "20% yield",
+        "47% conversion",
+        "er=93.5:6.5"
+      ]
+    },
+    {
+      "relations": [
+        "(hydroxymethylfurfural) oxidase",
+        "stage1"
+      ],
+      "text": "HMFO (Val465Ser)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(\u00b1)-dithiothreitol",
+        "stage1"
+      ],
+      "text": "OCC(S)C(S)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.0",
+        "stage1"
+      ],
+      "text": "NaPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u2212H2S (spontaneous)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(S)c1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](S)c1cccc(Br)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=S)c1cccc(Br)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](S)c1cccc(Br)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% conversion",
+        "er=90:10"
+      ]
+    },
+    {
+      "relations": [
+        "(hydroxymethylfurfural) oxidase",
+        "stage1"
+      ],
+      "text": "HMFO (Val465Ser)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(\u00b1)-dithiothreitol",
+        "stage1"
+      ],
+      "text": "OCC(S)C(S)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.0",
+        "stage1"
+      ],
+      "text": "NaPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u2212H2S (spontaneous)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)S)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C)S)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C(C)=S)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@@H](C)S)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "25% yield",
+        "49% conversion",
+        "er>98.5:1.5"
+      ]
+    },
+    {
+      "relations": [
+        "(hydroxymethylfurfural) oxidase",
+        "stage1"
+      ],
+      "text": "HMFO (Val465Ser)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(\u00b1)-dithiothreitol",
+        "stage1"
+      ],
+      "text": "OCC(S)C(S)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "O2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.0",
+        "stage1"
+      ],
+      "text": "NaPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u2212H2S (spontaneous)",
+      "type": "other conditions"
+    }
+  ]
+]

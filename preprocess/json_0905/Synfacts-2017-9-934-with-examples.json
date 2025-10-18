@@ -1,0 +1,378 @@
+[
+  [
+    {
+      "text": "C=C(CC(=O)c1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)c1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 99%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc(C)cc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C(=O)C[C@@H](C)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee >99%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc(OC)cc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)C[C@@H](C)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 99%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc(C(C)(C)C)cc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)c1ccc(C(C)(C)C)cc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee >99%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc(F)cc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CC(=O)c1ccc(F)cc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 99%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc(Cl)cc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CC(=O)c1ccc(Cl)cc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 97%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)c1ccc2ccccc2c1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CC(=O)c1ccc2ccccc2c1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 93%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC(=O)C(C)(C)C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)C(C)(C)C)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee 95%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2C=CC1C2.C1=CC2C=CC1C2.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.1 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    }
+  ]
+]

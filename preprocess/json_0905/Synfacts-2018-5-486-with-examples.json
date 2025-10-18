@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "text": "O=C(O)C#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=CCCOCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C#Cc1ccc(Cl)cc1)CCOCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "er = 97:3"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-Tol-BINAP",
+        "7.5 mol%"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)",
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CO2 evolution",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=CCCOCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C#Cc1ccccc1)CCOCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "er = 97:3"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-Tol-BINAP",
+        "7.5 mol%"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)",
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CO2 evolution",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C#CC(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C#Cc1ccc(OC)cc1)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-Tol-BINAP",
+        "7.5 mol%"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)",
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3:1 (CH2Cl2:EtOH)"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CO2 evolution",
+      "type": "other conditions"
+    }
+  ]
+]

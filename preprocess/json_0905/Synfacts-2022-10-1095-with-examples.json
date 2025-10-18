@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "Cc1noc(=O)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=COCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](NC(C)=O)[C@H](CCCBr)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "[Ind*RhCl2]2"
+      ],
+      "text": "Cc1c(C)c(C)c2c(C)c(C)c(C)c(C)c2c1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiHg",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "21\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1noc(=O)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=CCCCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](NC(C)=O)[C@H](O)CCCOCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "[Ind*RhCl2]2"
+      ],
+      "text": "Cc1c(C)c(C)c2c(C)c(C)c(C)c(C)c2c1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "F[B-](F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiHg",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "21\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "text": "C=CC1OC(=O)N(S(=O)(=O)c2ccc(C)cc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H]1c2ccccc2N(S(=O)(=O)c2ccc(C)cc2)C(=O)[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cccc(OC)c1-c1cccc2c1[P@](C(C)(C)C)CO2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "mesitylene",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

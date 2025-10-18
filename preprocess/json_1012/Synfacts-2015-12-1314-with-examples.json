@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)n1cc(C=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](B1OC(C)(C)C(C)(C)O1)[C@@H](O)c1cn(C(=O)OC(C)(C)C)c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "dr=99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(B1OC(C)(C)C(C)(C)O1)B1OC(C)(C)C(C)(C)O1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "130 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

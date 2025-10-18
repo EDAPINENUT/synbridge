@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](N=C=C(Cc1ccccc1)OC(C)(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCN(C)P1(=O)N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@H](O)[C@](C#N)(Cc2ccccc2)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Lewis base",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "ArCHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "SiCl4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    }
+  ]
+]

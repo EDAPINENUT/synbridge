@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "Cc1noc(=O)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=COCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](NC(C)=O)[C@H](CCCBr)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "10 mol%"
+      ],
+      "text": "[Ind*RhCl2]2, AgBF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiHg",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "text": "HFIP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "21\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1noc(=O)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=CCCCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](NC(C)=O)[C@H](O)CCCOCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "10 mol%"
+      ],
+      "text": "[Ind*RhCl2]2, AgBF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "PhSiHg",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "text": "HFIP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "21\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

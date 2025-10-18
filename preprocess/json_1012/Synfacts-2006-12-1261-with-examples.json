@@ -1,0 +1,383 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OCC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "TESOK",
+        "2 equiv",
+        "step 1"
+      ],
+      "text": "CC[Si]([O-])(CC)CC.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "step 1"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "Ligand",
+        "step 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "TBAF",
+        "step 2",
+        "or"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF",
+        "step 2",
+        "or"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30% aq",
+        "step 2",
+        "or"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MeOH",
+        "step 2",
+        "or"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OCC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](O)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "TESOK",
+        "2 equiv",
+        "step 1"
+      ],
+      "text": "CC[Si]([O-])(CC)CC.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "step 1"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "Ligand",
+        "step 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "TBAF",
+        "step 2",
+        "or"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF",
+        "step 2",
+        "or"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30% aq",
+        "step 2",
+        "or"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MeOH",
+        "step 2",
+        "or"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OCC=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](O)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "TESOK",
+        "2 equiv",
+        "step 1"
+      ],
+      "text": "CC[Si]([O-])(CC)CC.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "step 1"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "Ligand",
+        "step 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "TBAF",
+        "step 2",
+        "or"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF",
+        "step 2",
+        "or"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30% aq",
+        "step 2",
+        "or"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MeOH",
+        "step 2",
+        "or"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=CCOC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CCC)O[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "95% ee",
+        "Isolated as protected alcohol due to volatility of free alcohol"
+      ]
+    },
+    {
+      "relations": [
+        "TESOK",
+        "2 equiv",
+        "step 1"
+      ],
+      "text": "CC[Si]([O-])(CC)CC.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "step 1"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "Ligand",
+        "step 1"
+      ],
+      "text": "C[C@@H](c1ccccc1)N([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "TBAF",
+        "step 2",
+        "or"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF",
+        "step 2",
+        "or"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30% aq",
+        "step 2",
+        "or"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "MeOH",
+        "step 2",
+        "or"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ]
+]

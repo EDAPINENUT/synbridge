@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "text": "COc1ccc(C2CC2(C(=O)OC23CC4CC(CC(C4)C2)C3)C(=O)OC23CC4CC(CC(C4)C2)C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](O)CC(C(=O)OC23CC4CC(CC(C4)C2)C3)C(=O)OC23CC4CC(CC(C4)C2)C3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "with ligand E"
+      ],
+      "text": "O.O.O.O.O.[Cu+2].[O-][Cl+3]([O-])([O-])[O-].[O-][Cl+3]([O-])([O-])[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "E"
+      ],
+      "text": "CC(CC1=N[C@@H](C2CCCCC2)CO1)(C1=N[C@@H](C2CCCCC2)CO1)C1=N[C@@H](C2CCCCC2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

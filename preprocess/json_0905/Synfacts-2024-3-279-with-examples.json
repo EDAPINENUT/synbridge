@@ -1,0 +1,339 @@
+[
+  [
+    {
+      "text": "Cl[C@H]1CCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])[C@@H]1Cc2ccccc2[C@H]1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "dr=20:1"
+      ]
+    },
+    {
+      "text": "[HH]",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])CC(Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C[N+](=O)[O-])SC2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield"
+      ]
+    },
+    {
+      "text": "SC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CSCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCSC(C[N+](=O)[O-])c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "text": "COc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CNOCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCONC(C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CN(C)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON(C)C(C[N+](=O)[O-])c1ccc(C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "text": "CC(C)(C)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "350 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ]
+]

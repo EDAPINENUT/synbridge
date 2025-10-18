@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=CC(=S)N(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC=CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](CC(=S)N(C)C)[C@@H]2C=CC(=O)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "0.5-10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5-10 mol%",
+        "(R)-segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201372 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "S=C(C=Cc1cccnc1)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC=CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=C[C@@H]([C@H](CC(=S)N(Cc2ccccc2)Cc2ccccc2)c2cccnc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "0.5-10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5-10 mol%",
+        "(R)-segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201372 h",
+      "type": "time"
+    }
+  ]
+]

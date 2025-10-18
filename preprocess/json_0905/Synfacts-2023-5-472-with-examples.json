@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "CC(C)Cc1ccc(C(C)C(=O)C23CC(C2)C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc(C(C)C(=O)C23CC(CC2C#N)C3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr = 1:1",
+        "from ibuprofen"
+      ]
+    },
+    {
+      "relations": [
+        "5.0\u201325 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[I-].[Sm+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-10\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 min"
+    }
+  ]
+]

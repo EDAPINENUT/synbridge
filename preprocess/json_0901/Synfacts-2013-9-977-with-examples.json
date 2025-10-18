@@ -1,0 +1,155 @@
+[
+  [
+    {
+      "text": "C=CCC(C)(C)CNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)N(F)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc([C@H]2COC(c3ccc4ccccc4n3)=N2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC1(C)CC(CN(S(=O)(=O)c2ccccc2)S(=O)(=O)c2ccccc2)N(C(=O)c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(TEA) 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "pybox TEMPO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC1(CNC(=O)c2ccc(C)cc2)CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)N(F)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc([C@H]2COC(c3ccc4ccccc4n3)=N2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C(=O)N2CC3(CCCCC3)CC2CN(S(=O)(=O)c2ccccc2)S(=O)(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(TEA) 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "pybox TEMPO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(CNC(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)N(F)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc([C@H]2COC(c3ccc4ccccc4n3)=N2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C(=O)N2CC(c3ccccc3)CC2CNS(=O)(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(TEA) 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "pybox TEMPO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3\u201324 h",
+      "type": "conditions"
+    }
+  ]
+]

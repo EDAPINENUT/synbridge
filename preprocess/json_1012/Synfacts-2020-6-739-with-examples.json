@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "CC(C)(Br)C(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCNCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(C)(C)C(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "26% yield",
+        "aHFiP",
+        "5.0 equiv"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2\u20133 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "Cc1c(CN(Cc2ccccc2)C(=O)c2ccccc2Br)n(C)c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1c2ccccc2N(C)[C@]12CN(Cc1ccccc1)C(=O)c1cc(OC)ccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "10 mol%"
+      ],
+      "text": "Pd(dba)2, chiral phosphoramidite ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "TMEDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

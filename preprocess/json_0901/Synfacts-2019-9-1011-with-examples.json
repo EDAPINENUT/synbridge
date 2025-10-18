@@ -1,0 +1,422 @@
+[
+  [
+    {
+      "text": "C=C=C(CC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)S(=O)N[C@H](c1ccccc1)c1cccc([Fe]c2ccccc2)c1-c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(F)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)S(=O)N[C@H](c1ccc2c(c1)OCO2)c1cccc([Fe]c2ccccc2)c1-c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccc2c(c1)OCO2)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CC)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](NS(=O)C(C)(C)C)c2cccc([Fe]c3ccccc3)c2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccc(C(C)(C)C)cc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CC)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](NS(=O)C(C)(C)C)c2cccc([Fe]c3ccccc3)c2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccc(C(C)(C)C)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CC)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](NS(=O)C(C)(C)C)c2cccc([Fe]c3ccccc3)c2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccc(C(C)(C)C)cc1)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CC)c1ccc2ncccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](NS(=O)C(C)(C)C)c2cccc([Fe]c3ccccc3)c2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CC)(C(=O)c1ccc(C(C)(C)C)cc1)c1ccc2ncccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=C(CCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](NS(=O)C(C)(C)C)c2cccc([Fe]c3ccccc3)c2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)[C@@](CCC)(C(=O)c1ccc(C(C)(C)C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "B\u2082pin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cu(OAc)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "WJ-Phos li ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "TMSONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

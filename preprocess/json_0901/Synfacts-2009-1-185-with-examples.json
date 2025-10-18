@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "CC1CCC(C(=O)OC(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@]2(C(=O)OC(C)(C)C)CC[C@@H](C)CC2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Pd(Pt-Bu3)Br]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "LDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1CCC(C(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@]1(c2ccc(F)cc2)CC[C@H](C(C)(C)C)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Pd(Pt-Bu3)Br]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "LDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1CCC(N(C(=O)OC)C2CC2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@]1(c2ccc(F)cc2)CC[C@@H](N(C(=O)OC)C2CC2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Pd(Pt-Bu3)Br]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "LDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ]
+]

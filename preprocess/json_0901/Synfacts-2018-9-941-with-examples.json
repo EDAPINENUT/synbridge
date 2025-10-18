@@ -1,0 +1,914 @@
+[
+  [
+    {
+      "text": "N#CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(c1ccccc1)C(C#N)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1ccccc1)C(C#N)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#CC(C#N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1ccccc1)C(C#N)(C#N)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)=CCC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(c1ccccc1)C(C#N)(C#N)CC=C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(c1ccccc1)C(C#N)(C#N)CCC(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N#CC(C#N)CCC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(c1ccccc1)(c1ccccc1)C(C#N)(C#N)CCC(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1ccc(OC)cc1)C(C)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1ccc(F)cc1)C(C)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1cccc(Cl)c1)C(C)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)c1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(c1cccc([N+](=O)[O-])c1)C(C)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(c1ccc2ccccc2c1)C(C)(C)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=C(C)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(CCc1ccccc1)C(C)(C#N)C#N",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Ir(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "(Sa)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "TBD",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "BEt3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Sa)-L"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "Clc1ccccc1CNc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Nc1ccc(NCc2ccccc2Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc(-c2ccc3ccccc3c2Nc2ccccc2Nc2c(-c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25 equiv"
+      ],
+      "text": "C[Si](C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24-70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C(=O)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C1CCCO1)N1CCNCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(=O)c1cccc(N2CCN(C(=O)C3CCCO3)CC2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc(-c2ccc3ccccc3c2Nc2ccccc2Nc2c(-c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25 equiv"
+      ],
+      "text": "C[Si](C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24-70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

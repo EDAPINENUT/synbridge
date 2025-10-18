@@ -1,0 +1,209 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC(C)CO)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)CCC[C@@H]1NS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "96% ee",
+        "with (S)-SegPhos"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "(S)-SegPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1"
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1"
+    },
+    {
+      "relations": [
+        "400 psi"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC(C)CO)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)CC[C@@H]1NS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "98% ee",
+        "with (S)-DifluorPhos"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "(S)-SegPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1"
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1"
+    },
+    {
+      "relations": [
+        "400 psi"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC2(CO)CC2(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@H]2CCC2(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "89% ee",
+        "with (S)-DifluorPhos"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "(S)-SegPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1"
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1"
+    },
+    {
+      "relations": [
+        "400 psi"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

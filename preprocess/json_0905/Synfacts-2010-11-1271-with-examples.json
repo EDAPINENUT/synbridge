@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "text": "CC(C)C=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)C[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C=C[Rh+](C=C)<-[O-]C(C)=O.C=C[Rh+](C=C)<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "COc1c(C(C)(C)C)cc(P(c2cc(C(C)(C)C)c(OC)c(C(C)(C)C)c2)c2ccc3c(c2-c2c(P(c4cc(C(C)(C)C)c(OC)c(C(C)(C)C)c4)c4cc(C(C)(C)C)c(OC)c(C(C)(C)C)c4)ccc4c2OCO4)OCO3)cc1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@H](C)C[N+](=O)[O-])(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C=C[Rh+](C=C)<-[O-]C(C)=O.C=C[Rh+](C=C)<-[O-]C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "COc1c(C(C)(C)C)cc(P(c2cc(C(C)(C)C)c(OC)c(C(C)(C)C)c2)c2ccc3c(c2-c2c(P(c4cc(C(C)(C)C)c(OC)c(C(C)(C)C)c4)c4cc(C(C)(C)C)c(OC)c(C(C)(C)C)c4)ccc4c2OCO4)OCO3)cc1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

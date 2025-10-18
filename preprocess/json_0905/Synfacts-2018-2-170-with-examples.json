@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=CC1c1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C2=CC3CC2C2c4ccccc4C3N2C(=O)OC(C)(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "93% ee",
+        "14 h"
+      ]
+    },
+    {
+      "relations": [
+        "1.00%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c3c1OP(N(C)C)Oc1c(C)ccc4c1C3(CC2)CC4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[I-].[I-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=CC1c1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=C([Si](C)(C)C)C3C2c2ccccc2C31",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "no reaction",
+        "72 h"
+      ]
+    },
+    {
+      "relations": [
+        "1.00%",
+        "ligand"
+      ],
+      "text": "Cc1ccc2c3c1OP(N(C)C)Oc1c(C)ccc4c1C3(CC2)CC4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[I-].[I-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "text": "C=CC(C)(C)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(c1cccs1)C(C)(C)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 mol%",
+        "Co(salen) complex"
+      ],
+      "text": "CC(C)(C)C1=CC2=CN3C(C)(C)C[N+]4=Cc5cc(C(C)(C)C)cc(C(C)(C)C)c5OC34OC2C(C(C)(C)C)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "Me3NFPY\u2022BF4"
+      ],
+      "text": "Cc1cc(C)[n+](F)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "C[SiH](C)O[SiH](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)(C)c1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(c1cccnc1)C(C)(C)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "no reaction"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 mol%",
+        "Co(salen) complex"
+      ],
+      "text": "CC(C)(C)C1=CC2=CN3C(C)(C)C[N+]4=Cc5cc(C(C)(C)C)cc(C(C)(C)C)c5OC34OC2C(C(C)(C)C)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "Me3NFPY\u2022BF4"
+      ],
+      "text": "Cc1cc(C)[n+](F)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "C[SiH](C)O[SiH](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

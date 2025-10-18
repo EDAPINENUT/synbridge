@@ -1,0 +1,134 @@
+[
+  [
+    {
+      "text": "CC(C)(C)CC(NC(=O)OC(C)(C)C)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1[K]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Oc1c(I)cc2ccccc2c1-c1c(OCCOCCOCCOc2c(I)cc3ccccc3c2-c2c(O)c(I)cc3ccccc23)c(I)cc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C[C@H](NC(=O)OC(C)(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccsc1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1[K]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Oc1c(I)cc2ccccc2c1-c1c(OCCOCCOCCOc2c(I)cc3ccccc3c2-c2c(O)c(I)cc3ccccc23)c(I)cc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccsc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(NC(=O)OC(C)(C)C)S(=O)(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1[K]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Oc1c(I)cc2ccccc2c1-c1c(OCCOCCOCCOc2c(I)cc3ccccc3c2-c2c(O)c(I)cc3ccccc23)c(I)cc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@H](NC(=O)OC(C)(C)C)N2C(=O)c3ccccc3C2=O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ]
+]

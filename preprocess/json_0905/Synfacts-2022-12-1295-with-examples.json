@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "text": "CCCC=C(CCC)[S+]1c2ccccc2Sc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC1[C@H](CCC)N1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr=1.4:1"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C[S+]1c2ccccc2Sc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "71% yield (one-pot)"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C(=C[S+]1c2ccccc2Sc2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C1(C(=O)c2ccccc2)CC1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@@H](C(=O)O)[C@@H]1CCCCC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "2 steps",
+        "dr > 20:1",
+        "er > 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)[C@@H]1CCCN1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)[C@@H](C)[C@@H]([NH3+])C(=O)O.F[B-](F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "2 steps",
+        "dr > 20:1",
+        "er > 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)[C@@H]1CCCN1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)[C@@H](C)[C@@H]([NH3+])C(=O)O.F[B-](F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "2 steps",
+        "dr = 12:1",
+        "er > 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)[C@@H]1CCCN1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ]
+]

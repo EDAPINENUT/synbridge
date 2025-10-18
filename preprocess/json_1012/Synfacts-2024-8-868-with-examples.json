@@ -1,0 +1,86 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(N[n+]2ccccc2)cc1.O=S(=O)([O-])C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu+2].[F-].[F-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(B(O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(N[n+]2ccccc2)c1.O=S(=O)([O-])C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[n+]1ccccc1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu+2].[F-].[F-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ]
+]

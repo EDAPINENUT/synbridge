@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "FC(F)(F)c1ccc(NC2Cc3ccccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@]1(Cc2ccccc2)CCc2ccccc2[C@@H]1Nc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "text": "NH4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "7 W blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

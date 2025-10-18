@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "O=C(F)c1cccc(-c2ccc(C(F)(F)F)cc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(-c2ccc(C(F)(F)F)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "[Pd]1(CC=Cc2ccccc2)[Cl-][Pd](CC=Cc2ccccc2)[Cl-]1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "CC1(C)c2cc(P(c3ccccc3)c3ccccc3)ccc2Oc2ccc(P(c3ccccc3)c3ccccc3)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC[Si](CC)(CC)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "170\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16h",
+      "type": "time"
+    }
+  ]
+]

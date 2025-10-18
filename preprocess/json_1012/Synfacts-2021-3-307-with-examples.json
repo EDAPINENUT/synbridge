@@ -1,0 +1,266 @@
+[
+  [
+    {
+      "text": "Nc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c([Si](C)(C)C)[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "chloride source = n-Bu4NCl",
+        "base = Na2CO3",
+        "Ph3P = 5 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0 or 5 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "chloride",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)Nc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C#CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)n1c(C(C)C)c(C(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "chloride source = n-Bu4NCl",
+        "base = KOAc",
+        "Ph3P = none"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0 or 5 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "chloride",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Nc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC#CC1(O)CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCc1c(C2(O)CCCCC2)[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "chloride source = LiCl",
+        "base = KOAc",
+        "Ph3P = none"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0 or 5 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "chloride",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)Nc2ccccc2I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2c(C(C)(C)C)c(C)c3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "chloride source = n-Bu4NCl",
+        "base = KOAc",
+        "Ph3P = none"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0 or 5 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "base",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "chloride",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201372 h",
+      "type": "time"
+    }
+  ]
+]

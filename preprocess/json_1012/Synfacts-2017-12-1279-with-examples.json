@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "CCCc1ccccc1NCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1Cc2ccccc2N1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "94% ee",
+        "cat. [NTf2] (2 mol%), t-BuOH",
+        "91% yield",
+        "90% ee",
+        "cat. [NTf2] (5 mol%), CD2Cl2"
+      ]
+    },
+    {
+      "relations": [
+        "[NTf2]",
+        "[BArF24]"
+      ],
+      "text": "C1=Cc2ccc(C3CCCCC3)c3ccc(C4CCCCC4)c(c23)C(N2C(=[I+]c3ccccc3)N(c3cccc4ccc(C5CCCCC5)cc34)[C@H](c3ccccc3)[C@H]2c2ccccc2)=C1C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[2H]C([2H])(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCNCC1(c2ccccc2)CC=C(C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1(c2ccccc2)CC(C)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "97/99% ee",
+        "dr = 1.1:1",
+        "cat. [NTf2] (2 mol%), CD2Cl2"
+      ]
+    },
+    {
+      "relations": [
+        "[NTf2]",
+        "[BArF24]"
+      ],
+      "text": "C1=Cc2ccc(C3CCCCC3)c3ccc(C4CCCCC4)c(c23)C(N2C(=[I+]c3ccccc3)N(c3cccc4ccc(C5CCCCC5)cc34)[C@H](c3ccccc3)[C@H]2c2ccccc2)=C1C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[2H]C([2H])(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,254 @@
+[
+  [
+    {
+      "text": "CC(=O)C(=Cc1ccccc1)C(=O)Nc1ccccc1OS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[C@]1(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Pd(MeCN)4](BF4)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "24 mol%"
+      ],
+      "text": "(R)-DifuorPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "81% yield",
+        "65% ee"
+      ],
+      "text": "R = Et",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "74% yield",
+        "69% ee"
+      ],
+      "text": "R = i-Bu",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Nc1ccccc1OS(=O)(=O)C(F)(F)F)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[C@@]1(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[Pd]23O[PH]4(c5ccccc5)C=C[PH]2(c2ccccc2)OC143",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd(MeCN)4](BF4)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(R)-DifluorPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "EtzN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "53\u201393% yield",
+        "85-99% ee"
+      ],
+      "text": "18 examples",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Nc1ccccc1OS(=O)(=O)C(F)(F)F)C(=O)c1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[C@]1(O)c1cccc(F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[Pd]23O[PH]4(c5cccc(F)c5)C=C[PH]2(c2ccccc2)OC143",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd(MeCN)4](BF4)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(R)-DifluorPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "EtzN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "53\u201393% yield",
+        "85-99% ee"
+      ],
+      "text": "18 examples",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)C(=O)Nc1ccccc1OS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[C@]1(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1Nc2ccccc2[Pd]23O[PH]4(C=Cc5ccccc5)C=C[PH]2(c2ccccc2)OC143",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd(MeCN)4](BF4)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(R)-DifluorPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "EtzN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "53\u201393% yield",
+        "85-99% ee"
+      ],
+      "text": "18 examples",
+      "type": "conditions"
+    }
+  ]
+]

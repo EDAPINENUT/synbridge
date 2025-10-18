@@ -1,0 +1,126 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@H](C=Cc1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    }
+  ]
+]

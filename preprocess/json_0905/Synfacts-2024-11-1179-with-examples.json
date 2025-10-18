@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "C=CCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCC1CC1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "R=2-F",
+        "83% yield",
+        "R=3-F",
+        "74% yield",
+        "R=4-F",
+        "dr >20:1 (all cases)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)(Cc1ccccc1)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "(PNP)Mn(CO)2Br"
+      ],
+      "text": "O=[C]*12([C]=O)N(CC[P+]1c1ccccc1)CC[P+]2(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

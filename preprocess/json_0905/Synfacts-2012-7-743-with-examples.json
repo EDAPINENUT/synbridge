@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "text": "BrCC=CCOc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC[Mg]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C=CCC[C@@H](C=C)COc1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "C=CCC[C@H]1COc2ccccc2C1=C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CSC.[Cu]Br"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)C(c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "-80\u00b0C"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [
+        "1:2",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.[Br-]"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "100\u00b0C"
+    }
+  ]
+]

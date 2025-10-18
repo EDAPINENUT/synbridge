@@ -1,0 +1,652 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](C)=C(c1ccc([N+](=O)[O-])cc1)[B-](F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(c1ccc([N+](=O)[O-])cc1)[B-](F)(F)F.[K+]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[Sn](CCCC)(CCCC)C(=[N+](C)C)[B-](F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage1"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "45-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=C([O-])O.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "KHCO3/DMF (2:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "25-60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(c1ccc(I)cc1)[B-](F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](C)=C(c1ccc(C(=O)[B-](F)(F)F)cc1)[B-](F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=Cc1ccc(C(=O)[B-](F)(F)F)cc1.[K+]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[Sn](CCCC)(CCCC)C(=[N+](C)C)[B-](F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage1"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "45-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=C([O-])O.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "KHCO3/DMF (2:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "25-60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)Nc1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](C)=C(c1ccc(NC(=O)OC(C)(C)C)cc1)[B-](F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)Nc1ccc(C(=O)[B-](F)(F)F)cc1.[K+]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[Sn](CCCC)(CCCC)C(=[N+](C)C)[B-](F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage1"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "45-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=C([O-])O.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "KHCO3/DMF (2:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "25-60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C(=[N+](C)C)[B-](F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1C(=O)[B-](F)(F)F.[K+]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[Sn](CCCC)(CCCC)C(=[N+](C)C)[B-](F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage1"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "45-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=C([O-])O.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "KHCO3/DMF (2:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "25-60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](Cc1ccc(I)cc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccc(C(=[N+](C)C)[B-](F)(F)F)cc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccc(C(=O)[B-](F)(F)F)cc1)NC(=O)OC(C)(C)C.[K+]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[Sn](CCCC)(CCCC)C(=[N+](C)C)[B-](F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage1"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "45-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv",
+        "stage1"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "O=C([O-])O.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "KHCO3/DMF (2:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "25-60\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

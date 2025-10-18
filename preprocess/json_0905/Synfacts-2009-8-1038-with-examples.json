@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H](C=O)[C@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr (syn/anti)=91:9",
+        "er=99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "1"
+      ],
+      "text": "Cn1ccnc1C(O[Si](C)(C)C)(c1nccn1C)C1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "brine",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](C=O)[C@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield",
+        "dr (syn/anti)=98:2",
+        "er=99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "1"
+      ],
+      "text": "Cn1ccnc1C(O[Si](C)(C)C)(c1nccn1C)C1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "brine",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H](C=O)[C@@H](C[N+](=O)[O-])c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr (syn/anti)=97:3",
+        "er=98.5:1.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "1"
+      ],
+      "text": "Cn1ccnc1C(O[Si](C)(C)C)(c1nccn1C)C1CCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "brine",
+      "type": "other conditions"
+    }
+  ]
+]

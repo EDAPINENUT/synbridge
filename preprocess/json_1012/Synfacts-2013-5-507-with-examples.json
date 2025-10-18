@@ -1,0 +1,202 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@H](O)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C(=[N+]=[N-])[C@@H](NC(=O)C(Cl)(Cl)Cl)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "ProPhenol",
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "Cc1cc(CN2CCCC2CC(O)(C2=CCC=C2)C2=CC=CC2)c(O)c(CN2CCCC2C(O)(C2=CC=CC2)C2C=CC=C2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[Mg]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "O[C@@H]1CCC[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[H-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "N#CC(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "retention of configuration",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@H](O)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@@H](NC(=O)C(Cl)(Cl)Cl)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "er=89:11"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "ProPhenol",
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "Cc1cc(CN2CCCC2CC(O)(C2=CCC=C2)C2=CC=CC2)c(O)c(CN2CCCC2C(O)(C2=CC=CC2)C2C=CC=C2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "CCCC[Mg]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "O[C@@H]1CCC[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[H-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "N#CC(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "retention of configuration",
+      "type": "other conditions"
+    }
+  ]
+]

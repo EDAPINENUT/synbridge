@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "COC(=O)C12CCC(C=Cc3ccc(OC)cc3)(CC1)CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(N)c1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C12CCC(C[C@H](Nc3cccc(C)c3C)c3ccc(OC)cc3)(CC1)CC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ru+2]123456.n1cccc(c1)c2ccccn2.n3cccc(c3)c4ccccn4.n5cccc(c5)c6ccccn6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Fc1c(F)c(F)c(B(c2c(F)c(F)c(F)c(F)c2F)c2c(F)c(F)c(F)c(F)c2F)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue light",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C(=CC12CC3CC(CC(C3)C1)C2)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(N[C@@H](CC23CC4CC(CC(C4)C2)C3)c2ccc3c(c2)OCO3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ru+2]123456.n1cccc(c1)c2ccccn2.n3cccc(c3)c4ccccn4.n5cccc(c5)c6ccccn6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Fc1c(F)c(F)c(B(c2c(F)c(F)c(F)c(F)c2F)c2c(F)c(F)c(F)c(F)c2F)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue light",
+      "type": "other conditions"
+    }
+  ]
+]

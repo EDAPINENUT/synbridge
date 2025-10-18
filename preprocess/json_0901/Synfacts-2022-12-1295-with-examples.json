@@ -1,0 +1,134 @@
+[
+  [
+    {
+      "text": "CCCC=C(CCC)[S+]1c2ccccc2Sc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCC1[C@H](CCC)N1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "base",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C[S+]1c2ccccc2Sc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "base",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C(=C[S+]1c2ccccc2Sc2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)C1(C(=O)c2ccccc2)CC1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ]
+]

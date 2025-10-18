@@ -60,8 +60,8 @@ That is:
 
 ```bash
 python train.py --config-name=difm_mix_usptomit \
-mol_encoder.nlayer=2 \
-merge_encoder.nlayer=6 \
+model.mol_encoder.nlayer=2 \
+model.merge_encoder.nlayer=6 \
 train.batch_size=512 \
 train.devices=4
 ```

@@ -1,0 +1,274 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 78% yield",
+        "B: 76% yield",
+        "C: 68% yield",
+        "A: 5.5 h",
+        "B: 3.5 h",
+        "C: 4.5 h"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system A"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system B",
+        "system C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "system B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 72% yield",
+        "B: 62% yield",
+        "C: 41% yield",
+        "A: 27 h",
+        "B: 2.5 h",
+        "C: 17 h"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system A"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system B",
+        "system C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "system B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc([N+](=O)[O-])c2c1OC(C)(C)C=C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([N+](=O)[O-])c2c1OC(C)(C)CC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 76% yield",
+        "B: 4% yield",
+        "C: 42% yield",
+        "A: 27 h",
+        "B: 96 h",
+        "C: 71 h"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system A"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system B",
+        "system C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "system B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CN1c2ccccc2C=Cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CN1c2ccccc2CC(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 76% yield",
+        "B: 4% yield",
+        "C: 42% yield",
+        "A: 27 h",
+        "B: 96 h",
+        "C: 71 h"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system A"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "system B",
+        "system C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "system B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)C(=O)Oc1cc(-c2ccc(C(F)(F)F)cc2)c2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C(=O)Oc1ccc2ccccc2c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CC(=O)O.O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)C(=O)Oc1cc(-c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C(=O)Oc1ccc2ccccc2c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "CC(=O)O.O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

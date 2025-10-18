@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C(CCc1ccccc1)=C(C=O)N1CCOC1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(OC)c2c(c1)[Si](C)(C)C(=CCc1ccccc1)C(N1CCOC1=O)=C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "Cl[Al](Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "6 h"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C(CCc1ccccc1)=C(C=O)N1CCOC1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si]1(C)C(=CCc2ccccc2)C(N2CCOC2=O)=Cc2ccc(N3CCCC3)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "Cl[Al](Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "6 h"
+    }
+  ]
+]

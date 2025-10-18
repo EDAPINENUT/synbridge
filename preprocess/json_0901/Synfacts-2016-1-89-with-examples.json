@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "O=C(CCC=CC(=O)c1ccccc1)CCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(C[C@H]1CC[C@@]2(CCCO2)O1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=CCCC(=O)CCCO)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(CCc1ccccc1)C[C@H]1CC[C@]2(CCCO2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=CCCC(=O)CCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=CC[C@H]1CC[C@]2(CCCO2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

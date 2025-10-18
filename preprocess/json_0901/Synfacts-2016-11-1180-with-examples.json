@@ -1,0 +1,362 @@
+[
+  [
+    {
+      "text": "NS(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)C(NS(=O)(=O)c1ccc([N+](=O)[O-])cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "NS(=O)(=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NS(=O)(=O)c1cccs1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CS(N)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NS(C)(=O)=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)C(NS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC(C(=O)OCc2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NS(=O)(=O)c1ccc(C)cc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NS(=O)(=O)c1ccc(C)cc1)c1cc2ccccc2c2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1c(C)c(S(N)(=O)=O)c(C)c2c1OC(C)(C)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1COC(C2=N[C@@H](C(C)C)CO2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@H](NS(=O)(=O)c1c(C)c(C)c2c(c1C)CC(C)(C)O2)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Pd(TEA)a"
+      ],
+      "text": "F-R/OT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeNO2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "64 h",
+      "type": "conditions"
+    }
+  ]
+]

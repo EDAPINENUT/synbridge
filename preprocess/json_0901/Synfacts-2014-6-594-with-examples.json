@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "text": "O=P(N=CN(c1ccccc1)c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC#C[Si](C)(C)C)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[N+]1=CN2c3ccccc3-c3c(C)cc(-c4ccccc4)cc3[C@@H]2[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C=C([C@H](c1cccc(Br)c1)N(c1ccccc1)c1ccccc1)[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "ligand precursor (5.5 mol%)",
+        "10 mol%",
+        "2.0 equiv"
+      ],
+      "text": "CuCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "i-PrOH",
+      "type": "conditions"
+    }
+  ]
+]

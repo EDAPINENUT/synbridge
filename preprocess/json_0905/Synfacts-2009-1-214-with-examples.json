@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "CC(C)C=NNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(NNC(=O)c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er = 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "PC"
+      ],
+      "text": "CCC1C[NH+]2CCC1CC2[C@@H](OCc1ccccc1)c1ccnc2ccccc12.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccc([SiH2]c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCB(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C=NNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(NNC(=O)c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er = 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "PC"
+      ],
+      "text": "CCC1C[NH+]2CCC1CC2[C@@H](OCc1ccccc1)c1ccnc2ccccc12.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccc([SiH2]c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCB(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

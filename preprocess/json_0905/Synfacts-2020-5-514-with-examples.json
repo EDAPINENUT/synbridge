@@ -1,0 +1,137 @@
+[
+  [
+    {
+      "text": "NC(=S)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(Br)=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@H](c2ccccc2Br)SC(c2ccccc2)=N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "er=91:9",
+        "4a"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "3",
+        "mesitylene"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccc([N+](=O)[O-])cc4[C@H]23)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)[O-].O.O.[Li+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "NC(=S)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(Br)=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@H](c2ccco2)SC(c2ccccc2)=N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "er=89:11",
+        "4b"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "3",
+        "mesitylene"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccc([N+](=O)[O-])cc4[C@H]23)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)[O-].O.O.[Li+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "NC(=S)c1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(Br)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@H](c2ccccc2)SC(c2cccc([N+](=O)[O-])c2)=N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "er=92:8",
+        "4c"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "3",
+        "mesitylene"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccc([N+](=O)[O-])cc4[C@H]23)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)[O-].O.O.[Li+]",
+      "type": "catalyst"
+    }
+  ]
+]

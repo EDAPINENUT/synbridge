@@ -1,0 +1,188 @@
+[
+  [
+    {
+      "text": "COc1ccc(Cn2nnc3ccccc3c2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C1CCCC=C1OS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CN2C(=O)c3ccccc3C3=CCCC[C@H]32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S)-(R)-Josiphos",
+        "5 mol%"
+      ],
+      "text": "C[C@H](c1cccc(P(c2ccccc2)c2ccccc2)c1[Fe]c1ccccc1)C1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.14 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cn1nnc2ccccc2c1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C1CCCC=C1OS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)c2ccccc2C2=CCCC[C@H]21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S)-(R)-Josiphos",
+        "5 mol%"
+      ],
+      "text": "C[C@H](c1cccc(P(c2ccccc2)c2ccccc2)c1[Fe]c1ccccc1)C1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.14 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=c1c2ccccc2nnn1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)C1CN(C(=O)OC(C)(C)C)CC=C1OS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CC=C2c3ccccc3C(=O)N(Cc3ccccc3)[C@H]2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "84% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S)-(R)-Josiphos",
+        "5 mol%"
+      ],
+      "text": "C[C@H](c1cccc(P(c2ccccc2)c2ccccc2)c1[Fe]c1ccccc1)C1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.14 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

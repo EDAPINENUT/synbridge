@@ -1,0 +1,486 @@
+[
+  [
+    {
+      "text": "CC1=CC(=O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@]1(C)CCCC(=O)C1Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)N([C@H](C)c2cccc3ccccc23)[C@@H](C)c2cccc3ccccc23)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "conditions",
+      "text": "AIR3"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuNaph"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "EtgO"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-10 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "n-BuOCH2NEt2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3\u20136 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "MCPBA"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "CH2Cl2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "0.5 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "R3MgBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cul"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1=CC(=O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@]1(C)CCCC(=O)C1CC=C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)N([C@H](C)c2cccc3ccccc23)[C@@H](C)c2cccc3ccccc23)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "conditions",
+      "text": "AIR3"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuNaph"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "EtgO"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-10 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "n-BuOCH2NEt2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3\u20136 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "MCPBA"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "CH2Cl2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "0.5 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "R3MgBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cul"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC1=CC(=O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CC1C(=O)CCC[C@@]1(C)CC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)N([C@H](C)c2cccc3ccccc23)[C@@H](C)c2cccc3ccccc23)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "conditions",
+      "text": "AIR3"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuNaph"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "EtgO"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-10 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "n-BuOCH2NEt2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3\u20136 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "MCPBA"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "CH2Cl2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "0.5 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "R3MgBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cul"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1=CC(=O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C=C[C@@]1(C)CCCC(=O)C1Cc1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)N([C@H](C)c2cccc3ccccc23)[C@@H](C)c2cccc3ccccc23)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "conditions",
+      "text": "AIR3"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "CuNaph"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "EtgO"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-10 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "n-BuOCH2NEt2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "3\u20136 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "MCPBA"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "CH2Cl2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "25 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "0.5 h"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "conditions",
+      "text": "R3MgBr"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cul"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "-78 \u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "1 h"
+    }
+  ]
+]

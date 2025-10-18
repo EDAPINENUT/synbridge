@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "COC(=[C-]C(=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C(C)[C@@]1(O)C[C@@](OC)(c2ccccc2)C(=O)C(C)=C1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "CC#CC[Mg]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Li]OC(=C)N1C(=O)OC[C@@H]1Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "COC(=[C-]C(=O)[O-])c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(CC)[C@@]1(O)C[C@@](OC)(c2ccc(C(F)(F)F)cc2)C(=O)C(C)=C1CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "CCC#CC[Mg]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Li]OC(=C)N1C(=O)OC[C@@H]1Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "COC(=[C-]C(=O)[O-])c1ccc([Si](C)(C)C)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1ccccc1)[C@@]1(O)C[C@@](OC)(c2ccc([Si](C)(C)C)o2)C(=O)C(C)=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "Br[Mg]CC#Cc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Li]OC(=C)N1C(=O)OC[C@@H]1Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ]
+]

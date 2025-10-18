@@ -1,0 +1,228 @@
+[
+  [
+    {
+      "text": "O=Cc1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(S(=O)(=O)N2CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(C(=O)O)c(CCNS(=O)(=O)c2ccc([N+](=O)[O-])cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "Cc1cc(C)c(C(=O)O)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)c(CCNS(=O)(=O)c2ccc(C)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "late-stage functionalization of Probenecid"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "Cc1cc(C)c(C(=O)O)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccc(OC(F)F)c(OCC2CC2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NCCc2cc(OC(F)F)c(OCC3CC3)cc2C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "key precursor of Ruflumilast"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "Cc1cc(C)c(C(=O)O)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C(=O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC(Cc2ccccc2)NS(=O)(=O)c2ccc(C)cc2)c(C(=O)O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "Cc1cc(C)c(C(=O)O)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

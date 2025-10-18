@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "CC(=O)CC(=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(=CC=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1cc(-c2ccccc2)cc(C)c1C(=O)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A",
+        "Mes = mesityl"
+      ],
+      "text": "Cc1cc(C)c(-n2cc[n+](-c3c(C)cc(C)cc3C)c2)c(C)c1.[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "B"
+      ],
+      "text": "CC(C)(C)C1=CC(=C2C=C(C(C)(C)C)C(=O)C(C(C)(C)C)=C2)C=C(C(C)(C)C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC=C(C=Cc1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1c(C)cc(-c2ccccc2)cc1-c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A",
+        "Mes = mesityl"
+      ],
+      "text": "Cc1cc(C)c(-n2cc[n+](-c3c(C)cc(C)cc3C)c2)c(C)c1.[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "B"
+      ],
+      "text": "CC(C)(C)C1=CC(=C2C=C(C(C)(C)C)C(=O)C(C(C)(C)C)=C2)C=C(C(C)(C)C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ]
+]

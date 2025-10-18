@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "N#CC(C#N)C(CCCCNS(=O)(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CCCNS(=O)(=O)c1ccccc1)C(c1ccccc1)C(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr = 1.4:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=S(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "XylF-Bu-Acr",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "456 nm LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "argon",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ]
+]

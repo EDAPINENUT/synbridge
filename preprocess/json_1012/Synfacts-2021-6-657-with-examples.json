@@ -1,0 +1,278 @@
+[
+  [
+    {
+      "text": "FC(F)(F)c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(Cl)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CN[C@H](c1ccccc1)[C@H](NC)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "4CzIPN"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "HEH: Hantzsch ester"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DMA"
+      ],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DME"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8\u201310 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1cc(I)ccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(Cl)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc(C)c(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CN[C@H](c1ccccc1)[C@H](NC)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "4CzIPN"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "HEH: Hantzsch ester"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DMA"
+      ],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DME"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8\u201310 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Fc1cc(F)cc(I)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCC(Cl)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC[C@@H](B1OC(C)(C)C(C)(C)O1)c1cc(F)cc(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CN[C@H](c1ccccc1)[C@H](NC)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "4CzIPN"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "HEH: Hantzsch ester"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DMA"
+      ],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent",
+        "5:1 mixture with DME"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8\u201310 h",
+      "type": "time"
+    }
+  ]
+]

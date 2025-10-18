@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "text": "C1CCCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1cccc(C(C)C)c1OC(=O)c1ccc(C(O)C2CCCCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "from propofol"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Cr]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CB(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CC#N.ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36\u201396 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "20 W LED (390 nm)",
+      "type": "other conditions"
+    }
+  ]
+]

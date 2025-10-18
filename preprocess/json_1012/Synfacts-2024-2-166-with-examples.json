@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@H](CN=[N+]=[N-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "91% ee",
+        "R = H",
+        "46% yield",
+        "89% ee",
+        "R = 2-Me",
+        "62% yield",
+        "89% ee",
+        "R = 3-Me",
+        "70% yield",
+        "90% ee",
+        "R = 4-t-Bu"
+      ]
+    },
+    {
+      "relations": [
+        "catalytic amount",
+        "salt",
+        "with ligand"
+      ],
+      "text": "[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)N=[N+]=[N-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "RVC (+)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pt (-)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 mA",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "3.0-4.0 F/mol",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5.4-7.1 h",
+      "type": "time"
+    }
+  ]
+]

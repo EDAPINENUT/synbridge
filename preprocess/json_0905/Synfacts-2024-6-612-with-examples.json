@@ -1,0 +1,237 @@
+[
+  [
+    {
+      "text": "C=CC1(c2ccccc2)CC(C(=O)OC)C(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1(c2ccccc2)CC(C(=O)OC)=C(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=2-F: 61% yield",
+        "R=2-Cl: 82% yield",
+        "R=3-Br: 75% yield",
+        "R=4-OMe: 68% yield",
+        "R=4-CN: 54% yield",
+        "R=4-CF3: 64% yield",
+        "R=4-Ph: 63% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(C2CCCCC2)CC(C(=O)OC)C(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1(C2CCCCC2)CC(C(=O)OC)=C(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2cccs2)CC(C(=O)OC)C(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1(c2cccs2)CC(C(=O)OC)=C(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)CC(C(=O)OC)C(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)c(CC(=O)Cl)c(C)n2C(=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1(c2ccccc2)CC(C(=O)OC)=C(Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccc(OC)cc23)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "from indomethacin"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ]
+]

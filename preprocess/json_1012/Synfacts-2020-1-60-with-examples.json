@@ -1,0 +1,329 @@
+[
+  [
+    {
+      "text": "CN(C)c1ccc(C#CC#C[Si](C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1ccc(C=C(C#C[Si](C)(C)C)B2Nc3cccc4cccc(c34)N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "regioselectivity >99:1"
+      ]
+    },
+    {
+      "text": "CN(C)c1ccc(C(=CC#C[Si](C)(C)C)B2Nc3cccc4cccc(c34)N2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv each"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cc(P(c3ccccc3)c3ccccc3)ccc2Oc2ccc(P(c3ccccc3)c3ccccc3)cc21"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "1.25 M",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)c1[Fe]c3ccc(P(c4ccccc4)c4ccccc4)c3"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "conversion of Bpin into Bdan"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)C#CC#Cc1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CC(=Cc1ccsc1)B1Nc2cccc3cccc(c23)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield",
+        "regioselectivity =96:4"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C)C#CC=C(B1Nc2cccc3cccc(c23)N1)c1ccsc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv each"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cc(P(c3ccccc3)c3ccccc3)ccc2Oc2ccc(P(c3ccccc3)c3ccccc3)cc21"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "1.25 M",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)c1[Fe]c3ccc(P(c4ccccc4)c4ccccc4)c3"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "conversion of Bpin into Bdan"
+    }
+  ],
+  [
+    {
+      "text": "C#CC#CC#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(c2ccc(C(=CC#C[Si](C)(C)C)B3Nc4cccc5cccc(c45)N3)cc2)OCCO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "regioselectivity =1:99"
+      ]
+    },
+    {
+      "text": "C#CC=C(C#C[Si](C)(C)C)B1Nc2cccc3cccc(c23)N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv each"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cc(P(c3ccccc3)c3ccccc3)ccc2Oc2ccc(P(c3ccccc3)c3ccccc3)cc21"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "1.25 M",
+        "conditions A"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)c1[Fe]c3ccc(P(c4ccccc4)c4ccccc4)c3"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-].CC(=O)C=C(C)[O-].[Co+2]"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "conditions B"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "conversion of Bpin into Bdan"
+    }
+  ]
+]

@@ -1,0 +1,161 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "3",
+        "97% ee",
+        "b:l = 51:1"
+      ]
+    },
+    {
+      "text": "C[C@H](NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@@H](c2ccccc2C(=O)N[C@H](C)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)N[C@H](C)c3ccccc3)N3C(=O)CCC(=O)N3[C@H]2c2ccccc2C(=O)N[C@H](C)c2ccccc2)cc1)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](C=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "4",
+        "92% ee",
+        "b:l = 11:1"
+      ]
+    },
+    {
+      "text": "C[C@H](NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@@H](c2ccccc2C(=O)N[C@H](C)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)N[C@H](C)c3ccccc3)N3C(=O)CCC(=O)N3[C@H]2c2ccccc2C(=O)N[C@H](C)c2ccccc2)cc1)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@H](Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "5",
+        "93% ee",
+        "b:l = n.d."
+      ]
+    },
+    {
+      "text": "C[C@H](NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@@H](c2ccccc2C(=O)N[C@H](C)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)N[C@H](C)c3ccccc3)N3C(=O)CCC(=O)N3[C@H]2c2ccccc2C(=O)N[C@H](C)c2ccccc2)cc1)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ]
+]

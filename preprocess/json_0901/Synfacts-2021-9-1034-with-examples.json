@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "O=C(N=S(=O)(c1cccnc1)c1cccnc1)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNC(=O)[C@H](NC(=O)C1(NC(=O)[C@@]2(C)CCCN2C(=O)[C@H](CC(=O)O)NS(=O)(=O)c2ccc(C)cc2)CC1)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(N=[S@](=O)(c1cnc2ccccc2c1)c1cc2ccccc2[n+]([O-])c1)N[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "peptide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "DIC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AIk, Ar, OAIk",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N=S(=O)(c1cccnc1)c1cccnc1)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNC(=O)[C@H](NC(=O)C1(NC(=O)[C@@]2(C)CCCN2C(=O)[C@H](CC(=O)O)NS(=O)(=O)c2ccc(C)cc2)CC1)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(N=[S@](=O)(c1cncc(F)c1)c1cc(F)c[n+]([O-])c1)N[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "peptide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "DIC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AIk, Ar, OAIk",
+      "type": "conditions"
+    }
+  ]
+]

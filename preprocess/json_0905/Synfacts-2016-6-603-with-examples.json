@@ -1,0 +1,898 @@
+[
+  [
+    {
+      "text": "C=CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "ClC=CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC[C@@]1(O[Si](C)(C)C(C)(C)C)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)O[C@]1(CC=CCl)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "Z/E=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC=CCl)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC=CCCCCCCC=CBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "Z,Z/Z,E=89:11",
+        "22\u00b0C",
+        "1 h",
+        "benzene",
+        "from cyclooctene"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "F/Br=96:4",
+        "Z/E=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C=CF)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=CF)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "F/Br>98:2",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "Cl/C=C\\Cl"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "ClC=CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)(C)[Si](C)(C)O[C@]1(CC=CCl)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)O[C@]1(CC=CCl)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "Z/E=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(C)OB(CC=CCl)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC=CCl)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCCN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1CCCCC=CBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "Z/E=87:13"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCCCCC=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC=CCCCCCCC=CBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "Z,Z/Z,E=89:11",
+        "22\u00b0C",
+        "1 h",
+        "benzene",
+        "from cyclooctene"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CF",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "F/Br=96:4",
+        "Z/E=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C=CF)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=CF)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "F/Br>98:2",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "Z/E=64:36"
+      ],
+      "type": "reactants",
+      "text": "Br/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "ClC=CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)(C)[Si](C)(C)O[C@]1(CC=CCl)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)O[C@]1(CC=CCl)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@@]21C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "Z/E=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(C)OB(CC=CCl)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC=CCl)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC=CCCCCCCC=CBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "Z,Z/Z,E=89:11",
+        "22\u00b0C",
+        "1 h",
+        "benzene",
+        "from cyclooctene"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "F/Br=96:4",
+        "Z/E=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=CF)COC(=O)[C@@H]1N2C(=O)C[C@H]2S(=O)(=O)C1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "F/Br>98:2",
+        "Z/E>98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "F/C=C\\Br"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "Mo complex"
+      ],
+      "type": "catalyst",
+      "text": "CCc1cc(CC)c(-c2cccc(-c3c(CC)cc(CC)cc3CC)c2O/[N+](=N/c2c(F)c(F)c(F)c(F)c2F)n2c(C)ccc2C)c(CC)c1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "22\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4 h"
+    }
+  ]
+]

@@ -1,0 +1,611 @@
+[
+  [
+    {
+      "text": "CC[C@H](NC(=O)c1ccccc1C(=O)O)C(=O)N[C@@H](C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CCCl)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@@H](C(=O)N[C@H](C(=O)OC)C(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](C(=O)N(Cl)N1C(=O)c2ccccc2C1=O)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](NC(=O)[C@H](CCCl)N1C(=O)c2ccccc2C1=O)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(C)(C)Cl)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC1CCCCC1)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC1(Cl)CCCCC1)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CCCCN1C(=O)c2ccccc2C1=O)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@@H](CC(Cl)CCN1C(=O)c2ccccc2C1=O)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@@H](CC(Cl)C(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)NC(=O)[C@H](CC(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)NC(=O)[C@H](CC(C)(C)Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Na-ascorbate",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ]
+]

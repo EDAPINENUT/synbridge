@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C=CCC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C[C@@H](CC(C)C)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        ">99% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1(C)OB([Si](C)(C)c2ccccc2)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.O=S(=O)([O-])C(F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-binap"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "C1COCCO1.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

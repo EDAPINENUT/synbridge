@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "text": "COCCOCOCc1cccc(P(CCC(=O)Oc2ccc([N+](=O)[O-])cc2)c2cccc(COCOCCOC)c2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OCC(COC(=O)CN=[N+]=[N-])O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OCC(COC(=O)C=[N+]=[N-])O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.10 mM",
+        "pH 7.0"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])(O)O.O=P([O-])([O-])O"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    }
+  ],
+  [
+    {
+      "text": "COCCOCOCc1cccc(P(CCC(=O)Oc2ccc([N+](=O)[O-])cc2)c2cccc(COCOCCOC)c2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=NCC(=O)NCc1ccc(C2CO2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=CC(=O)NCc1ccc(C2CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.10 mM",
+        "pH 7.0"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])(O)O.O=P([O-])([O-])O"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    }
+  ],
+  [
+    {
+      "text": "COCCOCOCc1cccc(P(CCC(=O)Oc2ccc([N+](=O)[O-])cc2)c2cccc(COCOCCOC)c2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=NCC(=O)NCc1ccc(COC(=O)CCl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=CC(=O)NCc1ccc(COC(=O)CCl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.10 mM",
+        "pH 7.0"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])(O)O.O=P([O-])([O-])O"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    }
+  ],
+  [
+    {
+      "text": "COCCOCOCc1cccc(P(CCC(=O)Oc2ccc([N+](=O)[O-])cc2)c2cccc(COCOCCOC)c2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=NCC(=O)NCc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=CC(=O)NCc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.10 mM",
+        "pH 7.0"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])(O)O.O=P([O-])([O-])O"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    }
+  ]
+]

@@ -1,0 +1,494 @@
+[
+  [
+    {
+      "text": "CC(CCC=CCc1ccccc1)=NOC(=O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CCc2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1-3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(=NOC(=O)c1c(F)c(F)c(F)c(F)c1F)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1-3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CC(CCC=CCc1ccccc1)=NOC(=O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)Cc1ccc(CCc2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1-3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=CCCC(=NOC(=O)c1c(F)c(F)c(F)c(F)c1F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)Cc1ccc(-c2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1-3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(CCC=CCc1ccccc1)=NOC(=O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=NC(=CCc2ccccc2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(CCc2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1-3 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.5 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(=NOC(=O)c1c(F)c(F)c(F)c(F)c1F)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CCC(C(=O)OCC)=N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1-3 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.5 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CC(CCC=CCc1ccccc1)=NOC(=O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CC1=NC(=CCc2ccccc2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)Cc1ccc(CCc2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1-3 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.5 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=CCCC(=NOC(=O)c1c(F)c(F)c(F)c(F)c1F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C1CCC(c2ccccc2)=N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)Cc1ccc(-c2ccccc2)[nH]1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "10 mol%"
+      ],
+      "text": "Pd(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5.0 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "1-3 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.5 h",
+      "type": "conditions"
+    }
+  ]
+]

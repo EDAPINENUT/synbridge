@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CC(=O)c1cncc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(O)c1ncc(C(C)=O)cc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Mes-Acr+"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.[O-][Cl+3]([O-])([O-])[O-]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "thiophosphoric acid (TPA) (rac)"
+      ],
+      "type": "catalyst",
+      "text": "O=P1(S)Oc2ccc3ccccc3c2-c2c(ccc3ccccc23)O1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LED"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "3-13 h"
+    }
+  ]
+]

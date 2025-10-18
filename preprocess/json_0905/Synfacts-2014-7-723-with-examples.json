@@ -1,0 +1,200 @@
+[
+  [
+    {
+      "text": "C=CCc1ccccc1NS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC[C@@H]2Cc3ccccc3N2S(C)(=O)=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "81% ee",
+        "using L1"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u201330 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "22\u201333 mol%",
+        "(R,R)-Ph-box",
+        "L1",
+        "L"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "22\u201333 mol%",
+        "(4R,5S)-di-Ph-box",
+        "L2",
+        "L"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)[C@H](c2ccccc2)O1)C1=N[C@@H](c2ccccc2)[C@H](c2ccccc2)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cc1cc(C(C)(C)C)nc(C(C)(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "O=[Mn]=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8\u201315 mol%"
+      ],
+      "text": "O=[Mn](=O)(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1:1 (v/v) with PhCF3"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v) with DCE"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u2013110\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1ccccc1NS(=O)(=O)c1cc(C(C)(C)C)c(OC)c(C(C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C(C)(C)C)cc(S(=O)(=O)N2c3ccccc3C[C@H]2CNS(=O)(=O)CC[Si](C)(C)C)cc1C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "91% ee",
+        "using L1"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C)CCS(N)(=O)=O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20\u201330 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "22\u201333 mol%",
+        "(R,R)-Ph-box",
+        "L1",
+        "L"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "22\u201333 mol%",
+        "(4R,5S)-di-Ph-box",
+        "L2",
+        "L"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)[C@H](c2ccccc2)O1)C1=N[C@@H](c2ccccc2)[C@H](c2ccccc2)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cc1cc(C(C)(C)C)nc(C(C)(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "O=[Mn]=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8\u201315 mol%"
+      ],
+      "text": "O=[Mn](=O)(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1:1 (v/v) with PhCF3"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v) with DCE"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u2013110\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

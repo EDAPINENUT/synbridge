@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=[N+]=[N-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccc(C=Nc2ccccn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=c2c(C3CC3)c(-c3ccc(Cl)cc3)nc3ccccn23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Cu(I)-zeolite"
+      ],
+      "text": "[Cu]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Et3N"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=[N+]=[N-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=Cc1ccccc1)C=Nc1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=c2c(-c3ccccc3)c(C=Cc3ccccc3)nc3ccccn23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Cu(I)-zeolite"
+      ],
+      "text": "[Cu]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Et3N"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[N-]=[N+]=NS(=O)(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccc(C=Nc2ccccn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(N=c1c(-c2ccccc2)c(-c2ccc(Cl)cc2)nc2ccccn12)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Cu(I)-zeolite"
+      ],
+      "text": "[Cu]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Et3N"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ]
+]

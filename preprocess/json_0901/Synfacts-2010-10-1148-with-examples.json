@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "text": "CC(=N[C@@H](C)c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H](C)c1ccccc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-Cu/C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCC(=N[C@@H](C)c1ccccc1)c1cccc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@H](N[C@@H](C)c1ccccc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-Cu/C",
+      "type": "conditions"
+    }
+  ]
+]

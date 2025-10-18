@@ -1,0 +1,426 @@
+[
+  [
+    {
+      "text": "COc1cccc(S(C)(=O)=O)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(S(C)(=O)=O)c1-c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(S(C)(=O)=O)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(S(C)(=O)=O)c1-c1cccc2[nH]ccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1-c1cccc2c([N+](=O)[O-])cccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1c([N+](=O)[O-])ccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1c([N+](=O)[O-])ccc(S(=O)(=O)F)c1-c1ccc(C)c2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1c(N)ccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1c(N)ccc(S(=O)(=O)F)c1-c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=Cc1cc2c(cc1-c1c(OC)cccc1S(=O)(=O)F)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1-c1cccc2[nH]c3ccccc3c12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C2CCCC2)cc(C2CCCC2)c(OC)c1-c1cccc2c1[P@@](C(C)(C)C)[C@@H](C(C)(C)O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(S(=O)(=O)F)c1-c1cccc2c(C(=O)N3CCOCC3)cccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Pd2(dba)a",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "(S,S)-BaryPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE\u2212H2O (5:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "35\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

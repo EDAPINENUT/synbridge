@@ -1,0 +1,45 @@
+[
+  [
+    {
+      "text": "COc1ccc(O)c(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCC=C(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCC1c2c(OC)cc(OC)cc2OC(=O)C1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "dr=10:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.5-10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cl[Ti](Cl)(Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C to rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "30\u201372 h"
+    }
+  ]
+]

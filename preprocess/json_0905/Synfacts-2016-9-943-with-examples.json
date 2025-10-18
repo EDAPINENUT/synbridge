@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "CC(=NP(=O)(c1ccccc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[C-]#[N+]C(C)C(=O)OC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)OC(=O)[C@@]1(C)N=CN(P(=O)(c2ccccc2)c2ccccc2)[C@@]1(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "24 h",
+        "anti/syn=98:2",
+        "er (anti)=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cl[Ni]Cl"
+    },
+    {
+      "relations": [
+        "ligand",
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@@H](NC(=O)c1cccc(F)n1)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 MS"
+    }
+  ]
+]

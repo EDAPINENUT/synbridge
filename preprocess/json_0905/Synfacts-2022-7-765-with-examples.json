@@ -1,0 +1,546 @@
+[
+  [
+    {
+      "text": "CC(=O)CC(=O)c1ccc2c(ccn2C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)c1ccc2c(ccn2C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CC(=O)C1CC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCC1CC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)CC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CC(=O)c1ccc(F)cc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCc1ccc(F)cc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CC(=O)c1ccc2c(ccn2C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)c1ccc2c(ccn2C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CC(=O)C1CC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCC1CC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)CC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CC(=O)c1ccc(F)cc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCc1ccc(F)cc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh]2<-Cl[Rh](<-Cl2)C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [
+        "1.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "0.8 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)OBOC1(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.[Cs+]"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8 h"
+    }
+  ]
+]

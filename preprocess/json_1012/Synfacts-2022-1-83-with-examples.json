@@ -1,0 +1,141 @@
+[
+  [
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=CC[Si](C)(C)C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(C)(C)[Si](C)(C)OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CC(F)(F)CN1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)=CC[C@@H](CC=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "37% yield",
+        "rr = 79:21",
+        "er = 78:22"
+      ]
+    },
+    {
+      "text": "C=CC(C)(c1ccc(Cl)cc1)[C@@H](C)CC=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "420 nm"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-15\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "22h"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)CC=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(C)(C)[Si](C)(C)OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CC(F)(F)CN1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(=CC[C@@H](CC=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (from (E)-allyl silane)",
+        "rr = 64:36 (E)",
+        "er = 71:29 (E)",
+        "47% yield (from (Z)-allyl silane)",
+        "rr = 62:38 (Z)",
+        "er = 69:31 (Z)"
+      ]
+    },
+    {
+      "text": "C=CC(C)(c1ccccc1)[C@H](CC=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "420 nm"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-15\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "22h"
+    }
+  ]
+]

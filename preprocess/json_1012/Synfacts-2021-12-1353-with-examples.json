@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "text": "C=CCCC(=O)N1CCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)N1CCc2ccccc21)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[W](C#O)(C#O)(C#O)(N#CC)(N#CC)(N#CC)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(=O)NCCC1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC(=O)NCCC1=CCCCC1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[W](C#O)(C#O)(C#O)(N#CC)(N#CC)(N#CC)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

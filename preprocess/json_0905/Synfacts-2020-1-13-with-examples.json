@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "COc1cc(C=O)cc(N(C=O)CC=Cc2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C=O)c2c(c1)N([Ts])C[C@@H]2Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.Cl[Ru]Cl.Cl[Ru]Cl"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "chiral amine"
+      ],
+      "type": "catalyst",
+      "text": "C[C@H](N)c1cccc2ccccc12"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "acid"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C(C(=O)O)N1C(=O)c2ccccc2C1=O"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])(O)O.[K+]"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Clc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

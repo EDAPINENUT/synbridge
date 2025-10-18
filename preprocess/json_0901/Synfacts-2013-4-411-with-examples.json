@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(Cc2ccccc2)C(=O)OCC=C=CC(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(CC=C=CC(C)(C)C)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd(dba)2]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "(S)-DTMB-Segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "DMF\u2013DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C or 50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(C(=O)OCC=C=CC2(O[Si](C)(C)C(C)(C)C)CCCCC2)C(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(CC=C=CC2(O[Si](C)(C)C(C)(C)C)CCCCC2)C(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd(dba)2]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "(S)-DTMB-Segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "DMF\u2013DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C or 50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

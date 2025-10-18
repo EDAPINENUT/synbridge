@@ -1,0 +1,788 @@
+[
+  [
+    {
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1I)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S1(C(F)(F)F)=NI(Cl)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)OI1N=S(=O)(C(F)(F)F)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)C2CCC1(CS(=O)(=O)C(F)(F)F)C(=O)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Tf2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-15\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "KMnO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 M HCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50 to -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "I2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "TCICA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4",
+        "5 mol%"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "KOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "TMSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1I)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S1(C(F)(F)F)=NI(Cl)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)OI1N=S(=O)(C(F)(F)F)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1I)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Tf2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-15\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "KMnO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 M HCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50 to -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "I2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "TCICA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4",
+        "5 mol%"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "KOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "TMSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N=S(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N=S(=O)(c1ccccc1I)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S1(C(F)(F)F)=NI(Cl)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)OI1N=S(=O)(C(F)(F)F)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C(CC(F)(F)F)OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Tf2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-15\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "KMnO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "18 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 M HCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50 to -30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "I2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "-50\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "TCICA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4",
+        "5 mol%"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 4"
+      ],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "KOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 5"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "TMSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 6"
+      ],
+      "text": "30 min",
+      "type": "conditions"
+    }
+  ]
+]

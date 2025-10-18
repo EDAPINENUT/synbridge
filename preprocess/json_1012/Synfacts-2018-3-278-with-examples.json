@@ -1,0 +1,158 @@
+[
+  [
+    {
+      "text": "Cc1ccc(CC2C(=O)ON=C2c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(OC(=O)OC)c1cccc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C=CC[C@@]2(Cc3ccc(C)cc3)C(=O)ON=C2c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "er = 98.5:1.5"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "iridium catalyst",
+        "dbcot = dibenzocyclooctatetraene"
+      ],
+      "text": "CC1C[C@@H](c2ccccc2)N([C@@H](C)c2ccccc2)[P@@]2(C1)Oc1ccc3ccccc3c1-c1ccc3ccc4ccccc4c3c1O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1ON=C(c2ccccc2)C1Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(OC(=O)OC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1ON=C(c2ccccc2)[C@@]1(CC=Cc1ccccc1)Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er = 88:12"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "iridium catalyst",
+        "dbcot = dibenzocyclooctatetraene"
+      ],
+      "text": "CC1C[C@@H](c2ccccc2)N([C@@H](C)c2ccccc2)[P@@]2(C1)Oc1ccc3ccccc3c1-c1ccc3ccc4ccccc4c3c1O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1ON=C(c2ccccc2)C1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(OC(=O)OC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1ON=C(c2ccccc2)[C@@]1(CC=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "er = 83:17"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "iridium catalyst",
+        "dbcot = dibenzocyclooctatetraene"
+      ],
+      "text": "CC1C[C@@H](c2ccccc2)N([C@@H](C)c2ccccc2)[P@@]2(C1)Oc1ccc3ccccc3c1-c1ccc3ccc4ccccc4c3c1O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    }
+  ]
+]

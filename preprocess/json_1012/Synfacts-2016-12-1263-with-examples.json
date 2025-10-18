@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "text": "O=CCC1(Cc2ccccc2)C(=O)CCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@]2(Cc3ccccc3)C(=O)CCC[C@@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield (conditions A)",
+        "99% ee (conditions A)",
+        "dr = 17:1 (conditions A)",
+        "98% yield (conditions C)",
+        "98% ee (conditions C)",
+        "dr > 20:1 (conditions C)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "conditions C"
+      ],
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "JoSPOphos",
+        "conditions C"
+      ],
+      "text": "C[C@H](c1ccccc1[Fe](=O)C(C)(C)C)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "80 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCC1(Cc2cccc3ccccc23)C(=O)CCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@]2(Cc3cccc4ccccc34)C(=O)CCC[C@@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield (conditions A)",
+        ">99% ee (conditions A)",
+        "dr = 8:1 (conditions A)",
+        "99% yield (conditions C)",
+        "96% ee (conditions C)",
+        "dr > 20:1 (conditions C)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "conditions C"
+      ],
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "JoSPOphos",
+        "conditions C"
+      ],
+      "text": "C[C@H](c1ccccc1[Fe](=O)C(C)(C)C)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "80 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCC1(c2ccccc2)C(=O)CCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@]2(c3ccccc3)C(=O)CCC[C@@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield (conditions B)",
+        "96% ee (conditions B)",
+        "dr = 10:1 (conditions B)",
+        "95% yield (conditions C)",
+        ">99% ee (conditions C)",
+        "dr > 20:1 (conditions C)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "conditions C"
+      ],
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "JoSPOphos",
+        "conditions C"
+      ],
+      "text": "C[C@H](c1ccccc1[Fe](=O)C(C)(C)C)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "80 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCC1(c2ccc3ccccc3c2)C(=O)CCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@]2(c3ccc4ccccc4c3)C(=O)CCC[C@@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield (conditions B)",
+        "92% ee (conditions B)",
+        "dr = 9:1 (conditions B)",
+        "90% yield (conditions C)",
+        "98% ee (conditions C)",
+        "dr > 20:1 (conditions C)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "conditions C"
+      ],
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "JoSPOphos",
+        "conditions C"
+      ],
+      "text": "C[C@H](c1ccccc1[Fe](=O)C(C)(C)C)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "80 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCC1(Cc2ccccc2)C(=O)CCCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@]2(Cc3ccccc3)C(=O)CCCC[C@@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield (conditions A)",
+        "98/90% ee (conditions A)",
+        "dr = 2:1 (conditions A)",
+        "95% yield (conditions C)",
+        ">99% ee (conditions C)",
+        "dr > 20:1 (conditions C)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "conditions C"
+      ],
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.F[Sb-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "JoSPOphos",
+        "conditions C"
+      ],
+      "text": "C[C@H](c1ccccc1[Fe](=O)C(C)(C)C)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "CCC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "80 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions C"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ]
+]

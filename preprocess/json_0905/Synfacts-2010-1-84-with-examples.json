@@ -1,0 +1,364 @@
+[
+  [
+    {
+      "text": "O=C1CCC(=O)N1c1cccc(Cl)c1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)COB(c2ccc(N3C(=O)CCC3=O)c(Cl)c2)OC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "39% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(B2OCC(C)(C)CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COB(c2cccc(Cl)c2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)COB(c2ccc(B3OCC(C)(C)CO3)cc2)OC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "from C6H4Cl2"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Clc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)COB(c2ccc(Cl)cc2)OC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "from bromide"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Oc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)COB(c2ccc(O)cc2)OC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COB(c2ccc(S(=O)(=O)c3cccc(Cl)c3)cc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)COB(c2ccc(S(=O)(=O)c3ccc(B4OCC(C)(C)CO4)cc3)cc2)OC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC1(C)COBOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "NiCl2(dppp)"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dppp"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 equiv",
+        "dppf"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320h",
+      "type": "time"
+    }
+  ]
+]

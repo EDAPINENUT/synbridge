@@ -1,0 +1,440 @@
+[
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CC(=O)OB1c1nc(-c2ccccc2)[nH]c1-c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2nc(-c3ccccc3)c(-c3ccccc3)[nH]2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CC(=O)OB1c1c[nH]c(-c2ccccc2)n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2cnc(-c3ccccc3)[nH]2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(-c2nc(B3OC(=O)CN3C)c(-c3ccc([N+](=O)[O-])cc3)[nH]2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(-c2[nH]c(-c3ccc(C)cc3)nc2-c2ccc([N+](=O)[O-])cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(-c2nc(B3OC(=O)CN3C)c(-c3ccccc3)[nH]2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(-c2nc(-c3ccccc3)c(-c3ccc(F)cc3)[nH]2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C(=O)c1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CC(=O)OB1c1nc(-c2ccncc2)[nH]c1-c1ccncc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc2cc(-c3[nH]c(-c4ccncc4)nc3-c3ccncc3)ccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(=O)OB1C(=O)C(=O)c1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CC(=O)OB1c1nc(C2CCN(C(=O)OC(C)(C)C)CC2)[nH]c1-c1ccncc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc2cc(-c3[nH]c(C4CCN(C(=O)OC(C)(C)C)CC4)nc3-c3ccncc3)ccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R2CHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NH4OAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u20132 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Pd(dppf)Cl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Na2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "DMF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "70 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    }
+  ]
+]

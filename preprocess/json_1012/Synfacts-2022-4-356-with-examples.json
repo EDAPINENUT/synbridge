@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "text": "C=CCN(C#N)CC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)CC(CC(F)(F)F)C2=NC(c3ccccc3)(c3ccccc3)CC(=O)N2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Togni reagent"
+      ],
+      "type": "reactants",
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "no H2O"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C#N)CC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(CC(F)(F)F)CCN1C=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Togni reagent"
+      ],
+      "type": "reactants",
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O"
+    }
+  ]
+]

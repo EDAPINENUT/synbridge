@@ -1,0 +1,320 @@
+[
+  [
+    {
+      "text": "CCCC=C(NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.0%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCC=C(NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC[C@@H](NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.7%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCCCCCC=C(NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCCC[C@@H](NC(C)=O)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.2%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=CCCCCCl)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CCCCCCl)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.7%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=CC1CCCCC1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CC1CCCCC1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.5%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=CCCN1C(=O)c2ccccc2C1=O)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CCCN1C(=O)c2ccccc2C1=O)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee=99.8%"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[P@]1Cc2ccccc2[C@@H]1[C@@H]1c2ccccc2C[P@@]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

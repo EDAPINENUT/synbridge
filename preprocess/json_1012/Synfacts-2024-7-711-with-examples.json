@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(O)(c1ccccc1)[C@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr=1.0:1",
+        "65% ee",
+        "73% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L*"
+      ],
+      "text": "CC(C)[C@@H]1COC(C(Cc2ccc(C34CC5CC(CC(C5)C3)C4)cc2)(Cc2ccc(C34CC5CC(CC(C5)C3)C4)cc2)C2=N[C@H](C(C)C)CO2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Fc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 W LED (\u03bbmax = 427 nm)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

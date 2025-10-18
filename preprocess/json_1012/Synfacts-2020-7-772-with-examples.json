@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "text": "c1ccc(C2O[C@@H]2c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=C1N[C@H](c2ccccc2)[C@@H](c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield",
+        "from cis or trans epoxide",
+        "X-ray structure"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N#CC(C#N)C#N",
+      "type": "reactants"
+    }
+  ],
+  [
+    {
+      "text": "C1CS1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=C1NCCS1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N#CC(C#N)C#N",
+      "type": "reactants"
+    }
+  ],
+  [
+    {
+      "text": "CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)NC(=C(C#N)C#N)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N#CC(C#N)C#N",
+      "type": "reactants"
+    }
+  ]
+]

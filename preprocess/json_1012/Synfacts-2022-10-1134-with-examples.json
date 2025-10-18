@@ -1,0 +1,576 @@
+[
+  [
+    {
+      "text": "C=CCCN(Cc1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N(CCCCC(F)F)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "C1=CCCCCCCCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)CC1CCCCCCCCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCOC(B1OC(C)(C)C(C)(C)O1)C(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "rr=1.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(C)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CCc1ccccc1)C(C)C(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "N#CC1CC=CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1CC(CC(F)F)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=2:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)[C@@H]1CC[C@@H](C)C[C@H]1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CC(F)F)[C@@H]1CC[C@@H](C)C[C@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr=3:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)[C@@H]1CC[C@@H](C)C(=O)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CC(F)F)[C@@H]1CC[C@@H](C)C(=O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C=CCC(C)CCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CCO)CCC(C(C)C)C(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "Freon-22"
+      ],
+      "type": "reactants",
+      "text": "FC(F)Cl"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(SSc2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "456 nm LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "40 W"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[BH3-][N+](C)(C)C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "PC (4CzIPN)"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ]
+]

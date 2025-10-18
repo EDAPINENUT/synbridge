@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "CC=C(C)CN(c1cccc(C(=O)N=S(C)(=O)c2ccccc2)c1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C(=O)c3ccc4c(c3C2=O)C(C)(C)CN4S(=O)(=O)c2ccc(C)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt to 135\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26\u201336 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)COc1cccc(C(=O)N=S(C)(=O)c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C(=O)c3ccc4c(c3C2=O)C(C)CO4)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt to 135\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26\u201336 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "C#CCCC=C(C)C(=C)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC[C@@H]2[C@H](C=O)CCC(=O)[C@]12C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr = 12:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u201360\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CCCC=C(C)C(=C)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CC(=O)N1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC[C@H]2[C@@H]3C(=O)N(c4ccccc4)C(=O)[C@H]3CC(=O)[C@]12C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u201360\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CCCC=C(CCC)C(=C)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC[C@@H]2[C@H](C=O)CCC(=O)[C@]12CCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr = 5.6:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Br-].[Br-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u201360\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

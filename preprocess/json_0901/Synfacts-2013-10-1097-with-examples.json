@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "COC(=O)C1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccccc1)[C@@]1(C(=O)OC)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)C1(CC=Cc2ccccc2)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "conditions",
+      "text": "[Ir(cod)Cl2"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "conditions",
+      "text": "L1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "conditions",
+      "text": "TBD"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "conditions",
+      "text": "LiBr"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THE"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "20\u00b0C"
+    }
+  ]
+]

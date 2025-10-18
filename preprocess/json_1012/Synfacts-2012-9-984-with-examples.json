@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "c1ccc(C2=Nc3ccccc3N=C(c3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C2CC(c3ccccc3)Nc3ccccc3N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "5g dr=20:1",
+        "5g ee=99% (S,S)",
+        "5e dr=6:1",
+        "5e ee=92% (R,R)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2c(c1)N=C(c1ccc3ccccc3c1)CC(c1ccc3ccccc3c1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc2c(c1)NC(c1ccc3ccccc3c1)CC(c1ccc3ccccc3c1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "5g dr>20:1",
+        "5g ee>99% (S,S)",
+        "5e dr=6:1",
+        "5e ee>99% (R,R)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc2c(c1)N=C(c1ccccc1)CC(c1ccccc1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)NC(c1ccccc1)CC(c1ccccc1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "5g dr=16:1",
+        "5g ee=97% (S,S)",
+        "5e dr=7:1",
+        "5e ee=90% (R,R)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc2c(c1)N=C(c1ccccc1)CC(c1ccccc1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccc2c(c1)NC(c1ccccc1)CC(c1ccccc1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "5g dr=18:1",
+        "5g ee=99% (S,S)",
+        "5e dr=14:1",
+        "5e ee=95% (R,R)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

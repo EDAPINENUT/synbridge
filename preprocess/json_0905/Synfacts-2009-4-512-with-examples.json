@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@H]1[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "anti/syn = 70:30",
+        "ee = 93% (anti)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1C=CCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Rh(Phebox-Ph)"
+      ],
+      "text": "CO[C@](O)(OC(C)=O)[C@@]12[N+]=C(C3OC[C@@H](c4ccccc4)N3[P@@](C)(OC(C)=O)O[C@H](C)O)C1=CC=CC=C1OC[C@H](c3ccccc3)N12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv"
+      ],
+      "text": "C[SiH](c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[OH3+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@H](O)[C@@H]2CCCC2=O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "anti/syn = 93:7",
+        "ee = 87% (anti)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1C=CCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Rh(Phebox-Ph)"
+      ],
+      "text": "CO[C@](O)(OC(C)=O)[C@@]12[N+]=C(C3OC[C@@H](c4ccccc4)N3[P@@](C)(OC(C)=O)O[C@H](C)O)C1=CC=CC=C1OC[C@H](c3ccccc3)N12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv"
+      ],
+      "text": "C[SiH](c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[OH3+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

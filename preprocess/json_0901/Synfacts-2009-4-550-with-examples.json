@@ -1,0 +1,536 @@
+[
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C=O)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1cc#ccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(=Cc1ccccc1)CCOCc1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(O)C(=Cc2ccccc2)CCOCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(F)c(Br)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc(F)c(Br)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1cc#ccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(O)C(=Cc2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "HCO2H",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "65\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(CO)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(CO)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1cc#ccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCC(=Cc1ccccc1)CCOCc1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(O)C(=Cc2ccccc2)CCOCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC#CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCc1ccc(F)c(Br)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)C(O)c1ccc(F)c(Br)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1cc#ccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCC(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(O)C(=Cc2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ru catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "95\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "text": "C=C=CN(CCc1cccs1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C(=C)[C@@H](N(CCc2cccs2)S(=O)(=O)c2ccc(C)cc2)[C@@H]1N(CCc1cccs1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Rh(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "(S)-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-dichlorobenzene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CN([Ts])CCO[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C(=C)[C@@H](N([Ts])CCO[Si](C)(C)C(C)(C)C)[C@@H]1N([Ts])CCO[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Rh(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "(S)-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-dichlorobenzene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CN(CCc1c[nH]c2ccccc12)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C(=C)[C@@H](N(CCc2c[nH]c3ccccc23)S(=O)(=O)c2ccc(C)cc2)[C@@H]1N(CCc1c[nH]c2ccccc12)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Rh(cod)Cl]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "(S)-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,2-dichlorobenzene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,129 @@
+[
+  [
+    {
+      "text": "CCC(=O)CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@]1(CC(=O)CC)NS(=O)(=O)c2ccc(C(C)(C)C)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "er > 99.9:0.1"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCOC(=O)C1=NS(=O)(=O)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.6\u20131.2 mol%",
+        "allenoate"
+      ],
+      "text": "CCOC(=O)C=C=CC(=O)OCC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.5\u20131 mol%",
+        "phosphine"
+      ],
+      "text": "CC(CP(c1ccccc1)c1ccccc1)NC(=O)[C@H](NC(=O)OC(C)(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)CC(=O)c1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@]1(CC(=O)c2cccc(Br)c2)NS(=O)(=O)c2ccc(C)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er = 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CCOC(=O)C1=NS(=O)(=O)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.6\u20131.2 mol%",
+        "allenoate"
+      ],
+      "text": "CCOC(=O)C=C=CC(=O)OCC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.5\u20131 mol%",
+        "phosphine"
+      ],
+      "text": "CC(CP(c1ccccc1)c1ccccc1)NC(=O)[C@H](NC(=O)OC(C)(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ]
+]

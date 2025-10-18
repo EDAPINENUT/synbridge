@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "C=C(C)COCC(C)=CI",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC1=C[C@@](C)(CO[N+](=O)[O-])COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "PyHBF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "AgNO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "PhMe-H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "conditions"
+    }
+  ]
+]

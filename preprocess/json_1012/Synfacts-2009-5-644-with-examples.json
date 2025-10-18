@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "text": "C=C1[C@H]2CCCC[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@]1(C)[C@@H]2CCCC[C@@H]21)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "catalyst A"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "CP(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4\u201315 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C1C[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@]1(C)C[C@@H]1c1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "catalyst B"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst A"
+      ],
+      "type": "catalyst",
+      "text": "CP(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4\u201315 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C1[C@H]2CCCC[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@]1(C)[C@@H]2CCCC[C@@H]21)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "catalyst A"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "CP(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4\u201315 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C1C[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@]1(C)C[C@@H]1c1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "catalyst B"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "CP(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst B"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "4\u201315 h"
+    }
+  ]
+]

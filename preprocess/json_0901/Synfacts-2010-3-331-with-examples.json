@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "text": "C#CCB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](CB1OC(C)(C)C(C)(C)O1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cc(C(C)C)c([N+]2=CN(S(=O)(=O)c3ccccc3)[C@H](c3ccccc3)[C@H]2c2ccccc2)c(C(C)C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CuCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-15 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "text": "CC(C)=C1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C[C@H](C[N+](=O)[O-])c1ccccc1)=C1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr >20:1",
+        "er >99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "cat. A"
+      ],
+      "type": "catalyst",
+      "text": "CCC1CN2CCC1CC2[C@H](NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-15\u00b0C to r.t."
+    }
+  ]
+]

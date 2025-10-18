@@ -1,0 +1,266 @@
+[
+  [
+    {
+      "text": "CC1(c2ccccc2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C=CC1(O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(c2ccccc2)C[C@H]1CCC(=O)C=C[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr>95:5",
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%",
+        "(R,R)-Et-Duphos"
+      ],
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201320 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201315 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u201340\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201320 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C2CCCCC2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(C2CCCCC2)C[C@H]1CCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr=92:8",
+        "er=92:8"
+      ]
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%",
+        "(R,R)-Et-Duphos"
+      ],
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201320 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201315 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u201340\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201320 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C1=CC12CCCc1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@@H]1C[C@]12CCCc1ccccc12)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr>95:5",
+        "er=92:8"
+      ]
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%",
+        "(R,R)-Et-Duphos"
+      ],
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201320 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201315 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u201340\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201320 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2coc3ccccc23)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=O)CC[C@H]1C[C@@]1(C)c1coc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "36% yield",
+        "dr>95:5",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0\u20137.5 mol%",
+        "(R,R)-Et-Duphos"
+      ],
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201320 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201315 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u201340\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201320 h",
+      "type": "time"
+    }
+  ]
+]

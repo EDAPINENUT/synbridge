@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "CCCC#CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=C(CCC)C(CCC)=C(C#C[Si](C(C)C)(C(C)C)C(C)C)CCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCCP(CCC)CCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COCOCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCOCC(=Cc1ccccc1)C(=C(C#C[Si](C(C)C)(C(C)C)C(C)C)COCOC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCCP(CCC)CCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ]
+]

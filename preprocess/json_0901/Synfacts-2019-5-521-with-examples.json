@@ -1,0 +1,298 @@
+[
+  [
+    {
+      "text": "CCCC=CC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C1=CC=CC1([Fe]c1ccccc1)[Fe]c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCC(CC(=O)NCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC[C@H](O)CC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "3.6\u20136.0 mol%",
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "Rh(cod)2OTf, ligand, HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "NaBO3-4H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=CC(=O)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C1=CC=CC1([Fe]c1ccccc1)[Fe]c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCC(CC(=O)N1CCCC1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC[C@@H](O)CC(=O)N1CCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "3.6\u20136.0 mol%",
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "Rh(cod)2OTf, ligand, HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "NaBO3-4H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C(=O)NCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C1=CC=CC1([Fe]c1ccccc1)[Fe]c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@@H](CB1OC(C)(C)C(C)(C)O1)C(=O)NCCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H](CO)C(=O)NCCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "3.6\u20136.0 mol%",
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "Rh(cod)2OTf, ligand, HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "NaBO3-4H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC=C(C)C(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C1=CC=CC1([Fe]c1ccccc1)[Fe]c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCC(B1OC(C)(C)C(C)(C)O1)[C@H](C)C(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@@H](O)[C@@H](C)C(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3\u20135 mol%",
+        "3.6\u20136.0 mol%",
+        "2.0 equiv",
+        "stage1"
+      ],
+      "text": "Rh(cod)2OTf, ligand, HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "NaBO3-4H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "THF\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ]
+]

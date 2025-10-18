@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=NP(=O)(c1ccccc1)c1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@](NP(=O)(c1ccccc1)c1ccccc1)(B1OC(C)(C)C(C)(C)O1)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@@H]2[C@@H]3C3CCC2(C)C3(C)C)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CuCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "chiral ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NaOt-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "iPrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "conditions"
+    }
+  ]
+]

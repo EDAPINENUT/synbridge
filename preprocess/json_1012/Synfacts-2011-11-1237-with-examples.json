@@ -1,0 +1,302 @@
+[
+  [
+    {
+      "text": "CCCC[Sn](CCCC)(CCCC)c1cccc(C(=O)OCC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(OC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "TAS-OCF3"
+      ],
+      "text": "CN(C)[S+](N(C)C)N(C)C.[O-]C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "F-TEDA-PF6"
+      ],
+      "text": "F[N@+]12CC[N@+](CCl)(CC1)CC2.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:3"
+      ],
+      "text": "C1CCOC1.CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(OC(F)(F)F)c(B(O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(OC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "text": "CCOC(=O)c1ccc(OC(F)(F)F)c(OC(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "TAS-OCF3",
+        "stage 2"
+      ],
+      "text": "CN(C)[S+](N(C)C)N(C)C.[O-]C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "F-TEDA-PF6",
+        "stage 2"
+      ],
+      "text": "F[N@+]12CC[N@+](CCl)(CC1)CC2.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:3",
+        "stage 2"
+      ],
+      "text": "C1CCOC1.CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(B(O)O)c1OC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1OC(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield"
+      ]
+    },
+    {
+      "text": "COc1cccc(OC(F)(F)F)c1OC(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "TAS-OCF3",
+        "stage 2"
+      ],
+      "text": "CN(C)[S+](N(C)C)N(C)C.[O-]C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "F-TEDA-PF6",
+        "stage 2"
+      ],
+      "text": "F[N@+]12CC[N@+](CCl)(CC1)CC2.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:3",
+        "stage 2"
+      ],
+      "text": "C1CCOC1.CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ]
+]

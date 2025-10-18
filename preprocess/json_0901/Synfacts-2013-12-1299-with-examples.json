@@ -1,0 +1,222 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c(c1)[SH](C(C)(C)C)[C@]1(N=C2)[C@@H]2CCC[C@H]2N2CCC[C@@H](Cl)[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "Ru-S2N2 catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "H2 (50 bar)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2000:100:1"
+      ],
+      "text": "substrate/base/catalyst ratio",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CCCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c(c1)[SH](C(C)(C)C)[C@]1(N=C2)[C@@H]2CCC[C@H]2N2CCC[C@@H](Cl)[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O[C@H]1CCCc2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "Ru-S2N2 catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "H2 (50 bar)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2000:100:1"
+      ],
+      "text": "substrate/base/catalyst ratio",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C=CC1=C(C)CCCC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c(c1)[SH](C(C)(C)C)[C@]1(N=C2)[C@@H]2CCC[C@H]2N2CCC[C@@H](Cl)[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC1=C(C=C[C@H](C)O)C(C)(C)CCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "Ru-S2N2 catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "H2 (50 bar)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2000:100:1"
+      ],
+      "text": "substrate/base/catalyst ratio",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c(c1)[SH](C(C)(C)C)[C@]1(N=C2)[C@@H]2CCC[C@H]2N2CCC[C@@H](Cl)[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@H](O)C1=CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "Ru-S2N2 catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "H2 (50 bar)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2000:100:1"
+      ],
+      "text": "substrate/base/catalyst ratio",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(C)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c(c1)[SH](C(C)(C)C)[C@]1(N=C2)[C@@H]2CCC[C@H]2N2CCC[C@@H](Cl)[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC=C(C)[C@@H](C)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "Ru-S2N2 catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "KOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "H2 (50 bar)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2000:100:1"
+      ],
+      "text": "substrate/base/catalyst ratio",
+      "type": "conditions"
+    }
+  ]
+]

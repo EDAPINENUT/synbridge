@@ -1,0 +1,45 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCC=C[Si](C)(C)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@H](CO[Si](C)(C)C(C)(C)C)C[Si](C)(C)Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-].[Cu+]"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-BenzP*"
+      ],
+      "type": "catalyst",
+      "text": "CP(c1ccccc1P(C)C(C)(C)C)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    }
+  ]
+]

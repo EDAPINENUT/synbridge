@@ -1,0 +1,173 @@
+[
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H]1N[C@@H](c2ccc([N+](=O)[O-])cc2)N2C(=O)CCN2[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "F[B-](F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "L*",
+        "t-Bu-Phosferrox"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc([Fe]c3ccccc3)c2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H]1N[C@@H](c2ccccc2)N2C(=O)CCN2[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "F[B-](F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "L*",
+        "t-Bu-Phosferrox"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc([Fe]c3ccccc3)c2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=NCC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H]1N[C@H](C(=O)OC)[C@@H](c2ccccc2)N2CCC(=O)N12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "F[B-](F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "L*",
+        "t-Bu-Phosferrox"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc([Fe]c3ccccc3)c2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18-24 h",
+      "type": "time"
+    }
+  ]
+]

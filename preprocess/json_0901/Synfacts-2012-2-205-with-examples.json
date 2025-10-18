@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "CCOC(=O)N1c2ccc([N+](=O)[O-])cc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1ccccc1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccc([N+](=O)[O-])cc2C=C[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "(+)-tartaric acid",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "ClgCH2OH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "HMPA or NMP",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1c2ccccc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1ccsc1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccccc2C=C[C@@H]1C=Cc1ccsc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "(+)-tartaric acid",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "ClgCH2OH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "HMPA or NMP",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1c2ccc(OC)cc2C=CC1OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOB(C=Cc1cccc(F)c1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1c2ccc(OC)cc2C=C[C@@H]1C=Cc1cccc(F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "(+)-tartaric acid",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "ClgCH2OH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "HMPA or NMP",
+      "type": "conditions"
+    }
+  ]
+]

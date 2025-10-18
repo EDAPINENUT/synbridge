@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCC=C[Si](C)(C)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@H](CO[Si](C)(C)C(C)(C)C)C[Si](C)(C)Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CP(c1ccccc1P(C)C(C)(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-BenzP*"
+      ],
+      "type": "conditions",
+      "text": "CuCI"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "(R,R)-BenzP*"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "conditions",
+      "text": "t-BuOK"
+    }
+  ]
+]

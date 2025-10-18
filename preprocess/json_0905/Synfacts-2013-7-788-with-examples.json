@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)OOC)C(OC(=O)OC(C)(C)C)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC)C(C(=[N+]=[N-])C(=O)OCC(F)(F)F)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=CC(=O)OCC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-96 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "chiral Lewis base catalyst A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)OOC(C)(C)C)C(OC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC(C)(C)C)[C@H](C(=[N+]=[N-])C(=O)OCC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=CC(=O)OCC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-96 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "chiral Lewis base catalyst A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)OOC)C(OC(=O)OC(C)(C)C)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC)C(C(=[N+]=[N-])C(=O)OCC(F)(F)F)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "er=91.5:8.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=CC(=O)OCC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-96 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "chiral Lewis base catalyst A",
+      "type": "other conditions"
+    }
+  ]
+]

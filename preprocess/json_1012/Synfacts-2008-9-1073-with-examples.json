@@ -1,0 +1,318 @@
+[
+  [
+    {
+      "text": "CCC=CC(=O)N(CC#C[Se]c1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC([Se]c1ccccc1)=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "E/Z >99:1"
+      ]
+    },
+    {
+      "text": "CCC=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "[Pt](P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2.0\u20133.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "12\u201314 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC#CCN(C(=O)C=CSc1ccccc1)C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(Sc1ccccc1)=C1C=CC(=O)N(C(C)c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "E/Z >99:1"
+      ]
+    },
+    {
+      "text": "CC(c1ccccc1)N1CC(=CSc2ccccc2)C=CC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "[Pt](P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2.0\u20133.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "12\u201314 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)C=CC(=O)N(CC#C[Se]c1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C([Se]c1ccccc1)=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "E/Z =96:4"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C)C=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "[Pt](P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2.0\u20133.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "12\u201314 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=O)N(CC#C[Se]c1ccccc1)CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CC(=C[Se]c2ccccc2)CN1CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "E/Z >99:1"
+      ]
+    },
+    {
+      "text": "C=C1C=CC(=O)N(CCc2c[nH]c3ccccc23)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "[Pt](P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "2.0\u20133.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "12\u201314 h",
+      "type": "time"
+    }
+  ]
+]

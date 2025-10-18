@@ -1,0 +1,465 @@
+[
+  [
+    {
+      "text": "CSc1ccc(C=CC(=O)c2ccccc2Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSc1ccc([C@H]2CC(=O)c3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "97% ee",
+        "using ligand A"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccsc1)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@H](c2ccsc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "97% ee",
+        "using ligand A"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=O)C=Cc2ccccc2OC)c(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)[C@H](c1ccccc1OC)CC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "98% ee",
+        "using ligand B"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=CC(=O)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@H]1c2ccccc2C(=O)[C@@H]1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "86% ee",
+        "dr=10:1",
+        "using ligand B"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=CC=Cc1ccco1)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@H](C=Cc2ccco2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "94% ee",
+        "using ligand B"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C=CC=CC(=O)c1ccccc1Br)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=C[C@@H]1CC(=O)c2ccccc21)=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "94% ee",
+        "using ligand B"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "ligand A"
+      ],
+      "text": "CC(C)(C)c1ccc([C@H]2COC(C(C#N)=C3N[C@@H](c4ccc(C(C)(C)C)cc4)CO3)=N2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand B"
+      ],
+      "text": "CC(C)(C)c1cc([C@@H]2COC(/C(C#N)=C3/N[C@H](c4cc(C(C)(C)C)cc(C(C)(C)C)c4)CO3)=N2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    }
+  ]
+]

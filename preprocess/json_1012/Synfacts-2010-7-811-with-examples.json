@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "CN(C)C(=O)Oc1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)C(=O)Oc1cc(F)ccc1-c1ccc(Cl)c(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)C(=O)Oc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)C(=O)Oc1cc(Cl)ccc1-c1ccc(Cl)c(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(OC(=O)N(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(-c2ccccc2)c(OC(=O)N(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    }
+  ]
+]

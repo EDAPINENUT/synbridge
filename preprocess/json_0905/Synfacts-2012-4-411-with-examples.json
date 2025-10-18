@@ -1,0 +1,232 @@
+[
+  [
+    {
+      "text": "C1=CCC=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1[C@H](C(F)(F)F)[C@H]2C=C[C@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "exo/endo = 1:99",
+        "99% ee",
+        "Z-acrylate used"
+      ]
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "activated oxazaborolidine"
+      ],
+      "text": "CC(C)[C@@H]1C(c2ccccc2)(c2ccccc2)OB(c2ccccc2)[N+]1(Cc1cccc2ccccc12)[Sn](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1[C@@H](C(F)(F)F)[C@H]2C=C[C@@H]1O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "exo/endo = 1:99",
+        "99% ee",
+        "Z-acrylate used"
+      ]
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "activated oxazaborolidine"
+      ],
+      "text": "CC(C)[C@@H]1C(c2ccccc2)(c2ccccc2)OB(c2ccccc2)[N+]1(Cc1cccc2ccccc12)[Sn](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Brc1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1[C@H](C(F)(F)F)[C@H]2O[C@H]1C=C2Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "exo/endo = 1:99",
+        "99% ee",
+        "E-acrylate used"
+      ]
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "activated oxazaborolidine"
+      ],
+      "text": "CC(C)[C@@H]1C(c2ccccc2)(c2ccccc2)OB(c2ccccc2)[N+]1(Cc1cccc2ccccc12)[Sn](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1[C@H](C(F)(F)F)[C@@H]2C=C[C@@]1(C)O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "exo/endo = 99:1",
+        "99% ee",
+        "E-acrylate used"
+      ]
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "activated oxazaborolidine"
+      ],
+      "text": "CC(C)[C@@H]1C(c2ccccc2)(c2ccccc2)OB(c2ccccc2)[N+]1(Cc1cccc2ccccc12)[Sn](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1[C@H](C(F)F)[C@H]2O[C@@H]1C=C2C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "exo/endo = 1:99",
+        "99% ee",
+        "E-acrylate used"
+      ]
+    },
+    {
+      "relations": [
+        "10-30 mol%",
+        "activated oxazaborolidine"
+      ],
+      "text": "CC(C)[C@@H]1C(c2ccccc2)(c2ccccc2)OB(c2ccccc2)[N+]1(Cc1cccc2ccccc12)[Sn](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "COc1cc(N(C)S(=O)(=O)c2ccccc2Br)nc(OC)n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1OCC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(N(C)S(=O)(=O)c2ccc(C(O)C(F)(F)F)cc2)nc(OC)n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)C1=CC2c3cc(C(C)(C)C)cc[n+]3[Si](Br)(Br)N2C=C1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NiBr2(dtbbpy)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NaHCO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 W purple LEDs (399 nm)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t., 7 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "text": "C=C(C)C(=O)N(C)c1ccc(F)cc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)CC1(C)C(=O)N(C)c2ccc(F)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C(=O)N(C)c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)CC1(C)C(=O)N(C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "COc1ccc2c(c1)C(=NC(=O)OC(C)(C)C)C(=O)N2C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CC(=O)Sc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)[C@](CC(=O)Sc1ccccc1)(NC(=O)OC(C)(C)C)C(=O)N2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1CN2CCC1CC2[C@H](NS(=O)(=O)c1cccc2cccnc12)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CPME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "conditions"
+    }
+  ]
+]

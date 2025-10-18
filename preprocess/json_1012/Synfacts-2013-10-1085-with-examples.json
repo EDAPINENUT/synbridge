@@ -1,0 +1,207 @@
+[
+  [
+    {
+      "text": "CCCCC(C)=NS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@]1(c2ccccc2)NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "COC(=O)c1ccc(C2=N[C@@H](C(C)(C)C)CO2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)=NS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(c2ccccc2)NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "COC(=O)c1ccc(C2=N[C@@H](C(C)(C)C)CO2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    }
+  ],
+  [
+    {
+      "text": "CC(=NS(C)(=O)=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@]1(c2ccccc2)NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "COC(=O)c1ccc(C2=N[C@@H](C(C)(C)C)CO2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    }
+  ],
+  [
+    {
+      "text": "CC(CCCOCc1ccccc1)=NS(C)(=O)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S1(=O)N[C@](CCCOCc2ccccc2)(c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "COC(=O)c1ccc(C2=N[C@@H](C(C)(C)C)CO2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    }
+  ],
+  [
+    {
+      "text": "CC(=NS(C)(=O)=O)c1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc([C@@]2(c3ccccc3)NS(=O)(=O)c3ccccc32)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "COC(=O)c1ccc(C2=N[C@@H](C(C)(C)C)CO2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OCC(F)(F)F"
+    }
+  ]
+]

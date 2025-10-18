@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "COCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=NC=CC=C2C=C1C=CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@H](CCc1ccccc1)c1ccccc1-c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ir+]1(C1=CCCC=CCC1)3.[Ir+]2(C1=CCCC=CCC1)4.[Cl-]12.[Cl-]34",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-BINAP",
+        "5\u20136 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-48h",
+      "type": "time"
+    }
+  ]
+]

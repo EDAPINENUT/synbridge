@@ -1,0 +1,207 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)OC(=Cc1ccccc1)N1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)C(C)C)c(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](C(=O)N1CCOC1=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "catalyst"
+      ],
+      "text": "CC1(C)C2OC[C@H](c3ccccc3)N2[Cu](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)N2C1OC[C@H]2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)OC(=Cc1ccccc1)N1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(I(Cc2cn(S(=O)(=O)c3ccccc3)c3ccccc23)OS(=O)(=O)C(F)(F)F)c(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C(=O)[C@H](Cc1cn(S(=O)(=O)c2ccccc2)c2ccccc12)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "catalyst"
+      ],
+      "text": "CC1(C)C2OC[C@H](c3ccccc3)N2[Cu](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)N2C1OC[C@H]2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)OC(=Cc1ccc(Cl)cc1)N1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(I(C)OS(=O)(=O)C(F)(F)F)c(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C(=O)N1CCOC1=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "catalyst"
+      ],
+      "text": "CC1(C)C2OC[C@H](c3ccccc3)N2[Cu](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)N2C1OC[C@H]2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(O[Si](C)(C)C)N1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(I(OS(=O)(=O)C(F)(F)F)c2c(C)cc(C)cc2C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc([C@@H](C)C(=O)N2CCOC2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "catalyst"
+      ],
+      "text": "CC1(C)C2OC[C@H](c3ccccc3)N2[Cu](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)N2C1OC[C@H]2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)OC(=Cc1ccc(F)cc1)N1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)c(I(OCc2ccccc2)OS(=O)(=O)C(F)(F)F)c(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C(=O)[C@@H](OCc1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%",
+        "catalyst"
+      ],
+      "text": "CC1(C)C2OC[C@H](c3ccccc3)N2[Cu](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)N2C1OC[C@H]2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ]
+]

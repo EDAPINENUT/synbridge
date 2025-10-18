@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "Cc1cccc(N)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1Nc2c(C)cccc2[C@]2(Nc3ccccc3C)CC[C@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=87:13"
+      ]
+    },
+    {
+      "relations": [
+        "R = p-, m- substituents Alk, OR, Halo"
+      ],
+      "text": "CCOC(=O)/C=C1\\CCC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "PTSA",
+        "10 mol%"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

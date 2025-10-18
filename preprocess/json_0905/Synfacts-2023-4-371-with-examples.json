@@ -1,0 +1,163 @@
+[
+  [
+    {
+      "text": "O=C(c1ccccc1)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CCC(=O)[C@H]1CCc2ccccc2N1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "COCCOC.Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,R)-BOX"
+      ],
+      "text": "COc1ccccc1CC(Cc1ccccc1OC)(C1=N[C@H](c2ccccc2)[C@@H](c2ccccc2)O1)C1=N[C@H](c2ccccc2)[C@@H](c2ccccc2)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "F[P](F)(F)(F)(F)F.CC(C)(C)C1=CC=[N@H]2C(=C1)C3=CC(=CC=[N@@H]3[Ir]2456c7cc(F)cc(F)c7C8=CC=C(C=[N]48)C(F)(F)F)C(C)(C)C.Fc9cc(F)c(C%10=[N]5C=C(C=C%10)C(F)(F)F)c6c9",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "DMDC"
+      ],
+      "text": "COC(=O)OC(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C=CCn1cccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "427 nm"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(c1ccccc1)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCc1nc(-c2ccccc2)c(-c2ccccc2)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCc1nc(-c2ccccc2)c(-c2ccccc2)o1)[C@H]1CCCN1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "99% ee",
+        "from Oxaprozin"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "COCCOC.Cl[Ni]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,R)-BOX"
+      ],
+      "text": "COc1ccccc1CC(Cc1ccccc1OC)(C1=N[C@H](c2ccccc2)[C@@H](c2ccccc2)O1)C1=N[C@H](c2ccccc2)[C@@H](c2ccccc2)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "F[P](F)(F)(F)(F)F.CC(C)(C)C1=CC=[N@H]2C(=C1)C3=CC(=CC=[N@@H]3[Ir]2456c7cc(F)cc(F)c7C8=CC=C(C=[N]48)C(F)(F)F)C(C)(C)C.Fc9cc(F)c(C%10=[N]5C=C(C=C%10)C(F)(F)F)c6c9",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "DMDC"
+      ],
+      "text": "COC(=O)OC(=O)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C=CCn1cccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "427 nm"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

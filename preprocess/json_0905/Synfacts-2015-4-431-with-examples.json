@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "text": "COCC1CCC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOCC1CCC(=O)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield"
+      ]
+    },
+    {
+      "relations": [
+        "16 equiv"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "catalyst A",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "4:1 (v/v) mixture"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1 (v/v) mixture",
+        "hexafluoroisopropanol"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72\u2013120 h",
+      "type": "time"
+    }
+  ]
+]

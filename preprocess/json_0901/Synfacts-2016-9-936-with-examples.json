@@ -1,0 +1,410 @@
+[
+  [
+    {
+      "text": "O=C1c2ccccc2C(=O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1c2ccccc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1c2ccccc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C)c2c1C(=O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C)c2c1C(=O)[C@@H]1O[C@@H]1[C@H]2O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(C)c2c1C(=O)[C@H]1O[C@H]1[C@@H]2O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2c(cc1C)C(=O)[C@@H]1O[C@@H]1C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cc2c(cc1C)[C@H](O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(cc1C)[C@H](O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCc1cc2c(cc1CC)C(=O)[C@@H]1O[C@@H]1C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCc1cc2c(cc1CC)[C@H](O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCc1cc2c(cc1CC)[C@H](O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1c2cc(Cc3ccccc3)c(Cc3ccccc3)cc2C(=O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1c2cc(Cc3ccccc3)c(Cc3ccccc3)cc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1c2cc(Cc3ccccc3)c(Cc3ccccc3)cc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1cc2c(cc1C(=O)OC)C(=O)[C@@H]1O[C@@H]1C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)c1cc2c(cc1C(=O)OC)[C@H](O)[C@H]1O[C@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)c1cc2c(cc1C(=O)OC)[C@@H](O)[C@@H]1O[C@@H]1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1c2cc(Br)c(Br)cc2C(=O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1c2cc(Br)c(Br)cc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1c2cc(Br)c(Br)cc2[C@@H](O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1c2cc(Cl)c(Cl)cc2C(=O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2[C@H](c3ccccc3)[C@@H](c3ccccc3)N[Ru]2(Cl)c2cccc(C(C)C)c2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1c2cc(Cl)c(Cl)cc2[C@H](O)[C@H]2O[C@@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1c2cc(Cl)c(Cl)cc2[C@@H](O)[C@@H]2O[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "(R,R)-TsDPEN-H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "K3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "EtOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "conditions"
+    }
+  ]
+]

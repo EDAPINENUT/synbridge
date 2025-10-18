@@ -1,0 +1,686 @@
+[
+  [
+    {
+      "text": "COc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1C#Cc1ccccc1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2Cl)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1cc(OC)ccc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(OC)c(C#Cc2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1cc2ccccc2cc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2ccccc2cc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C(#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)N(C(=O)c1ccccc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1C(=O)N(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N(C(=O)c1ccccc1C#C[Si](C(C)C)(C(C)C)C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "CCN(CC)C(=O)Oc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccccc1OC(=O)N(CC)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCN(CC)C(=O)Oc1ccccc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "Cn1ccc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1cn(C)c2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cn1cc(C#Cc2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2scnc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1nc2ccccc2s1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C(#Cc1nc2ccccc2s1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ],
+  [
+    {
+      "text": "c1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C(#Cc1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C-](C)C.[Li+]"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "time",
+      "text": "15 min"
+    }
+  ]
+]

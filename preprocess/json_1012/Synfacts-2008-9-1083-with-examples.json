@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CC1(C)COB(c2ccccc2[N+](=O)[O-])OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "[(IPr)CuCl]"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=CN(c2c(C(C)C)cccc2C(C)C)C1[Cu]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 bar"
+      ],
+      "text": "O=C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[Cl-].[H+]",
+      "type": "catalyst"
+    }
+  ]
+]

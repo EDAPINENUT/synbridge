@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "CC(O[Si](C)(C)C)=C1Cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "er = 71.5:28.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "cat.1"
+      ],
+      "text": "CCC1CN2CCC1CC2C[C@H](Oc1ccc(O[C@H](CC2CC3CCN2CC3CC)c2ccnc3ccc(OC)cc23)c2c1C(=O)C1C=CC=CC1C2=O)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "O=C(O)CC(O)(CC(=O)O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

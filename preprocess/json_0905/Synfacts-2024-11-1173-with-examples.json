@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CCCCCC=C=C(C)c1ccc2c(c1)C(C)(C)CCS2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=C=C(C)c1ccc2c(c1)C(C)(C)CCS2)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "C(sp2):C(sp3) = 10:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.15 mol%",
+        "Box ligand"
+      ],
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NF sulfonamide"
+      ],
+      "text": "O=S(=O)(c1ccc(C(F)(F)F)cc1)N(F)C12CC3CC(CC(C3)C1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 equiv"
+      ],
+      "text": "*[Si](OC)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (4:1) with DMAc"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (1:4) with MeCN"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

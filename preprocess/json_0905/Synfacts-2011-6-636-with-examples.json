@@ -1,0 +1,210 @@
+[
+  [
+    {
+      "text": "CCCCCC1=CCC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=O)[C@@H]1CC(=O)O[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "69% ee",
+        "trans/cis = 82:18"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "chiral tin catalyst"
+      ],
+      "text": "Br[Sn]1(Br)Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "19-72 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C2=CCC(=O)O2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C(=O)[C@@H]2CC(=O)O[C@H]2c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "46% ee",
+        "trans/cis = 84:16"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "chiral tin catalyst"
+      ],
+      "text": "Br[Sn]1(Br)Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "19-72 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C1=CCC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(=O)[C@@H]1CC(=O)O[C@H]1c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "96% ee",
+        "trans/cis > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "chiral tin catalyst"
+      ],
+      "text": "Br[Sn]1(Br)Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "19-72 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C1=CCC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H]2OC(=O)C[C@H]2C(=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "99% ee",
+        "trans/cis > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "chiral tin catalyst"
+      ],
+      "text": "Br[Sn]1(Br)Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "19-72 h",
+      "type": "time"
+    }
+  ]
+]

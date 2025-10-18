@@ -1,0 +1,510 @@
+[
+  [
+    {
+      "text": "O=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)[C@@H](O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "er = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "transaldolase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16-40 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "engineered decarboxylase",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc2ccccc2n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)[C@@H](O)c1ccc2ccccc2n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc2ccccc2n1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "er = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "transaldolase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16-40 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "engineered decarboxylase",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC[C@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC[C@@H](O)CN",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er >99:1"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "transaldolase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16-40 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "engineered decarboxylase",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H](C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)[C@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)[C@@H](O)CN",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "39% yield",
+        "er/dr >99:1"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "transaldolase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16-40 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "engineered decarboxylase",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC[C@@H](O)CN",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er >99:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.1%"
+      ],
+      "text": "SOI cells",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "styrene oxide isomerase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccccc2)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)[C@@H](O)CN",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "39% yield",
+        "er/dr >99:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.1%"
+      ],
+      "text": "SOI cells",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "styrene oxide isomerase",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "L-threonine"
+      ],
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "ObiH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM"
+      ],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5%"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mM",
+        "pH 8.0"
+      ],
+      "text": "TRIS/KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

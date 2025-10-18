@@ -1,0 +1,137 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)Oc1ccc([Mg]Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)Oc1ccc(C2CCCN(C(=O)OC(C)(C)C)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)OC(=O)N1CCCC(I)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TMCD"
+      ],
+      "text": "CN(C)[C@H]1CCCC[C@@H]1N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1[Mg]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C1CCCN(C(=O)OC(C)(C)C)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)OC(=O)N1CCCC(I)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TMCD"
+      ],
+      "text": "CN(C)[C@H]1CCCC[C@@H]1N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Fc1ccc([Mg]Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCCC(c2ccc(F)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)OC(=O)N1CCCC(I)C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TMCD"
+      ],
+      "text": "CN(C)[C@H]1CCCC[C@@H]1N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ]
+]

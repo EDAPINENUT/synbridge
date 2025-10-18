@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "text": "c1ccc(-c2ccc(-c3ccc4ccccc4n3)cc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(-c2ccc([C@H]3CCc4ccccc4N3)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(S,S)-3: 89% yield",
+        "(S,S)-3: er=99:1",
+        "(S)-4: 94% yield",
+        "(S)-4: er=79.5:20.5",
+        "(S)-5: 87% yield",
+        "(S)-5: er=88:12"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "non-interlocked macrocycle (S)-4",
+        "acyclic catalyst (S)-5",
+        "catenated catalyst (S,S)-3 [made up of two units of (S)-4]"
+      ],
+      "text": "COc1ccc(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4ccc(OC)cc4)cc4ccccc4c2-3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.4 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mM"
+      ],
+      "text": "c1ccc2ncccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Fc1ccc(-c2ccc3ccccc3n2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccc([C@H]2CCc3ccccc3N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(S,S)-3: 90% yield",
+        "(S,S)-3: er=95:5",
+        "(S)-4: 90% yield",
+        "(S)-4: er=61.5:38.5",
+        "(S)-5: 86% yield",
+        "(S)-5: er=71:29"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "non-interlocked macrocycle (S)-4",
+        "acyclic catalyst (S)-5",
+        "catenated catalyst (S,S)-3 [made up of two units of (S)-4]"
+      ],
+      "text": "COc1ccc(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4ccc(OC)cc4)cc4ccccc4c2-3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.4 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mM"
+      ],
+      "text": "c1ccc2ncccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc(-c2ccc3ccccc3n2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc([C@H]2CCc3ccccc3N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(S,S)-3: 90% yield",
+        "(S,S)-3: er=92:8",
+        "(S)-4: 82% yield",
+        "(S)-4: er=44:56",
+        "(S)-5: 94% yield",
+        "(S)-5: er=54.5:45.5"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "non-interlocked macrocycle (S)-4",
+        "acyclic catalyst (S)-5",
+        "catenated catalyst (S,S)-3 [made up of two units of (S)-4]"
+      ],
+      "text": "COc1ccc(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4ccc(OC)cc4)cc4ccccc4c2-3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.4 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mM"
+      ],
+      "text": "c1ccc2ncccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

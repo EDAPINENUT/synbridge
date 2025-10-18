@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC(=O)C2(C)CCCCC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(C=CC1=CCCC[C@@]1(C)C(=O)NS(=O)(=O)c1ccc(C)cc1)OCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C1=N[C@@H](c2ccccc2)CO1)c1cccc(=O)[nH]1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NaTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "Ag2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "without olefin",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "HFIP\u2013MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100-120\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "conditions"
+    }
+  ]
+]

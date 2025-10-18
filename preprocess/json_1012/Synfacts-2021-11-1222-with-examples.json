@@ -1,0 +1,532 @@
+[
+  [
+    {
+      "text": "C=CCC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc([Zn]Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(C[C@@H](O)CC=C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield",
+        "er = 96:4"
+      ]
+    },
+    {
+      "text": "C#Cc1ccc(CC(O)O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "COCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "stage 1"
+      ],
+      "text": "CN[C@@H](C)[C@H](C)NC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF/DMSO/DMF (10:1:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "then E+",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]c1ccc(Cn2cccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](O)Cc1ccc(Cn2cccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "er = 91:9"
+      ]
+    },
+    {
+      "text": "C=CC[C@H](O)Cc1ccc(Cn2cccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "COCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "stage 1"
+      ],
+      "text": "CN[C@@H](C)[C@H](C)NC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF/DMSO/DMF (10:1:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "then E+",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC=C(Cl)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@@H](CC=C(Cl)Cl)Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "er = 92:8"
+      ]
+    },
+    {
+      "text": "OC(O)Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "COCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "stage 1"
+      ],
+      "text": "CN[C@@H](C)[C@H](C)NC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF/DMSO/DMF (10:1:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "then E+",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=C=CC[C@H](O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "er = 86:14"
+      ]
+    },
+    {
+      "text": "CC(C)=C=CC[C@H](O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "COCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "stage 1"
+      ],
+      "text": "CN[C@@H](C)[C@H](C)NC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF/DMSO/DMF (10:1:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "then E+",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@H](Cc1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "er = 87:13"
+      ]
+    },
+    {
+      "text": "OC(O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage 1"
+      ],
+      "text": "COCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "stage 1"
+      ],
+      "text": "CN[C@@H](C)[C@H](C)NC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CI",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF/DMSO/DMF (10:1:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "then E+",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

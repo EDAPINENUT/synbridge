@@ -1,0 +1,591 @@
+[
+  [
+    {
+      "text": "Cc1cc(C)c(B(O)O)c(C)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Cc1cc(C)c(C=CF)c(C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC=C(F)F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "65% yield",
+        "E/Z=95:5",
+        "isolated E-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC=CF)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1cccc(B(O)O)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1cccc(C=CF)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC=C(F)F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "65% yield",
+        "E/Z=95:5",
+        "isolated E-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC=CF)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(C=CF)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC=C(F)F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "65% yield",
+        "E/Z=95:5",
+        "isolated E-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC=CF)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Cc1cc(C)c(C=CF)c(C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC(=C(F)F)c2ccccc2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50% yield",
+        "E/Z=20:80",
+        "isolated Z-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC(=CF)c2ccccc2)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCOC(=O)c1cccc(C=CF)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC(=C(F)F)c2ccccc2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50% yield",
+        "E/Z=20:80",
+        "isolated Z-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC(=CF)c2ccccc2)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(C=CF)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC(=C(F)F)c2ccccc2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50% yield",
+        "E/Z=20:80",
+        "isolated Z-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC(=CF)c2ccccc2)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C(=CF)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "E/Z=87:13"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccc(S(=O)(=O)OC(=C(F)F)c2ccccc2)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50% yield",
+        "E/Z=20:80",
+        "isolated Z-isomer",
+        "stage 1"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)OC(=CF)c2ccccc2)cc1",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 2"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "PCy3",
+        "4 mol%",
+        "stage 2"
+      ],
+      "text": "C1CCC(P(C2CCCCC2)C2CCCCC2)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "stage 2"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dioxane",
+        "stage 2"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "14 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,840 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "anti/syn = 85:15",
+        "99% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "anti/syn = 83:17",
+        "99% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "anti/syn = 54:46",
+        "95% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "anti/syn = 86:14",
+        "90% ee (anti)",
+        "(R,R)-Ph-BPE",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "anti/syn = 15:85",
+        "99% ee (syn)",
+        "(R)-Xyl-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "anti/syn = 2:98",
+        "98% ee (syn)",
+        "(R)-Xyl-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "anti/syn = 47:53",
+        "93% ee (syn)",
+        "(R)-Xyl-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "anti/syn = 12:88",
+        "99% ee (syn)",
+        "(R)-Xyl-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "anti/syn = 85:15",
+        "99% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "anti/syn = 83:17",
+        "99% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "anti/syn = 54:46",
+        "95% ee (anti)",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "anti/syn = 86:14",
+        "90% ee (anti)",
+        "(R,R)-Ph-BPE",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "anti/syn = 15:85",
+        "99% ee (syn)",
+        "(R)-Xyl-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "anti/syn = 2:98",
+        "98% ee (syn)",
+        "(R)-Xyl-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "anti/syn = 47:53",
+        "93% ee (syn)",
+        "(R)-Xyl-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "anti/syn = 12:88",
+        "99% ee (syn)",
+        "(R)-Xyl-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cc1cc(C)c([Cu])c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

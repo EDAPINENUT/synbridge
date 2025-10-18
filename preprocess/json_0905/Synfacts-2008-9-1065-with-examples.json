@@ -1,0 +1,138 @@
+[
+  [
+    {
+      "text": "CC(CCCO)C1C2C3C=CC[C@@H]2[C@]31C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12CC=CC[C@H]1CC[C@]1(C)OCC[C@@H]21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "64% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Z-alkene"
+      ],
+      "type": "reactants",
+      "text": "CCC=CCCC(C)CCCO"
+    },
+    {
+      "relations": [
+        "61% yield",
+        "87% ee"
+      ],
+      "type": "products",
+      "text": "CC[C@H]1C=CC[C@]2(C)OCC[C@@H]12"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "{[(S)-xylyl-phanephos]Pt}(BF4)2"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)c2cc(P(c3ccccc3)c3ccccc3)cc3c2CCCC3)c1"
+    },
+    {
+      "relations": [
+        "22 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "6-14 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(C)CCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12CC=CC[C@H]1Cc1ccccc1O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "75% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Z-alkene"
+      ],
+      "type": "reactants",
+      "text": "CCC=CCCC(C)CCCO"
+    },
+    {
+      "relations": [
+        "61% yield",
+        "87% ee"
+      ],
+      "type": "products",
+      "text": "CC[C@H]1C=CC[C@]2(C)OCC[C@@H]12"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "{[(S)-xylyl-phanephos]Pt}(BF4)2"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(P(c2cc(C)cc(C)c2)c2cc(P(c3ccccc3)c3ccccc3)cc3c2CCCC3)c1"
+    },
+    {
+      "relations": [
+        "22 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [
+        "2.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "6-14 h"
+    }
+  ]
+]

@@ -1,0 +1,119 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(C#CCOc2ccccc2I)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(C=C2COc3ccccc32)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Li+].[c-]1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N(C#CCOc1ccccc1I)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N(C=C1COc2ccccc21)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Li+].[c-]1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H]1[C@@H](c2ccccc2)N(C#CCOc2ccccc2I)C(=O)N1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1[C@@H](c2ccccc2)N(C=C2COc3ccccc32)C(=O)N1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[CH2-]CCC.[Li+]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Li+].[c-]1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "O=S(=O)(N=Cc1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NS(=O)(=O)c1ccccn1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N#CCC(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Pd-phebim complex"
+      ],
+      "text": "CC(=O)N1C2=[N+]([C@@H](c3ccccc3)[C@@H]1c1ccccc1)[Pd-]1(Br)N=C(c3ccccc32)N(C(C)=O)[C@@H](c2ccccc2)[C@@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "36\u2013168 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=S(=O)(N=Cc1cccc(F)c1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NS(=O)(=O)c1ccccn1)c1cccc(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "80% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N#CCC(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Pd-phebim complex"
+      ],
+      "text": "CC(=O)N1C2=[N+]([C@@H](c3ccccc3)[C@@H]1c1ccccc1)[Pd-]1(Br)N=C(c3ccccc32)N(C(C)=O)[C@@H](c2ccccc2)[C@@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "36\u2013168 h",
+      "type": "time"
+    }
+  ]
+]

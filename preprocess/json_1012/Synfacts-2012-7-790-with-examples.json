@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "text": "C#CC=CCOCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1COC[C@H](C=C=CBr)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er = 95:5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "C=CC1CN2CCC1CC2[C@@H](NC(=O)NS(=O)(=O)c1ccc(C)cc1)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)CCCC=CC#CCOc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@H](C=C=C(Br)COc2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er = 90:10"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "C=CC1CN2CCC1CC2[C@@H](NC(=O)NS(=O)(=O)c1ccc(C)cc1)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CC=CCOc1cc(Cl)ccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1O[C@H](C=C=CBr)COc2cc(Cl)ccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "er = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "C=CC1CN2CCC1CC2[C@@H](NC(=O)NS(=O)(=O)c1ccc(C)cc1)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "O=C1CCC(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@](CCl)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er = 95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst 2"
+      ],
+      "text": "CCC1CN2CC[C@H]1CC2[C@H](OC(=O)c1ccc(NC(=O)NS(=O)(=O)c2ccc(C)cc2)cc1)c1ccnc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "DCDMH"
+      ],
+      "text": "CC1(C)C(=O)N(Cl)C(=O)N1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

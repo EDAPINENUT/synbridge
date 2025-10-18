@@ -1,0 +1,158 @@
+[
+  [
+    {
+      "text": "CC=CC(OCC(C)=CCCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(OC=C(C)CCCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC(C)(C=O)[C@@H](C)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "stage1"
+      ],
+      "text": "Ir(PCy3)\u2083BPh4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[3,3]",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(C=Cc1ccco1)CC)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C=Cc1ccco1)OC=C(C)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC=C[C@@H](c1ccco1)[C@](C)(C=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "stage1"
+      ],
+      "text": "Ir(PCy3)\u2083BPh4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[3,3]",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(C)C=Cc1ccccc1)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=COC(C)C=Cc1ccccc1)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC=C[C@H](c1ccccc1)[C@@](C)(C=O)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "stage1"
+      ],
+      "text": "Ir(PCy3)\u2083BPh4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[3,3]",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC)COC(C=CC)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(CCCC)OC=C(C)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C[C@@H](C)[C@](C)(C=O)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "stage1"
+      ],
+      "text": "Ir(PCy3)\u2083BPh4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[3,3]",
+      "type": "conditions"
+    }
+  ]
+]

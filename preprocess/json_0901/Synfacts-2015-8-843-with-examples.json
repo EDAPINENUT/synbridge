@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CC[SiH](CC)c1cccc(F)c1[C@H]1C=C[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si]1(CC)c2ccccc2[C@H]2C(F)=CC=C[C@@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(cod)CI]",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "(S)-TMS-segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "Ar = 3,5-(TMS)\u2082CH\u2083"
+      ],
+      "text": "(S)-TMS-segphos",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Fc1cccc([SiH](c2ccccc2)c2ccccc2)c1[C@H]1C=C[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC1=CC=C[C@@H]2[C@H]1c1ccccc1[Si]2(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(cod)CI]",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "(S)-TMS-segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "Ar = 3,5-(TMS)\u2082CH\u2083"
+      ],
+      "text": "(S)-TMS-segphos",
+      "type": "conditions"
+    }
+  ]
+]

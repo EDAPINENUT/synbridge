@@ -1,0 +1,842 @@
+[
+  [
+    {
+      "text": "NCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)CN)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)C(=O)N[C@@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@@H](C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)[C@H](N)c1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CSCC[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC[C@H](N)C(=O)N[C@@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[C@@H](C(=O)O)N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)[C@@H]1CCC(=O)N1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](Cc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CNC(=O)[C@@H](N)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC[C@H](NC(=O)[C@H](C)N)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](N)C(=O)N[C@@H](CCC(=O)OC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)C(=O)N1CCCC1C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C[C@@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C[C@@H](N)C(=O)N[C@@H](C)CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "HSi[OCH(CF3)2]3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CsF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "imidazole",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "MTBSTFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "H-L-AA-Ot-Bu",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "conditions"
+    }
+  ]
+]

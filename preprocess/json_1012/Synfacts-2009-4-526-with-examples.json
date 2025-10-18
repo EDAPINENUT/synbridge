@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "text": "C#CC(C)(OC(C)=O)c1ccccc1CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC1=C(C)c2ccccc2CC2CC12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "49% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "c1c(P(c5cc(C)cc(C)c5)(c6cc(C)cc(C)c6)[Au]Cl)ccc2ccccc12-c3c(P(c7cc(C)cc(C)c7)(c8cc(C)cc(C)c8)[Au]Cl)ccc4ccccc34",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-25\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CC(OC(=O)C(C)(C)C)c1ccccc1CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)OC1=Cc2ccccc2CC2CC12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "c1c(P(c5cc(C)cc(C)c5)(c6cc(C)cc(C)c6)[Au]Cl)ccc2ccccc12-c3c(P(c7cc(C)cc(C)c7)(c8cc(C)cc(C)c8)[Au]Cl)ccc4ccccc34",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-25\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

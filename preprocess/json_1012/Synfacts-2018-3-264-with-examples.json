@@ -1,0 +1,141 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)CN=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@H](N=Cc1ccccc1)[C@H](C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "98% ee",
+        "dr >20:1",
+        "-10\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Cl-]([Pd+2]([CH2-]C=CH2)[Cl-]1)([Pd+2]([CH2-]C=CH2)1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "5 mol%"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "Pd/Cu dual catalysis",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CN=C(c1ccccc1)c1ccccc1)NC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N=C(c1ccccc1)c1ccccc1)C(=O)NC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "98% ee",
+        "r.t."
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Cl-]([Pd+2]([CH2-]C=CH2)[Cl-]1)([Pd+2]([CH2-]C=CH2)1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "5 mol%"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "Pd/Cu dual catalysis",
+      "type": "other conditions"
+    }
+  ]
+]

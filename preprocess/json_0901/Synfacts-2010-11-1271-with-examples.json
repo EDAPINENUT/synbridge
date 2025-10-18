@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CC(C)C=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)C[N+](=O)[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OAc)(C2H4)2]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "(R)-DTBM-segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@H](C)C[N+](=O)[O-])(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Rh(OAc)(C2H4)2]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 mol%"
+      ],
+      "text": "(R)-DTBM-segphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

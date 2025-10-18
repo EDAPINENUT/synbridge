@@ -1,0 +1,51 @@
+[
+  [
+    {
+      "text": "O=C(O)C12CC1(Br)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=C([Ar])C1=NCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccoc1)C12CC(c3ccccc3)(C[C@H]1c1ccccn1)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1ccc2c3c1OP(=O)(O)Oc1c(N)ccc4c1C3(CC2)CC4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CPA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082C\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "365 nm or 430 nm argon",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "conditions"
+    }
+  ]
+]

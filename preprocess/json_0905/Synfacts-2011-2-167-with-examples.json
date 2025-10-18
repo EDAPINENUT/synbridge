@@ -1,0 +1,282 @@
+[
+  [
+    {
+      "text": "CC=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1-3 mol%",
+        "NHC copper(I) complex"
+      ],
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-55\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C[C@@H](B1OC(C)(C)C(C)(C)O1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1-3 mol%",
+        "NHC copper(I) complex"
+      ],
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-55\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C=CC(=O)OCC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@H](CC(=O)OCC(C)C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "82% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1-3 mol%",
+        "NHC copper(I) complex"
+      ],
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-55\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@@H](CC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1-3 mol%",
+        "NHC copper(I) complex"
+      ],
+      "text": "Cc1cc(C)c(N2c3ccccc3C3=N[C@@H](c4ccccc4)[C@H](c4ccccc4)N3C2[Cu]Cl)c(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-55\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ]
+]

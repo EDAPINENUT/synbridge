@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)OC)C(OC(C)(C)C)c1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C#N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC)[C@@H](c1cccc(Br)c1)C(C#N)(C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC12CC3[C@@H](c4ccnc5ccc(O)cc45)OC1CCN3C2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "\u03b2-ICPD",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C or 0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24-96 h",
+      "type": "conditions"
+    }
+  ]
+]

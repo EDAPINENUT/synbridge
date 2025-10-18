@@ -1,0 +1,88 @@
+[
+  [
+    {
+      "text": "COC1C(CO[C@@H]2O[C@H](COCc3ccccc3)[C@H](OCc3ccccc3)[C@@H](OCc3ccccc3)[C@@H]2OCc2ccccc2)O[C@H](Cl)C(OC)C1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@H]1O[C@H](CO[C@@H]2O[C@H](COCc3ccccc3)[C@H](OCc3ccccc3)[C@@H](OCc3ccccc3)[C@@H]2OCc2ccccc2)[C@@H](OC)[C@H](OC)[C@H]1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "alpha/beta >1:99"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-catalyst"
+      ],
+      "text": "CC1(C)CCOC(=O)c2cc(cc(C(F)(F)F)c2)NC(=S)N[C@H](C(=O)N2CCc3ccccc32)C(C)(C)CCOC(=O)c2cc(cc(C(F)(F)F)c2)NC(=S)N[C@@H]1C(=O)N1CCc2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC1(C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "Clc1ccccc1Cl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COC1O[C@H](Cl)C(OC)C(O[C@@H]2O[C@H](COCc3ccccc3)[C@H](OCc3ccccc3)[C@H](OCc3ccccc3)[C@H]2NC(C)=O)C1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@H]1O[C@H](OC)[C@H](OC)C(O[C@@H]2O[C@H](COCc3ccccc3)[C@H](OCc3ccccc3)[C@H](OCc3ccccc3)[C@H]2NC(C)=O)[C@H]1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "alpha/beta = 1:99"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-catalyst"
+      ],
+      "text": "CC1(C)CCOC(=O)c2cc(cc(C(F)(F)F)c2)NC(=S)N[C@H](C(=O)N2CCc3ccccc32)C(C)(C)CCOC(=O)c2cc(cc(C(F)(F)F)c2)NC(=S)N[C@@H]1C(=O)N1CCc2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC1(C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "Clc1ccccc1Cl",
+      "type": "catalyst"
+    }
+  ]
+]

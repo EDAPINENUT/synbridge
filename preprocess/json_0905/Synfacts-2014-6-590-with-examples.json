@@ -1,0 +1,215 @@
+[
+  [
+    {
+      "text": "BrCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(N2C(=O)C3C4C=CC(C4)C3C2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(N2C(=O)[C@@H]3[C@@H]4C[C@H]([C@@H]3C2=O)[C@@H]2[C@@H](c3ccccc3)[C@@H]42)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.22 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Fc1cccc(CBr)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CN1C(=O)C2C3C=CC(C3)C2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CN1C(=O)[C@@H]2[C@H]3C[C@H]([C@@H]2C1=O)[C@H]1[C@H](c2ccc(F)cc2)[C@@H]31",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.22 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc(CBr)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=CC2CCC1C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1cccc([C@@H]2[C@H]3[C@@H]4CC[C@@H](C4)[C@H]23)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "K2CO3 (0.5 equiv)",
+        "Pd(OAc)2 (0.1 equiv)",
+        "Ph3P (0.22 equiv)",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.22 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=CC2C3C=CC(C3)C2C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@H]2[C@H]3[C@H]4C[C@@H]([C@@H]5CC=C[C@@H]54)[C@H]23)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "K2CO3 (0.5 equiv)",
+        "Pd(OAc)2 (0.1 equiv)",
+        "Ph3P (0.22 equiv)",
+        "100\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.22 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(CBr)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=CC2C3C=CC(C3)C2C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@@H]2[C@H]3[C@H]4C[C@@H]([C@@H]5CC=C[C@@H]54)[C@H]23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.22 equiv"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ]
+]

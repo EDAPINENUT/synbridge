@@ -1,0 +1,115 @@
+[
+  [
+    {
+      "text": "O=C(CBr)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(CC(=O)c2ccccc2)[nH]c2ccccc12)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "2 mol% catalyst"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CN[C@H](Cc1c[nH]c2ccccc12)C(C)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Ir(dF(CF3)ppy)2(dtbbpy)PF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CBr)Sc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1c(CC(=O)Sc2ccccc2)[nH]c2ccccc12)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CN[C@H](Cc1c[nH]c2ccccc12)C(C)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Ir(dF(CF3)ppy)2(dtbbpy)PF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "other conditions"
+    }
+  ]
+]

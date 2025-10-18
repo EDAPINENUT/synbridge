@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "COP(=O)(OC)C(=[N+]=[N-])C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CCn1nc(C(C)=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "C[Si](C)(C)c1ccccc1OS(=O)(=O)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COP(=O)(OC)C(=[N+]=[N-])C(=O)c1cc2ccccc2n1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CCn1nc(C(=O)c2cc3ccccc3n2C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "C[Si](C)(C)c1ccccc1OS(=O)(=O)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ]
+]

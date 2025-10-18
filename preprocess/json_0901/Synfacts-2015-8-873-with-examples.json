@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N=NC(=O)OCc1ccccc1)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCc1ccccc1)N(C(=O)OCc1ccccc1)[C@]1(C2CCCCC2)CCCCC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=P1(O)Oc2c(-c3c4ccccc4cc4ccccc34)cc3ccccc3c2-c2c(c(-c3c4ccccc4cc4ccccc34)cc3ccccc23)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "24-60h"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ]
+]

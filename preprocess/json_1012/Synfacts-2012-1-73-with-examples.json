@@ -1,0 +1,137 @@
+[
+  [
+    {
+      "text": "C=C[C@H](OC=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(N2CCNCC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)[C@H](C=Cc1ccccc1)N1CCN(c2ccccc2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr >98:2",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[B-](F)(F)(F)F.[Pd+2]([CH2-]C=CH2)(C1=CCCC=CC1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u201340\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)O[C@@H](C=Cc1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(N2CCNCC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)C=C[C@H](c1ccccc1)N1CCN(c2ccccc2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 6:94",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[B-](F)(F)(F)F.[Pd+2]([CH2-]C=CH2)(C1=CCCC=CC1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u201340\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)O[C@@H](C=Cc1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(Cc1ccccc1)[C@H](C=CC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 13:87",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[B-](F)(F)(F)F.[Pd+2]([CH2-]C=CH2)(C1=CCCC=CC1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u201340\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

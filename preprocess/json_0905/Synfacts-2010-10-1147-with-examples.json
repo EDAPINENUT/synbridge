@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "text": "COC(=O)C=C(C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC(C)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "conversion >99%",
+        "ee >99%",
+        "TOF >= 20000 h-1",
+        "ligand A"
+      ]
+    },
+    {
+      "relations": [
+        "[Rh(cod)(naphos)][BF4]"
+      ],
+      "text": "c1ccc2cccc([C@@H]3C=Cc4cccc(P(c5ccccc5)c5ccccc5)c4N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "H2",
+      "type": "other conditions"
+    }
+  ]
+]

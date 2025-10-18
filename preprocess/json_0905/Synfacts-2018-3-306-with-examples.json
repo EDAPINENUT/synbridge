@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "c1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(N2C=CCC=C2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "regioisomeric ratio > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)N1[P+]N(C(C)(C)C)c2ccccc21.O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Clc1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(N2C=CCC(Cl)=C2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "regioisomeric ratio = 5:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)N1[P+]N(C(C)(C)C)c2ccccc21.O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C1=CN(B2OC(C)(C)C(C)(C)O2)C=CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "regioisomeric ratio > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)N1[P+]N(C(C)(C)C)c2ccccc21.O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

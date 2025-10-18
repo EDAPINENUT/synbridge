@@ -1,0 +1,462 @@
+[
+  [
+    {
+      "text": "C=CC(=O)NC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CNC(=O)CCC(CCC1CCN(C(=O)c2ccccc2)CC1)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A 78% NMR yield",
+        "B 88% NMR yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(Cl)ONc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "BuNAH",
+        "1.5\u20133 equiv",
+        "conditions A"
+      ],
+      "text": "CCCCN1C=CCC(C(N)=O)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NADH",
+        "1.5\u201310 equiv",
+        "conditions B"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)CC=C1.[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50%",
+        "1 mM",
+        "conditions B"
+      ],
+      "text": "CS(C)=O.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "20 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "10\u201360 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "60\u201375 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "Blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCCCCCC=CCCCCCCCCCC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC=CCCCCCCCCCC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A 61% NMR yield",
+        "B 64% NMR yield",
+        "from benzyl oleate"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(Cl)ONc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "BuNAH",
+        "1.5\u20133 equiv",
+        "conditions A"
+      ],
+      "text": "CCCCN1C=CCC(C(N)=O)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NADH",
+        "1.5\u201310 equiv",
+        "conditions B"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)CC=C1.[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50%",
+        "1 mM",
+        "conditions B"
+      ],
+      "text": "CS(C)=O.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "20 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "10\u201360 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "60\u201375 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "Blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=O)OCC1OC(NC(=O)CCCCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)OCC1OC(NC(=O)CCCCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "B 49% NMR yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(Cl)ONc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "BuNAH",
+        "1.5\u20133 equiv",
+        "conditions A"
+      ],
+      "text": "CCCCN1C=CCC(C(N)=O)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NADH",
+        "1.5\u201310 equiv",
+        "conditions B"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)CC=C1.[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50%",
+        "1 mM",
+        "conditions B"
+      ],
+      "text": "CS(C)=O.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "20 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "10\u201360 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "60\u201375 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "Blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)(C)CCC(=O)N1CCC(C(=O)O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)CCC(=O)N1CCC(C(=O)O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A 88% NMR yield",
+        "B 50% NMR yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(Cl)ONc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "BuNAH",
+        "1.5\u20133 equiv",
+        "conditions A"
+      ],
+      "text": "CCCCN1C=CCC(C(N)=O)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NADH",
+        "1.5\u201310 equiv",
+        "conditions B"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)CC=C1.[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50%",
+        "1 mM",
+        "conditions B"
+      ],
+      "text": "CS(C)=O.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "20 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "10\u201360 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "60\u201375 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "Blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(C)c(OCCCC(C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C)c(OCCCC(C)(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A 88% NMR yield",
+        "B 50% NMR yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(Cl)ONc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "BuNAH",
+        "1.5\u20133 equiv",
+        "conditions A"
+      ],
+      "text": "CCCCN1C=CCC(C(N)=O)=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NADH",
+        "1.5\u201310 equiv",
+        "conditions B"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)([O-])OP(=O)([O-])OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)CC=C1.[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50%",
+        "1 mM",
+        "conditions B"
+      ],
+      "text": "CS(C)=O.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "Ar",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "20 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "10\u201360 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "60\u201375 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions A",
+        "conditions B"
+      ],
+      "text": "Blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "CC1(CC#Cc2ccccc2)C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]12CC(c3ccccc3)=C(c3ccccc3)[C@]1(O)c1ccccc1C2=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc([C@@H]2COC(c3ccccc3P(c3ccccc3)c3ccccc3)=N2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "Ar\u00b2B(OH)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ni(OAc)2-4H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3:2"
+      ],
+      "text": "MeCN-MeTHF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "text": "CC(=O)N(C(C)C)S(=O)(=O)c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)NC(=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C1=CC2c3ccccc3[IH+]3(N=C1)(c1ccccc1-c1cccc[n+]12)c1ccccc1-c1cccc[n+]13",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (456 + 467 nm) or UV (254 nm)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(C(=O)N(C(C)C)S(=O)(=O)c1ccccc1I)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(C(=O)NC(C)C)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C1=CC2c3ccccc3[IH+]3(N=C1)(c1ccccc1-c1cccc[n+]12)c1ccccc1-c1cccc[n+]13",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "fac-Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (456 + 467 nm) or UV (254 nm)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,282 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)C=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "E/Z > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "Ac-lle-OH"
+      ],
+      "text": "CC[C@H](C)[C@H](NC(C)=O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)C=CC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "E/Z > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "Ac-lle-OH"
+      ],
+      "text": "CC[C@H](C)[C@H](NC(C)=O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)C=CC=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "E/Z > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "Ac-lle-OH"
+      ],
+      "text": "CC[C@H](C)[C@H](NC(C)=O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C=CC=CC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "E/Z > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%",
+        "Ac-lle-OH"
+      ],
+      "text": "CC[C@H](C)[C@H](NC(C)=O)C(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

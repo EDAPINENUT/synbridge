@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCC1OC=C[C@H]2OC(=O)O[C@@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NO[C@@H]1C=C[C@@H](O)C(CO[Si](C)(C)C(C)(C)C)O1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](OCC1OC=C[C@H]2OC(=O)O[C@@H]12)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "ON=C1c2ccccc2-c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](OCC1O[C@H](ON=C2c3ccccc3-c3ccccc32)C=C[C@@H]1O)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "40\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OCC1OC=C[C@H]2OC(=O)O[C@@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NO[C@@H]1C=C[C@@H](O)C(COC(=O)OC(C)(C)C)O1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

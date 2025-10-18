@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "COC(=O)OCC=CCN(CCc1c[nH]c2c(Br)cccc12)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(C)c(C)c([C@H](C)[C@H]2OC(=O)c3ccc4ccccc4[n+]32)c(C)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H]1CN(S(=O)(=O)c2ccc(C)cc2)CC[C@]12C=Nc1ccc(Br)cc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Ru-catalyst]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "KzPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": ".t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OCC=CCN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(C)c(C)c([C@H](C)[C@H]2OC(=O)c3ccc4ccccc4[n+]32)c(C)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H]1CN(Cc2ccccc2)CC[C@@]12C(c1ccccc1)=Nc1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Ru-catalyst]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "KzPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": ".t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OCC=CCC(CCc1c[nH]c2ccccc12)(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(C)c(C)c([C@H](C)[C@H]2OC(=O)c3ccc4ccccc4[n+]32)c(C)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H]1CC(C(=O)OC)(C(=O)OC)CC[C@]12C=Nc1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Ru-catalyst]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "KzPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": ".t.",
+      "type": "conditions"
+    }
+  ]
+]

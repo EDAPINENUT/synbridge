@@ -1,0 +1,267 @@
+[
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=Cc2cccc(-c3cccc(Br)c3)c2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(CCS(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(CC=Cc1cccc(-c2cccc(Br)c2)c1)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(CCS(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCCS[C@H](C)CCC=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(CCS(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](C=CC=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(CCCC)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=Cc2ccccc2Br)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(CCS(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCCC(C=CC=Cc1ccccc1Br)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(CCS(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@@H](C=CC=Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ]
+]

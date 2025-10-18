@@ -1,0 +1,330 @@
+[
+  [
+    {
+      "text": "CC1(C)COB(c2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)([Cu])C(F)(F)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(C(F)(F)C(F)(F)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "CuOt-Bu"
+      ],
+      "text": "CC(C)(C)[O-]->[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "Phen"
+      ],
+      "text": "c1cnc2c(c1)ccc1cccnc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "excess",
+        "TFE"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COB(c2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)([Cu])C(F)(F)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=Cc1ccc(C(F)(F)C(F)(F)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "CuOt-Bu"
+      ],
+      "text": "CC(C)(C)[O-]->[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "Phen"
+      ],
+      "text": "c1cnc2c(c1)ccc1cccnc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "excess",
+        "TFE"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COB(c2ccccc2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)([Cu])C(F)(F)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1ccc(C(F)(F)C(F)(F)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "CuOt-Bu"
+      ],
+      "text": "CC(C)(C)[O-]->[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "Phen"
+      ],
+      "text": "c1cnc2c(c1)ccc1cccnc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "excess",
+        "TFE"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)COB(c2ccccn2)OC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)([Cu])C(F)(F)c1ccccn1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(c1ccccc1)C(F)(F)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "CuOt-Bu"
+      ],
+      "text": "CC(C)(C)[O-]->[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.0 equiv",
+        "Phen"
+      ],
+      "text": "c1cnc2c(c1)ccc1cccnc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "excess",
+        "TFE"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "4 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,194 @@
+[
+  [
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@H](O)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)C(=[N+]=[N-])[C@@H](NC(=O)C(Cl)(Cl)Cl)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "ProPhenol",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "Bu2Mg",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "cis-1,2-cyclopentanediol",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CIzCCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "R= Ar, Alk C-O to C-N exchange retention of configuration",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@H](O)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])[C@@H](NC(=O)C(Cl)(Cl)Cl)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "ProPhenol",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "Bu2Mg",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "cis-1,2-cyclopentanediol",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CIzCCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "R= Ar, Alk C-O to C-N exchange retention of configuration",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,728 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])c1ccc(C23C4C5C2C543)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C23CC2([Zn]Cl)C3)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S(=O)(I)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C23CC2(S(=O)(=O)c2ccccc2)C3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(C23C4C5C2C543)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C23CC2([Zn]Cl)C3)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S(=O)(I)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COC(=O)c1ccc(C23CC2(S(=O)(=O)c2ccccc2)C3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)c1ccccc1C12C3C4C1C432",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccccc1C12CC1([Zn]Cl)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S(=O)(I)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)[C@]12C[C@]1(c1ccccc1C(F)(F)F)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc2c(C34C5C6C3C654)ccnc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]C12CC1(c1ccnc3cc(Cl)ccc13)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S(=O)(I)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)C12CC1(c1ccnc3cc(Cl)ccc13)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2c(C34C5C6C3C654)nccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cl[Zn]C12CC1(c1nccc3ccccc13)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=S(=O)(I)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "O=S(=O)(c1ccccc1)C12CC1(c1nccc3ccccc13)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "38% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)c1ccc(C23C4C5C2C543)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(C23CC2([Zn]Cl)C3)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N(C(=O)I)C(C)C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)N(C(=O)C12CC1(c1ccc(C(F)(F)F)cc1)C2)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "text": "[Li+].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "-78\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 2"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "tfp",
+        "tri(2-furyl)phosphine",
+        "stage 2"
+      ],
+      "text": "c1coc(P(c2ccco2)c2ccco2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

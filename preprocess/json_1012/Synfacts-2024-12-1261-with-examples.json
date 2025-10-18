@@ -1,0 +1,584 @@
+[
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(N2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (A)",
+        "60% yield (B)",
+        "C1CCNCC1",
+        "TBAF"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)CCCC(C)(C)N1Oc1cccc(ON2C(C)(C)CCCC2(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "15% yield (A)",
+        "26% yield (B)",
+        "TBAF",
+        "TMP-O",
+        "*N1C(C)(C)CCCC1(C)C<sep><a>0:<dum></a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "[Si](C)(C)(C)C1=CC(I(*)*)=CC=C1OC<sep><a>8:Mes</a><a>9:OTf</a>",
+        "TBAF",
+        "Et4NCl"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "TBAF",
+        "Et4NCl",
+        "[Si](C1C(C#N)=CC=C(I(OS(C(F)(F)F)(=O)=O)*)C=1)(C)(C)C<sep><a>17:Mes</a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "TBAF",
+        "Et4NCl",
+        "[Si](C)(C)(C)C1=CC=C(C#N)C(I(*)*)=C1<sep><a>12:Mes</a><a>13:OTf</a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(N2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (A)",
+        "60% yield (B)",
+        "C1CCNCC1",
+        "TBAF"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "NuH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)CCCC(C)(C)N1Oc1cccc(ON2C(C)(C)CCCC2(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "15% yield (A)",
+        "26% yield (B)",
+        "TBAF",
+        "TMP-O",
+        "*N1C(C)(C)CCCC1(C)C<sep><a>0:<dum></a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "NuH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "[Si](C)(C)(C)C1=CC(I(*)*)=CC=C1OC<sep><a>8:Mes</a><a>9:OTf</a>",
+        "TBAF",
+        "Et4NCl"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "NuH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "TBAF",
+        "Et4NCl",
+        "[Si](C1C(C#N)=CC=C(I(OS(C(F)(F)F)(=O)=O)*)C=1)(C)(C)C<sep><a>17:Mes</a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "NuH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(I(OS(=O)(=O)C(F)(F)F)c2cccc([Si](C)(C)C)c2)c(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "N#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "TBAF",
+        "Et4NCl",
+        "[Si](C)(C)(C)C1=CC=C(C#N)C(I(*)*)=C1<sep><a>12:Mes</a><a>13:OTf</a>"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[Si](C)(C)c1cccc(B(O)O)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(=O)OI(OC(C)=O)c1c(C)cc(C)cc1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "NuH",
+      "type": "other conditions"
+    }
+  ]
+]

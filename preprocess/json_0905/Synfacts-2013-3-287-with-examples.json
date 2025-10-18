@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "C#CCN(CC(=C)c1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)N(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC3=C[C@@H](C(=O)N(C)c4ccccc4)CC[C@]3(c3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3-10 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-10 mol%",
+        "(R)-Hg-BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2CCCC4)CCCC3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

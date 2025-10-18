@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(CC=CC=O)C(=O)c1ccccc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1CCC=C1c1ccccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "7 mol%",
+        "1"
+      ],
+      "text": "CCc1cccc(CC)c1-[n+]1cn2c(n1)CO[C@H]1Cc3ccccc3[C@@H]12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

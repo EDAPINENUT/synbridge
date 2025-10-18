@@ -1,0 +1,332 @@
+[
+  [
+    {
+      "text": "C(=CC(C1CCCCC1)n1cccn1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=C[C@@H](C1CCCCC1)n1cccn1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (S,Z, R=H)",
+        "47% yield (R,E, R=H)",
+        "93% ee (S,Z, R=H)",
+        "93% ee (R,E, R=H)",
+        "C=50 (R=H)",
+        "s=94 (R=H)",
+        "46% yield (S,Z, R=4-OMe)",
+        "48% yield (R,E, R=4-OMe)",
+        "95% ee (S,Z, R=4-OMe)",
+        "93% ee (R,E, R=4-OMe)",
+        "C=49 (R=4-OMe)",
+        "s=133 (R=4-OMe)",
+        "47% yield (S,Z, R=4-OBn)",
+        "48% yield (R,E, R=4-OBn)",
+        "96% ee (S,Z, R=4-OBn)",
+        "87% ee (R,E, R=4-OBn)",
+        "C=48 (R=4-OBn)",
+        "s=140 (R=4-OBn)",
+        "47% yield (S,Z, R=2-Me)",
+        "51% yield (R,E, R=2-Me)",
+        "94% ee (S,Z, R=2-Me)",
+        "94% ee (R,E, R=2-Me)",
+        "C=50 (R=2-Me)",
+        "s=115 (R=2-Me)",
+        "45% yield (S,Z, R=4-Cl)",
+        "51% yield (R,E, R=4-Cl)",
+        "91% ee (S,Z, R=4-Cl)",
+        "94% ee (R,E, R=4-Cl)",
+        "C=51 (R=4-Cl)",
+        "s=75 (R=4-Cl)",
+        "46% yield (S,Z, R=2-Cl)",
+        "48% yield (R,E, R=2-Cl)",
+        "91% ee (S,Z, R=2-Cl)",
+        "90% ee (R,E, R=2-Cl)",
+        "C=50 (R=2-Cl)",
+        "s=65 (R=2-Cl)"
+      ]
+    },
+    {
+      "text": "C(=C[C@H](C1CCCCC1)n1cccn1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Box-L*"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(C2(C3=N[C@@H](C(C)(C)C)CO3)CC2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26 min to 8.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (90 W)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C=CC(C2CCN(C(=O)OC(C)(C)C)CC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=C[C@@H](C2CCN(C(=O)OC(C)(C)C)CC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield (Z)",
+        "44% yield (E)",
+        "93% ee (Z)",
+        "93% ee (E)",
+        "C=50",
+        "s=94"
+      ]
+    },
+    {
+      "text": "Cc1ccc(C=C[C@H](C2CCN(C(=O)OC(C)(C)C)CC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Box-L*"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(C2(C3=N[C@@H](C(C)(C)C)CO3)CC2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26 min to 8.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (90 W)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C=CC(c1ccccc1C)n1cccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C=C[C@@H](c1ccccc1C)n1cccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield (S,Z)",
+        "45% yield (R,E)",
+        "97% ee (S,Z)",
+        "92% ee (R,E)",
+        "C=49",
+        "s=217"
+      ]
+    },
+    {
+      "text": "Cc1ccccc1C=C[C@H](c1ccccc1C)n1cccn1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Box-L*"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(C2(C3=N[C@@H](C(C)(C)C)CO3)CC2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26 min to 8.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (90 W)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(C2CCOCC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[C@@H](C2CCOCC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield (S,Z)",
+        "47% yield (R,E)",
+        "94% ee (S,Z)",
+        "93% ee (R,E)",
+        "C=50",
+        "s=111"
+      ]
+    },
+    {
+      "text": "COc1ccc(C=C[C@H](C2CCOCC2)n2cccn2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Box-L*"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(C2(C3=N[C@@H](C(C)(C)C)CO3)CC2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26 min to 8.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (90 W)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(C2CCOCC2)n2cc(C)cn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[C@@H](C2CCOCC2)n2cc(C)cn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield (S,Z)",
+        "45% yield (R,E)",
+        "91% ee (S,Z)",
+        "90% ee (R,E)",
+        "C=50",
+        "s=65"
+      ]
+    },
+    {
+      "text": "COc1ccc(C=C[C@H](C2CCOCC2)n2cc(C)cn2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Box-L*"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(C2(C3=N[C@@H](C(C)(C)C)CO3)CC2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "26 min to 8.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (90 W)",
+      "type": "other conditions"
+    }
+  ]
+]

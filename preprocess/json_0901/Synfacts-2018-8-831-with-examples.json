@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@]1(C(=O)OC(C)(C)C)CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd2(dba)a]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "temperature",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@]1(CC=Cc2ccccc2)CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Pd2(dba)a]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "temperature",
+      "type": "conditions"
+    }
+  ]
+]

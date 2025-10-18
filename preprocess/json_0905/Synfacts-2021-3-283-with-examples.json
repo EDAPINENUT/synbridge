@@ -1,0 +1,752 @@
+[
+  [
+    {
+      "text": "C=CCCc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC(CCc2ccco2)C(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CCC(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "from ethylene gas"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON(Cc1ccccc1)C1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](B1OC(C)(C)C(C)(C)O1)[C@@H](C(=O)N(Cc1ccccc1)C1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        ">99:1 dr",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C(c2ccccc2)[C@@H](C(=O)N2CCCCC2)c2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        ">99:1 dr",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2c(c1)CCC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C2Cc3ccccc3C2C(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        ">99:1 dr",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC(CCc2ccco2)C(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CCC(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "from ethylene gas"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON(Cc1ccccc1)C1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](B1OC(C)(C)C(C)(C)O1)[C@@H](C(=O)N(Cc1ccccc1)C1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        ">99:1 dr",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C(c2ccccc2)[C@@H](C(=O)N2CCCCC2)c2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        ">99:1 dr",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C1=Cc2ccccc2C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C2Cc3ccccc3C2C(=O)N2CCCCC2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        ">99:1 dr",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S,S)-QuinoxP*"
+      ],
+      "text": "CP(c1nc2ccccc2nc1P(C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 bar"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

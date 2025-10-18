@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(C=Nc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(c1ccccc1)C(Nc1ccc(OC)cc1)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr = 28:72"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)c1cc(C(=O)OCC)c(C)nc1C",
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(C)C=Nc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(C)C(Nc1ccc(OC)cc1)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr = 26:74"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)c1cc(C(=O)OCC)c(C)nc1C",
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "CC[O+](CC)[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

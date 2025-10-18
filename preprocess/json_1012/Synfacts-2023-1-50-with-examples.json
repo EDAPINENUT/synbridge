@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "text": "COc1ccc(C2CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)n1cccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CCCC(C)(C)n2cccn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=H: 85% yield",
+        "R=4-Me: 53% yield",
+        "R=4-Cl: 71% yield",
+        "R=3-TBS: 74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "PC",
+        "[(t-Bu)2Mes-PhAcr]BF4"
+      ],
+      "text": "Cc1c2ccc(C(C)(C)C)cc2[n+](-c2ccccc2)c2cc(C(C)(C)C)ccc12.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "c1ccc(SSc2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "25 mol%"
+      ],
+      "text": "CC(C)(C)c1cccc(C(C)(C)C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "15 W blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[HH]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](Cc1ccc(OC)cc1)CC(C)(C)O[C@H]1CC[C@@]2(C)C(=CC[C@H]3[C@@H]4CC[C@H]([C@H](C)CCCC(C)C)[C@]4(C)CC[C@@H]32)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "31% yield",
+        "from cholesterol"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "PC",
+        "[(t-Bu)2Mes-PhAcr]BF4"
+      ],
+      "text": "Cc1c2ccc(C(C)(C)C)cc2[n+](-c2ccccc2)c2cc(C(C)(C)C)ccc12.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "c1ccc(SSc2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "25 mol%"
+      ],
+      "text": "CC(C)(C)c1cccc(C(C)(C)C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "15 W blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

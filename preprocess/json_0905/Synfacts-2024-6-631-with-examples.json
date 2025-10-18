@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "O=C(c1ccoc1)C12CC(c3ccccc3)(C[C@H]1c1ccccn1)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=93.5:6.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C(O)C12CC1(Br)C2",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "C/C=C(\\[Ar])C1=NCCCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "CPA",
+        "10-phenylanthracen-9-yl"
+      ],
+      "text": "Nc1ccc2c3c1OP(=O)(O)Oc1c(N)ccc4c1C3(CC2)CC4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "365 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "430 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "argon",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ]
+]

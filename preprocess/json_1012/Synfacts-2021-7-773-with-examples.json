@@ -1,0 +1,306 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield (A)",
+        "76% yield (B)",
+        "68% yield (C)",
+        "5.5 h (A)",
+        "3.5 h (B)",
+        "4.5 h (C)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol A",
+        "dbm = dibenzoylmethanato"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield (A)",
+        "62% yield (B)",
+        "41% yield (C)",
+        "27 h (A)",
+        "2.5 h (B)",
+        "17 h (C)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol A",
+        "dbm = dibenzoylmethanato"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc([N+](=O)[O-])c2c1OC(C)(C)C=C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([N+](=O)[O-])c2c1OC(C)(C)CC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield (A)",
+        "4% yield (B)",
+        "42% yield (C)",
+        "27 h (A)",
+        "96 h (B)",
+        "71 h (C)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol A",
+        "dbm = dibenzoylmethanato"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CN1c2ccccc2C=Cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CN1c2ccccc2CC(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield (A)",
+        "4% yield (B)",
+        "42% yield (C)",
+        "27 h (A)",
+        "96 h (B)",
+        "71 h (C)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol A",
+        "dbm = dibenzoylmethanato"
+      ],
+      "text": "O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.O=C([CH-]C(=O)c1ccccc1)c1ccccc1.[Fe+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Neocuproine",
+        "3 mol%",
+        "Protocol B"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "Protocol C"
+      ],
+      "text": "[Cl-].[Cl-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-96 h",
+      "type": "time"
+    }
+  ]
+]

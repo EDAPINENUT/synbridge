@@ -1,0 +1,105 @@
+[
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=P[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si](C)(C)P1CC2(C=C3C(=C2)c2ccccc2C3=C2c3ccccc3-c3ccccc32)P1[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C(=C1c3ccccc3-c3ccccc31)c1ccccc1-2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "O=C1c2ccccc2-c2ccccc21"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C[Si](C)(C)[P-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "few min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "24h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "CC[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 3"
+      ],
+      "text": "few min",
+      "type": "time"
+    }
+  ]
+]

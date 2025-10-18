@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "text": "C=C=CC(CC(=O)OCC)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C[C@@H](CC(=O)OCC)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "text": "Br[Zn]c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.75 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R)-ligand"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.7 M"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CC(CC#N)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C[C@H](CC#N)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "Fc1ccc([Zn]Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.75 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R)-ligand"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.7 M"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C=CC(CCC#N)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C[C@H](CCC#N)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "Clc1ccc([Zn]Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.75 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R)-ligand"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.7 M"
+      ],
+      "text": "CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "1 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

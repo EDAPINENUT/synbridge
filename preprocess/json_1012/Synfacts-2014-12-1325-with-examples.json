@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "C=CC(C)(Br)CC(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(CC(C)(Br)C1CC=C(C)CC1)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "15 h"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "cat."
+      ],
+      "text": "COc1ccc(C=O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23 W CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201388 h",
+      "type": "time"
+    }
+  ]
+]

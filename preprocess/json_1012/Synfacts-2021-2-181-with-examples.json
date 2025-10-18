@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "C=CC(=C)CCc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=CCCc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccc(CC[C@@H]2C=CCCC=C(Cc3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "er=94:6"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20134 mol%",
+        "chiral iron catalyst"
+      ],
+      "text": "CCC(C)(CC)[C@H](C)[N+]1=CC=[N+]([C@H](C)C(C)(CC)CC)[Fe]1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8\u201316 mol%"
+      ],
+      "text": "CCCC[Mg]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20\u201340 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=C)CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=CCCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=CCCC=C[C@@H](CCCc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "er=94:6"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20134 mol%",
+        "chiral iron catalyst"
+      ],
+      "text": "CCC(C)(CC)[C@H](C)[N+]1=CC=[N+]([C@H](C)C(C)(CC)CC)[Fe]1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8\u201316 mol%"
+      ],
+      "text": "CCCC[Mg]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20\u201340 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1C=CCCC=C(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20134 mol%",
+        "chiral iron catalyst"
+      ],
+      "text": "CCC(C)(CC)[C@H](C)[N+]1=CC=[N+]([C@H](C)C(C)(CC)CC)[Fe]1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8\u201316 mol%"
+      ],
+      "text": "CCCC[Mg]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20\u201340 h",
+      "type": "time"
+    }
+  ]
+]

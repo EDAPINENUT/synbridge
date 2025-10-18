@@ -1,0 +1,162 @@
+[
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "trans-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: 130 NADH-110",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "trans-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: 130 NADH-110",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "trans-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: 130 NADH-110",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "trans-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: 130 NADH-110",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "cis-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: P1-B10 P1-B12 P2-B02 P2-D11",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "cis-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: P1-B10 P1-B12 P2-B02 P2-D11",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "cis-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: P1-B10 P1-B12 P2-B02 P2-D11",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "cis-selective",
+        "KRED = ketoreductase"
+      ],
+      "text": "KRED: P1-B10 P1-B12 P2-B02 P2-D11",
+      "type": "conditions"
+    }
+  ]
+]

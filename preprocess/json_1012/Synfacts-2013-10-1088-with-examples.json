@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "COC(=O)C(N)(Cc1ccccc1)Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](N)(Cc1ccccc1)Cc1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield",
+        "94% ee",
+        "51% conversion",
+        "S=70"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1(Cc2ccccc2)Cc2ccccc2N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "BINOL"
+      ],
+      "text": "Oc1c(-c2c3ccccc3cc3ccccc23)cc2ccccc2c1-c1c(O)c(-c2c3ccccc3cc3ccccc23)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1.5\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(N)(Cc1ccccc1I)c1ccc(OC)c(I)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(Cc1ccccc1I)c1ccc(OC)c(I)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "96% ee",
+        "53% conversion",
+        "S=48"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1(c2ccc(OC)c(I)c2)Cc2ccccc2N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "BINOL"
+      ],
+      "text": "Oc1c(-c2c3ccccc3cc3ccccc23)cc2ccccc2c1-c1c(O)c(-c2c3ccccc3cc3ccccc23)cc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1.5\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "COC(=O)c1ccc2c(c1)CCC1C2CC[C@]2(C)C(=O)CC[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C2CO2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]12CC[C@@H]3c4cc5c(cc4CC[C@H]3[C@@H]1CCC2=O)C(=O)OC5Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "Mn2(CO)10",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "PhgB",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE-hexane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

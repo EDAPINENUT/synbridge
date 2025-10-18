@@ -1,0 +1,162 @@
+[
+  [
+    {
+      "text": "COc1ccc(CCC(CC(C)C)C(CCC(=O)OC(C)(C)C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC[C@H](CC(C)C)C(=O)CCC(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "NaBO3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(CCC(B1OC(C)(C)C(C)(C)O1)C(CC)CCc1ccccc1)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(CCC(=O)[C@@H](CC)CCc1ccccc1)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "NaBO3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC(C)(CCc1ccccc1)C(CCC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@](C)(CCc1ccccc1)C(=O)CCC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "20% yield",
+        "er>99:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "NaBO3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)B1OC(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1[C@H](CCCC(=O)OC(C)(C)C)C[C@@H]2C[C@H]1C2(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "NaBO3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(=O)OI1(OC(C)=O)(OC(C)=O)OC(=O)c2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ]
+]

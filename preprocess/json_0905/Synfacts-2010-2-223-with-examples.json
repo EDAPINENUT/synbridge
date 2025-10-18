@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCCCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC=Cc1ccc(O)c(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "E/Z = 2:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ru](Cl)C1=CCCC=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC=CCCCCCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "E/Z = 2.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[Ru](Cl)C1=CCCC=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

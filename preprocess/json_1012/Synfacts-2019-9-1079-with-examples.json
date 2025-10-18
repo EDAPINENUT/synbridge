@@ -1,0 +1,327 @@
+[
+  [
+    {
+      "text": "CC(C)[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N[C@@H](C(=O)[O-])C(C)(C)[N+](=O)[O-])c1ccccc1.C[C@@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr=99:1",
+        "H2O",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N[C@@H](C(=O)[O-])C1([N+](=O)[O-])CCCCC1)c1ccccc1.C[C@@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=98:2",
+        "H2O",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N[C@@H](C(=O)[O-])C1([N+](=O)[O-])CCCCCC1)c1ccccc1.C[C@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr=99:1",
+        "H2O",
+        "2 d"
+      ]
+    },
+    {
+      "text": "C[C@H]([NH3+])c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C[C@H]([C@@H](N[C@H](C)c1cccc2ccccc12)C(=O)[O-])[N+](=O)[O-].C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "dr=91:0:1:8",
+        "H2O-i-PrOH",
+        "1:1",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N[C@@H](C(=O)[O-])[C@@H](CCc1ccccc1)[N+](=O)[O-])c1cccc2ccccc12.C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "dr=96:0:2:2",
+        "H2O-MeCN",
+        "1:2",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCCC[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H]([C@@H](N[C@H](C)c1cccc2ccccc12)C(=O)[O-])[N+](=O)[O-].C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr=5:2:3:90",
+        "H2O-MeCN",
+        "2:1",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([NH3+])c1cccc2ccccc12.C[C@H](N[C@@H](C(=O)[O-])[C@H](Cc1ccccc1)[N+](=O)[O-])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "dr=5:0:1:94",
+        "H2O-MeCN",
+        "1:1",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(CC[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]([NH3+])c1cccc2ccccc12.Cc1ccc(C[C@@H]([C@@H](N[C@H](C)c2cccc3ccccc23)C(=O)[O-])[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "dr=4:0:0:96",
+        "H2O-MeCN",
+        "1:1",
+        "7 d"
+      ]
+    },
+    {
+      "text": "C[C@@H]([NH3+])c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C(O)C(O)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ]
+]

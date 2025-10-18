@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "CC(C)=CCN(CCCC=O)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1CN(C(=O)OC(C)(C)C)CC[C@@H]1C=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr >20:1",
+        "er 97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "A-1"
+      ],
+      "text": "CN1C(=O)[C@H](Cc2cccc3ccccc23)N[C@H]1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "B"
+      ],
+      "text": "CCCCCCCCCCCCC(=O)OCC(CCCCC)COC(=O)CCCCCCCCCC(CCCCCCCCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "C"
+      ],
+      "text": "CC(C)(C)c1cc(C(C)(C)C)c(S)c(C(C)(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

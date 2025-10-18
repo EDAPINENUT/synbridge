@@ -1,0 +1,82 @@
+[
+  [
+    {
+      "text": "CCOP(=O)(OC)OCCCN(C(=O)OC(C)(C)C)C(C)(C#N)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1CCCC12CCCN2C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr > 99.9:0.1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        ">2.1 equiv"
+      ],
+      "text": "CC(C)(C)c1[c-]ccc(-c2ccc(C(C)(C)C)cc2)c1.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-1.5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)OCCCN(C(=O)OC(C)(C)C)C1(C#N)CC2C3C1[C@@]23c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@]12CC[C@H](c1ccccc1)CC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "dr = 98.2:1.8",
+        "starting from 3",
+        "71% yield",
+        "dr = 98.7:1.3",
+        "starting from 4"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        ">2.1 equiv"
+      ],
+      "text": "CC(C)(C)c1[c-]ccc(-c2ccc(C(C)(C)C)cc2)c1.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-1.5 h",
+      "type": "time"
+    }
+  ]
+]

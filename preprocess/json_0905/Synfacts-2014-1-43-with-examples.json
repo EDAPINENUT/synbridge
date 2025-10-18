@@ -1,0 +1,587 @@
+[
+  [
+    {
+      "text": "CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](c1ccccc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "text": "COc1ccc([Zn]I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](c1ccc(F)cc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "text": "COc1ccc([Zn]I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C)c2cccc(N(C)C)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "text": "CN(C)c1cccc([Zn]I)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@H](c1ccc(OC)cc1)c1ccoc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "text": "I[Zn]c1ccoc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](c1ccc(OC)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "text": "FC(F)(F)c1ccc([Zn]I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](c1ccc(OC)cc1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "text": "I[Zn]c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](c1ccc(OC)cc1)c1ccc2c(ccn2C(=O)OC(C)(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "text": "CC(C)(C)OC(=O)n1ccc2cc([Zn]I)ccc21",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)CCC(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CC[C@@H](c1ccccc1)c1ccc(Cl)c(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "92% ee",
+        "using (R,R)-L"
+      ]
+    },
+    {
+      "text": "Clc1ccc([Zn]I)cc1Cl",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)Cl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCN(CC)CC"
+    },
+    {
+      "relations": [
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "(S,S)-L"
+      ],
+      "type": "catalyst",
+      "text": "COC[C@@H]1N=C(C2=N[C@H](COC)[C@@H](c3ccccc3)O2)O[C@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Li+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.7 mmol scale"
+    }
+  ]
+]

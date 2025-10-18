@@ -1,0 +1,512 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C#N)(C#N)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C#N)([Mg]Br)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C)(C#N)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)(C#N)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)([Mg]Br)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C#N)(c1ccc(N2CCCC2)nc1)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(C#N)(C#N)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C#N)([Mg]Br)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(C#N)(c1ccc(N(C)C)cc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)(C#N)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)([Mg]Br)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C#N)(c1ccc(OCc2ccccc2)cc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cn1cc(C(C#N)(C#N)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1cc(C(C#N)([Mg]Br)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cn1cc(C(C)(C#N)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@H]1CC[C@H](C)C[C@H]1Oc1ccc(C(C#N)(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1CC[C@H](C)C[C@H]1Oc1ccc(C(C#N)([Mg]Br)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@H]1CC[C@H](C)C[C@H]1Oc1ccc(C(C)(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMgBr\u2022LiBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "NiCl2(dme)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv"
+      ],
+      "text": "ArI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "20 mol%"
+      ],
+      "text": "Ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe-THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "conditions"
+    }
+  ]
+]

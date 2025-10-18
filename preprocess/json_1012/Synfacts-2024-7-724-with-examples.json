@@ -1,0 +1,83 @@
+[
+  [
+    {
+      "text": "C=C(F)C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(CCc1ccccc1)C[C@H](F)C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "67% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Ni+2]([Br-])([Br-])(P(c1ccccc1)(c1ccccc1)c1ccccc1)(P(c1ccccc1)(c1ccccc1)c1ccccc1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "(S,S)-s-Bu-PyBOX"
+      ],
+      "text": "CCC(C)[C@H]1COC(c2cccc(C3=N[C@@H](C(C)CC)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CO[SiH](OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "[I-].[I-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8.0 equiv"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7:3"
+      ],
+      "text": "C1CCOC1.CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ]
+]

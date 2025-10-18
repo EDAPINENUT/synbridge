@@ -1,0 +1,193 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@H]1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% conversion",
+        "dr >99.9:0.1",
+        "er = n.a."
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.001-0.07 mol%"
+      ],
+      "text": "Mb(H64V,V68A)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@H]1c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% conversion",
+        "dr >99.9:0.1",
+        "er >99.9:0.1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.001-0.07 mol%"
+      ],
+      "text": "Mb(H64V,V68A)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@]1(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% conversion",
+        "dr = 98.6:1.4",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.001-0.07 mol%"
+      ],
+      "text": "Mb(H64V,V68A)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1C[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "TON = 500",
+        "0.07 mol% Mb",
+        "dr >99.9:0.1",
+        "er >99.9:0.1",
+        "47% conversion",
+        "TON = 46800",
+        "0.001 mol% Mb",
+        "dr >99.9:0.1",
+        "er >99.9:0.1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CCOC(=O)C=[N+]=[N-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.001-0.07 mol%"
+      ],
+      "text": "Mb(H64V,V68A)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

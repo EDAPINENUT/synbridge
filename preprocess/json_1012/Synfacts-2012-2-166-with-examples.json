@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "text": "CC1(C)OB(C=CCc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(CC=Cc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccccc1)[C@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "dr = 96:4",
+        "from E-isomer",
+        "95% yield",
+        "dr >99:1",
+        "from Z-isomer"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "[Rh+](N#CC)(N#CC)(C1=CC2C=CC1C2).[Sb](F)(F)(F)(F)(F)[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "C25H24P2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.4 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CCB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr = 89:11",
+        "from E-isomer",
+        "91% yield",
+        "dr = 98:2",
+        "from Z-isomer"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "[Rh+](N#CC)(N#CC)(C1=CC2C=CC1C2).[Sb](F)(F)(F)(F)(F)[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "C25H24P2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.4 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cccc(C=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CC)[C@H](O)c1cccc(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr = 98:2",
+        "from Z-isomer"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "[Rh+](N#CC)(N#CC)(C1=CC2C=CC1C2).[Sb](F)(F)(F)(F)(F)[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "C25H24P2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.4 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CC)[C@H](O)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "dr = 99:1",
+        "from Z-isomer"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "[Rh+](N#CC)(N#CC)(C1=CC2C=CC1C2).[Sb](F)(F)(F)(F)(F)[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5 mol%"
+      ],
+      "text": "C25H24P2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "0.4 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

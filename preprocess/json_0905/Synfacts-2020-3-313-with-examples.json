@@ -1,0 +1,91 @@
+[
+  [
+    {
+      "text": "CCCC#CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=C(CCC)CCC(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "text": "CCCC=C(CCC)CCC(=O)OCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Br-].[Br-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand for R1 and R2 = Alk"
+      ],
+      "text": "c1ccc(P(CCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand for R1 and/or R2 = Ar"
+      ],
+      "text": "CC1(C)c2ccccc2Oc2c(P(c3ccccc3)c3ccccc3)cc(P(c3ccccc3)c3ccccc3)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)c1ccn2->[Ir+]34(<-n5cc(C(F)(F)F)ccc5-c5c(F)cc(F)cc53)(<-n3cc(C(F)(F)F)ccc3-c3c(F)cc(F)cc34)<-n3ccc(C(C)(C)C)cc3-c2c1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CN(C)c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

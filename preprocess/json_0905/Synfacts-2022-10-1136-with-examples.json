@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "COC(=O)C=CC1=C(c2ccccc2)C2(C=CC(=O)C=C2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NOc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COC(=O)C=CC1=C(c2ccccc2)C2(C=CC(=NOc3ccc([N+](=O)[O-])cc3)C=C2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-cat. B or C",
+        "at.A:R=3,5-Ph2CH"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c2c3c1CC[C@@]31CCc3c(C)cc(Cl)c(c31)OP(=O)(O)O2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1.ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "3\u201396 h"
+    }
+  ]
+]

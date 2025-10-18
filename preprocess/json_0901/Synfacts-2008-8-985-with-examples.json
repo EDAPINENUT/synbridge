@@ -1,0 +1,334 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H]([C@H](N)c2ccnc3ccccc23)N2CCC1CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "DCC",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H]([C@H](N)c2ccnc3ccccc23)N2CCC1CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccccc1Cl",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "DCC",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H]([C@H](N)c2ccnc3ccccc23)N2CCC1CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "DCC",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H]([C@H](N)c2ccnc3ccccc23)N2CCC1CC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)[C@@H](C)[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "DCC",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "neat",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u201396h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccccc1Cl",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "neat",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u201396h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C[C@@H](O)c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "neat",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C to r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u201396h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)[C@@H](C)[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "neat",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "conditions"
+    }
+  ]
+]

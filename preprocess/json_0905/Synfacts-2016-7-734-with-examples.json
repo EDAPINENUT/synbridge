@@ -1,0 +1,174 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@@H](C(=O)O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "conditions A",
+        "syn/anti=10:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "conditions A"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](CC(C)C)C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "L1",
+        "conditions B"
+      ],
+      "text": "COc1c(F)c(F)c(S(=O)(=O)N[C@@H](C(=O)O)C(C)C)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS[C@H](C(=O)O)[C@@H](O)CCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "conditions B",
+        "syn/anti=1:1.3"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "conditions A"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](CC(C)C)C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "L1",
+        "conditions B"
+      ],
+      "text": "COc1c(F)c(F)c(S(=O)(=O)N[C@@H](C(=O)O)C(C)C)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "conditions A"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "conditions B"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

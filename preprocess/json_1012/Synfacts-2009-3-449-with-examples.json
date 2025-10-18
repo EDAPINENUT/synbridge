@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "COc1cccc(CCCCC=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)CCC[C@@H]2C=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er=98.5:1.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "1"
+      ],
+      "type": "catalyst",
+      "text": "CN1C(=O)[C@@H](Cc2ccccc2)N[C@H]1C(C)(C)C"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)C(F)(F)F"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=[N+]([O-])[O-]->[Ce+4](<-[O-][N+](=O)[O-])(<-[O-][N+](=O)[O-])(<-[O-][N+](=O)[O-])(<-[O-][N+](=O)[O-])<-[O-][N+](=O)[O-].[NH4+].[NH4+]"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "COCCOC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24h"
+    }
+  ]
+]

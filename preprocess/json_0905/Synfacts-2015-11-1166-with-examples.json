@@ -1,0 +1,201 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)OC1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)C2CCC13CS(=O)(=O)N(C(=O)N(O)[C@@H]1CCCCC1=O)C3C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr > 95:5"
+      ]
+    },
+    {
+      "relations": [
+        "nitrosocarbonyl precursor"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)C2CCC13CS(=O)(=O)N(C(=O)NO)C3C2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CCC1=NCCO1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "HCl"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(CC)O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)[C@@H](C)N(O)C(=O)N1C2CC3CCC2(CS1(=O)=O)C3(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr = 75:25",
+        "from 75:25 E/Z substrate"
+      ]
+    },
+    {
+      "relations": [
+        "nitrosocarbonyl precursor"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)C2CCC13CS(=O)(=O)N(C(=O)NO)C3C2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CCC1=NCCO1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "HCl"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(O[Si](C)(C)C)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C(=O)c1ccc2ccccc2c1)N(O)C(=O)N1C2CC3CCC2(CS1(=O)=O)C3(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "dr = 91:9",
+        "from 5:95 E/Z substrate"
+      ]
+    },
+    {
+      "relations": [
+        "nitrosocarbonyl precursor"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)C2CCC13CS(=O)(=O)N(C(=O)NO)C3C2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CCC1=NCCO1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "HCl"
+    }
+  ],
+  [
+    {
+      "text": "C=CO[SiH2]C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CCC(CN(C(=O)N(O)[C@@H]3Cc4ccccc4C3=O)S(=O)(=O)C1)C2(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "nitrosocarbonyl precursor"
+      ],
+      "type": "reactants",
+      "text": "CC1(C)C2CCC13CS(=O)(=O)N(C(=O)NO)C3C2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CCC1=NCCO1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "HCl"
+    }
+  ]
+]

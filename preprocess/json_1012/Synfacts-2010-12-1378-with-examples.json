@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C=C(C)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CC(C)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "C(=O)(/C=C(\\C)NC(C)=O)OCC",
+        "H2",
+        "1 bar",
+        "rt",
+        "[Rh]",
+        "novel chiral ligand"
+      ]
+    },
+    {
+      "relations": [
+        "novel chiral ligand"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C=C(C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC(C)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "C(C(=C)C(=O)OC)C(=O)OC",
+        "H2",
+        "1 bar",
+        "rt",
+        "[Rh]",
+        "novel chiral ligand"
+      ]
+    },
+    {
+      "relations": [
+        "novel chiral ligand"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

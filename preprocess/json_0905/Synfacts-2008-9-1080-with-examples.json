@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "C=CC(=CCCCC)CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=CC(C)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(4a+4b):5=95:5",
+        "4a:4b=92:8"
+      ]
+    },
+    {
+      "text": "CCCCC=C1COC(=O)[C@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C1CCC(=O)OC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=CC(=O)C)O[Rh](C#O)C#O "
+    },
+    {
+      "relations": [
+        "200 psi"
+      ],
+      "type": "other conditions",
+      "text": "CO/H2"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "45\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCP"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=CCCCC)CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=CC(C)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(4a+4b):5 =94:6",
+        "4a:4b = 78:22"
+      ]
+    },
+    {
+      "text": "CCCCC=C1COC(=O)[C@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C1CCC(=O)OC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=CC(=O)C)O[Rh](C#O)C#O "
+    },
+    {
+      "relations": [
+        "200 psi"
+      ],
+      "type": "other conditions",
+      "text": "CO/H2"
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "45\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCP"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    }
+  ]
+]

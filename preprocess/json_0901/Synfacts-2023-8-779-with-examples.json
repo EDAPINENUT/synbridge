@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "text": "Nc1cc(=O)oc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1oc2ccccc2c2nc(-c3ccccc3)cc(-c3ccccc3)c12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cu(OTf)2"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "TBHP"
+    },
+    {
+      "relations": [
+        "0.067 M"
+      ],
+      "type": "conditions",
+      "text": "DCE"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "conditions",
+      "text": "O2"
+    }
+  ],
+  [
+    {
+      "text": "Nc1cc(=O)oc2ccc(Br)cc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1oc2ccc(Br)cc2c2nc(-c3ccccc3)cc(-c3ccccc3)c12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cu(OTf)2"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "TBHP"
+    },
+    {
+      "relations": [
+        "0.067 M"
+      ],
+      "type": "conditions",
+      "text": "DCE"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "conditions",
+      "text": "O2"
+    }
+  ]
+]

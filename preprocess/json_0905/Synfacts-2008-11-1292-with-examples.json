@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "COC(=O)C(=Cc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "L1",
+        "H2 1 atm",
+        "94% ee (S)",
+        "L2",
+        "H2 1 atm",
+        "94% ee (R)"
+      ]
+    },
+    {
+      "relations": [
+        "[(cod)Rh-L1]SbF6",
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OCC1OC(SC(C)(C)C)C(OP(c2ccccc2)c2ccccc2)C2OC(C)(C)OC12"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1cccc(F)c1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1cccc(F)c1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "L1",
+        "H2 1 atm",
+        "93% ee (S)",
+        "L2",
+        "H2 15 atm",
+        "93% ee (R)"
+      ]
+    },
+    {
+      "relations": [
+        "[(cod)Rh-L1]SbF6",
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OCC1OC(SC(C)(C)C)C(OP(c2ccccc2)c2ccccc2)C2OC(C)(C)OC12"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1ccc(OC)cc1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccc(OC)cc1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "L1",
+        "H2 1 atm",
+        "88% ee (S)",
+        "L2",
+        "H2 15 atm",
+        "91% ee (R)"
+      ]
+    },
+    {
+      "relations": [
+        "[(cod)Rh-L1]SbF6",
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OCC1OC(SC(C)(C)C)C(OP(c2ccccc2)c2ccccc2)C2OC(C)(C)OC12"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1ccc(OC(C)=O)c(OC)c1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccc(OC(C)=O)c(OC)c1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "L1",
+        "H2 1 atm",
+        "97% ee (S)",
+        "L2",
+        "H2 1 atm",
+        "98% ee (R)"
+      ]
+    },
+    {
+      "relations": [
+        "[(cod)Rh-L1]SbF6",
+        "L1"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OCC1OC(SC(C)(C)C)C(OP(c2ccccc2)c2ccccc2)C2OC(C)(C)OC12"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "catalyst",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ]
+]

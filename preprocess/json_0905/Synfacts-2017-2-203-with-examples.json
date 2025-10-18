@@ -1,0 +1,197 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC2(CCCCC2)C1O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(F)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC2(CCCCC2)[C@H]2OC(=O)[C@H]2[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN1CN2C(=N1)COC(C)(C)[C@H]2Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN(C)C=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CCC1O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C=CC(=O)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC[C@H]2OC(=O)[C@H]2[C@@H]1c1ccccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN1CN2C(=N1)COC(C)(C)[C@H]2Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN(C)C=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC(C)(C)C1O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(Cc1ccccc1)c1ccccc1C=CC(=O)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC(C)(C)[C@H]2OC(=O)[C@H]2[C@@H]1c1ccccc1N(C)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN1CN2C(=N1)COC(C)(C)[C@H]2Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN(C)C=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC2(CCC2)C1O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1ccc(C=CC(=O)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)CC2(CCC2)[C@H]2OC(=O)[C@H]2[C@@H]1c1ccc(N(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN1CN2C(=N1)COC(C)(C)[C@H]2Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN(C)C=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    }
+  ]
+]

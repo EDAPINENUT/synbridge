@@ -1,0 +1,83 @@
+[
+  [
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "stage 1"
+      ],
+      "text": "[Mg]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25 equiv",
+        "stage 1"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 1",
+        "alternative"
+      ],
+      "text": "CC(C)[Mg]Cl.[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 2"
+      ],
+      "text": "COB(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

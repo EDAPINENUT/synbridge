@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% conversion",
+        "82% ee",
+        "TON: 3600 h^-1"
+      ]
+    },
+    {
+      "relations": [
+        "iron catalyst",
+        "L = MeCN",
+        "1:8 with KOt-Bu"
+      ],
+      "text": "C1=N[P](c2ccccc2)(c2ccccc2)[P@@](=NC(c2ccccc2)c2ccccc2)(c2ccccc2)[P](c2ccccc2)(c2ccccc2)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:8 with iron catalyst"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "11\u2013240 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% conversion",
+        "99% ee",
+        "TON: 53 h^-1"
+      ]
+    },
+    {
+      "relations": [
+        "iron catalyst",
+        "L = MeCN",
+        "1:8 with KOt-Bu"
+      ],
+      "text": "C1=N[P](c2ccccc2)(c2ccccc2)[P@@](=NC(c2ccccc2)c2ccccc2)(c2ccccc2)[P](c2ccccc2)(c2ccccc2)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:8 with iron catalyst"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "11\u2013240 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% conversion",
+        "54% ee",
+        "TON: 930 h^-1"
+      ]
+    },
+    {
+      "relations": [
+        "iron catalyst",
+        "L = MeCN",
+        "1:8 with KOt-Bu"
+      ],
+      "text": "C1=N[P](c2ccccc2)(c2ccccc2)[P@@](=NC(c2ccccc2)c2ccccc2)(c2ccccc2)[P](c2ccccc2)(c2ccccc2)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:8 with iron catalyst"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "11\u2013240 min",
+      "type": "time"
+    }
+  ]
+]

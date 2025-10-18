@@ -1,0 +1,139 @@
+[
+  [
+    {
+      "text": "CCC(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(F)CNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "rr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "[collidine\u2022F]BF4",
+        "2.5 equiv"
+      ],
+      "text": "Cc1cc(C)[n+](F)c(C)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "18 mol%",
+        "(S)-BnBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](Cc2ccccc2)CO1)C1=N[C@H](Cc2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CO[SiH](C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CC=CCCc1ccc(N(CCCl)CCCl)cc1)Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@H](F)CCCc1ccc(N(CCCl)CCCl)cc1)Nc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "er = 98:2",
+        "from a chlorambucil derivative"
+      ]
+    },
+    {
+      "relations": [
+        "[collidine\u2022F]BF4",
+        "2.5 equiv"
+      ],
+      "text": "Cc1cc(C)[n+](F)c(C)c1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "18 mol%",
+        "(S)-BnBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](Cc2ccccc2)CO1)C1=N[C@H](Cc2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CO[SiH](C)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "24\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

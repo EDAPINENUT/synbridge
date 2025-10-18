@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "text": "Cc1ccc(OS(=O)(=O)C(F)(F)F)c([Si](C)(C)C)c1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(I)c(SC(F)(F)F)cc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "IC#Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[Cs+].[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)[S-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ]
+]

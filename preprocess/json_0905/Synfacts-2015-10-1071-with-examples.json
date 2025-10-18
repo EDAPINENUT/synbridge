@@ -1,0 +1,530 @@
+[
+  [
+    {
+      "text": "O=C(Cc1ccccc1)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1nccn1-c1ccccc1)[C@@H](c1ccccc1)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "99.7% ee",
+        "24 h",
+        "method 1",
+        "Ir",
+        "2 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cc1ccccc1Cl)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1nccn1-c1ccccc1)[C@H](c1ccccc1Cl)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "99.6% ee",
+        "22 h",
+        "method 1",
+        "Ir",
+        "2 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cc1ccsc1)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1nccn1-c1ccccc1)[C@@H](c1ccsc1)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "96% ee",
+        "36 h",
+        "method 1",
+        "Ir",
+        "4 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cc1ccccc1)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccn1)[C@@H](c1ccccc1)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "99.6% ee",
+        "24 h",
+        "method 2",
+        "Ir",
+        "4 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C(=O)c1cc(Br)ccn1)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "92% ee",
+        "22 h",
+        "method 2",
+        "Ir",
+        "2 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cc1ccccc1)C1=NCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1cc2ccccc2cn1)[C@@H](c1ccccc1)C(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "90% ee",
+        "48 h",
+        "method 2",
+        "Ir",
+        "4 mol%"
+      ]
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "text": "ClC(Cl)(Cl)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1",
+        "method 1"
+      ],
+      "text": "C1CCOC1.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "method 2"
+      ],
+      "text": "Cc1cccc(C)n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "method 2"
+      ],
+      "text": "CC#N.CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 W"
+      ],
+      "text": "CFL",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "8\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

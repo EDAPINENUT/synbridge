@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "text": "C=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[SiH2]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[SiH](CC=CCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0\u20135.0 mol%",
+        "LFeCl2"
+      ],
+      "type": "catalyst",
+      "text": "CC1=C(C)N(c2c(C(C)C)cccc2C(C)C)[Fe](Cl)(Cl)N1c1c(C(C)C)cccc1C(C)C"
+    },
+    {
+      "relations": [
+        "3.0\u201315.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Mg]Br"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2\u201310 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[SiH2]CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[SiH](CC)CC=CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0\u20135.0 mol%",
+        "LFeCl2"
+      ],
+      "type": "catalyst",
+      "text": "CC1=C(C)N(c2c(C(C)C)cccc2C(C)C)[Fe](Cl)(Cl)N1c1c(C(C)C)cccc1C(C)C"
+    },
+    {
+      "relations": [
+        "3.0\u201315.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Mg]Br"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2\u201310 h"
+    }
+  ]
+]

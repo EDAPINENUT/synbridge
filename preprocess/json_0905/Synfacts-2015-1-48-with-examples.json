@@ -1,0 +1,198 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=C(c1ccc(Br)cc1)C1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](C[N+](=O)[O-])(c1ccc(Br)cc1)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Zn]C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "Hoveyda ligand"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)C(=O)[C@H](Cc1ccc(OCc2ccccc2)cc1)NC(=O)[C@@H](/N=C/c1ccccc1P(c1ccccc1)c1ccccc1)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-30\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=C(c1ccc(Cl)nc1)C1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](C[N+](=O)[O-])(c1ccc(Cl)nc1)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Zn]C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "Hoveyda ligand"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)C(=O)[C@H](Cc1ccc(OCc2ccccc2)cc1)NC(=O)[C@@H](/N=C/c1ccccc1P(c1ccccc1)c1ccccc1)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-30\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C(=C[N+](=O)[O-])c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@](C)(C[N+](=O)[O-])c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Zn]C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "Hoveyda ligand"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)C(=O)[C@H](Cc1ccc(OCc2ccccc2)cc1)NC(=O)[C@@H](/N=C/c1ccccc1P(c1ccccc1)c1ccccc1)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-30\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=C(c1ccc(Br)cc1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](C[N+](=O)[O-])(c1ccc(Br)cc1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Zn]C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "Hoveyda ligand"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)C(=O)[C@H](Cc1ccc(OCc2ccccc2)cc1)NC(=O)[C@@H](/N=C/c1ccccc1P(c1ccccc1)c1ccccc1)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-30\u00b0C"
+    }
+  ]
+]

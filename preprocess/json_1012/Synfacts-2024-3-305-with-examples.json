@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "COc1ccc(CN(CCC#Cc2ccc(C#N)cc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2C(=Cc3ccc(C#N)cc3)CCN2c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "E/Z >95:5",
+        "er=92.5:7.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "C-1"
+      ],
+      "text": "[BH3-]c1n2c(c3[n+]1[C@@H](C(C)(C)C)CO3)OC[C@@H]2C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "ACCN"
+      ],
+      "text": "N#CC1(N=NC2(C#N)CCCCC2)CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "Cycle A",
+      "type": "other conditions"
+    }
+  ]
+]

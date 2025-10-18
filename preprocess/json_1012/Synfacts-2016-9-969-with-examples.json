@@ -1,0 +1,235 @@
+[
+  [
+    {
+      "text": "c1ccc2[nH]ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](c1c[nH]c2ccccc12)[C@@H]([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "8200 TTN",
+        "dr > 99:1",
+        "er > 99:1",
+        "wild-type PfTrpB: 66 TTN"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine",
+        "10 equiv"
+      ],
+      "text": "C[C@H](O)[C@@H]([NH3+])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.06\u20130.6 mol%",
+        "pyridoxal phosphate (PLP)"
+      ],
+      "text": "Cc1ncc(CO[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.02\u20130.13 mol%",
+        "PfTrpB = \u03b2-subunit of tryptophan synthase from Pyrococcus furiosus",
+        "wild-type PfTrpB: 66 TTN",
+        "TTN = total turnover number"
+      ],
+      "text": "PfTrpB2B9",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "c1cnc2[nH]ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](c1c[nH]c2ncccc12)[C@@H]([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "17% yield",
+        "220 TTN"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine",
+        "10 equiv"
+      ],
+      "text": "C[C@H](O)[C@@H]([NH3+])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.06\u20130.6 mol%",
+        "pyridoxal phosphate (PLP)"
+      ],
+      "text": "Cc1ncc(CO[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.02\u20130.13 mol%",
+        "PfTrpB = \u03b2-subunit of tryptophan synthase from Pyrococcus furiosus",
+        "wild-type PfTrpB: 66 TTN",
+        "TTN = total turnover number"
+      ],
+      "text": "PfTrpB2B9",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2[nH]ncc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@@H]([NH3+])C(=O)[O-])n1ncc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "33% yield",
+        "500 TTN"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine",
+        "10 equiv"
+      ],
+      "text": "C[C@H](O)[C@@H]([NH3+])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.06\u20130.6 mol%",
+        "pyridoxal phosphate (PLP)"
+      ],
+      "text": "Cc1ncc(CO[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.02\u20130.13 mol%",
+        "PfTrpB = \u03b2-subunit of tryptophan synthase from Pyrococcus furiosus",
+        "wild-type PfTrpB: 66 TTN",
+        "TTN = total turnover number"
+      ],
+      "text": "PfTrpB2B9",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Sc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](Sc1ccccc1)[C@H]([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "14% yield",
+        "1300 TTN",
+        "N-Boc derivative",
+        "over two steps"
+      ]
+    },
+    {
+      "relations": [
+        "L-threonine",
+        "10 equiv"
+      ],
+      "text": "C[C@H](O)[C@@H]([NH3+])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.06\u20130.6 mol%",
+        "pyridoxal phosphate (PLP)"
+      ],
+      "text": "Cc1ncc(CO[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.02\u20130.13 mol%",
+        "PfTrpB = \u03b2-subunit of tryptophan synthase from Pyrococcus furiosus",
+        "wild-type PfTrpB: 66 TTN",
+        "TTN = total turnover number"
+      ],
+      "text": "PfTrpB2B9",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "KPi buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

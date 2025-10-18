@@ -1,0 +1,134 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NN=C(C=CC=Cc2ccccc2)C2CCN(C(=O)OC(C)(C)C)CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2N=C(C3CCN(C(=O)OC(C)(C)C)CC3)C[C@@H]2C=Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "78% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Ar-SO2H"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(S(=O)(=O)O)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25-80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-72 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)c1cc(C(C)C)c(S(=O)(=O)NN=CC=CC=Cc2ccccc2)c(C(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1cc(C(C)C)c(S(=O)(=O)N2N=CC[C@@H]2C=Cc2ccccc2)c(C(C)C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Ar-SO2H"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(S(=O)(=O)O)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25-80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-72 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)NN=CC=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1N=CC[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "(S)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Ar-SO2H"
+      ],
+      "text": "CC(C)c1cc(C(C)C)c(S(=O)(=O)O)c(C(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25-80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-72 h",
+      "type": "time"
+    }
+  ]
+]

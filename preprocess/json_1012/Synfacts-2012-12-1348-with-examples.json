@@ -1,0 +1,258 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C1=C(c2ccccc2)[C@@H](c2ccc(F)cc2)[C@@H]1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr=82:18"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "rac-ligand"
+      ],
+      "text": "O=C(Oc1ccc2ccccc2c1)C1=CC2C=CC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Na+].c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 parts"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 parts"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCN1C1=C(c2ccccc2)[C@@H](c2cccc3ccccc23)[C@@H]1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr=82:18"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "rac-ligand"
+      ],
+      "text": "O=C(Oc1ccc2ccccc2c1)C1=CC2C=CC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Na+].c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 parts"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 parts"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCN1C#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCN1C1=C(CCc2ccccc2)[C@@H](c2ccccc2)[C@@H]1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "dr=82:18"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "rac-ligand"
+      ],
+      "text": "O=C(Oc1ccc2ccccc2c1)C1=CC2C=CC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Na+].c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 parts"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 parts"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC#CN1CCOC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC1=C(N2CCOC2=O)[C@@H]([N+](=O)[O-])[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr=84:16"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "rac-ligand"
+      ],
+      "text": "O=C(Oc1ccc2ccccc2c1)C1=CC2C=CC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Na+].c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 parts"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 parts"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 part"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ]
+]

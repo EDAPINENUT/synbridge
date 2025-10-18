@@ -1,0 +1,113 @@
+[
+  [
+    {
+      "text": "N#CC1(N=NC2(C#N)CCCCC2)CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1(NC(=O)C2(C(C=Cc3ccccc3)c3ccccc3)CCCCC2)CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "From symmetrical allylic alcohols"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "OB(O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "up to 10 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(C)(C#N)N=NC(C)(C#N)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)(C#N)NC(=O)C(C)(CC)C(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "1:1:1:1",
+        "From symmetrical allylic alcohols"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "OB(O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "up to 10 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

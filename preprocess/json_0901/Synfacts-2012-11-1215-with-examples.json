@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "text": "COCOC1=C(OC(=O)OC2C=CCCC2)c2ccccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCO[C@@]1(C2C=CCCC2)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(N[C@H]1[C@H]2c3ccccc3[C@@H](c3ccccc32)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd2(dba)3CHCla]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    }
+  ]
+]

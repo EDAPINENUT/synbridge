@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N(CC=O)CC(=CI)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC(c3ccccc3)=C[C@@H](O)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "70% yield",
+        "86% yield",
+        "90% yield",
+        "70% yield",
+        "92% ee",
+        "85% ee",
+        "80% ee",
+        "90% ee",
+        "90% ee",
+        "R=2-Me",
+        "R=3-Me",
+        "R=4-OMe",
+        "R=4-F",
+        "R=4-Cl"
+      ]
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S)-Segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CC(I)(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCC(=O)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72 h",
+      "type": "time"
+    }
+  ]
+]

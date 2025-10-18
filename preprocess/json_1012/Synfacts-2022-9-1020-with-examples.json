@@ -1,0 +1,98 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C1CC(=C2CCCNC2=O)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C1CC(=C2CCCNC2=O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "er = 91:9"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "C[C@]12CNC(=O)[C@](C)(C1)C[C@@](C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10.0 mM"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "\u03bb = 420 nm"
+      ],
+      "text": "blue light",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(c1ccccc1)C1CC(=C2CCCNC2=O)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(c1ccccc1)C1CC(=C2CCCNC2=O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "C[C@]12CNC(=O)[C@](C)(C1)C[C@@](C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10.0 mM"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-6 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "\u03bb = 420 nm"
+      ],
+      "text": "blue light",
+      "type": "other conditions"
+    }
+  ]
+]

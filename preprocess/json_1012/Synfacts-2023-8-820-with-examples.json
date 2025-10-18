@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "text": "COCOc1cc(OCOC)c(C(O)C=C(C)CCC=C(C)C)c(-c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCOc1cc(-c2ccccc2)cc2c1[C@@H]1C=C(C)CC[C@H]1C(C)(C)O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=16:1",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "0.5-1 mol%",
+        "IDPi",
+        "TOPT"
+      ],
+      "text": "N/[P](N=[P@]1(N)Oc2ccccc2-c2c(c(Cl)cc3ccccc23)O1)=N\\Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-85\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "7 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COCOc1ccc(OCOC)c(C(O)C=C(C)CCC=C(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCOc1ccc2c(c1)[C@@H]1C=C(C)CC[C@@H]1C(C)(C)O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "27% yield",
+        "dr=17:1",
+        "er=89:11"
+      ]
+    },
+    {
+      "relations": [
+        "0.5-1 mol%",
+        "IDPi",
+        "TOPT"
+      ],
+      "text": "N/[P](N=[P@]1(N)Oc2ccccc2-c2c(c(Cl)cc3ccccc23)O1)=N\\Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-85\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "7 d",
+      "type": "time"
+    }
+  ]
+]

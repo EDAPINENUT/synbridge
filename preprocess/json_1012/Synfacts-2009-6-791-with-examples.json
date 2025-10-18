@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@@H]2CC[C@H]1[C@@H](c1ccc(Br)cc1)[C@H]2[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "c1ccc(SC[C@@H]2CCCN2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)c1ccc(C(F)(F)F)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "seawater",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)C=CC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)C[C@@H]2C(=O)C[C@H]1[C@H]([N+](=O)[O-])[C@H]2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "er=96.5:3.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "c1ccc(SC[C@@H]2CCCN2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)c1ccc(C(F)(F)F)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "seawater",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "O=C1C=CC(=O)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccncc1-c1ccccc1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "C2/C3 = 2.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.5 or 1.0 equiv"
+      ],
+      "text": "[Fe+2].[S-][S-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "O=S(=O)([O-])OOS(=O)(=O)[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "for pyridines only"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "ClCCl.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-40 h",
+      "type": "time"
+    }
+  ]
+]

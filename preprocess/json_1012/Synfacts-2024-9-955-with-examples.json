@@ -1,0 +1,30 @@
+[
+  [
+    {
+      "text": "CC(C)C(=O)C[C@H](O)[C@H](C)C(=O)N1C(=O)OC[C@@H]1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(=O)O[C@H](C(C)C)[C@H](C)[C@H](O)[C@H](C)C(=O)N1C(=O)OC[C@@H]1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr > 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "15-40%"
+      ],
+      "type": "catalyst",
+      "text": "[Sm+2].[I-].[I-]"
+    }
+  ]
+]

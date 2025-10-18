@@ -1,0 +1,133 @@
+[
+  [
+    {
+      "text": "Cc1ncccc1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)OC1C=C2C3C2C13",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=C[C@H](Cc2ccc(-c3ccccc3)cn2)CCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[CH2]C(=C)[Pd]1<-Cl[Pd](<-Cl1)C([CH2])=C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "(R,R)-L4"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@H]1c2ccccc2C(c2ccccc2)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "3.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(-c2ccccc2)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)OC1C=C2C3C2C13",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=C[C@H](Cc2ncccc2-c2ccccc2)CCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[CH2]C(=C)[Pd]1<-Cl[Pd](<-Cl1)C([CH2])=C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "(R,R)-L4"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@H]1c2ccccc2C(c2ccccc2)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "3.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)OC1C=C2C3C1[C@]23c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=C[C@H](Cc2ccccn2)C[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "94% ee",
+        "single diastereomer",
+        "retention of configuration"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[CH2]C(=C)[Pd]1<-Cl[Pd](<-Cl1)C([CH2])=C"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "(R,R)-L4"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@H]1c2ccccc2C(c2ccccc2)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "3.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]"
+    }
+  ]
+]

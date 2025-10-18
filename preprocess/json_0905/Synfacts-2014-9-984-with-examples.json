@@ -1,0 +1,127 @@
+[
+  [
+    {
+      "text": "O=CC#Cc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(c2ccccc2)OC(=O)C=C1c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "er=90:10"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)cc(-c2ccccc2N2C=[N+](c3c(C)cc(C)cc3C)[C@H](c3ccccc3)[C@H]2c2ccccc2)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "O=P1(O)Oc2c(-c3ccccc3)cc3ccccc3c2-c2c(c(-c3ccccc3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cn1cc(C#CC=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1(c2ccccc2)OC(=O)C=C1c1cn(C)c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)cc(-c2ccccc2N2C=[N+](c3c(C)cc(C)cc3C)[C@H](c3ccccc3)[C@H]2c2ccccc2)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst"
+      ],
+      "text": "O=P1(O)Oc2c(-c3ccccc3)cc3ccccc3c2-c2c(c(-c3ccccc3)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4A MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ]
+]

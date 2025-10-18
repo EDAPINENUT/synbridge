@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "CCOC1=NS(=O)(=O)N=C1c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)C1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC1=NS(=O)(=O)N[C@]1(C1=CCCCC1)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.C1=CCCC([Rh+]C2CCC=CCCC2)CCC1.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "3 mol%"
+      ],
+      "text": "c1(C(C)(C)C)cc(/C=C/c2ccccc2Op2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)cc(C(C)(C)C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

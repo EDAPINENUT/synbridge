@@ -1,0 +1,606 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)C(F)(F)I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)C(F)(F)C[C@H](C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccc(C(F)(F)F)cc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC(F)(F)C(=O)c1ccc(C(F)(F)F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1cccs1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC(F)(F)C(=O)c1cccs1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]([C@@H](C#N)c1ccccc1)C(F)(F)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "36% ee",
+        "dr=1.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C#N)CC(F)(F)C(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "81% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC(F)(F)C(=O)c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "87% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC(F)(F)C(=O)c1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(CC(F)(F)C(=O)c1ccccc1)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "0% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C(F)(F)I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(CC(F)(F)C(=O)c1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "0% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "CuTc"
+      ],
+      "text": "O=C([O-])c1cccs1.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "benzoyl peroxide (BPO)"
+      ],
+      "text": "O=C(OOC(=O)c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "L*"
+      ],
+      "text": "c1ccc2c(c1)C[C@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.2 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "text": "O=C(Cl)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCCC(=O)C(CCl)c1ccc(F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CCOC(=O)c1ccccc1)C(=O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "13:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cl)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCC1CO1)C(CCl)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CCC1CO1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "4:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1CCCC(C(=O)Cl)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1CCCN(C(=O)OC(C)(C)C)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCCC(C(CCl)C(=O)CCOC(=O)c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CCOC(=O)c1ccccc1)C(=O)C1CCCN(C(=O)OC(C)(C)C)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "8:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=COCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(CC(=O)C(CCl)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CC(C(=O)OCC)C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        ">20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=COCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(CCl)C(=O)CC(C(=O)NC(N)=O)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CC(C(=O)NC(N)=O)C(C)C)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        ">20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=COCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(CCl)C(=O)CCOC(=O)Cn1cnc2c1c(=O)n(C)c(=O)n2C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C(CCOC(=O)Cn1cnc2c1c(=O)n(C)c(=O)n2C)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield",
+        ">20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(-c2ccccn2)nc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "Ir(dFCF3ppy)2(dtbbpy)PF6"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "temperature",
+      "text": "33\u00b0C"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "time",
+      "text": "3h"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "type": "other conditions",
+      "text": "purple LED"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "type": "catalyst",
+      "text": "C1CCCN2CCN=C2CC1"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "type": "time",
+      "text": "2h"
+    }
+  ]
+]

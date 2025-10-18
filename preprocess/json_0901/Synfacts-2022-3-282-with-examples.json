@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "C=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)CC=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Co(dpppbz)Br2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ni(dtbbpy)Br2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

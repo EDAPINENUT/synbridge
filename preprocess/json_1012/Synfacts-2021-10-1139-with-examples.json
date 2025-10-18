@@ -1,0 +1,404 @@
+[
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield (cat.1)",
+        "95.5:4.5 er (cat.1)",
+        "99% yield (cat.2)",
+        "99:1 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2ccoc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield (cat.1)",
+        "91:9 er (cat.1)",
+        "94% yield (cat.2)",
+        "92:8 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(C2CCCCC2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (cat.1)",
+        "93:7 er (cat.1)",
+        "99% yield (cat.2)",
+        "96:4 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield (cat.1)",
+        "95.5:4.5 er (cat.1)",
+        "99% yield (cat.2)",
+        "99:1 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(c2ccoc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield (cat.1)",
+        "91:9 er (cat.1)",
+        "94% yield (cat.2)",
+        "92:8 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CBr)(C2CCCCC2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (cat.1)",
+        "93:7 er (cat.1)",
+        "99% yield (cat.2)",
+        "96:4 er (cat.2)"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.1",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=CC1C[N@]2CC[C@H]1C[C@@H]2[C@@H](NC(=O)c1ccc(OC)c(OC)c1OC)c1cc(-c2ccccc2)nc2ccc(OCC(C)(C)C)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "cat.2",
+        "OMe substituent responsible for enantioselectivity"
+      ],
+      "text": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@@H](NC(=O)c1c(OC)cc(OC)cc1OC)c1cc(-c2c3ccccc3cc3ccccc23)nc2ccc(OC)cc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "NBS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC1(C)C(=O)N(Br)C(=O)N1Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "+ cosolvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ]
+]

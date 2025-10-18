@@ -1,0 +1,236 @@
+[
+  [
+    {
+      "text": "CC(C)OP(=O)(OC(C)C)C(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#C[C@H](CCc1ccccc1)P(=O)(OC(C)C)OC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CC(C)(C)c1cccc(N2C[C@@H](C3CCCCC3)N=C2C2=N[C@H](C3CCCCC3)CN2c2cccc(C(C)(C)C)c2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "3DPAFIPN (PC)"
+      ],
+      "text": "N#Cc1c(N(c2ccccc2)c2ccccc2)c(F)c(N(c2ccccc2)c2ccccc2)c(C#N)c1N(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "DME-DMA (5:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "18-25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "30W blue LEDs (450-455 nm)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)P(=O)(C(C)C)C(Br)CCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C#CBr)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)P(=O)(C(C)C)[C@H](C#C[Si](c1ccccc1)(c1ccccc1)C(C)(C)C)CCCO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CC(C)(C)c1cccc(N2C[C@@H](C3CCCCC3)N=C2C2=N[C@H](C3CCCCC3)CN2c2cccc(C(C)(C)C)c2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "3DPAFIPN (PC)"
+      ],
+      "text": "N#Cc1c(N(c2ccccc2)c2ccccc2)c(F)c(N(c2ccccc2)c2ccccc2)c(C#N)c1N(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "DME-DMA (5:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "18-25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "30W blue LEDs (450-455 nm)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CSCCC(Br)P(=O)(OC(C)C)OC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#CBr)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)P(=O)(OC(C)C)OC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CC(C)(C)c1cccc(N2C[C@@H](C3CCCCC3)N=C2C2=N[C@H](C3CCCCC3)CN2c2cccc(C(C)(C)C)c2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "3DPAFIPN (PC)"
+      ],
+      "text": "N#Cc1c(N(c2ccccc2)c2ccccc2)c(F)c(N(c2ccccc2)c2ccccc2)c(C#N)c1N(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "CN(C1CCCCC1)C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "DME-DMA (5:1)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "18-25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "30W blue LEDs (450-455 nm)",
+      "type": "other conditions"
+    }
+  ]
+]

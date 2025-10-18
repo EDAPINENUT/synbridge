@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "text": "COC(=O)C=CC1=C(c2ccccc2)C2(C=CC(=O)C=C2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NOc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cc(C)c2c3c1CC[C@]31CCc3c(C)cc(Cl)c(c31)OP(=O)(O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)C=CC1=C(c2ccccc2)C2(C=CC(=NOc3ccc([N+](=O)[O-])cc3)C=C2)OC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082\u2013PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Na\u2082SO\u2084",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3\u201396 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-cat. B or C",
+      "type": "conditions"
+    }
+  ]
+]

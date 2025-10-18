@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "CC1(C)[C@H]2C[C@]13CC21C=C13",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1onc(-c2ccccc2)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)[C@H]2CCC(CNC(=O)c3ccccc3)[C@@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr = 1:1",
+        "from (+)-\u03b2-pinene"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cp*IrCl2]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ]
+]

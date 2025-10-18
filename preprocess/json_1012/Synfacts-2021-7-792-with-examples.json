@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "C=C(c1cncnc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC[C@@H](CC(=C(F)F)c1cncnc1)NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "conditions A",
+        "alpha functionalization"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "COCCOCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "L1"
+      ],
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.20 M"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "15\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Ir-1",
+      "type": "other conditions"
+    }
+  ]
+]

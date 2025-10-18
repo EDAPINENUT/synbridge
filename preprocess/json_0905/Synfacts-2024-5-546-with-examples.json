@@ -1,0 +1,498 @@
+[
+  [
+    {
+      "text": "C=CC(O)(c1ccc(OC)cc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC(C(=O)c1ccc(OC)cc1)c1ccc(OC)cc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CCC(C(=O)c1ccccc1)c1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1cccc(C(F)(F)F)c1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CCC(C(=O)c1cccc(C(F)(F)F)c1)c1cccc(C(F)(F)F)c1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield",
+        "dr=1:11"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1cccc(F)c1)c1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](CCC(C(=O)c1cccc(F)c1)c1cccc(F)c1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1ccc(C)cc1)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC(C(=O)c1ccc(C)cc1)c1ccc(C)cc1)NC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1ccc(C)cc1)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC(C(=O)c1ccc(C)cc1)c1ccc(C)cc1)NC(=O)[C@@H]1CCCN1C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1ccc(C)cc1)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC(C(=O)c1ccc(C)cc1)c1ccc(C)cc1)NC(=O)[C@@H](CC1CNc2ccccc21)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)(c1ccc(C)cc1)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC(C(=O)c1ccc(C)cc1)c1ccc(C)cc1)NC(=O)[C@H](C)NC(=O)[C@H](Cc1ccccc1)NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "reactants",
+      "text": "COC(=O)[C@H](CSc1c(F)c(F)nc(F)c1F)NCl"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3].[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1.[c-]1ccccc1-c1ccccn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[F-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "hv"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "N2"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    }
+  ]
+]

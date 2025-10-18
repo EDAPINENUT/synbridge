@@ -1,0 +1,403 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccccc1Br)[C@@]1(C)Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccco1)[C@@]1(C)Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C(C)C=NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C(C)[C@H](NC(=O)OC(C)(C)C)[C@@]1(C)Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N=Cc1ccc(F)cc1)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C[C@@]1([C@H](NC(=O)OCc2ccccc2)c2ccc(F)cc2)Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(F)cc1)[C@@]1(C)Oc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(F)cc1)[C@@]1(C)CCCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "99% ee",
+        "dr = 9:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(F)cc1)C(C)(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ]
+]

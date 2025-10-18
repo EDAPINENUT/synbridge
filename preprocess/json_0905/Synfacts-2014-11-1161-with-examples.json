@@ -1,0 +1,694 @@
+[
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccccc2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "94% ee",
+        "dr = 14:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccc(OC)cc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccc(OC)cc2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccc(Br)cc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(c2ccc(Br)cc2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "91% ee",
+        "dr = 8:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2cccc(OC)c2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2cccc(OC)c2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "92% ee",
+        "dr = 6:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccco2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccco2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "92% ee",
+        "dr = 7:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccsc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccsc2)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "92% ee",
+        "dr = 13:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(C)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@H](c2ccccc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C(C#N)C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccccc2)CO[C@H](c2ccc(OC)cc2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "87% ee",
+        "dr = 6:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccccc2)CO[C@H](C2CCCCC2)C1(C#N)C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "74% ee",
+        "dr = 2:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(c2ccccc2)CO[C@H](c2ccccc2)C1(C#N)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "80% ee",
+        "dr = 8:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)C(C#N)=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(c2ccccc2)CO[C@@H](c2ccccc2)[C@@]1(C#N)C(=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "93% ee",
+        "dr = 11:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccccc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(=Cc1ccccc1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(c2ccccc2)CO[C@H](c2ccccc2)C1(C#N)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "98% ee",
+        "dr = 7:1",
+        "Yield of combined diastereomers"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "N(CC)(CC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ]
+]

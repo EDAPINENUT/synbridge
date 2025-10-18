@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "CCC[C@H](C[N+](=O)[O-])[C@]1(c2ccccc2)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr=6:1",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1Nc2ccccc2C1c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=[N+]([O-])/C=C/c1ccc(Cl)cc1Cl"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](NP(=O)(OCC)OCC)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "O=C1Nc2ccc(F)cc2[C@@]1(c1ccccc1)[C@@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr=10:1",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1Nc2ccccc2C1c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=[N+]([O-])/C=C/c1ccc(Cl)cc1Cl"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](NP(=O)(OCC)OCC)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc2c(c1)[C@](c1ccccc1)([C@@H](C[N+](=O)[O-])c1ccccc1)C(=O)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr=11:1",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1Nc2ccccc2C1c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=[N+]([O-])/C=C/c1ccc(Cl)cc1Cl"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "A"
+      ],
+      "type": "catalyst",
+      "text": "C=CC1CN2CCC1CC2[C@H](NP(=O)(OCC)OCC)c1ccnc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOCC"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 MS"
+    }
+  ]
+]

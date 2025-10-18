@@ -1,0 +1,224 @@
+[
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@@H](C[N+](=O)[O-])c1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "82% yield",
+        "95% ee",
+        "-92% ee",
+        "Sc(OTf)3",
+        "10 mol% Sc(OTf)3",
+        "10 mol% Schiff-base ligand",
+        "Cu(OTf)2",
+        "PhMe"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "Schiff-base ligand"
+      ],
+      "text": "O=C(NCCCNC(=O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]([C@H](CC(=O)c1cccc[n+]1[O-])c1ccccc1)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "anti/syn = 11:1",
+        "93% ee (anti)"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "Schiff-base ligand"
+      ],
+      "text": "O=C(NCCCNC(=O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1cccc(Cl)c1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]([C@H](CC(=O)c1cccc[n+]1[O-])c1cccc(Cl)c1)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "anti/syn = 4:1",
+        "98% ee (anti)"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "Schiff-base ligand"
+      ],
+      "text": "O=C(NCCCNC(=O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H]([C@H](CC(=O)c1cccc[n+]1[O-])c1ccccc1)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "anti/syn = 9:1",
+        "93% ee (anti)"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "Schiff-base ligand"
+      ],
+      "text": "O=C(NCCCNC(=O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O)[C@H](Cc1ccccc1)/N=C/c1cccc(C(F)(F)F)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

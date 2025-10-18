@@ -1,0 +1,298 @@
+[
+  [
+    {
+      "text": "CC(C=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C[C@H](O)[C@H](C)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr = 11:1"
+      ]
+    },
+    {
+      "text": "C=CC=C[C@@H](O)C(C)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "C#C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [
+        "(S)",
+        "(R)"
+      ],
+      "type": "other conditions",
+      "text": "MeO-BIPHEP"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1c(F)c(F)c(F)c(F)c1F"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "toluene"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C=O)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C[C@H](O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr = 16:1"
+      ]
+    },
+    {
+      "text": "C=CC=C[C@@H](O)C(C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "C#C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [
+        "(S)",
+        "(R)"
+      ],
+      "type": "other conditions",
+      "text": "MeO-BIPHEP"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1c(F)c(F)c(F)c(F)c1F"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "toluene"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)NC(C=O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C[C@H](O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr = 12:1"
+      ]
+    },
+    {
+      "text": "C=CC=C[C@@H](O)C(Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "C#C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [
+        "(S)",
+        "(R)"
+      ],
+      "type": "other conditions",
+      "text": "MeO-BIPHEP"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1c(F)c(F)c(F)c(F)c1F"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "toluene"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)NC(C=O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr = 12:1"
+      ]
+    },
+    {
+      "text": "C=CC=C[C@@H](O)C(Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "C#C"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "[H][H]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1"
+    },
+    {
+      "relations": [
+        "(S)",
+        "(R)"
+      ],
+      "type": "other conditions",
+      "text": "MeO-BIPHEP"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1c(F)c(F)c(F)c(F)c1F"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])[O-].[Na+].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "toluene"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    }
+  ]
+]

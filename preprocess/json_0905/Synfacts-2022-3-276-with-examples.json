@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "text": "COC(=O)OC(C)C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)C(=O)N(O)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)C(=O)N(O[C@H](C)C#Cc1ccccc1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S)-L*"
+      ],
+      "type": "catalyst",
+      "text": "COc1c(Cl)ccc(P(c2ccccc2)c2ccccc2)c1-c1c(P(c2ccccc2)c2ccccc2)ccc(Cl)c1OC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-additive"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O[Na])c1ccc2ccccc2c1-c1c(C(=O)O[Na])ccc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "15\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OC(C#Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)C(=O)N(O)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)C(=O)N(O[C@@H](C#Cc1ccccc1)Cc1ccccc1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S)-L*"
+      ],
+      "type": "catalyst",
+      "text": "COc1c(Cl)ccc(P(c2ccccc2)c2ccccc2)c1-c1c(P(c2ccccc2)c2ccccc2)ccc(Cl)c1OC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-additive"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O[Na])c1ccc2ccccc2c1-c1c(C(=O)O[Na])ccc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "15\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OC(C)C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc2c(cc1OC)C(=O)N(O)C2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc2c(cc1OC)C(=O)N(O[C@H](C)C#Cc1ccccc1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "(S)-L*"
+      ],
+      "type": "catalyst",
+      "text": "COc1c(Cl)ccc(P(c2ccccc2)c2ccccc2)c1-c1c(P(c2ccccc2)c2ccccc2)ccc(Cl)c1OC"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-additive"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O[Na])c1ccc2ccccc2c1-c1c(C(=O)O[Na])ccc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "15\u00b0C"
+    }
+  ]
+]

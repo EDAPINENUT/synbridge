@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@H](N)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "36% yield",
+        "60% conversion",
+        "er>99.5:0.5",
+        "F113Y variant",
+        "8% conversion with wild-type PbPAL"
+      ]
+    },
+    {
+      "relations": [
+        "variants: F113H, F113Y, F113A, F113I, F113V, F113Y-L114I"
+      ],
+      "type": "other conditions",
+      "text": "PbPAL (phenylalanine ammonia lyase) from Planctomyces brasiliensis"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "whole E. coli cells"
+    },
+    {
+      "relations": [
+        "ammonium carbamate"
+      ],
+      "type": "catalyst",
+      "text": "NC(=O)[O-].[NH4+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "37\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12\u201316 h"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)O)cc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@H](N)C(=O)O)cc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield",
+        "87% conversion",
+        "er>99.5:0.5",
+        "F113Y variant"
+      ]
+    },
+    {
+      "relations": [
+        "variants: F113H, F113Y, F113A, F113I, F113V, F113Y-L114I"
+      ],
+      "type": "other conditions",
+      "text": "PbPAL (phenylalanine ammonia lyase) from Planctomyces brasiliensis"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "whole E. coli cells"
+    },
+    {
+      "relations": [
+        "ammonium carbamate"
+      ],
+      "type": "catalyst",
+      "text": "NC(=O)[O-].[NH4+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "37\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12\u201316 h"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)O)c(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@H](N)C(=O)O)c(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "6% conversion",
+        "F113I variant"
+      ]
+    },
+    {
+      "relations": [
+        "variants: F113H, F113Y, F113A, F113I, F113V, F113Y-L114I"
+      ],
+      "type": "other conditions",
+      "text": "PbPAL (phenylalanine ammonia lyase) from Planctomyces brasiliensis"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "whole E. coli cells"
+    },
+    {
+      "relations": [
+        "ammonium carbamate"
+      ],
+      "type": "catalyst",
+      "text": "NC(=O)[O-].[NH4+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "37\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12\u201316 h"
+    }
+  ]
+]

@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "CC[C@@]1(C)CC1=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@]1(C)C=C(Cc2ccc(OC)cc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@@]1(C)CC=C1Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pt() or Pd()",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "(CH2Cl)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC[C@@]1(C)CC1=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@]1(C)C=C(c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC[C@@]1(C)CC=C1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pt() or Pd()",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "(CH2Cl)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

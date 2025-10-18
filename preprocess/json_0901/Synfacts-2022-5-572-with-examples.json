@@ -1,0 +1,410 @@
+[
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CN)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CNC(=O)Cc2cccs2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CN)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CNC(=O)c2ccccc2Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CN)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCC(=O)NCc1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1CCNCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)N1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCNCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC1CCCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NC1CCCCCC1)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCN",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCNC(=O)CCCCCCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H](NC(=O)OCc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CN)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CNC(=O)[C@H](C)NC(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H](NC(=O)OC(C)(C)C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CN)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CNC(=O)[C@H](C)NC(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)[C@@H](C)N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@@H](C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "MeSi(OMe)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

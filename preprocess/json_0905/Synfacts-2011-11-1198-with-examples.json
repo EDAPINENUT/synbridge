@@ -1,0 +1,557 @@
+[
+  [
+    {
+      "text": "COc1ccccc1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@@H](C)N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[C@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 wt%"
+      ],
+      "text": "[Al]#[Ni]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201320 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u201350 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u201355 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@@H](C)N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "71% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[C@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 wt%"
+      ],
+      "text": "[Al]#[Ni]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201320 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u201350 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u201355 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](N)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[C@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 wt%"
+      ],
+      "text": "[Al]#[Ni]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201320 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u201350 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u201355 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@H](N)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[C@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 wt%"
+      ],
+      "text": "[Al]#[Ni]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201320 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u201350 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u201355 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C[C@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.25\u20131.60 equiv"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].CC(=O)[O-].[Yb+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 wt%"
+      ],
+      "text": "[Al]#[Ni]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10\u201320 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)OC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u201350 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12\u201324 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u201355 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,806 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@H](O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R,R)-Ph-BPE",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "syn",
+        "(R)-xyI-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% ee",
+        "anti",
+        "(R,R)-Ph-BPE"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@H](O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R,R)-Ph-BPE",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "syn",
+        "(R)-xyI-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "(R)-xyI-BINAP",
+        "5 mol%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[N-]=[N+]=NCC(=O)N1CCc2cccnc21"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c([Cu])c(C)c1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "other conditions",
+      "text": "ligand"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

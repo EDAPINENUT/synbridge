@@ -1,0 +1,103 @@
+[
+  [
+    {
+      "text": "O=C1OC[C@@H]2C[C@@]3(c4ccccc4)O[C@H]3C=C12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)/C=C/C[S+](C)C1[C@@H](O)[C@]2(C)CC[C@@H]1C2(C)C.[Br-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0-50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C1OCC[C@@H]2C[C@@]3(c4ccc(Br)cc4)O[C@H]3C=C12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)/C=C/C[S+](C)C1[C@@H](O)[C@]2(C)CC[C@@H]1C2(C)C.[Br-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0-50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1=C[C@@H]2O[C@@]2(c2ccc(Br)cc2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "92% ee",
+        "dr>20:1",
+        "Cs2CO3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)/C=C/C[S+](C)C1[C@@H](O)[C@]2(C)CC[C@@H]1C2(C)C.[Br-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0-50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

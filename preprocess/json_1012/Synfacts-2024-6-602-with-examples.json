@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "CC(C)=NO[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)Oc1ccc(NC(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Nc1ccc(OC(=O)C=Cc2ccccc2[Si@](ON=C(C)C)(c2ccccc2)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Pd+2]([Cl-])([Cl-])(N#CC)(N#CC)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L-Pyr-OH",
+        "25 mol%"
+      ],
+      "text": "O=C1CC[C@@H](C(=O)O)N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

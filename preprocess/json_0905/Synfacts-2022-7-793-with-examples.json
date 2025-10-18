@@ -1,0 +1,184 @@
+[
+  [
+    {
+      "text": "C=CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@](CC(=O)c1ccccc1)(Cc1ccccc1)c1ccncc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "er = 79:21"
+      ]
+    },
+    {
+      "relations": [
+        "Set A",
+        "0.2 mol%"
+      ],
+      "text": "PC1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set A",
+        "15 mol%"
+      ],
+      "text": "C1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set A",
+        "1.0 equiv"
+      ],
+      "text": "HE1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set A",
+        "1.0 equiv"
+      ],
+      "text": "c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Set A"
+      ],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Set B",
+        "0.5 mol%"
+      ],
+      "text": "PC2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set B",
+        "15 mol%"
+      ],
+      "text": "C3",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set B",
+        "1.0 equiv"
+      ],
+      "text": "BT",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set B"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Set C",
+        "0.5 mol%"
+      ],
+      "text": "PC2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set C",
+        "10 mol%"
+      ],
+      "text": "C2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set C",
+        "1.0 equiv"
+      ],
+      "text": "HE2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set C"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Set C"
+      ],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Set D",
+        "0.5 mol%"
+      ],
+      "text": "PC1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set D",
+        "15 mol%"
+      ],
+      "text": "C4",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set D",
+        "1.5 equiv"
+      ],
+      "text": "HE2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set D"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "Set D"
+      ],
+      "text": "COC(C)(C)C.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-60 to 10 \u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "60-96 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

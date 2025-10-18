@@ -1,0 +1,480 @@
+[
+  [
+    {
+      "text": "O=C1Nc2ccccc2C1(Br)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)(c1ccccc1)[C@@]1(Cc2ccccc2)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr = 11:1",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC1(Br)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@]1(C(C)(C#N)c2ccccc2)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr = 9:1",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "O=C1Nc2ccccc2C1(Br)CCI",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C#N)(c1ccccc1)[C@@]1(CCI)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "dr = 6:1",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)NCCC2(Br)C(=O)Nc3ccccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NCC[C@]2(C(C)(C#N)c3ccccc3)C(=O)Nc3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr = 5:1",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "O=C1Nc2ccccc2C1(Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)(c1ccccc1)[C@@]1(c2ccccc2)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr = 11:1",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "CC1(Br)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C#N)(c1ccccc1)[C@]1(C)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr = 13:1",
+        "94% ee",
+        "4 mmol scale"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "CC1(Br)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](N=C=C(c1ccccc1)c1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(c1ccccc1)(c1ccccc1)[C@@]1(C)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr = 9:1",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "CC1(Br)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C#N)(c1cccc(Br)c1)[C@]1(C)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr = 23:1",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ],
+  [
+    {
+      "text": "CC1(Br)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=C=N[Si](C(C)C)(C(C)C)C(C)C)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C#N)(c1ccsc1)[C@]1(C)C(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "dr = 7:1",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.O.O.O.O.O.O.[Ni+2]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "5 \u00c5 molecular sieves"
+    }
+  ]
+]

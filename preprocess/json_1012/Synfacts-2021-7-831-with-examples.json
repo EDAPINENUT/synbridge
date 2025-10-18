@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "text": "CCCC(C)(NS(=O)(=O)c1ccccn1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(C)(CCCc1ccc(C=O)o1)NS(=O)(=O)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "150\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "time"
+    }
+  ]
+]

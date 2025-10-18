@@ -1,0 +1,197 @@
+[
+  [
+    {
+      "text": "OC1CCCC[C@@H]1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@]2(CCCC[C@@H]2O)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr=11:1",
+        "with 5 mol% Ph2BOH"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CC(=O)OC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "borinic acid"
+      ],
+      "text": "OB(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "PC"
+      ],
+      "text": "CC(C)(C)C1=CC2C3=CC(C(C)(C)C)C=CN3[I+]3(n4c5ccc(C(F)(F)F)cc5c5cc(C(F)(F)F)ccc54)(c4cc(F)cc(F)c4C4C=CC(C(F)(F)F)=CN43)N2C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "quinuclidine"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16\u201319 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@@H]1O[C@H](C)[C@@H](O)C(O)[C@H]1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@H]1O[C@H](C)[C@@H](O)[C@H](O)[C@@]12CCC(=O)O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CC(=O)OC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "borinic acid"
+      ],
+      "text": "OB(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "PC"
+      ],
+      "text": "CC(C)(C)C1=CC2C3=CC(C(C)(C)C)C=CN3[I+]3(n4c5ccc(C(F)(F)F)cc5c5cc(C(F)(F)F)ccc54)(c4cc(F)cc(F)c4C4C=CC(C(F)(F)F)=CN43)N2C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "quinuclidine"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16\u201319 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO[C@@H]1O[C@H](COC(=O)c2ccccc2)C(O)[C@H]1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@H]1O[C@H](COC(=O)c2ccccc2)[C@@H](O)[C@]12CCC(=O)O2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "with 1 equiv quinuclidine"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CC(=O)OC",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "borinic acid"
+      ],
+      "text": "OB(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "PC"
+      ],
+      "text": "CC(C)(C)C1=CC2C3=CC(C(C)(C)C)C=CN3[I+]3(n4c5ccc(C(F)(F)F)cc5c5cc(C(F)(F)F)ccc54)(c4cc(F)cc(F)c4C4C=CC(C(F)(F)F)=CN43)N2C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "quinuclidine"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16\u201319 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

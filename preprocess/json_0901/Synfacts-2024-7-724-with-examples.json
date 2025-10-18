@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "C=C(F)C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(CCc1ccccc1)C[C@H](F)C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cccc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "NiBr2(PPh3) (S,S)-s-Bu-PyBOX",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "(MeO)\u2083SiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "Znl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "8.0 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THE-DMA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10h",
+      "type": "conditions"
+    }
+  ]
+]

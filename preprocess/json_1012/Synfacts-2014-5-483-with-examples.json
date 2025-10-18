@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "Fc1cc2nsnc2c(Br)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Ic1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1c(F)c(-c2cccs2)c2nsnc2c1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "100\u00b0C",
+        "Pd(PPh3)4 (0.05 equiv)",
+        "(oxydi-2,1-phenylene)bis(diphenylphosphine) (0.1 equiv)"
+      ]
+    },
+    {
+      "relations": [
+        "0.05 equiv"
+      ],
+      "text": "CC(C)(C)C(=O)[O-]->[Pd+2]<-[O-]C(=O)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.75 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Ag+].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

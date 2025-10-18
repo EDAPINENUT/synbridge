@@ -1,0 +1,296 @@
+[
+  [
+    {
+      "text": "O=C(O)c1cccc(C(=O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C1CCCC(C(=O)O)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "10% Rh/C (10 wt%)",
+        "5 bar H2",
+        "H2O",
+        "80\u00b0C",
+        "6 h",
+        "cis/trans = 45:55"
+      ]
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Rh/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Ru/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(Cc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)NC(CC1CCCCC1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "10% Rh/C (10 wt%)",
+        "1 bar H2",
+        "i-PrOH",
+        "60\u00b0C",
+        "24 h"
+      ]
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Rh/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Ru/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)c1ccccc1O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C1CCCCC1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "10% Ru/C (10 wt%)",
+        "5 bar H2",
+        "i-PrOH",
+        "60\u00b0C",
+        "7 h",
+        "cis/trans = 17:83"
+      ]
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Rh/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Ru/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C1CCCCC1C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "10% Rh/C (10 wt%)",
+        "1 bar H2",
+        "i-PrOH",
+        "60\u00b0C",
+        "24 h",
+        "cis/trans = 15:85"
+      ]
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Rh/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Ru/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Nc1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC1CCC(C(=O)O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "10% Rh/C (10 wt%)",
+        "1 bar H2",
+        "i-PrOH",
+        "60\u00b0C",
+        "24 h",
+        "cis/trans not determined"
+      ]
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Rh/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10%",
+        "10 wt%"
+      ],
+      "text": "Ru/C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1-10 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

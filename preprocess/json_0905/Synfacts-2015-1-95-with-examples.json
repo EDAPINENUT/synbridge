@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccc(C(F)(F)F)cc1)C(C#N)(C#N)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "er=94:6"
+      ]
+    },
+    {
+      "relations": [
+        "masked acyl cyanide (MAC)"
+      ],
+      "type": "reactants",
+      "text": "CC(C)(C)[Si](C)(C)OC(C#N)C#N"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CCC1CN2CCC1CC2[C@H](OCc1ccccc1)c1ccnc2ccc(O)cc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-72 h"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=NC(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](NC(=O)OC(C)(C)C)C(C#N)(C#N)O[Si](C)(C)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "masked acyl cyanide (MAC)"
+      ],
+      "type": "reactants",
+      "text": "CC(C)(C)[Si](C)(C)OC(C#N)C#N"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CCC1CN2CCC1CC2[C@H](OCc1ccccc1)c1ccnc2ccc(O)cc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-72 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1cccs1)C(C#N)(C#N)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "masked acyl cyanide (MAC)"
+      ],
+      "type": "reactants",
+      "text": "CC(C)(C)[Si](C)(C)OC(C#N)C#N"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CCC1CN2CCC1CC2[C@H](OCc1ccccc1)c1ccnc2ccc(O)cc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-72 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](CCc1ccccc1)C(C#N)(C#N)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "er=92:8"
+      ]
+    },
+    {
+      "relations": [
+        "masked acyl cyanide (MAC)"
+      ],
+      "type": "reactants",
+      "text": "CC(C)(C)[Si](C)(C)OC(C#N)C#N"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CCC1CN2CCC1CC2[C@H](OCc1ccccc1)c1ccnc2ccc(O)cc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-72 h"
+    }
+  ]
+]

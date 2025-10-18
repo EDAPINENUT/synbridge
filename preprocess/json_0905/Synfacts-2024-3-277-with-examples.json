@@ -1,0 +1,202 @@
+[
+  [
+    {
+      "text": "O=CCCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CCC(=O)N1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](CC(=O)N1CCCCC1)C(=O)CCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cccc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[C@@H](C1C=CC=C1P(=O)(c1ccccc1)c1ccccc1)P(C(C)(C)C)C(C)(C)C"
+    }
+  ],
+  [
+    {
+      "text": "CCC=CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC=CCCc1ccccc1)N1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCCCC(=O)[C@H](CCCc1ccccc1)CC(=O)N1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cccc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[C@@H](C1C=CC=C1P(=O)(c1ccccc1)c1ccccc1)P(C(C)(C)C)C(C)(C)C"
+    }
+  ],
+  [
+    {
+      "text": "CC=CNC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](NC(=O)C(C)(C)C)C(=O)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[C@@H](C1C=CC=C1P(=O)(c1ccccc1)c1ccccc1)P(C(C)(C)C)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Fc1ccccc1F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=CNC(=O)N1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](CC(=O)N1CCCCC1)C(=O)CCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[C@@H](C1C=CC=C1P(=O)(c1ccccc1)c1ccccc1)P(C(C)(C)C)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Fc1ccccc1F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=CNC(=O)N1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CCCCC(=O)[C@H](CCCc1ccccc1)CC(=O)N1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[C@@H](C1C=CC=C1P(=O)(c1ccccc1)c1ccccc1)P(C(C)(C)C)C(C)(C)C"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Rh+]C2=CCCC=CCC2)=CCC1.O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Fc1ccccc1F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    }
+  ]
+]

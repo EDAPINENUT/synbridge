@@ -1,0 +1,739 @@
+[
+  [
+    {
+      "text": "CCCCC1C=C1C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H]1[C@@H](CCCC)[C@H]1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=95:5:0:0"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1C=C1C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COP(=O)(OCC)OCC)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@@H]1[C@@H](C(=O)OCC)[C@H]1C(C)(C)C)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=91:9:0:0"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1C=C1CCCCO[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)COP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C[C@@H]1[C@@H](CCCCO[Si](C(C)C)(C(C)C)C(C)C)[C@H]1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr=93:7:0:0"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1C=C1C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@@H]1[C@H](C(=O)OCC)[C@@H]1C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr=95:5:0:0"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccccc2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@@H]1C[C@]1(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C1=CC12CCCc1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@@H]1C[C@@]12CCCc1ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccc3ccccc3c2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@@H]1C[C@]1(C)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccccc2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COP(=O)(OCC)OCC)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@@H]1C[C@]1(C)c1ccccc1)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C2(C)C=C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)COP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C[C@@H]1C[C@]1(C)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccc(Cl)cc2)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)COP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C[C@@H]1C[C@]1(C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C1(C)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COP(=O)(OCC)OCC)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@H]1C[C@@]1(C)C(C)(C)C)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "DPEPhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "CO[SiH](C)(OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ]
+]

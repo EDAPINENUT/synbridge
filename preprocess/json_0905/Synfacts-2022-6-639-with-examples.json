@@ -1,0 +1,153 @@
+[
+  [
+    {
+      "text": "C=CN1CCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(C=CN2CCCC2=O)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CO1->[Rh]2(O(C)->[Rh]13C1=CCC=CC3CC1)C1=CCC=CC2CC1"
+    },
+    {
+      "relations": [
+        "4-8 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-150\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-48 h"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CB1O[C@]2(C)c3cccc4cccc(c34)[C@@]2(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12OB(C=Cc3ccccc3)O[C@@]1(C)c1cccc3cccc2c13",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CO1->[Rh]2(O(C)->[Rh]13C1=CCC=CC3CC1)C1=CCC=CC2CC1"
+    },
+    {
+      "relations": [
+        "4-8 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-150\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-48 h"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)CCCN1c2ccccc2Sc2ccc(C=CB3OC(C)(C)C(C)(C)O3)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "from Chlorpromazine"
+      ]
+    },
+    {
+      "relations": [
+        "2-4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CO1->[Rh]2(O(C)->[Rh]13C1=CCC=CC3CC1)C1=CCC=CC2CC1"
+    },
+    {
+      "relations": [
+        "4-8 mol%",
+        "Xantphos"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1COCCO1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-150\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-48 h"
+    }
+  ]
+]

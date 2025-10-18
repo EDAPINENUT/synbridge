@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "CN(C)C(=O)OC(C#N)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(C#N)(CCc1ccccc1)OC(=O)N(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "electrophile"
+      ],
+      "text": "E",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1.CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-107\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)C(=O)OC(C#N)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@](C#N)(CCc1ccccc1)OC(=O)N(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "er=92:8"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "electrophile"
+      ],
+      "text": "E",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1.CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-107\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "N#CC(C#N)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)C(=O)OC(C#N)(C#N)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "er=50:50"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "electrophile"
+      ],
+      "text": "E",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1CCOC1.CCOCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-107\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

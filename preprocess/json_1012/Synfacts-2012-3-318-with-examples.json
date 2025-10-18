@@ -1,0 +1,221 @@
+[
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CC(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](N[C@@H](C(C)C)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@@H](NC(=O)OC(C)(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C(F)(F)[Zn]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.4 equiv"
+      ],
+      "text": "CC(C)(C)OC(=O)OC(=O)OC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CCCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](N[C@@H](CCc1ccccc1)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr=96:4"
+      ]
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@H](CCc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C(F)(F)[Zn]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.4 equiv"
+      ],
+      "text": "CC(C)(C)OC(=O)OC(=O)OC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CCCCN1C(=O)c2ccccc2C1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](N[C@@H](CCCN1C(=O)c2ccccc2C1=O)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "dr=96:4"
+      ]
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@H](CCCN1C(=O)c2ccccc2C1=O)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage1",
+        "1.5 equiv"
+      ],
+      "text": "CCOC(=O)C(F)(F)[Zn]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "[OH-]->[Pd+2]<-[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "1.4 equiv"
+      ],
+      "text": "CC(C)(C)OC(=O)OC(=O)OC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    }
+  ]
+]

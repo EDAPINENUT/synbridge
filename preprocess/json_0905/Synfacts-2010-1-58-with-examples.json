@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "CC[C@@]1(C)CC1=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@]1(C)C=C(Cc2ccc(OC)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "selectivity >99:1"
+      ]
+    },
+    {
+      "text": "CC[C@@]1(C)CC=C1Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "alternative with Pd"
+      ],
+      "text": "[Pt]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "alternative with Pt"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u201380\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC[C@@]1(C)CC1=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@]1(C)C=C(c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "selectivity 90:10"
+      ]
+    },
+    {
+      "text": "C=CC[C@@]1(C)CC=C1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "alternative with Pd"
+      ],
+      "text": "[Pt]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "alternative with Pt"
+      ],
+      "text": "[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u201380\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

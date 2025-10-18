@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "CC(=O)N[C@H](Cc1ccccc1)C(=O)N1C(=O)OC[C@H]1C(=O)N[C@H](Cc1ccccc1)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCNC(=O)[C@@H](Cc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H]1COC(=O)N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "NuH"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "Et3N"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "DMF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)N[C@H](Cc1ccccc1)C(=O)N1C(=O)OC[C@H]1C(=O)N[C@H](Cc1ccccc1)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H](Cc1ccccc1)C(=O)NC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H]1COC(=O)N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "NuH"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "Et3N"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "DMF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)N[C@H](Cc1ccccc1)C(=O)N1C(=O)OC[C@H]1C(=O)N[C@H](Cc1ccccc1)C(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H](Cc1ccccc1)C(=O)OCc1ccccc1[N+](=O)[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H]1COC(=O)N1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "NuH"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "conditions",
+      "text": "Et3N"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "DMF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    }
+  ]
+]

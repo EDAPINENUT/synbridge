@@ -1,0 +1,209 @@
+[
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CC(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](N[C@@H](C(C)C)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@H](NC(=O)OC(C)(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "BrZnCF2CO\u2082Et",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "Pd(OH)2/C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 atm",
+        "stage2"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "Boc2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "EtOH",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CCCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](N[C@@H](CCc1ccccc1)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@@H](CCc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "BrZnCF2CO\u2082Et",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "Pd(OH)2/C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 atm",
+        "stage2"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "Boc2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "EtOH",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@@H](N=CCCCN1C(=O)c2ccccc2C1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](N[C@@H](CCCN1C(=O)c2ccccc2C1=O)C(F)(F)C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)[C@@H](CCCN1C(=O)c2ccccc2C1=O)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "BrZnCF2CO\u2082Et",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ultrasound",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "Pd(OH)2/C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 atm",
+        "stage2"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "Boc2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "EtOH",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "text": "C=C(COC(=O)OC1=C(OCOC)CCc2ccccc21)[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@@]1(OCOC)CCc2ccccc2C1=O)[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@H]1[C@H]2c3ccccc3[C@@H](c3ccccc32)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ],
+  [
+    {
+      "text": "COCOC1=C(OC(=O)OC2C=CCCC2)c2ccccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCO[C@@]1(C2C=CCCC2)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@H]1[C@H]2c3ccccc3[C@@H](c3ccccc32)[C@@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ]
+]

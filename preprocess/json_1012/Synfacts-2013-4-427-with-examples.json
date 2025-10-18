@@ -1,0 +1,254 @@
+[
+  [
+    {
+      "text": "C=C[C@H](CC=CCOP(=O)(OCC)OCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC[C@@H](C=C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "SN2':SN2 = 97:3",
+        "er = 90:10"
+      ]
+    },
+    {
+      "text": "[MgH]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](c1ccccc1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "SN2':SN2 = 89:11",
+        "er = 73:27"
+      ]
+    },
+    {
+      "text": "CC(C)[Mg]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCC=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CC)c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "SN2':SN2 > 98:2",
+        "er = 96:4"
+      ]
+    },
+    {
+      "text": "Br[Mg]c1cccc2ccccc12",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC=CCOP(=O)(OCC)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "SN2':SN2 = 92:8",
+        "er = 91:9"
+      ]
+    },
+    {
+      "text": "Br[Mg]C1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C[C@](C)(CCC=CCOP(=O)(OCC)OCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCCC[C@@](C)(C=C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "SN2':SN2 > 95:5",
+        "er = 91:9"
+      ]
+    },
+    {
+      "text": "[MgH]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)OCC=C(C)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@](C)(CC)c1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "SN2':SN2 > 98:2",
+        "er = 98:2"
+      ]
+    },
+    {
+      "text": "CC[Mg]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "A"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1N1C=[N+]([C@H](CO)C(C)(C)C)CC1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOCC",
+      "type": "catalyst"
+    }
+  ]
+]

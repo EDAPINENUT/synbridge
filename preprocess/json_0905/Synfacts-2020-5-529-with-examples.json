@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(-c2cc(C)ccc2O)c(OC)c1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "OC1CCCCC1[Ar]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "SO"
+      ],
+      "text": "Cc1c[s+]([O-])c2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.7 equiv",
+        "TFAA"
+      ],
+      "text": "O=C(OC(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C to rt",
+      "type": "temperature"
+    }
+  ]
+]

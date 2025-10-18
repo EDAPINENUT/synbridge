@@ -1,0 +1,169 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C=CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)ONC(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1[C@H](C(C)=O)N1C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "er=97.5:2.5",
+        "dr=19:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@@H]1C[N@@H+]2CCC1C[C@@H]2[C@H]([NH3+])c1ccnc2ccc(OC)cc12"
+    },
+    {
+      "relations": [
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)OC(=O)NC(C(=O)[O-])c1ccccc1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)ONC(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@@H]2[C@H]1N2C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "er=99:1",
+        "dr>19:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@@H]1C[N@@H+]2CCC1C[C@@H]2[C@H]([NH3+])c1ccnc2ccc(OC)cc12"
+    },
+    {
+      "relations": [
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)OC(=O)NC(C(=O)[O-])c1ccccc1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H]1CCCC(=O)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)ONC(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]12CCCC(=O)[C@H]1N2C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "er=86.5:13.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@@H]1C[N@@H+]2CCC1C[C@@H]2[C@H]([NH3+])c1ccnc2ccc(OC)cc12"
+    },
+    {
+      "relations": [
+        "catalyst salt T"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)OC(=O)NC(C(=O)[O-])c1ccccc1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])O.[Na+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    }
+  ]
+]

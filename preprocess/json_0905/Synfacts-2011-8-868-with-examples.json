@@ -1,0 +1,495 @@
+[
+  [
+    {
+      "text": "Cc1cccc(C2=Cc3ccccc3S(=O)(=O)N2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc([C@H]2Cc3ccccc3S(=O)(=O)N2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R,R)-WalPhos"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc(-c3ccccc3P(c3ccccc3)c3ccccc3)cc2P(c2ccccc2)c2ccccc2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "28 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C2=Cc3ccccc3S(=O)(=O)N2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C2Cc3ccccc3S(=O)(=O)N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R,R)-WalPhos"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc(-c3ccccc3P(c3ccccc3)c3ccccc3)cc2P(c2ccccc2)c2ccccc2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "28 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=S1(=O)NC(CCc2ccccc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S1(=O)NC(CCc2ccccc2)Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R,R)-WalPhos"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc(-c3ccccc3P(c3ccccc3)c3ccccc3)cc2P(c2ccccc2)c2ccccc2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "28 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CNS(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CC1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R,R)-WalPhos"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc(-c3ccccc3P(c3ccccc3)c3ccccc3)cc2P(c2ccccc2)c2ccccc2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "28 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CNS(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CC1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "(R,R)-WalPhos"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc(-c3ccccc3P(c3ccccc3)c3ccccc3)cc2P(c2ccccc2)c2ccccc2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "28 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C=C1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C2Cc3ccccc3S(=O)(=O)N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "42 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=S1(=O)NC(=CCc2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S1(=O)NC(CCc2ccccc2)Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "42 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=C1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CC1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "42 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=C1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CC1NS(=O)(=O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(S,S)-f-Binaphane"
+      ],
+      "text": "Fc1ccccc1P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1.Fc1ccccc1P1Cc2ccccc2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C([O-]->[Pd+2]<-[O-]C(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "42 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

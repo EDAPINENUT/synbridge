@@ -1,0 +1,93 @@
+[
+  [
+    {
+      "text": "CC(C)(C#Cc1ccccc1)OC1CCCCO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(O)c1c(-c2ccccc2)c1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)C=C(c2ccccc2)C(=O)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "C[Si](C)(C)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "[I-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "Amberlyst-15",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 1"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Stage 2"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Stage 2"
+      ],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

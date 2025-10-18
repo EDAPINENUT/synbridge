@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "OCC=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1C(=O)N(c2ccc(Cl)cc2)N=C1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=P1(O)Oc2ccc3ccccc3c2-c2c(ccc3ccccc23)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC[C@]1(CC=Cc2ccccc2Br)C(=O)N(c2ccc(Cl)cc2)N=C1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "conditions",
+      "text": "Pd(dba)2"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "L"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "PA"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "10\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "N(Cc1ccccc1)(c1ccc2ccccc2c1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1"
+    }
+  ]
+]

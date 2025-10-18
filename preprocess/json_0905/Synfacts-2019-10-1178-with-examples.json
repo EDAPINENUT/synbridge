@@ -1,0 +1,263 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "E/Z = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(C(=O)O)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(=Cc1ccc(OC)cc1)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "E/Z = 32:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "E/Z = 32:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)=Cc1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "E/Z = 24:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)=CCCC(C)CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)=CCC(C)CCC=C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "E/Z = 5:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)=CCCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "E/Z = 5:1",
+        "50 mol% morpholine",
+        "10 mol% DMAP",
+        "1 equiv AcOH"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    }
+  ]
+]

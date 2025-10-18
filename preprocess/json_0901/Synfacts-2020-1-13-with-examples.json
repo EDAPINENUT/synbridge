@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "text": "COc1cc(C=O)cc(N(C=O)CC=Cc2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C=O)c2c(c1)N([Ts])C[C@@H]2Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](N)c1cccc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C(C(=O)O)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ru(p-cymene)Cl2]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "chiral amine",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "acid",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "KH2PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "AgBF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhCI\u2013HFIP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

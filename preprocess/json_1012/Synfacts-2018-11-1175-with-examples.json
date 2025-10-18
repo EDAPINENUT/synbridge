@@ -1,0 +1,348 @@
+[
+  [
+    {
+      "text": "CCCCC1(C)[C@H](C=Cc2ccccc2)[C@H]1CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@](C)(C=C[C@@H](C)c1ccccc1)CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "from (Z) olefin",
+        "dr>95:5"
+      ]
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N->[Pd+2](<-N#CC)(<-[O-]S(=O)(=O)c1ccc(C)cc1)<-[O-]S(=O)(=O)c1ccc(C)cc1"
+    },
+    {
+      "relations": [
+        "ligand",
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(-c2cnco2)nc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "55\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(C)[C@H](C=Cc2ccc(OC)c(OC)c2)[C@H]1CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@](C)(C=C[C@@H](C)c1ccc(OC)c(OC)c1)CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "from (Z) olefin",
+        "dr>95:5"
+      ]
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N->[Pd+2](<-N#CC)(<-[O-]S(=O)(=O)c1ccc(C)cc1)<-[O-]S(=O)(=O)c1ccc(C)cc1"
+    },
+    {
+      "relations": [
+        "ligand",
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(-c2cnco2)nc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "55\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(C)[C@H](C=Cc2ccc3c(c2)CC[C@@H]2[C@@H]3CC[C@]3(C)C(=O)CC[C@@H]23)[C@H]1CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](C=C[C@@](C)(CC=O)CCCC)c1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "from (E) olefin",
+        "dr>95:5",
+        "acyclic stereocenters"
+      ]
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N->[Pd+2](<-N#CC)(<-[O-]S(=O)(=O)c1ccc(C)cc1)<-[O-]S(=O)(=O)c1ccc(C)cc1"
+    },
+    {
+      "relations": [
+        "ligand",
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(-c2cnco2)nc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "55\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(C)[C@H](C=C(CCC)c2ccc(OCc3ccc([N+](=O)[O-])cc3)cc2)[C@H]1CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@](C)(C=C[C@](C)(CCC)c1ccc(OCc2ccc([N+](=O)[O-])cc2)cc1)CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield",
+        "from (E) olefin",
+        "dr>95:5"
+      ]
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N->[Pd+2](<-N#CC)(<-[O-]S(=O)(=O)c1ccc(C)cc1)<-[O-]S(=O)(=O)c1ccc(C)cc1"
+    },
+    {
+      "relations": [
+        "ligand",
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(-c2cnco2)nc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "55\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(C)[C@H](C=Cc2ccc(F)cc2)[C@@]1(C)CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCB(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@H](C=C[C@](C)(CCCC)[C@@H](C)C=O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "from (Z) olefin",
+        "dr=86:14:0:0"
+      ]
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC#N->[Pd+2](<-N#CC)(<-[O-]S(=O)(=O)c1ccc(C)cc1)<-[O-]S(=O)(=O)c1ccc(C)cc1"
+    },
+    {
+      "relations": [
+        "ligand",
+        "9 mol%"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(-c2cnco2)nc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "55\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 \u00c5 MS"
+    }
+  ]
+]

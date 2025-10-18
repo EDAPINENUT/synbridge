@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C=CCC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([Si](C)(C)c2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C[C@@H](CC(C)C)[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Rh(cod)2]OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R)-binap",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "EtaN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane-H\u2082O (10:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

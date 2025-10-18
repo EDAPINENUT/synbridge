@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "text": "C#C[B-]12CN(CC(=O)O1)CC(=O)O2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)N=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "B[C@H]1C(=[N+]=[N-])N(C(C)(C)C)[C@@H]1c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "R1N3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "NMM",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ]
+]

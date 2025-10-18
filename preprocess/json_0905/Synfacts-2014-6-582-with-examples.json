@@ -1,0 +1,37 @@
+[
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=NCc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "nucleophile: EtSiH"
+      ]
+    },
+    {
+      "relations": [
+        "5-10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.8 equiv"
+      ],
+      "text": "C[Si](C)(C)N=[N+]=[N-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

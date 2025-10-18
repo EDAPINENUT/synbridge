@@ -1,0 +1,258 @@
+[
+  [
+    {
+      "text": "C=CCC(=C=C(C)C)CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CC1=C(C2=CCCCC2)C(=O)C(CC(=O)C#Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pd-VAPOL-PA complex",
+        "5 mol%",
+        "VAPOL-PA(X*)"
+      ],
+      "text": "O=P1(O)Oc2c(c(-c3ccccc3)cc3ccc4ccccc4c23)-c2c(-c3ccccc3)cc3ccc4ccccc4c3c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201360 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(=C=C(C)C)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C2=CCCCC2)C(=O)C(CC(=O)C#Cc2ccc(Br)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pd-VAPOL-PA complex",
+        "5 mol%",
+        "VAPOL-PA(X*)"
+      ],
+      "text": "O=P1(O)Oc2c(c(-c3ccccc3)cc3ccc4ccccc4c23)-c2c(-c3ccccc3)cc3ccc4ccccc4c3c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201360 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(=C=C(C)C)CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C1=C(CC(=O)OCC)CC(CC(=O)C#Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "er=91:9"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pd-VAPOL-PA complex",
+        "5 mol%",
+        "VAPOL-PA(X*)"
+      ],
+      "text": "O=P1(O)Oc2c(c(-c3ccccc3)cc3ccc4ccccc4c23)-c2c(-c3ccccc3)cc3ccc4ccccc4c3c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201360 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(=C=C(C)C)CCOS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)OCCC2=C(C3=CCCCC3)C(=O)C(CC(=O)C#Cc3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "er=93.5:6.5"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pd-VAPOL-PA complex",
+        "5 mol%",
+        "VAPOL-PA(X*)"
+      ],
+      "text": "O=P1(O)Oc2c(c(-c3ccccc3)cc3ccc4ccccc4c23)-c2c(-c3ccccc3)cc3ccc4ccccc4c3c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Clc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201360 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

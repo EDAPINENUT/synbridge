@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "text": "C=CCCC(CCC=C)NS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC[C@H]1CC[C@@H](CON2C(C)(C)CCCC2(C)C)N1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "TEMPO",
+        "3 equiv"
+      ],
+      "text": "CC1(C)CCC(C)(C)N1[O]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

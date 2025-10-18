@@ -1,0 +1,281 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1CC(c2ccc([N+](=O)[O-])cc2)C(c2cccc(C)c2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "conditions A",
+        "exo/endo > 98:2",
+        "95% ee",
+        "conditions B",
+        "95% yield",
+        "exo/endo = 11:89",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "(R)-Fesulphos"
+      ],
+      "text": "CC(C)(C)SC1C([Fe]c2ccccc2)=CC=C1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H]1C[C@H](c2ccccn2)[C@@H](c2ccccc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield",
+        "conditions A",
+        ">98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "(R)-Fesulphos"
+      ],
+      "text": "CC(C)(C)SC1C([Fe]c2ccccc2)=CC=C1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1nccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H]1C[C@H](c2nccs2)[C@@H](c2ccccc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "conditions A",
+        ">98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "(R)-Fesulphos"
+      ],
+      "text": "CC(C)(C)SC1C([Fe]c2ccccc2)=CC=C1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(S(C)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H]1C[C@H](c2ccc(S(C)(=O)=O)cc2)[C@H](c2ccccc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "conditions B",
+        "t-BuOK used instead of Et3N",
+        "exo/endo = 17:83",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "(R)-Fesulphos"
+      ],
+      "text": "CC(C)(C)SC1C([Fe]c2ccccc2)=CC=C1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CN=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H]1C[C@H](c2ccncc2)[C@H](c2ccccc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield",
+        "conditions B",
+        "t-BuOK used instead of Et3N",
+        "exo/endo = 23:77",
+        "80% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "(R)-Fesulphos"
+      ],
+      "text": "CC(C)(C)SC1C([Fe]c2ccccc2)=CC=C1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

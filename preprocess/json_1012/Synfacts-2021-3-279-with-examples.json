@@ -1,0 +1,163 @@
+[
+  [
+    {
+      "text": "C=CCc1ccc(OC)c(OCCCC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCOc1cc(CC(CN)N=[N+]=[N-])ccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "1.45 g"
+      ]
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "[N-]=[N+]=[N-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(C)(C)C(=O)O[NH3+].O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C1=Cc2ccccc2C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=N[C@@H]1c2ccccc2C[C@@H]1N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "dr >19:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "[N-]=[N+]=[N-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(C)(C)C(=O)O[NH3+].O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cn(S(=O)(=O)c2ccc(C)cc2)c2cc(Br)ccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2cc(C(CN)N=[N+]=[N-])c3ccc(Br)cc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.05 equiv"
+      ],
+      "text": "[N-]=[N+]=[N-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(C)(C)C(=O)O[NH3+].O=S(=O)([O-])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol",
+      "type": "other conditions"
+    }
+  ]
+]

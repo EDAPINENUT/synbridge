@@ -1,0 +1,170 @@
+[
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "28% yield",
+        "47% conversion",
+        "dr>95:5",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@@H](O)COc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@@H](O)COc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "22% yield",
+        "40% conversion",
+        "dr>95:5",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@H](O)COc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@H](O)COc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "15% yield",
+        "21% conversion",
+        "dr=95:5",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "21% yield",
+        "24% conversion",
+        "dr=95:5",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "20% yield",
+        "35% conversion",
+        "dr=40:60",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@H](O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "31% yield",
+        "94% conversion",
+        "dr=8:92",
+        "er>99.5:0.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "other conditions"
+    }
+  ]
+]

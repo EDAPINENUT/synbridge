@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)OC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCO[C@H](C=O)[C@@H](O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5-1 mol%"
+      ],
+      "text": "HNTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "PhI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5-3h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "R1 = Alk, (Het)Ar, alkynyl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "R2 = Si, Bn, TES, lly, e",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Si = Si(SiMe3)3",
+      "type": "conditions"
+    }
+  ]
+]

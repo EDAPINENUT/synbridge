@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "text": "C#CCOC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C1=C(c2ccsc2)[C@@H]2OCC[C@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "3-5 equiv"
+      ],
+      "type": "reactants",
+      "text": "C1=CCCCCC1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "c1ccc2c(c1)C[C@H]1OC(CC3=N[C@H]4c5ccccc5C[C@H]4O3)=N[C@@H]21"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCCO"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(C)O"
+    }
+  ]
+]

@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "CC(=O)N(C(C)C)S(=O)(=O)c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)NC(=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "fac-Ir(ppy)3"
+      ],
+      "text": "C1=CC2c3ccccc3[I+]3(N=C1)(c1ccccc1-c1cccc[n+]12)c1ccccc1-c1cccc[n+]13",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (456 or 467 nm)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "UV (254 nm)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(C(=O)N(C(C)C)S(=O)(=O)c1ccccc1I)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(C(=O)NC(C)C)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "fac-Ir(ppy)3"
+      ],
+      "text": "C1=CC2c3ccccc3[I+]3(N=C1)(c1ccccc1-c1cccc[n+]12)c1ccccc1-c1cccc[n+]13",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (456 or 467 nm)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "UV (254 nm)",
+      "type": "other conditions"
+    }
+  ]
+]

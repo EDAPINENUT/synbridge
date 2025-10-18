@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "text": "Cc1ccc([N+](=O)[O-])c(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(C)n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2sc(-c3cccc(C)n3)nc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "S1SSSSSSS1",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "120\u2013150\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])c1ccc(Br)cc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccc2sc(-c3ccncc3)nc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "S1SSSSSSS1",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "120\u2013150\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

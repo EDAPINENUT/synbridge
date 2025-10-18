@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "C=CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@](CC(=O)c1ccccc1)(Cc1ccccc1)c1ccncc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.2 mol%",
+        "15 mol%",
+        "1.0 equiv",
+        "1.0 equiv"
+      ],
+      "text": "PC1, C1, HE1, pyridine, DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "15 mol%",
+        "1.0 equiv"
+      ],
+      "text": "PC2, C3, BT, THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "10 mol%",
+        "1.0 equiv"
+      ],
+      "text": "PC2, C2, HE2, THF or CHCl3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "15 mol%",
+        "1.5 equiv"
+      ],
+      "text": "PC1, C4, HE2, 4\u00c5 MS, CH2Cl2/MTBE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-60 to 10 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u201396 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,198 @@
+[
+  [
+    {
+      "text": "COc1ccc(CC=C2C=C3OCOC3=CC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@H]2c3cc4c(cc3OC(=O)[C@@H]2c2ccccc2)OCO4)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr >20:1",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "NHC catalyst",
+        "Mes = 2,4,6-(CH3)3C6H2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccccc4[C@@H]23)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "HATU",
+        "peptide coupling reagent (PCR)"
+      ],
+      "text": "C[N+](C)=C(n1n[n+]([O-])c2ncccc21)[N+](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC=C2C=C3OCOC3=CC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@H]2c3cc4c(cc3OC(=O)[C@H]2c2ccc(F)cc2)OCO4)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr = 15:1",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "NHC catalyst",
+        "Mes = 2,4,6-(CH3)3C6H2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccccc4[C@@H]23)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "HATU",
+        "peptide coupling reagent (PCR)"
+      ],
+      "text": "C[N+](C)=C(n1n[n+]([O-])c2ncccc21)[N+](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC=C2C=C3OCOC3=CC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(CC(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C[C@@H]2c3cc4c(cc3OC(=O)[C@H]2c2ccc(C)cc2)OCO4)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr = 20:1",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "NHC catalyst",
+        "Mes = 2,4,6-(CH3)3C6H2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccccc4[C@@H]23)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "HATU",
+        "peptide coupling reagent (PCR)"
+      ],
+      "text": "C[N+](C)=C(n1n[n+]([O-])c2ncccc21)[N+](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC=C2C=C3OCOC3=CC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H]1C(=O)Oc2cc3c(cc2[C@@H]1Cc1ccc(OC)cc1)OCO3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr >20:1",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "NHC catalyst",
+        "Mes = 2,4,6-(CH3)3C6H2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2Cc4ccccc4[C@@H]23)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "HATU",
+        "peptide coupling reagent (PCR)"
+      ],
+      "text": "C[N+](C)=C(n1n[n+]([O-])c2ncccc21)[N+](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

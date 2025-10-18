@@ -1,0 +1,320 @@
+[
+  [
+    {
+      "text": "COC(=O)[C@H](CC(C)C)NC(=O)[C@@H](C)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=CC(C)C)NC(=O)[C@H](C)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC[C@H](NC(=O)[C@@H](Cc1ccccc1)NC(=O)c1ccccc1C(=O)O)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=C(NC(=O)C(Cc1ccccc1)NC(=O)c1ccccc1C(=O)O)C(=O)OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@@H](C)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=Cc1ccccc1)NC(=O)[C@H](C)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](CC(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)NC(=O)[C@@H](C)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=CC(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)NC(=O)[C@H](C)NC(=O)c1ccccc1C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H]1CCCN1C(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(NC(=O)[C@H](CC(C)C)N1C(=O)c2ccccc2C1=O)C(=O)N1CCC[C@@H]1C(=O)OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@@H]1CCCN1C(=O)C(NC(=O)[C@H](C)NC(=O)[C@@H](C)Nc1ccccc1)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(NC(=O)[C@H](C)Nc1ccccc1)C(=O)NC(C(=O)N1CCC[C@H]1C(=O)OC)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuOCi",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "DABCO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

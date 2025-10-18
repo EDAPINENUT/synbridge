@@ -1,0 +1,221 @@
+[
+  [
+    {
+      "text": "O=C(NC1(O)CC1)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NC1(C(=O)Nc2ccccc2)CC1)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "from aminocyclopropanecarboxylic acid"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir catalyst"
+      ],
+      "type": "catalyst",
+      "text": "*c1ccc(-c2c(F)cc(F)cc2[C@@H]2[C@H]([n+]3cc(C(F)(F)F)ccc3-c3ccc(F)cc3F)[n+]3ccc(C(C)(C)C)cc3-c3cc(C(C)(C)C)cc[n+]32)nc1"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "Phosphine catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)=[P+](C)[O-]"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Fe+2].[I-].[I-]"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])([O-])O.[K+].[K+]"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24\u201360 h"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CO)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(=O)Nc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "from aspartame"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir catalyst"
+      ],
+      "type": "catalyst",
+      "text": "*c1ccc(-c2c(F)cc(F)cc2[C@@H]2[C@H]([n+]3cc(C(F)(F)F)ccc3-c3ccc(F)cc3F)[n+]3ccc(C(C)(C)C)cc3-c3cc(C(C)(C)C)cc[n+]32)nc1"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "Phosphine catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)=[P+](C)[O-]"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Fe+2].[I-].[I-]"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])([O-])O.[K+].[K+]"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24\u201360 h"
+    }
+  ],
+  [
+    {
+      "text": "C[C@H](NC(=O)OC(C)(C)C)C(=O)NCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)OC(C)(C)C)C(=O)NCC(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "from L-alanylglycine"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir catalyst"
+      ],
+      "type": "catalyst",
+      "text": "*c1ccc(-c2c(F)cc(F)cc2[C@@H]2[C@H]([n+]3cc(C(F)(F)F)ccc3-c3ccc(F)cc3F)[n+]3ccc(C(C)(C)C)cc3-c3cc(C(C)(C)C)cc[n+]32)nc1"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "Phosphine catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)=[P+](C)[O-]"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Fe+2].[I-].[I-]"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=P([O-])([O-])O.[K+].[K+]"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24\u201360 h"
+    }
+  ]
+]

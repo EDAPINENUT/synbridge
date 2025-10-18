@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "COC(=O)C(=Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)OC(C)(C)C)C(B1OC(C)(C)C(C)(C)O1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "syn: 54% yield",
+        "anti: 46% yield",
+        "syn: 97% ee",
+        "anti: 96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "(S,Sp)-ip-FOXAP"
+      ],
+      "text": "CC(C)[C@H]1COC(c2cccc(P(c3ccccc3)c3ccccc3)c2[Fe]c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1\u201324 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1ccccc1Br)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)OC(C)(C)C)C(B1OC(C)(C)C(C)(C)O1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "syn: 42% yield",
+        "anti: 51% yield",
+        "syn: 98% ee",
+        "anti: 96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "(S,Sp)-ip-FOXAP"
+      ],
+      "text": "CC(C)[C@H]1COC(c2cccc(P(c3ccccc3)c3ccccc3)c2[Fe]c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1\u201324 h",
+      "type": "time"
+    }
+  ]
+]

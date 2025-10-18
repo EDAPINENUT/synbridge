@@ -1,0 +1,248 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@@H](C(=O)O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "syn/anti=10:1",
+        "conditions A"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "ligand"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](CC(C)C)C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS[C@@H](C(=O)O)[C@@H](O)CCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "syn/anti=1:1.3",
+        "conditions B"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "ligand"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](CC(C)C)C(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@@H](C(=O)O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "syn/anti=10:1",
+        "conditions A"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "ligand",
+        "L1"
+      ],
+      "text": "COc1c(F)c(F)c(S(=O)(=O)N[C@H](C(=O)O)C(C)C)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CS[C@@H](C(=O)O)[C@@H](O)CCCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "syn/anti=1:1.3",
+        "conditions B"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "ligand",
+        "L1"
+      ],
+      "text": "COc1c(F)c(F)c(S(=O)(=O)N[C@H](C(=O)O)C(C)C)c(F)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

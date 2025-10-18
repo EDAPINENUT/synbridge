@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "C(=NCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1[C@@H](c2ccccc2)[C@H](c2ccccc2)N1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield (R=2-Me)",
+        "67% yield (R=2-F)",
+        "65% yield (R=3-Cl)",
+        "71% yield (R=4-OMe)",
+        "74% yield (R=4-CF3)",
+        "66% yield (R=4-Cl)",
+        "60% yield (R=4-Me)"
+      ]
+    },
+    {
+      "relations": [
+        "30 atm"
+      ],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Pd+2]([Cl-])([Cl-])(N#CC)(N#CC)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Xantphos"
+      ],
+      "text": "CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)OOC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 equiv",
+        "PMP"
+      ],
+      "text": "CN1C(C)(C)CCCC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "140\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "10 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "text": "O=C(OCc1ccccc1)N1CCC(C=CCCl)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](F)C1CCN(C(=O)OCc2ccccc2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12)c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd2dbaa",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R,R)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "AgF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(OCc1ccccc1)N1CCC(C=CCCl)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12)c1c(P(c2ccccc2)c2ccccc2)ccc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](F)C1CCN(C(=O)OCc2ccccc2)CC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd2dbaa",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(R,R)-L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "AgF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "conditions"
+    }
+  ]
+]

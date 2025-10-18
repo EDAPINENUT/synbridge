@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "text": "O=C(c1ccccc1)C12C3C1C32",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(CC)C1(c2ccccc2)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)COC2CC(C(=O)c3ccccc3)(C1)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "dppb"
+      ],
+      "text": "c1ccc(P(CCCCP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

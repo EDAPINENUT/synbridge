@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "text": "C[C@H](C=O)NC(=O)[C@H]1CCCN2C(=O)CN[C@]2(C)C(=O)N[C@H](Cc2ccccc2)C(=O)N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1N[C@H]2[C@H](C)NC(=O)[C@@H]3CCCN3C(=O)CNC(=O)[C@H](Cc3ccccc3)N2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "7.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)c1ccncc1"
+    },
+    {
+      "relations": [
+        "1:1",
+        "5 mM"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)C=O.O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "8\u201316 h"
+    }
+  ]
+]

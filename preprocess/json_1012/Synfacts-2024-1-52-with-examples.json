@@ -1,0 +1,79 @@
+[
+  [
+    {
+      "text": "CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCc1ccc(C(C)C(=O)OCCCCCC2CCOCC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc(C(C)C(=O)OCCCCCC2CCOCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield",
+        "from ibuprofen"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "no external ligand"
+    },
+    {
+      "relations": [
+        "CCE"
+      ],
+      "type": "other conditions",
+      "text": "5 mA"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Ni (+)"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Fe (-)"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "undivided cell"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ]
+]

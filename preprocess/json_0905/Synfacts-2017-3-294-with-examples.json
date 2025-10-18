@@ -1,0 +1,214 @@
+[
+  [
+    {
+      "text": "C(#Cc1cccs1)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON(Cc1ccccc1)Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C(=C(c1cccs1)N(Cc1ccccc1)Cc1ccccc1)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "text": "c1ccc(CN(Cc2ccccc2)C(Cc2cccs2)c2cccs2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "Cl[Ni](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CC(C)C[AlH]CC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "22\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0.5-12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O[BH-](OC(C)=O)OC(C)=O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "22\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(OC(=O)c1ccccc1)C(Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CN(Cc1ccccc1)C(Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield"
+      ]
+    },
+    {
+      "text": "CN(Cc1ccccc1)C(Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "Cl[Ni](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "CC(C)C[AlH]CC(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "22\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0.5-12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "4.0 equiv",
+        "stage2"
+      ],
+      "text": "CC(=O)O[BH-](OC(C)=O)OC(C)=O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "22\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

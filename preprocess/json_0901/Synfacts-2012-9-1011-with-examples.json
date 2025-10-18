@@ -1,0 +1,474 @@
+[
+  [
+    {
+      "text": "C#CCN(C(C=O)CC(C)C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCN(C(CC(C)C)C(O)c1ccccc1OC)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1[C@H]1OC(C)=CN(S(=O)(=O)c2ccc(C)cc2)[C@H]1CC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "R2Mg\u00d7",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5-28\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(C(C=O)Cc1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCN(C(Cc1ccccc1)C(O)c1ccccc1OC)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1[C@H]1OC(C)=CN(S(=O)(=O)c2ccc(C)cc2)[C@H]1Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "R2Mg\u00d7",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5-28\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(C(C)C=O)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCN(C(C)C(O)c1ccc(OC)cc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@H]2OC(C)=CN(S(=O)(=O)c3ccc(C)cc3)[C@H]2C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "R2Mg\u00d7",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5-28\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(C(C=O)CC(C)C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCN(C(CC(C)C)C(O)c1ccc(OC)cc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@@H]2OC(C)=CN(S(=O)(=O)c3ccc(C)cc3)[C@@H]2CC(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 1"
+      ],
+      "text": "R2Mg\u00d7",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5-28\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCC(O)c1ccccc1OC)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@H]1OC(C)=CN(S(=O)(=O)c2ccc(C)cc2)[C@H]1CC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCC(O)c1ccc(OC)cc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2OC(C)=CN(S(=O)(=O)c3ccc(C)cc3)[C@H]2C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCC(O)c1ccc(OC)cc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H]2OC(C)=CN(S(=O)(=O)c3ccc(C)cc3)[C@@H]2CC(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCCO)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=CN(S(=O)(=O)c2ccc(C)cc2)CCCO1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCC(O)c1ccccc1OC)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C1CCN(S(=O)(=O)c2ccc(C)cc2)C=C(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CCC(O)CC=C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1CCN(S(=O)(=O)c2ccc(C)cc2)C=C(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "NaH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "no solvent",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 min",
+      "type": "conditions"
+    }
+  ]
+]

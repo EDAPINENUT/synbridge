@@ -1,0 +1,111 @@
+[
+  [
+    {
+      "text": "C=C(OC(C)=O)c1cc(C)sc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)CCCBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(CCCC(=O)OCC)c1cc(C)sc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "COCCOCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "5,5'-dmbpy"
+      ],
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.34 M"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(OC(C)=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)CCCBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(CCCC(C)=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "30\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "COCCOCCOC.[Br-].[Br-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "5,5'-dmbpy"
+      ],
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.34 M"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

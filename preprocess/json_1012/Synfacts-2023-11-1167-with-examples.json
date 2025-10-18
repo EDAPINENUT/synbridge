@@ -1,0 +1,756 @@
+[
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1cccc(C(F)(F)F)c1)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccccc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1OC)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccc2ccccc2c1)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1)CC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1cccc(F)c1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1cccc(F)c1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccc(C(C)(C)C)cc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccc(C(C)(C)C)cc1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(=O)OC(C)(C)C)c1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1N)CC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1OC(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1OC(=O)Nc2ccc(F)cc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1cccc(F)c1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1OC(=O)Nc2cc(C(C)(C)C)ccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccc(C(C)(C)C)cc1N)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1OC(=O)Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(N)CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](N)(CC=Cc1ccccc1N)CC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)N(C)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "picolinealdehyde",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

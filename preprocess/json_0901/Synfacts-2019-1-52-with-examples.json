@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "CC(=O)c1cccc(OCc2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)c1ccc(C(C)=O)cc1OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(PPh)\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "KOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "AgF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "PhgP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "n-hexane or 4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "140\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "conditions"
+    }
+  ]
+]

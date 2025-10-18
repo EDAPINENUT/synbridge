@@ -1,0 +1,594 @@
+[
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H](CO)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cc(Cl)cc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1cc(Cl)cc(Cl)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1cccs1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cn(S(=O)(=O)c2ccccc2)c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H](CO)c1cn(S(=O)(=O)c2ccccc2)c2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C=Cc1ccccc1)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@H](C=Cc1ccccc1)CO",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(CC(C)C)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C[C@@H](CO)CC(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "(CH2O)n",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "3PO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "2-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "NMO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MW",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "conditions"
+    }
+  ]
+]

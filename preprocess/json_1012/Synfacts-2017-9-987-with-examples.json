@@ -1,0 +1,373 @@
+[
+  [
+    {
+      "text": "CCCCCC(O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC[C@H](N)CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% conversion",
+        "er=98.5:1.5",
+        "ATA-033"
+      ]
+    },
+    {
+      "text": "CCCCCC(=O)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "AZADO",
+        "stage1"
+      ],
+      "text": "[O-]N1C2CC3CC(C2)CC1C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0\u20131.4 equiv",
+        "aqueous",
+        "stage1"
+      ],
+      "text": "[Na+].[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u03c9-transaminase ((R)- or (S)-selective)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "PLP",
+        "stage2"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CC(C)N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "stage2"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OC1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H]1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        ">99% conversion",
+        "dr=86:14",
+        "er=>99.5:0.5",
+        "0.15 mmol scale",
+        "ATA-303"
+      ]
+    },
+    {
+      "text": "O=C1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "AZADO",
+        "stage1"
+      ],
+      "text": "[O-]N1C2CC3CC(C2)CC1C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0\u20131.4 equiv",
+        "aqueous",
+        "stage1"
+      ],
+      "text": "[Na+].[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u03c9-transaminase ((R)- or (S)-selective)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "PLP",
+        "stage2"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CC(C)N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "stage2"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OC1CCC[C@@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H]1CCC[C@@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "dr=73:27",
+        "er=>99.5:0.5",
+        "ArS"
+      ]
+    },
+    {
+      "text": "O=C1CCC[C@@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "AZADO",
+        "stage1"
+      ],
+      "text": "[O-]N1C2CC3CC(C2)CC1C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0\u20131.4 equiv",
+        "aqueous",
+        "stage1"
+      ],
+      "text": "[Na+].[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u03c9-transaminase ((R)- or (S)-selective)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "PLP",
+        "stage2"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CC(C)N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "stage2"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OC1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H]1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        ">99% conversion",
+        "dr=95:5",
+        "er=>99.5:0.5",
+        "0.15 mmol scale",
+        "ATA-P2-A01"
+      ]
+    },
+    {
+      "text": "O=C1CCC[C@H]1OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "AZADO",
+        "stage1"
+      ],
+      "text": "[O-]N1C2CC3CC(C2)CC1C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0\u20131.4 equiv",
+        "aqueous",
+        "stage1"
+      ],
+      "text": "[Na+].[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "\u03c9-transaminase ((R)- or (S)-selective)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "PLP",
+        "stage2"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CC(C)N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "stage2"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

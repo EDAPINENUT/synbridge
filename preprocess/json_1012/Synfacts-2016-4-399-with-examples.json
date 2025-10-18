@@ -1,0 +1,87 @@
+[
+  [
+    {
+      "text": "C#CC1(OCC=C)CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)O[Si](C)(C)C[C@H]1CO[C@@H]2CCC[C@H]2C1=CB1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr > 10:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1(C)OB([Si](C)(C)Cl)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd-PEPPSI-iPr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[CH3-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

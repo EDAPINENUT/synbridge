@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "text": "N[C@@H](C#Cc1ccccc1)[C@](O)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr = 7:1 to >20:1",
+        "er = 92.5:7.5 to 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "pKa ~ 42.6"
+      ],
+      "text": "NCC#C[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "O=CC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S)-pyridoxal",
+        "novel bifunctional chiral pyridoxal catalyst"
+      ],
+      "text": "Cc1ncc(O)c(C=O)c1-c1c(C(=O)NC(CO)CO)ccc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15:1 with H2O"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N[C@@H](C#Cc1ccc2c(c1)OCO2)[C@](O)(CCc1cccc2ccccc12)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr > 20:1",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "pKa ~ 42.6"
+      ],
+      "text": "NCC#C[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "O=CC(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S)-pyridoxal",
+        "novel bifunctional chiral pyridoxal catalyst"
+      ],
+      "text": "Cc1ncc(O)c(C=O)c1-c1c(C(=O)NC(CO)CO)ccc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15:1 with H2O"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ]
+]

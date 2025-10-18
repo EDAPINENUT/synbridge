@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "text": "C=CCN(CC#Cc1cccs1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC(=C(C(=O)c3ccccc3)c3cccs3)[C@H](C)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Co+2]"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C[C@H](C[C@H](C)P(c1ccccc1)c1ccccc1)P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(CC#Cc1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccoc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC(=C(C(=O)c3ccoc3)c3ccccc3)[C@H](C)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Co+2]"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C[C@H](C[C@H](C)P(c1ccccc1)c1ccccc1)P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

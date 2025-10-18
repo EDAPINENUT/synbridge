@@ -1,0 +1,239 @@
+[
+  [
+    {
+      "text": "Cc1ccc(OP(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCCCC#CBr)[C@H](Cc1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(OP(=O)(C#CCCCOC(=O)[C@H](Cc2ccccc2)N2C(=O)c3ccccc3C2=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield",
+        "dr=9:1",
+        "L-phenylalanine derivative"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "(S,S)-Et-DuPhos"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@@H]1CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "72 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "S1SSSSSSS1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[BH3-][S+](C)C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=P(=S)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "S=[PH](C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=H: 76% yield",
+        "R=H: 86% ee",
+        "R=2-OMe: 73% yield",
+        "R=2-OMe: 76% ee",
+        "R=4-OMe: 78% yield",
+        "R=4-OMe: 76% ee",
+        "R=4-t-Bu: 73% yield",
+        "R=4-t-Bu: 90% ee",
+        "R=4-CF3: 63% yield",
+        "R=4-CF3: 84% ee",
+        "R=3-F: 70% yield",
+        "R=3-F: 82% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "(S,S)-Et-DuPhos"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@@H]1CC[C@@H](CC)P1c1ccccc1P1[C@H](CC)CC[C@@H]1CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "70\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "15 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "Cc1cc(C)cc(C)c1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "72 h"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "S1SSSSSSS1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[BH3-][S+](C)C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "text": "Clc1cccc(NC2Cc3ccccc32)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc2c1[C@H](Nc1cccc(Cl)c1)[C@](Cc1ccccc1)(C(=O)c1ccccc1)CC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "P"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "7 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(NC2Cc3ccccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(N[C@H]2c3c(cccc3OC)CC[C@]2(Cc2ccccc2)C(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "P"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "7 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)c1ccc(NC2Cc3ccccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@]1(Cc2ccccc2)CCc2ccccc2[C@@H]1Nc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "P"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "7 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

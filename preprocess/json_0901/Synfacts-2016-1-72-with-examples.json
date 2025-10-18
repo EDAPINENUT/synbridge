@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "text": "COC1CC(C(C)(C)C)O[Si](C(C)C)(C(C)C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(CC(O[Si](C)(C)C(C)(C)C)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(CC(c1ccccc1)C(C)(C)C)O[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "THF-HMPA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 equiv"
+      ],
+      "text": "Mel",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC1CC(C(C)(C)C)O[Si](C(C)C)(C(C)C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(C)CC(O[Si](C)(C)C(C)C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(CC(C)C(C)(C)C)O[Si](C)(C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "MeLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "text": "THF-HMPA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.5 equiv"
+      ],
+      "text": "Mel",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    }
+  ]
+]

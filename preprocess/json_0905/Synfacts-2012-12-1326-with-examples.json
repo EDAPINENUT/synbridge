@@ -1,0 +1,167 @@
+[
+  [
+    {
+      "text": "COC(=O)C(CCCOC(C)=O)(C(=O)OC)C1C=CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(C(=O)OC)C[C@H](COC(C)=O)C2CCCCC21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr = 94:6",
+        "no cyclohexene",
+        "2a"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C[Pd]1(Cl)N2C=CC=c3ccc4c(c32)N1C=CC=4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "C1=CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=[Pt]=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCC1(C2C=CCCC2)C(=O)OC(C)(C)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H]1CC2(C(=O)OC(C)(C)OC2=O)C2CCCCC21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "dr = 92:8",
+        "2b"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C[Pd]1(Cl)N2C=CC=c3ccc4c(c32)N1C=CC=4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "C1=CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=[Pt]=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

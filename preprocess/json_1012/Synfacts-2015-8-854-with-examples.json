@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "O=Cc1cccc(C(F)(F)F)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC(O)c2ccc(C(F)(F)F)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC1(C)OBOC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "Cl[Pd](Cl)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "text": "NN.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

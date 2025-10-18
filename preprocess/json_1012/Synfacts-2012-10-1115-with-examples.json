@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "text": "C=CCCCC(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]12CCC[C@H]1[C@H](c1ccccc1)OC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr = 7.4:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-]->[Mn+3](<-[O-]C(C)=O)<-[O-]C(C)=O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCCC(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]12CCC[C@H]1[C@H](c1cccc(OC)c1)OC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr = 6.0:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-]->[Mn+3](<-[O-]C(C)=O)<-[O-]C(C)=O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(CCCC=Cc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@@]12CCC[C@@]1(C(=O)OC)C(=O)O[C@@H]2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr = 11.9:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-]->[Mn+3](<-[O-]C(C)=O)<-[O-]C(C)=O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCC(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]12CCC[C@]1(C)C(C)(C)OC2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-]->[Mn+3](<-[O-]C(C)=O)<-[O-]C(C)=O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    }
+  ]
+]

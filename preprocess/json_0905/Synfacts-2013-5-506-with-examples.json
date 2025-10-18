@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "text": "O=C1CC(=Cc2ccccc2)C(=O)N1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@H](Cc2ccccc2)C(=O)N1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(aS)-Ir/i-PrBiphPHOX",
+        "1 mol%"
+      ],
+      "text": "C[C@H]1CO[C@@H](c2ccccc2)[C@@H]1c1ccccc1[P](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCN1C(=O)CC(=Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCN1C(=O)C[C@H](Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(aS)-Ir/i-PrBiphPHOX",
+        "1 mol%"
+      ],
+      "text": "C[C@H]1CO[C@@H](c2ccccc2)[C@@H]1c1ccccc1[P](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC(=Cc2ccccc2Cl)C(=O)N1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@H](Cc2ccccc2Cl)C(=O)N1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "82% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(aS)-Ir/i-PrBiphPHOX",
+        "1 mol%"
+      ],
+      "text": "C[C@H]1CO[C@@H](c2ccccc2)[C@@H]1c1ccccc1[P](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC(=Cc2cccc3ccccc23)C(=O)N1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C[C@H](Cc2cccc3ccccc23)C(=O)N1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "79% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(aS)-Ir/i-PrBiphPHOX",
+        "1 mol%"
+      ],
+      "text": "C[C@H]1CO[C@@H](c2ccccc2)[C@@H]1c1ccccc1[P](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "20 bar"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,466 @@
+[
+  [
+    {
+      "text": "Cc1ccc(C(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)c1ccc(C(=O)c2ccc(C)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(C)c1cccc(C(=O)c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)c1ccc(C(=O)c2cccc(C(C)C(=O)OC)c2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1cc(Cl)ccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)c1cc(Cl)c(C=O)cc1Cl",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC)c(C=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)c1cc(OC)c(C=O)cc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC)c(C=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N1CCOCC1)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C(F)(F)C(=O)N2CCOCC2)c(OC)cc1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC)c(C=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)c1cc(OC)c(C=O)cc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N1CCOCC1)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(C(F)(F)C(=O)N2CCOCC2)c(Cl)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(Cl)cc1C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N1CCCC1)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C(F)(F)C(=O)N2CCCC2)c(Cl)cc1C=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "phen",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NaOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 W blue LEDs",
+      "type": "conditions"
+    }
+  ]
+]

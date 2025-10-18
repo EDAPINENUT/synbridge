@@ -1,0 +1,97 @@
+[
+  [
+    {
+      "text": "C1=C(c2ccccc2)CC(c2ccccc2)=Nc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=C(c2ccccc2)CC(c2ccccc2)Nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "M*-1 = 87% ee (-)",
+        "M*-2 = 80% ee (+)"
+      ]
+    },
+    {
+      "relations": [
+        "M*-1 (X = Ph2PO4)",
+        "M*-2 (X = BArF)"
+      ],
+      "text": "CN1[C@H](c2ccccc2)N(C)[C@H](c2ccccc2)N(C)[C@H]1c1ccccc1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C2=Cc3ccccc3N=C(c3ccc(OC)cc3)C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C2=Cc3ccccc3NC(c3ccc(OC)cc3)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "M*-2 = 84% ee"
+      ]
+    },
+    {
+      "relations": [
+        "M*-1 (X = Ph2PO4)",
+        "M*-2 (X = BArF)"
+      ],
+      "text": "CN1[C@H](c2ccccc2)N(C)[C@H](c2ccccc2)N(C)[C@H]1c1ccccc1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Brc1ccc(C2=Cc3ccccc3N=C(c3ccc(Br)cc3)C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccc(C2=Cc3ccccc3NC(c3ccc(Br)cc3)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "M*-1 = 88% ee (-)",
+        "M*-2 = 80% ee (+)"
+      ]
+    },
+    {
+      "relations": [
+        "M*-1 (X = Ph2PO4)",
+        "M*-2 (X = BArF)"
+      ],
+      "text": "CN1[C@H](c2ccccc2)N(C)[C@H](c2ccccc2)N(C)[C@H]1c1ccccc1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C2=Cc3ccccc3N=C(c3cccc(C)c3)C2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(C2=Cc3ccccc3NC(c3cccc(C)c3)C2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "M*-1 = 93% ee (-)",
+        "M*-2 = 86% ee (+)"
+      ]
+    },
+    {
+      "relations": [
+        "M*-1 (X = Ph2PO4)",
+        "M*-2 (X = BArF)"
+      ],
+      "text": "CN1[C@H](c2ccccc2)N(C)[C@H](c2ccccc2)N(C)[C@H]1c1ccccc1",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "text": "CC(C)Cc1ccc(C(C)C(=O)C23CC2C3)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc(C(C)C(=O)C23CC(CC2C#N)C3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=1:1",
+        "from ibuprofen"
+      ]
+    },
+    {
+      "relations": [
+        "5.0-25 mol%"
+      ],
+      "text": "[Sm+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CCc1ccccc1)C12CC1C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)O[C@H]1C[C@@H](C)CC[C@@H]1C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1CC[C@H](C)C[C@@H]1OC(=O)C1CC2CC1(C(=O)CCc1ccccc1)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "dr=1:1",
+        "from menthol"
+      ]
+    },
+    {
+      "relations": [
+        "5.0-25 mol%"
+      ],
+      "text": "[Sm+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-10\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "COc1cccc(C=CC(=O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@@H](CC=O)C[N+](=O)[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.08-0.5 mol%"
+      ],
+      "text": "DERA-MA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10-20 mM"
+      ],
+      "text": "HEPES",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "NaCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3% v/v"
+      ],
+      "text": "DMSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 6.5",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "29\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC[C@@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.08-0.5 mol%"
+      ],
+      "text": "DERA-MA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10-20 mM"
+      ],
+      "text": "HEPES",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "NaCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3% v/v"
+      ],
+      "text": "DMSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 6.5",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "29\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

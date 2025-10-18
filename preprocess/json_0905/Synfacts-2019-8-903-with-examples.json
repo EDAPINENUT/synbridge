@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "CC(C)(C=O)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C=NN)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "NN.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "alkyl-X",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cl[Ni]Cl.c1ccncc1.c1ccncc1.c1ccncc1.c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

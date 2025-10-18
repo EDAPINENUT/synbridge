@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "COc1ccc(CN=Cc2cn(Cc3ccccc3)c3ccccc23)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccc(F)cc1)c1c(C=O)c2ccccc2n1Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(C23CC4CC(CC(C4)C2)C3)cc1[N+]1=C[NH+](c2cc(C34CC5CC(CC(C5)C3)C4)ccc2C)[C@@H](c2ccccc2)[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Fe(acac)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CyMgCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "TMEDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CN=Cc2cn(Cc3ccccc3)c3ccccc23)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccc2c(c1)OCO2)c1c(C=O)c2ccccc2n1Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(C23CC4CC(CC(C4)C2)C3)cc1[N+]1=C[NH+](c2cc(C34CC5CC(CC(C5)C3)C4)ccc2C)[C@@H](c2ccccc2)[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Fe(acac)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CyMgCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "TMEDA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ]
+]

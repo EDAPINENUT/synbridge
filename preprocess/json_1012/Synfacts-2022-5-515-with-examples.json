@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "Cc1ncsc1C(=O)OCCCC(Br)P(=O)(OC(C)C)OC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ncsc1C(=O)OCCC[C@H](c1ccc(C(F)(F)F)cc1)P(=O)(OC(C)C)OC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NiBr2DME"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CC[C@@H](C)[C@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "*N1C2C(=CC=CC=2)C2C1=CC=CC=2<sep><a>0:<dum></a>",
+        "C(#N)c1c(C#N)c(C#N)c(C#N)c(C#N)c1C#N"
+      ],
+      "text": "4CzIPN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)C(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#Cc1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](CCc1ccccc1)c1ccc(C#C[Si](C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "NiBr2DME"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "text": "CC[C@@H](C)[C@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "*N1C2C(=CC=CC=2)C2C1=CC=CC=2<sep><a>0:<dum></a>",
+        "C(#N)c1c(C#N)c(C#N)c(C#N)c(C#N)c1C#N"
+      ],
+      "text": "4CzIPN",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

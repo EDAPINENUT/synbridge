@@ -1,0 +1,263 @@
+[
+  [
+    {
+      "text": "COC(=O)C1OCCN1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C=CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC(C(=O)OC)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Acr-Mes]+BF4"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.F[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "405 nm"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "18 W LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCOC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C=CC(C#N)C#N)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(CC(c1ccccc1)C(C#N)C#N)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Acr-Mes]+BF4"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.F[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "405 nm"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "18 W LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCOC1c1cnccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN(C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(CCCc1cnccn1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Acr-Mes]+BF4"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.F[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "405 nm"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "18 W LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(CC12CC3CC(CC(C3)C1)C2)C(=O)OC1OCCN1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)C(C)CC12CC3CC(CC(C3)C1)C2",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Acr-Mes]+BF4"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.F[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "405 nm"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "18 W LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCOC1CS(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1COC(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OCC(CCS(=O)(=O)c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Acr-Mes]+BF4"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.F[B-](F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "405 nm"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "18 W LED"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "air"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

@@ -1,0 +1,501 @@
+[
+  [
+    {
+      "text": "COC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "69% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1C2CCC(C2)C1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCC1C2CCC(C2)C1(C)C)NC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CS(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCCS(=O)(=O)c1ccccc1)NC(=O)[C@H](C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)CNC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)CNC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@H](NC(C)=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@@H](NC(C)=O)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](Cc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@H](Cc1ccccc1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](CCSC)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@H](CCSC)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](CO)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@H](CO)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@H](CSCCc1ccccc1I)NC(=O)[C@@H](CS)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](CCCC[Si](C)(C)C)NC(=O)[C@H](CS)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "DMSO solvent",
+        "12 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCCN(CCCC)CCCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "18 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4.5 W 465 nm LED"
+    }
+  ]
+]

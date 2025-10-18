@@ -1,0 +1,88 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "text": "CC12CNC(=O)C(C)(C1)CC(C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mM"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "420 nm"
+      ],
+      "text": "hv",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "100% yield",
+        "er=96.5:3.5"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "catalyst"
+      ],
+      "text": "CC12CNC(=O)C(C)(C1)CC(C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mM"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "420 nm"
+      ],
+      "text": "hv",
+      "type": "other conditions"
+    }
+  ]
+]

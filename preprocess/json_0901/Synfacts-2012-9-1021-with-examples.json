@@ -1,0 +1,207 @@
+[
+  [
+    {
+      "text": "CCC=CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(Br)=CC(Br)(Br)C=C1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NCc1ccc2ccccc2c1-c1c(O)c(-c2ccccc2)cc2ccccc12)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC[C@H](Br)[C@H]1CCC(=O)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1.2"
+      ],
+      "text": "CH2Cl2-PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "A",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)CCC=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(Br)=CC(Br)(Br)C=C1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NCc1ccc2ccccc2c1-c1c(O)c(-c2ccccc2)cc2ccccc12)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1CC[C@@H]([C@@H](Br)C2CCCCC2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1.2"
+      ],
+      "text": "CH2Cl2-PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "A",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(Br)=CC(Br)(Br)C=C1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NCc1ccc2ccccc2c1-c1c(O)c(-c2ccccc2)cc2ccccc12)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#Cc1ccc([C@@]2(CBr)CCC(=O)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1.2"
+      ],
+      "text": "CH2Cl2-PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "A",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)CCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(Br)=CC(Br)(Br)C=C1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NCc1ccc2ccccc2c1-c1c(O)c(-c2ccccc2)cc2ccccc12)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1CC[C@@H](Br)[C@H](c2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:1.2"
+      ],
+      "text": "CH2Cl2-PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)CCC=Cc1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C(Br)=CC(Br)(Br)C=C1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=NCc1ccc2ccccc2c1-c1c(O)c(-c2ccccc2)cc2ccccc12)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1CC[C@@H](Br)[C@H](c2cccs2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1:1.2"
+      ],
+      "text": "CH2Cl2-PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

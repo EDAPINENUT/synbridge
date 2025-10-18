@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "text": "CC(=O)[C@]12C[C@H]1C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(C)c2ccccc2[nH]c1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)[C@]12C[C@H](C1)[C@@]1(C=O)C(=O)Nc3ccc(C(C)C)cc3[C@@H]21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "template 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "366 nm"
+      ],
+      "text": "hv",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:1",
+        "0.01M"
+      ],
+      "text": "HFX/TFT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-65\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2-24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)[C@]12C[C@H]1C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(C)c2ccccc2[nH]c1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)[C@]12C[C@H](C1)[C@]1(C)C(=O)Nc3ccccc3N21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "template 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "366 nm"
+      ],
+      "text": "hv",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:1",
+        "0.01M"
+      ],
+      "text": "HFX/TFT",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-65\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2-24 h",
+      "type": "conditions"
+    }
+  ]
+]

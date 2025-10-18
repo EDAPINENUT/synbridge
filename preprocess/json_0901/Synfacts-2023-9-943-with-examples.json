@@ -1,0 +1,870 @@
+[
+  [
+    {
+      "text": "O=C(N[C@H](Cc1ccccc1)C(=O)O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H](Cc1ccccc1)NC(=O)OCc1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1N[C@H](Cc2ccccc2)C(=O)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](NC(=O)OCc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1ccccc1)NC(=O)[C@H](Cc1ccc(OC(C)(C)C)cc1)NC(=O)[C@H](C)NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)Oc1ccc(C[C@H]2NC(=O)OC2=O)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](NC(=O)OCc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(=O)OC(C)(C)C)NC(=O)[C@H](C)NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)C[C@H]1NC(=O)OC1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](NC(=O)OCc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](NC(=O)OCc1ccccc1)C(=O)N[C@H](SCc1ccccc1)C(=O)N[C@@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1N[C@H](SCc2ccccc2)C(=O)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1N[C@H](Cc2ccccc2)C(=O)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(OCc1ccccc1)[C@@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(OCc1ccccc1)[C@H](NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N[C@@H](C)C(=O)N[C@@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H]1NC(=O)OC1=O",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N[C@H](Cc1ccccc1)C(=O)O)OCC1c2ccccc2-c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1ccccc1)N(C)C(=O)[C@@H](Cc1ccccc1)NC(=O)[C@@H](Cc1ccccc1)NC(=O)OCC1c2ccccc2-c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C1N[C@H](Cc2ccccc2)C(=O)O1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "SOCl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "\u03b1x-NCA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0.5 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "NMI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H-AA-OPG2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH\u2082Cl\u2082",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "10 s",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "flow conditions",
+      "type": "conditions"
+    }
+  ]
+]

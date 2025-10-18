@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CCCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "selectivity = 1:3"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[N-](C)->[Zn+2](<-[N-](C)C)(<-[N-](C)C)<-[N-](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccnc(CNC(=O)Cn2c(C)cnc(NCC(F)(F)c3ccccn3)c2=O)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-240 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CCC1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "selectivity = 3:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[N-](C)->[Zn+2](<-[N-](C)C)(<-[N-](C)C)<-[N-](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccnc(CNC(=O)Cn2c(C)cnc(NCC(F)(F)c3ccccn3)c2=O)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-240 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1CC[C@H](N)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "selectivity = 17:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[N-](C)->[Zn+2](<-[N-](C)C)(<-[N-](C)C)<-[N-](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccnc(CNC(=O)Cn2c(C)cnc(NCC(F)(F)c3ccccn3)c2=O)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-240 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)CCC(N)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "selectivity = 99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[N-](C)->[Zn+2](<-[N-](C)C)(<-[N-](C)C)<-[N-](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccnc(CNC(=O)Cn2c(C)cnc(NCC(F)(F)c3ccccn3)c2=O)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-240 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)NCc1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)CC[C@@H](N)c1cccnc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "selectivity = 99:1",
+        "selectivity definition: ratio between drawn product and all side products (branched and diastereoisomeric)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C[N-](C)->[Zn+2](<-[N-](C)C)(<-[N-](C)C)<-[N-](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccnc(CNC(=O)Cn2c(C)cnc(NCC(F)(F)c3ccccn3)c2=O)c1F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "145\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-240 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "text": "C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)C(=C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC(C#N)C(C(=O)C1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir complex"
+      ],
+      "text": "CCCCCCCCCCCC(CCCCCCCCC(=O)OCCC(CCCCC)CCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "HAT catalyst"
+      ],
+      "text": "Cn1n[n+](-c2ccccc2)cc1[N-]C(=O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

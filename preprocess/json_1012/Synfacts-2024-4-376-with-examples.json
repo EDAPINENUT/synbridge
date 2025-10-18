@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "text": "CC1(C)O[C@H]2[C@H](CO[C@]3(COC(=O)C4(CI)CCCC4=O)OC(C)(C)O[C@H]23)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](CO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)O[C@H]2[C@H](CO[C@]3(COC(=O)c4cccc(N[C@H](CO)c5ccccc5)c4)OC(C)(C)O[C@H]23)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "from diacetonefructose"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ru+2].c1cc2nc3ccccn3c2c1.c1cc2nc3ccccn3c2c1.c1cc2nc3ccccn3c2c1.F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F"
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Co+3]([Cl-])([Cl-])(N(=C1C)O)(N(=C(C)C1)O)(N(=C2C)[O-])(N(=C(C)C2)O)"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Sc+3]"
+    },
+    {
+      "relations": [
+        "7.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C1CN2CCN1CC2"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3\u00c5 MS"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16h"
+    }
+  ]
+]

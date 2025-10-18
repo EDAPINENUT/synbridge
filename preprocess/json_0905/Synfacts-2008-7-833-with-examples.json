@@ -1,0 +1,132 @@
+[
+  [
+    {
+      "text": "c1ccc(C2CO2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "0% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5\u201310 mol%"
+      ],
+      "text": "Cl[Ti]Cl.c1cc[cH-]c1.c1cc[cH-]c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "Coll-HCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1\u20135%"
+      ],
+      "text": "Cl[Rh]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 or 4 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u201350\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16\u201348 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccccc2)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CO)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5\u201310 mol%"
+      ],
+      "text": "Cl[Ti]Cl.c1cc[cH-]c1.c1cc[cH-]c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "Coll-HCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1\u20135%"
+      ],
+      "text": "Cl[Rh]([PH](c1ccccc1)(c1ccccc1)c1ccccc1)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 or 4 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u201350\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16\u201348 h",
+      "type": "time"
+    }
+  ]
+]

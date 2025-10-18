@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "text": "CC1(C)C=CC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)CC2C(=O)CC1C([N+](=O)[O-])C2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "er=96.5:3.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "1"
+      ],
+      "text": "c1ccc(SC[C@@H]2CCCN2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=C(O)c1ccc(C(F)(F)F)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "seawater",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "12\u201336 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

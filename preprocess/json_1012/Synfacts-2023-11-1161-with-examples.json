@@ -1,0 +1,725 @@
+[
+  [
+    {
+      "text": "CC[C@@H](C(=O)N[C@@H](C)C(=O)OC)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@@H](CCCl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@@H](C(=O)N[C@@H](C(=O)OC)C(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C(=O)N(Cl)N1C(=O)c2ccccc2C1=O)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)[C@H](CCCl)N1C(=O)c2ccccc2C1=O)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(C)(C)Cl)NN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC1CCCCC1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@@H](CC1(Cl)CCCCC1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CCCCN1C(=O)c2ccccc2C1=O)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@@H](CC(Cl)CCN1C(=O)c2ccccc2C1=O)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "dr=2.1:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](C)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](C)NC(=O)[C@H](CC(Cl)C(=O)NC(c1ccccc1)(c1ccccc1)c1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "dr=1.2:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)NC(=O)[C@H](CC(C)C)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)C(=O)N(Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cn(C(=O)OC(C)(C)C)c2ccccc12)NC(=O)[C@H](CC(C)(C)Cl)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "C1CN2CCC1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)OCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "[Cu+].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ligand",
+        "stage 2"
+      ],
+      "text": "c1ccc(-c2ccnc3c2ccc2c(-c4ccccc4)ccnc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "stage 2"
+      ],
+      "text": "O=C1OC(CO)C(O)C1=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30 min",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,695 @@
+[
+  [
+    {
+      "text": "CON(C)C(=O)CCC=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON(C)C(=O)CC[C@H](CCCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CON(C)C(=O)CC[C@@H](O)CCCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CCC=CCCc1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@@H](CCCc2ccccc2)CCC(=O)N2CCOCC2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(CC[C@H](O)CCCc1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CCC=CCCc1cccs1)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@@H](CCCc2cccs2)CCC(=O)NCc2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(CC[C@H](O)CCCc1cccs1)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C)n1CCC=CCCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C)n1CCC[C@@H](CCC(=O)NCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(C)n1CCC[C@@H](O)CCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)=CCC[C@H](C)CC=CCCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=CCC[C@H](C)CC[C@@H](CCC(=O)NCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)=CCC[C@H](C)CC[C@H](O)CCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](OCCC=CCCC(=O)NCc1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](OCCC[C@@H](CCC(=O)NCc1ccccc1)B1OC(C)(C)C(C)(C)O1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[Si](OCCC[C@@H](O)CCC(=O)NCc1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OC[C@H](CC=CCCC(=O)NCc2ccccc2)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OC[C@H](CC[C@@H](CCC(=O)NCc2ccccc2)B2OC(C)(C)C(C)(C)O2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OC[C@H](CC[C@H](O)CCC(=O)NCc2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OC[C@@H](C=CCCC(=O)NCc2ccccc2)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OC[C@@H](C[C@@H](CCC(=O)NCc2ccccc2)B2OC(C)(C)C(C)(C)O2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)OC[C@H](C[C@H](O)CCC(=O)NCc2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CCCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](CCC(=O)NCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@H](O)CCC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u20132.0 mol%",
+        "stage1"
+      ],
+      "text": "[Rh(ndb)2BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0\u20134.0 mol%",
+        "stage1"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "stage1"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "aq NaOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "c1ccc2c(c1)ccc1op(N(C)c3ccccc3)oc3ccc4ccccc4c3c12",
+      "type": "conditions"
+    }
+  ]
+]

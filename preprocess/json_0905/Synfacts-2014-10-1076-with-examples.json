@@ -1,0 +1,314 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](O)(C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@](O)(C#Cc1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@](C)(O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "81% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@](C)(O)C#Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](O)(C#C[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#CCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC#C[C@@](C)(O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@H](C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "75% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Li]C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O[C@H](C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "75% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(R)-Li2-Ph2BINOL"
+      ],
+      "type": "catalyst",
+      "text": "[Li]Oc1c(-c2ccccc2)cc2ccccc2c1-c1c(O[Li])c(-c2ccccc2)cc2ccccc12"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,170 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](C=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% ee",
+        "branched/linear = 51:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.24 mol%",
+        "(S,S,S)-1",
+        "(5,5,5)-1"
+      ],
+      "text": "*C(*)NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@H](c2ccccc2C(=O)NC(*)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)NC(C)c3ccccc3)N3C(=O)CCC(=O)N3[C@@H]2c2ccccc2C(=O)NC(C)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@H](Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% ee",
+        "branched/linear = n.d."
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.24 mol%",
+        "(S,S,S)-1",
+        "(5,5,5)-1"
+      ],
+      "text": "*C(*)NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@H](c2ccccc2C(=O)NC(*)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)NC(C)c3ccccc3)N3C(=O)CCC(=O)N3[C@@H]2c2ccccc2C(=O)NC(C)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc(C2CC2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@H]1CCc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% ee",
+        "branched/linear = 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.24 mol%",
+        "(S,S,S)-1",
+        "(5,5,5)-1"
+      ],
+      "text": "*C(*)NC(=O)c1ccccc1[C@@H]1N2C(=O)CCC(=O)N2[C@H](c2ccccc2C(=O)NC(*)c2ccccc2)P1c1ccc(P2[C@H](c3ccccc3C(=O)NC(C)c3ccccc3)N3C(=O)CCC(=O)N3[C@@H]2c2ccccc2C(=O)NC(C)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "120 psi"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8-24 h",
+      "type": "time"
+    }
+  ]
+]

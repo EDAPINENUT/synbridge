@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](C#CC=CC(=O)Oc1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@H]1CC(=O)O[C@]12C(=O)N(C)c1ccccc12)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Et2Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.60 M"
+      ],
+      "text": "PhMe\u2013MeCN (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)Oc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN1C(=O)[C@@]2(OC(=O)C[C@H]2c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Et2Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.60 M"
+      ],
+      "text": "PhMe\u2013MeCN (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)Oc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2CC(=O)O[C@@]23C(=O)N(C)c2ccccc23)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Et2Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.60 M"
+      ],
+      "text": "PhMe\u2013MeCN (1:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "conditions"
+    }
+  ]
+]

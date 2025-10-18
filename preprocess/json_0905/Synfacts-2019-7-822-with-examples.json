@@ -1,0 +1,2162 @@
+[
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccc(N)cc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "14% yield"
+      ]
+    },
+    {
+      "text": "Nc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Nc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Nc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield"
+      ]
+    },
+    {
+      "text": "COc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(Cc1ccc(O)cc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield"
+      ]
+    },
+    {
+      "text": "Oc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Oc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Oc1ccc(Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "text": "CC(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC(C)(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "text": "CC(C)(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC1CCCCC1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "text": "BrC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "BrC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "BrC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)C(CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)C(CC(C)(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1ccccc1)NC(=O)C(CC(C)(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "3 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(Cc1ccc(N)cc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "14% yield"
+      ]
+    },
+    {
+      "text": "Nc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Nc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Nc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield"
+      ]
+    },
+    {
+      "text": "COc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(Cc1ccc(O)cc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield"
+      ]
+    },
+    {
+      "text": "Oc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Oc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Oc1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "text": "CC(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC(C)(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "text": "CC(C)(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)(C)I",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC1CCCCC1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "text": "IC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "IC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "IC1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1ccccc1)NC(=O)C(CC(C)(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "step 1"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "step 1"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat.",
+        "step 1"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "step 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 1"
+      ],
+      "text": "2\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 2"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "step 3"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "step 3"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ]
+]

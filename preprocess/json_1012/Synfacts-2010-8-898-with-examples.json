@@ -1,0 +1,177 @@
+[
+  [
+    {
+      "text": "CC(=O)OC(C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C(I)=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=19:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Au+][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "N[IH]S",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C#CCOC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)C(I)=C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Au+][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "N[IH]S",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC#CC(CCC)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC=C(I)C(=O)CCCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Au+][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "N[IH]S",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC#CC(OC(C)=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)C(I)=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%"
+      ],
+      "text": "O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Au+][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "N[IH]S",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "800:1 (acetone:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    }
+  ]
+]

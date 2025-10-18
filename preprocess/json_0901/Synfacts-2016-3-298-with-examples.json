@@ -1,0 +1,740 @@
+[
+  [
+    {
+      "text": "N#Cc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2cc(C=O)ccc2C#N)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4-10 equiv"
+      ],
+      "text": "R2NH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc(O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2cc(C=O)ccc2O)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4-10 equiv"
+      ],
+      "text": "R2NH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2ccc(Br)c(C=O)c2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4-10 equiv"
+      ],
+      "text": "R2NH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2ccc(Br)c(C=O)c2)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4-10 equiv"
+      ],
+      "text": "R2NH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C=O)c1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(B2OC(C)(C)C(C)(C)O2)cc(C=O)c1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4-10 equiv"
+      ],
+      "text": "R2NH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2ccc(Br)cc2C=O)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1cccc2cccnc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "t-BuNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C=O)c(B2OC(C)(C)C(C)(C)O2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1cccc2cccnc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "t-BuNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)OB(c2ccccc2C=O)OC1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2cccc(B3OC(C)(C)C(C)(C)O3)c2C=O)OC1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1cccc2cccnc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "t-BuNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C=O)cc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C=O)c(B2OC(C)(C)C(C)(C)O2)cc1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Nc1cccc2cccnc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "t-BuNH2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Ir(cod)(OMe)]2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 mol%"
+      ],
+      "text": "ligand 2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.7 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "HBpin",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ]
+]

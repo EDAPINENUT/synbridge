@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "text": "O=P(N=CN(c1ccccc1)c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C([C@H](c1cccc(Br)c1)N(c1ccccc1)c1ccccc1)[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er=94:6"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)OB(CC#C[Si](C)(C)C)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "ligand precursor"
+      ],
+      "text": "Cc1ccccc1[N+]1=CN2c3ccccc3-c3c(C)cc(-c4ccccc4)cc3[C@@H]2[C@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

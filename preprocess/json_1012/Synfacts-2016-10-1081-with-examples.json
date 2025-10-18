@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "O=c1[nH]c(CCB(O)O)nc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1[nH]c(CCc2ccccc2)nc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "BI-OAc",
+        "acetoxy-benziodoxole"
+      ],
+      "text": "CC(=O)OI1OC(=O)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Cl-].[Cl-].[Ru+2]907856(n19cccc(c1)-c2ccccn20)(n17cccc(c1)-c2ccccn28)(n15cccc(c1)-c2ccccn26)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "hexafluoroisopropanol"
+      ],
+      "text": "OC(C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "other conditions"
+    }
+  ]
+]

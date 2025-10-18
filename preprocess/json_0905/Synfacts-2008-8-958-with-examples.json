@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "text": "O=c1oc2ccc3ccccc3c2c2c1ccc1ncccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2ccc(O)c(-c3c(C)cccc3CO)c2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Catalyst"
+      ],
+      "text": "CC(=O)C1=C(C)ON2C(=C1)[C@@H](c1c(C)cccc1C)[C@H](c1c(C)cccc1C)N1C3=CC(C(C)=O)=C(C)O[Co]21OC(C)=C3C(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "42 equiv"
+      ],
+      "text": "CC(O)c1ccccn1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-5 to 30\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

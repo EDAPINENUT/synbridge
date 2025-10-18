@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "C#CC(=O)N(Cc1ccccc1)c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=CC=[N+]([O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C[C@H]1N(c2ccccc2)C(=O)[C@]12C(=O)N(Cc1ccccc1)c1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "chiral BOX ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "t-BuOLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C#CC(=O)N(Cc1ccccc1)c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[O-]N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1N(Cc2ccccc2)c2ccccc2[C@]12C(=O)N1CCC[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4BF4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "chiral BOX ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "t-BuOLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1M"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ]
+]

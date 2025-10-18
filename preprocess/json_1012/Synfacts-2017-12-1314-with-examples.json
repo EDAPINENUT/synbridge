@@ -1,0 +1,253 @@
+[
+  [
+    {
+      "text": "O=C(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "11% conversion"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "carboxylic acid reductase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Nc1ncnc2c1ncn2[C@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "pH 9.0"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "absence of NADPH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "22% conversion"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "carboxylic acid reductase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Nc1ncnc2c1ncn2[C@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "pH 9.0"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "absence of NADPH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCN",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCNC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "4% conversion"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "carboxylic acid reductase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Nc1ncnc2c1ncn2[C@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "pH 9.0"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "absence of NADPH",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1CCNCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccc2c(c1)OCO2)N1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% conversion",
+        "30\u00b0C",
+        "72 h",
+        "ilepcimide"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "carboxylic acid reductase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "Nc1ncnc2c1ncn2[C@H]1O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Mg+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous",
+        "pH 9.0"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "absence of NADPH",
+      "type": "other conditions"
+    }
+  ]
+]

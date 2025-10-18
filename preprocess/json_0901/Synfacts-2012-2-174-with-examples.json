@@ -1,0 +1,152 @@
+[
+  [
+    {
+      "text": "CC[Si](C=CC(CCc1ccccc1)OC(C)=O)(CC)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[Si](C=CCCCc1ccccc1)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhI(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[Si](C=CC(CCOC)OC(C)=O)(CC)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[Si](C=CCCCOC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhI(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1\u201324 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[Si](C=CCCCc1ccccc1)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](C=CC(CCc1ccccc1)OC(C)=O)(CC)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "benzoquinone"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[Si](C=CCCCOC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](C=CC(CCOC)OC(C)=O)(CC)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "benzoquinone"
+      ],
+      "text": "BQ",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "AcOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    }
+  ]
+]

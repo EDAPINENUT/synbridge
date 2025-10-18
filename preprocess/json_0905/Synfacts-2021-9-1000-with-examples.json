@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "text": "C=C(C)C(=O)N(C)c1cccc(Cl)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1cccc2ccccc12)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)[C@](C)(CC(=C(F)F)c2cccc3ccccc23)c2ccc(Cl)cc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "95% ee",
+        "5-exo-selective"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "L1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "[I-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

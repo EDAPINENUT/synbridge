@@ -1,0 +1,149 @@
+[
+  [
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(SC(=O)C(F)C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(SC(=O)[C@@H](F)[C@@H](O)c2ccc([N+](=O)[O-])cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "A1 or A2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C or 10\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-CO2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C(F)C(=O)Sc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C[C@H](O)[C@H](F)C(=O)Sc1ccccc1F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "A1 or A2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C or 10\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-CO2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C(F)C(=O)Sc1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Sc1ccccc1F)[C@@H](F)[C@@H](O)CCN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC1CN2CCC1C[C@H]2[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "A1 or A2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C or 10\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-CO2",
+      "type": "conditions"
+    }
+  ]
+]

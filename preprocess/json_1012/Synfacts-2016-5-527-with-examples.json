@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "CC=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H]2[C@@H](C)[C@H](C)[C@H]2c2ccc(OC)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "PIDA"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OI(OC(C)=O)c1ccccc1"
+    },
+    {
+      "relations": [
+        "HFIP"
+      ],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C to r.t."
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C2[C@@H](c3ccccc3)[C@@H](C)[C@H]2C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "dr = 80:20",
+        "from (Z)-olefin"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "PIDA"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)OI(OC(C)=O)c1ccccc1"
+    },
+    {
+      "relations": [
+        "HFIP"
+      ],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C to r.t."
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ]
+]

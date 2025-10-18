@@ -1,0 +1,174 @@
+[
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2ccc3cc(C4OC4c4ccccc4)ccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2ccc3cc(CC(O)c4ccccc4)ccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Co catalyst",
+        "5 mol%"
+      ],
+      "text": "CC1=CC2=C[C@@H](C1C)C(C)(C)[C@H](CCC(N)=O)C1=C(C)[C@H](CCC(N)=O)[C@]3(CC(N)=O)[C@H](CC(N)=O)N4C(=C5ON6[C@H](CCC(N)=O)[C@@H](CC(N)=O)[C@@H]([C@H]64)[C@@H](CC(N)=O)[C@]4(C)CCC(=O)NC[C@@H](C)OP(=O)([O-])OC([C@H](C)O)[C@@H](CO)C[C@H](N=C54)N2C)N13",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dtbbpy",
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "COCCOC.COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "II",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1OC1c1ccc(NC(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(O)Cc1ccc(NC(=O)OC(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Co catalyst",
+        "5 mol%"
+      ],
+      "text": "CC1=CC2=C[C@@H](C1C)C(C)(C)[C@H](CCC(N)=O)C1=C(C)[C@H](CCC(N)=O)[C@]3(CC(N)=O)[C@H](CC(N)=O)N4C(=C5ON6[C@H](CCC(N)=O)[C@@H](CC(N)=O)[C@@H]([C@H]64)[C@@H](CC(N)=O)[C@]4(C)CCC(=O)NC[C@@H](C)OP(=O)([O-])OC([C@H](C)O)[C@@H](CO)C[C@H](N=C54)N2C)N13",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "dtbbpy",
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "COCCOC.COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Cl-].[NH4+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "II",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "time"
+    }
+  ]
+]

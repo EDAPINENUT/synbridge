@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "CC(=CCCOC(=O)CC=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1ccccc1)[C@H](CCOC(=O)CC=Cc1ccccc1)SC(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=S(=O)(c1ccccc1)N(SC(F)(F)F)S(=O)(=O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)(NS(=O)(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10\u201320 mol%",
+        "catalyst"
+      ],
+      "text": "COc1cccc(C)c1[Se][C@H]1Cc2ccccc2[C@@H]1NS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C1=C(c2ccccc2)CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)S[C@@H]1CCCC=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "er = 92:8"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=S(=O)(c1ccccc1)N(SC(F)(F)F)S(=O)(=O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S(=O)(NS(=O)(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10\u201320 mol%",
+        "catalyst"
+      ],
+      "text": "COc1cccc(C)c1[Se][C@H]1Cc2ccccc2[C@@H]1NS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    }
+  ]
+]

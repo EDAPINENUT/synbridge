@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "COC(=O)OCC=Cc1ccccc1CCNC(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CCCN1C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ir](Cl)C1=CCCC=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "COc1ccccc1[C@@H](C)N([C@@H](C)c1ccccc1OC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OCC=Cc1ccccc1CCNC(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CCCCN1C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cl[Ir](Cl)C1=CCCC=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "ligand"
+      ],
+      "text": "COc1ccccc1[C@@H](C)N([C@@H](C)c1ccccc1OC)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

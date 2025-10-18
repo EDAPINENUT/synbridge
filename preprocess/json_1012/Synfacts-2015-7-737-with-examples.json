@@ -1,0 +1,270 @@
+[
+  [
+    {
+      "text": "CC1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@H](c1ccccc1)[C@]1(C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "98% ee",
+        "dr=95:5"
+      ]
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccccc1)[C@@]1(C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ca+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Pybox L*",
+        "Fyuox E"
+      ],
+      "text": "COC[C@@H]1N=C(c2cccc(C3=N[C@@H](COC)[C@H](c4ccccc4)O3)n2)O[C@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](NC(=O)OC(C)(C)C)[C@]1(C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "90% ee",
+        "dr=97:3"
+      ]
+    },
+    {
+      "text": "CCC(NC(=O)OC(C)(C)C)[C@@]1(C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ca+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Pybox L*",
+        "Fyuox E"
+      ],
+      "text": "COC[C@@H]1N=C(c2cccc(C3=N[C@@H](COC)[C@H](c4ccccc4)O3)n2)O[C@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@]1([C@H](CC)NC(=O)OC(C)(C)C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield",
+        "72% ee",
+        "dr=97:3"
+      ]
+    },
+    {
+      "text": "CCC[C@]1(C(CC)NC(=O)OC(C)(C)C)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ca+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Pybox L*",
+        "Fyuox E"
+      ],
+      "text": "COC[C@@H]1N=C(c2cccc(C3=N[C@@H](COC)[C@H](c4ccccc4)O3)n2)O[C@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccccc2)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        ">99% ee",
+        "dr=95:5"
+      ]
+    },
+    {
+      "text": "CC(C)[C@]1(C(NC(=O)OC(C)(C)C)c2ccccc2)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Ca+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "Pybox L*",
+        "Fyuox E"
+      ],
+      "text": "COC[C@@H]1N=C(c2cccc(C3=N[C@@H](COC)[C@H](c4ccccc4)O3)n2)O[C@H]1c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

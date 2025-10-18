@@ -1,0 +1,586 @@
+[
+  [
+    {
+      "text": "COC(=O)[C@H]1CCCCC1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](NC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H]1CCCCC1S(=O)(=O)N[C@H](C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C(=O)O)CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(S(=O)(=O)N2CCOCC2)CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(NCc1ccccc1)C1CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(C1CCCCC1)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1Cc2ccccc2C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)N1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=S(=O)(C1Cc2ccccc2C1)N1CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSc1ccccc1NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSc1ccccc1NS(=O)(=O)C1CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1nc2ccc(NC(=O)c3ccccc3)cc2s1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCS(=O)(=O)Nc1ccc2nc(C)sc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CCC(=O)O)cc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=NC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CCS(=O)(=O)N=[N+]=[N-])cc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1\u20132.2 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuF2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSc1ccccc1NS(=O)(=O)C1CCOCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Clc1ccccc1-c1c2ccccc2nc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccccc1-c1c2ccccc2nc2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7-10 mol%"
+      ],
+      "text": "ligand 1\u20133",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "DABSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CuOTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2-1.5 equiv"
+      ],
+      "text": "t-BuO2Bz",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "LED light 400 nm",
+      "type": "conditions"
+    }
+  ]
+]

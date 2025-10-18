@@ -1,0 +1,434 @@
+[
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)C(O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage1"
+      ],
+      "text": "ObiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8.0",
+        "37\u00b0C",
+        "16-40 h",
+        "stage1"
+      ],
+      "text": "trans aldolase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage2"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)C(O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc2ccccc2n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage1"
+      ],
+      "text": "ObiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8.0",
+        "37\u00b0C",
+        "16-40 h",
+        "stage1"
+      ],
+      "text": "trans aldolase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage2"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)C(O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCCC(O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage1"
+      ],
+      "text": "ObiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8.0",
+        "37\u00b0C",
+        "16-40 h",
+        "stage1"
+      ],
+      "text": "trans aldolase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage2"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)C(O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage1"
+      ],
+      "text": "ObiH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8.0",
+        "37\u00b0C",
+        "16-40 h",
+        "stage1"
+      ],
+      "text": "trans aldolase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "stage2"
+      ],
+      "text": "RgnTDCNMY",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC1(CC)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(CC)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1% SOl cells",
+        "stage1"
+      ],
+      "text": "styrene oxide isomerase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%",
+        "stage2"
+      ],
+      "text": "ObiH O RqnTDC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8",
+        "16 h",
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC1(CC)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC[C@H](O)c1ccc2ccccc2n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(CC)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1% SOl cells",
+        "stage1"
+      ],
+      "text": "styrene oxide isomerase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%",
+        "stage2"
+      ],
+      "text": "ObiH O RqnTDC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8",
+        "16 h",
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC1(CC)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(CC)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1% SOl cells",
+        "stage1"
+      ],
+      "text": "styrene oxide isomerase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%",
+        "stage2"
+      ],
+      "text": "ObiH O RqnTDC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8",
+        "16 h",
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC1(CC)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@H](O)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC(CC)[C@@H](O)CN",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.1% SOl cells",
+        "stage1"
+      ],
+      "text": "styrene oxide isomerase",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.3 mol%",
+        "stage2"
+      ],
+      "text": "ObiH O RqnTDC",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "400 \u03bcM PLP",
+        "5% MeOH",
+        "50 mM TRIS/KP",
+        "pH = 8",
+        "16 h",
+        "stage2"
+      ],
+      "text": "engineered decarboxylase",
+      "type": "conditions"
+    }
+  ]
+]

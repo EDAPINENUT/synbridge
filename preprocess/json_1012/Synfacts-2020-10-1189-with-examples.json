@@ -1,0 +1,226 @@
+[
+  [
+    {
+      "text": "CC(=O)C(=[N+]=[N-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CCCN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C(c2ccccc2)C[C@@]2(CCCN2S(=O)(=O)c2ccc(C)cc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "SaBOX ligand 1"
+      ],
+      "text": "c1ccc(CC(Cc2cccc3ccccc23)(C2N=C3c4ccccc4CC3O2)C2N=C3c4ccccc4CC3O2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "28\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[N-]=[N+]=C(C(=O)C1CC1)c1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CCCN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC[C@@]23CC(c2ccccc2F)=C(C2CC2)O3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "SaBOX ligand 1"
+      ],
+      "text": "c1ccc(CC(Cc2cccc3ccccc23)(C2N=C3c4ccccc4CC3O2)C2N=C3c4ccccc4CC3O2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "28\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[N-]=[N+]=C(C(=O)C1CC1)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CCCN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC[C@]23CC(c2ccc4ccccc4c2)=C(C2CC2)O3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "SaBOX ligand 1"
+      ],
+      "text": "c1ccc(CC(Cc2cccc3ccccc23)(C2N=C3c4ccccc4CC3O2)C2N=C3c4ccccc4CC3O2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "28\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "[N-]=[N+]=C(C(=O)CCc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CCCN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC[C@@]23CC(c2ccccc2)=C(CCc2ccccc2)O3)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "SaBOX ligand 1"
+      ],
+      "text": "c1ccc(CC(Cc2cccc3ccccc23)(C2N=C3c4ccccc4CC3O2)C2N=C3c4ccccc4CC3O2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "28\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1-24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "other conditions"
+    }
+  ]
+]

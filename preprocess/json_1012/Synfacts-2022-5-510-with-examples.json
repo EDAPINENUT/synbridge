@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "Cn1cc(C(=O)Sc2ccccn2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1cc(C(=O)C=CC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "17 mol%"
+      ],
+      "text": "O.O.O.O.O.[Ni+2].[O-][Cl+3]([O-])([O-])[O-].[O-][Cl+3]([O-])([O-])[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "c1ccc(SSc2ccccn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

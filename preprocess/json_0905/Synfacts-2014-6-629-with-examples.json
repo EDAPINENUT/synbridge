@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "text": "Cn1c(=O)c2cccc(Br)c2n(C)c1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1c(=O)c2c(cc(C(F)(F)F)n2C)n(C)c1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "(phen)CuCF2X"
+      ],
+      "text": "*1c2cccc3ccc4ccc[n+]1c4c23",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

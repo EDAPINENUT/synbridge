@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "C=CCN(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CN2c3ccccc3N(C)C[C@@]2(C)Cc2ccc(-n3cccc3)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "er = 93:7",
+        "110\u00b0C",
+        "X = I"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand 1",
+        "6 mol%"
+      ],
+      "text": "C[C@H](c1ccccc1)N([C@H](C)c1ccccc1)P1Oc2cccc3c2C2(CC3)CCc3cccc(c32)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90-125\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CN2c3ccccc3N(C)C[C@@]2(COCc2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "er = 96:4",
+        "110\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand 1",
+        "6 mol%"
+      ],
+      "text": "C[C@H](c1ccccc1)N([C@H](C)c1ccccc1)P1Oc2cccc3c2C2(CC3)CCc3cccc(c32)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90-125\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-14 h",
+      "type": "time"
+    }
+  ]
+]

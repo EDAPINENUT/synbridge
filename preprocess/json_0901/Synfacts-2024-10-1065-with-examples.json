@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=O)N=[SH]NC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH-]#[N+]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN([C@@H](CP(c1ccccc1)c1ccccc1)c1cc(C(F)(F)F)ccc1P(c1ccccc1)c1ccccc1)[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(S(=NC(=O)C(C)(C)C)c2ccc3c(c2)OCO3)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "18 mol%"
+      ],
+      "text": "L*",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u201340\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ]
+]

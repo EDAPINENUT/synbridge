@@ -1,0 +1,508 @@
+[
+  [
+    {
+      "text": "C=CCNC(=O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NCC(I)CC(F)(F)F)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Fc1ccc(C2=NCC(CC(F)(F)F)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)c1ccc(C(=O)OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C(=O)NCC(I)CC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)c1ccc(C2=NCC(CC(F)(F)F)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)c1ccc(F)c(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NCC(I)CC(F)(F)F)c1ccc(F)c(F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Fc1ccc(C2=NCC(CC(F)(F)F)O2)cc1F",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NCC(I)CC(F)(F)F)c1ccccn1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)CC1CN=C(c2ccccn2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "4d"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)c1c(C)noc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1noc(C)c1C(=O)NCC(I)CC(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1noc(C)c1C1=NCC(CC(F)(F)F)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "4e"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(NC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NC(c1ccccc1)C(I)CC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)CC1OC(c2ccccc2)=NC1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "4f"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CNC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NCC(I)(CC(F)(F)F)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)CC1(c2ccccc2)CN=C(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CCc1ccccc1)NCC(I)CC(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)CC1CN=C(CCc2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "4h"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)c1ccccc1-c1ccc(Cn2c(CCC)nc3c(C)cc(-c4nc5ccccc5n4C)cc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)NCC(I)CC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C2=NCC(CC(F)(F)F)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCNC(=O)CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC[C@]4(C)C[C@@H](O)CC[C@@]4(C)[C@H]3CC[C@]12C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CCC(=O)NCC(I)CC(F)(F)F)[C@H]1CC[C@H]2[C@@H]3CC[C@]4(C)C[C@@H](O)CC[C@@]4(C)[C@H]3CC[C@]12C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H](CCC1=NC[C@H](CC(F)(F)F)O1)[C@H]1CC[C@H]2[C@@H]3CC[C@]4(C)C[C@@H](O)CC[C@@]4(C)[C@H]3CC[C@]12C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield",
+        "4j",
+        "lithocholic acid analogue"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "3 equiv",
+        "Togni reagent (2)"
+      ],
+      "text": "O=C1CI(C(F)(F)F)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1",
+        "40 mol%"
+      ],
+      "text": "K1",
+      "type": "other conditions"
+    }
+  ]
+]

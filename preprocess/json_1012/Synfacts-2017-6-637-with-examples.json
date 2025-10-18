@@ -1,0 +1,578 @@
+[
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccccc2Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(N[C@H](c2ccccc2Br)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield (n-BuLi)",
+        "76% yield (LiHMDS)",
+        "dr=85:15 (n-BuLi)",
+        "dr=10:90 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2cccnc2Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](c2cccnc2Br)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield (n-BuLi)",
+        "62% yield (LiHMDS)",
+        "dr=85:15 (n-BuLi)",
+        "dr=15:85 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNCC(C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](CC(C)C)C(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield (n-BuLi)",
+        "47% yield (LiHMDS)",
+        "dr=70:30 (n-BuLi)",
+        "dr=40:60 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(N[C@H](c2ccccc2)C(C#N)CCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield (n-BuLi)",
+        "82% yield (LiHMDS)",
+        "dr=60:40 (n-BuLi)",
+        "dr=20:80 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccc(OC)cc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](c2ccc(OC)cc2)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (n-BuLi)",
+        "53% yield (LiHMDS)",
+        "dr=65:35 (n-BuLi)",
+        "dr=20:80 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNC2CCCCC2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](C2CCCCC2)C(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield (n-BuLi)",
+        "50% yield (LiHMDS)",
+        "dr=>95:5 (n-BuLi)",
+        "dr=>95:5 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "n-BuLi"
+      ],
+      "text": "[Li]CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccccc2Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(N[C@H](c2ccccc2Br)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield (n-BuLi)",
+        "76% yield (LiHMDS)",
+        "dr=85:15 (n-BuLi)",
+        "dr=10:90 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2cccnc2Br)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](c2cccnc2Br)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield (n-BuLi)",
+        "62% yield (LiHMDS)",
+        "dr=85:15 (n-BuLi)",
+        "dr=15:85 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNCC(C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](CC(C)C)C(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield (n-BuLi)",
+        "47% yield (LiHMDS)",
+        "dr=70:30 (n-BuLi)",
+        "dr=40:60 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(N[C@H](c2ccccc2)C(C#N)CCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield (n-BuLi)",
+        "82% yield (LiHMDS)",
+        "dr=60:40 (n-BuLi)",
+        "dr=20:80 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNc2ccc(OC)cc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](c2ccc(OC)cc2)C(C#N)Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield (n-BuLi)",
+        "53% yield (LiHMDS)",
+        "dr=65:35 (n-BuLi)",
+        "dr=20:80 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNC2CCCCC2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CN[C@H](C2CCCCC2)C(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield (n-BuLi)",
+        "50% yield (LiHMDS)",
+        "dr=>95:5 (n-BuLi)",
+        "dr=>95:5 (LiHMDS)",
+        "dr basis: anti/syn",
+        "yield basis: major diastereomer"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "LiHMDS"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ]
+]

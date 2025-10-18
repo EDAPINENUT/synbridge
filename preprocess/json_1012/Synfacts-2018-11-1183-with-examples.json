@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CCCC[Sn](CCC)(CCCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[Sn](CCC)(CCCC)c1ccccc1C(=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "Cl[Rh](C1CCC=CCCC1)(C1CCC=CCCC1)[Rh](Cl)(C1CCC=CCCC1)C1CCC=CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.5 mol%",
+        "or Segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16h",
+      "type": "time"
+    }
+  ]
+]

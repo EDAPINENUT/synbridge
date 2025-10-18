@@ -1,0 +1,703 @@
+[
+  [
+    {
+      "text": "CC=Cc1ccc(OS(=O)(=O)c2ccc(C)cc2)c(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C[C@H](C)F)ccc1OS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](F)CCc1cccc(Br)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=CCc1cccc(C(=O)OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1cccc(CC[C@H](C)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCc1ccc(B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](F)CCc1ccc(B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccc(O[C@@H]2OC(COC(C)=O)[C@H](OC(C)=O)[C@H](OC(C)=O)[C@H]2OC(C)=O)c(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(C[C@@H](C)F)ccc1O[C@@H]1OC(COC(C)=O)[C@H](OC(C)=O)[C@H](OC(C)=O)[C@H]1OC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=1:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1cccc(C=O)c1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1c(C=O)cccc1C[C@@H](C)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C1CC(C(=O)Oc2ccccc2)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(F)CC(C(=O)Oc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCc1cccc(COC(=O)c2ccc(F)nc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](F)CCc1cccc(COC(=O)c2ccc(F)nc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)CCc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(F)CCc1ccccc1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](F)CCC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O=[N+]([O-])[O-].O=[N+]([O-])[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "dppf"
+      ],
+      "text": "C38H32FeP2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NFSI"
+      ],
+      "text": "C12H9FNO4S2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "DEMS"
+      ],
+      "text": "C5H14O2Si",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "EtOAc:MeOH = 10:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

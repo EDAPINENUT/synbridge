@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "O=S(=O)(N=Cc1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NS(=O)(=O)c1ccccn1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N#CCC(=O)O"
+    },
+    {
+      "relations": [
+        "Pd-phebim complex",
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)N1C2=[N+]([C@@H](c3ccccc3)[C@@H]1c1ccccc1)[Pd-]1(Br)N=C(c3ccccc32)N(C(C)=O)[C@@H](c2ccccc2)[C@@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "36\u2013168 h"
+    }
+  ],
+  [
+    {
+      "text": "O=S(=O)(N=Cc1cccc(F)c1)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NS(=O)(=O)c1ccccn1)c1cccc(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "80% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N#CCC(=O)O"
+    },
+    {
+      "relations": [
+        "Pd-phebim complex",
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)N1C2=[N+]([C@@H](c3ccccc3)[C@@H]1c1ccccc1)[Pd-]1(Br)N=C(c3ccccc32)N(C(C)=O)[C@@H](c2ccccc2)[C@@H]1c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "4 \u00c5 MS"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "36\u2013168 h"
+    }
+  ]
+]

@@ -1,0 +1,267 @@
+[
+  [
+    {
+      "text": "CC(C)[C@@H](NC(=O)[C@@H]1CCCN1)C(=O)N1CCC[C@@H]1C(=O)N[C@@H]1C(=O)SC1c1ccc(O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](C(S)c2ccc(O)cc2)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "2 steps"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "stage 1"
+      ],
+      "text": "Drax",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4",
+        "stage 1"
+      ],
+      "text": "S buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "4-8 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "6.0 mM",
+        "stage 2"
+      ],
+      "text": "VA-044",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "TCEP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "glutathione",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N[C@H](CS)C(=O)N1CCC[C@@H]1C(=O)N[C@H]1CSC1=O)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1N[C@H](CS)C(=O)N2CCC[C@@H]2C(=O)N[C@@H](CS)C(=O)N2CCC[C@H]12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@H]1C(=O)N2CCC[C@@H]2C(=O)N[C@@H](CS)C(=O)N2CCC[C@@H]2C(=O)N1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "stage 1"
+      ],
+      "text": "Drax",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4",
+        "stage 1"
+      ],
+      "text": "S buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "4-8 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "6.0 mM",
+        "stage 2"
+      ],
+      "text": "VA-044",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "TCEP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "glutathione",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(S)[C@@H](NC(=O)[C@@H]1CCCN1)C(=O)N1CCC[C@@H]1C(=O)N[C@@H]1C(=O)SC1CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(S)[C@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](C(S)CC(=O)O)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(S)[C@@H]1NC(=O)[C@H]2CCCN2C(=O)[C@H](CCC(=O)O)NC(=O)[C@H]2CCCN2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "stage 1"
+      ],
+      "text": "Drax",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "pH 7.4",
+        "stage 1"
+      ],
+      "text": "S buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "4-8 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "6.0 mM",
+        "stage 2"
+      ],
+      "text": "VA-044",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "TCEP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.07 M",
+        "stage 2"
+      ],
+      "text": "glutathione",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ]
+]

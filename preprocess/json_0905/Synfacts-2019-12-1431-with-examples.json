@@ -1,0 +1,392 @@
+[
+  [
+    {
+      "text": "COc1cccc([C@H](C)O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "er > 99:1",
+        "KRED-P1-B12"
+      ]
+    },
+    {
+      "relations": [
+        "\u2022 = Ar, CF3, OMe, Me, Cl, F",
+        "\u2022 = Alk, Ar, CO2Et, CH2NPhth"
+      ],
+      "text": "ClCc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 wt%"
+      ],
+      "text": "KRED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 mol%"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "photocatalyst",
+        "PC+",
+        "E1/2 = 2.06 V vs SCE"
+      ],
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "no LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O[C@H](c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "er > 99:1",
+        "KRED-P1-B12"
+      ]
+    },
+    {
+      "relations": [
+        "\u2022 = Ar, CF3, OMe, Me, Cl, F",
+        "\u2022 = Alk, Ar, CO2Et, CH2NPhth"
+      ],
+      "text": "ClCc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 wt%"
+      ],
+      "text": "KRED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 mol%"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "photocatalyst",
+        "PC+",
+        "E1/2 = 2.06 V vs SCE"
+      ],
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "no LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[C@@H](c2ccc(Br)cc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "er = 94:6",
+        "KRED-P2-C02"
+      ]
+    },
+    {
+      "relations": [
+        "\u2022 = Ar, CF3, OMe, Me, Cl, F",
+        "\u2022 = Alk, Ar, CO2Et, CH2NPhth"
+      ],
+      "text": "ClCc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 wt%"
+      ],
+      "text": "KRED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 mol%"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "photocatalyst",
+        "PC+",
+        "E1/2 = 2.06 V vs SCE"
+      ],
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "no LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)CCCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "gamma-lactone from"
+      ]
+    },
+    {
+      "relations": [
+        "\u2022 = Ar, CF3, OMe, Me, Cl, F",
+        "\u2022 = Alk, Ar, CO2Et, CH2NPhth"
+      ],
+      "text": "ClCc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 wt%"
+      ],
+      "text": "KRED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 mol%"
+      ],
+      "text": "NC(=O)C1=CN([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@@H](n4cnc5c(N)ncnc54)[C@H](OP(=O)(O)O)[C@@H]3O)[C@@H](O)[C@H]2O)C=CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "photocatalyst",
+        "PC+",
+        "E1/2 = 2.06 V vs SCE"
+      ],
+      "text": "Cc1cc(C)c(-c2c3ccccc3[n+](C)c3ccccc23)c(C)c1.[O-]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:9 (v/v)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "no LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

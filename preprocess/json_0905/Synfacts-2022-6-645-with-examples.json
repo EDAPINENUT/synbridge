@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "O=CC1CC=CCC1COc1ccc(C(F)(F)F)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1COc1ccc(C(F)(F)F)cn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "Co(dmgH)2PyCl"
+      ],
+      "text": "CC1=N[C@]2(N(O)O)N(O)[C@H](C)C(C)=[N+]([O-])[C@]2(C)N=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "[Ir(dtbbpy)(ppy)2]PF6"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201330 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(O)CCCC1=CCC(C=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(O)CCCc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "Co(dmgH)2PyCl"
+      ],
+      "text": "CC1=N[C@]2(N(O)O)N(O)[C@H](C)C(C)=[N+]([O-])[C@]2(C)N=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "[Ir(dtbbpy)(ppy)2]PF6"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C1COCCN1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201330 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

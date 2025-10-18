@@ -1,0 +1,395 @@
+[
+  [
+    {
+      "text": "C=C(c1ccccc1Cl)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC[C@@](F)(c1ccc(Cl)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">95% yield (cat. A)",
+        "vic/gem=2.0:1 (cat. A)",
+        ">95% yield (cat. B)",
+        "vic/gem=2.2:1 (cat. B)",
+        "er=86:14"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1COC)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCc1ccc([C@](F)(CF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield (cat. A)",
+        "vic/gem=3.5:1 (cat. A)",
+        "95% yield (cat. B)",
+        "vic/gem=3.1:1 (cat. B)",
+        "er=86:14"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1N1C(=O)c2ccccc2C1=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1c1ccc([C@](F)(CF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">95% yield (cat. A)",
+        "vic/gem=2.4:1 (cat. A)",
+        "90% yield (cat. B)",
+        "vic/gem=2.6:1 (cat. B)",
+        "er=87:13",
+        "amine:HF=1:7.5"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1C)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@](F)(CF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">95% yield (cat. A)",
+        "vic/gem=12:1 (cat. A)",
+        ">95% yield (cat. B)",
+        "vic/gem=17:1 (cat. B)",
+        "er=83:17"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1C1CC1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC[C@@](F)(c1ccc(C2CC2)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield (cat. A)",
+        "vic/gem=>20:1 (cat. A)",
+        "46% yield (1 mmol scale, cat. A)",
+        "amine:HF=1:6"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1OC)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@](F)(CF)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield (cat. A)",
+        "vic/gem=>20:1 (cat. A)"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. A"
+      ],
+      "text": "Cc1ccc(I)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "Ar-I",
+        "cat. B"
+      ],
+      "text": "COC(=O)c1cc(O[C@H](C)C(=O)OC)c(I)c(O[C@H](C)C(=O)OC)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.F[N+]12CCC3CN1CC[N+]3(CCl)CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "mixtures of Et3N\u2022HF and Py(HF)x"
+      ],
+      "text": "amine:HF",
+      "type": "other conditions"
+    }
+  ]
+]

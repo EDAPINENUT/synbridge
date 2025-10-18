@@ -1,0 +1,164 @@
+[
+  [
+    {
+      "text": "C(=C1CCc2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C[C@@H]2CCc3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "(aS)-Ir/In-BiphPHOX",
+        "BArF = tetrakis[3,5-bis(trifluoromethyl)phenyl]borate"
+      ],
+      "text": "C1=C*(P(c2ccccc2)c2ccccc2[N+]2=C(c3ccccc3)O[C@H]3Cc4ccccc4[C@H]32)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "60 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.28 equiv"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(=C1CCc2ccccc21)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc2c(c1)CC[C@H]2Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "(aS)-Ir/In-BiphPHOX",
+        "BArF = tetrakis[3,5-bis(trifluoromethyl)phenyl]borate"
+      ],
+      "text": "C1=C*(P(c2ccccc2)c2ccccc2[N+]2=C(c3ccccc3)O[C@H]3Cc4ccccc4[C@H]32)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "60 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.28 equiv"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C(=C1COc2ccccc21)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C[C@@H]2COc3ccccc32)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "(aS)-Ir/In-BiphPHOX",
+        "BArF = tetrakis[3,5-bis(trifluoromethyl)phenyl]borate"
+      ],
+      "text": "C1=C*(P(c2ccccc2)c2ccccc2[N+]2=C(c3ccccc3)O[C@H]3Cc4ccccc4[C@H]32)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "60 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.28 equiv"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

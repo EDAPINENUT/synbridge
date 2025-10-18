@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "O=CCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@H](O)[C@H](O)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "D-(-)-threose"
+      ]
+    },
+    {
+      "relations": [
+        "glycolaldehyde (GA)"
+      ],
+      "text": "O=CCO",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "D-fructose-6-phosphate aldolase (FSA)",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "OC1CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC1OC[C@@H](O)[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "D-(-)-threose"
+      ]
+    },
+    {
+      "relations": [
+        "glycolaldehyde (GA)"
+      ],
+      "text": "O=CCO",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "D-fructose-6-phosphate aldolase (FSA)",
+      "type": "catalyst"
+    }
+  ]
+]

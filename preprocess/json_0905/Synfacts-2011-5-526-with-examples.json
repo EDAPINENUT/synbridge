@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "text": "CC(C)[C@H](O)C=CCCCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCO[C@@H](C=CC(C)C)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Cl[Au][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C[C@H](O)C=CCCCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCO[C@@H](C=CC(C)C)C2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Cl[Au][PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

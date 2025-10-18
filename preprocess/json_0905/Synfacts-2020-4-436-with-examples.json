@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "text": "COc1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CC=O)CCCC(C)(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC(=O)CC(C)CCCC(C)(C)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "25\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "20h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "visible light"
+    }
+  ]
+]

@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)c1nccn1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c3[n+](oc2c1)[C@]1(O3)c2ccccc2-c2oc3ccc(C(C)(C)C)cc3[n+]2[C@@]12N[C@H](c1ccccc1)CC(=O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@H](CC(=O)c1nccn1-c1ccccc1)[C@](C)(C=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "NH4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C=CC(=O)c1nccn1C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c3[n+](oc2c1)[C@]1(O3)c2ccccc2-c2oc3ccc(C(C)(C)C)cc3[n+]2[C@@]12N[C@H](c1ccccc1)CC(=O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](CC(=O)c1nccn1C(C)C)[C@@](C)(C=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "NH4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)c1nccn1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)=CCCC(C)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c3[n+](oc2c1)[C@]1(O3)c2ccccc2-c2oc3ccc(C(C)(C)C)cc3[n+]2[C@@]12N[C@H](c1ccccc1)CC(=O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)=CCC[C@@](C)(C=O)[C@H](CC(=O)c1nccn1-c1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "NH4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)c1nccn1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc2c3[n+](oc2c1)[C@]1(O3)c2ccccc2-c2oc3ccc(C(C)(C)C)cc3[n+]2[C@@]12N[C@H](c1ccccc1)CC(=O)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@@](C)(C=O)[C@H](CC(=O)c1nccn1-c1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.4 equiv"
+      ],
+      "text": "TFA",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "text": "NH4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14h",
+      "type": "conditions"
+    }
+  ]
+]

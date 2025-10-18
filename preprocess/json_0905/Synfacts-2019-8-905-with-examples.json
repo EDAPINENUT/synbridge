@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "text": "CC(=O)NC1=Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H]1Cc2ccccc2[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% isolated yield",
+        ">99% ee",
+        "trans/cis = 91:9",
+        "trans/cis >99:1 after trituration"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%",
+        "2-bridged Ru dimer"
+      ],
+      "type": "catalyst",
+      "text": "O=S1(=O)N[C@H]([C@H](NCCCc2ccccc2)c2ccccc2)c2ccccc21"
+    },
+    {
+      "relations": [
+        "0.5 mL"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)CC.CCN(CC)CC.O=CO.O=CO.O=CO"
+    },
+    {
+      "relations": [
+        "1.3 mL"
+      ],
+      "type": "catalyst",
+      "text": "Clc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "3 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC1=Cc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1c2ccccc2C(=O)N1[C@@H]1Cc2ccccc2[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% isolated yield",
+        ">99% ee",
+        "trans/cis = 3:97",
+        "trans/cis >99:1 after trituration"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%",
+        "2-bridged Ru dimer"
+      ],
+      "type": "catalyst",
+      "text": "O=S1(=O)N[C@H]([C@H](NCCCc2ccccc2)c2ccccc2)c2ccccc21"
+    },
+    {
+      "relations": [
+        "0.5 mL"
+      ],
+      "type": "catalyst",
+      "text": "CCN(CC)CC.CCN(CC)CC.O=CO.O=CO.O=CO"
+    },
+    {
+      "relations": [
+        "1.3 mL"
+      ],
+      "type": "catalyst",
+      "text": "Clc1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "3 h"
+    }
+  ]
+]

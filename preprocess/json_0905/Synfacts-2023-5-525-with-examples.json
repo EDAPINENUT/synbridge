@@ -1,0 +1,547 @@
+[
+  [
+    {
+      "text": "C=CC1(c2ccc(C(F)(F)F)cc2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC=C(CO)c1ccc(C(F)(F)F)cc1)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2ccc(Cl)c(Cl)c2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](C)(CC=C(CO)c1ccc(Cl)c(Cl)c1)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2cccs2)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC=C(CO)c1cccs1)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1cccc(OC)c1)C1COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC(=CCO)c1cccc(OC)c1)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1(c2cccc3ccccc23)COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC=C(CO)c1cccc2ccccc12)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccc(-c2ccccc2)cc1)C1COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@](C)(CC(=CCO)c1ccc(-c2ccccc2)cc1)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Cs2CO3 1.2 equiv"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCCC)C1COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=CCO)C[C@](C)(NCc1ccc(F)cc1)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "28% ee",
+        "Cs2CO3 1.2 equiv"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1COC(=O)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@](C)(CC=CCO)NCc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "54% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COC(=O)C(C)N=Cc1ccc(F)cc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "text": "c1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC#N.CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "(S,S)-Ph-Phosferrox",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[BH3-]C#N.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mL"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,239 @@
+[
+  [
+    {
+      "text": "C=C(B1OC(C)(C)C(C)(C)O1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](B1OC(C)(C)C(C)(C)O1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R,R)-WalPhos 1",
+        "8 mol%"
+      ],
+      "text": "C[C@@H](c1ccccc1-c1ccccc1P(c1ccccc1)c1ccccc1)[P+](C)(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccccc1.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "35 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-35\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CCC(=O)OC(C)(C)C)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R,R)-WalPhos 1",
+        "8 mol%"
+      ],
+      "text": "C[C@@H](c1ccccc1-c1ccccc1P(c1ccccc1)c1ccccc1)[P+](C)(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccccc1.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "35 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-35\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(Cc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](Cc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R,R)-WalPhos 1",
+        "8 mol%"
+      ],
+      "text": "C[C@@H](c1ccccc1-c1ccccc1P(c1ccccc1)c1ccccc1)[P+](C)(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccccc1.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "35 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-35\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(NCc1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](NCc1ccccc1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        ">95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R,R)-WalPhos 1",
+        "8 mol%"
+      ],
+      "text": "C[C@@H](c1ccccc1-c1ccccc1P(c1ccccc1)c1ccccc1)[P+](C)(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccccc1.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "35 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-35\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CO)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](CO)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R,R)-WalPhos 1",
+        "8 mol%"
+      ],
+      "text": "C[C@@H](c1ccccc1-c1ccccc1P(c1ccccc1)c1ccccc1)[P+](C)(c1ccccc1)C(c1ccccc1)(c1ccccc1)c1ccccc1.[F-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CC2CC1C=C2[Rh+]C1=CC2C=CC1C2.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "35 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "toluene",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-35\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

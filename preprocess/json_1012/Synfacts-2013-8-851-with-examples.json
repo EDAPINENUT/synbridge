@@ -1,0 +1,620 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(NC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(NC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@H](NC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr>20:1",
+        "er=99:1"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(NC(=O)OC(C)(C)C)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(NC(=O)OC(C)(C)C)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@H](NC(=O)OC(C)(C)C)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "dr>20:1",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(NC(=O)OC(C)(C)C)c1ccc(B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(NC(=O)OC(C)(C)C)c1ccc(B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@H](NC(=O)OC(C)(C)C)c1ccc(B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr>20:1",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(NC(=O)OC(C)(C)C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(NC(=O)OC(C)(C)C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@H](NC(=O)OC(C)(C)C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr=11:1",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(CCc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(CCc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@@H](CCc1ccccc1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "dr=3:1",
+        "er=59:41"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(=[N+]=[N-])C(NC(=O)OC(C)(C)C)c1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(NC(=O)OC(C)(C)C)c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)[C@H](O)[C@H](NC(=O)OC(C)(C)C)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "dr>20:1",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "Oxone",
+        "stage 1"
+      ],
+      "text": "O=S(=O)([O-])OO.[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst",
+        "stage 2"
+      ],
+      "text": "CC(C)c1cccc([Ru]2(Cl)N[C@H](c3ccccc3)[C@@H](c3ccccc3)N2S(=O)(=O)c2c(-c3ccccc3)cccc2-c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2",
+        "stage 2"
+      ],
+      "text": "[O-]C=O.[N+H](CC)(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

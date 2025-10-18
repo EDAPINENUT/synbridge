@@ -1,0 +1,47 @@
+[
+  [
+    {
+      "text": "CCCOC(O)CNS(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1COC(=O)N1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)OI(OC(C)=O)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ]
+]

@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H](C=O)[C@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "dr = 97:3",
+        "er >99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "cat. 2",
+        "X=PhCO2H"
+      ],
+      "text": "C[NH+](C)Cc1ccc(C(O[Si](C)(C)C)(c2ccc(C[NH+](C)c3ccccc3)cc2)C2CCCN2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC[C@@H](C=O)[C@H](C[N+](=O)[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr = 98:2",
+        "er = 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "cat. 2",
+        "X=PhCO2H"
+      ],
+      "text": "C[NH+](C)Cc1ccc(C(O[Si](C)(C)C)(c2ccc(C[NH+](C)c3ccccc3)cc2)C2CCCN2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@H](C[N+](=O)[O-])[C@@H](C=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr = 98:2",
+        "er = 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "cat. 2",
+        "X=PhCO2H"
+      ],
+      "text": "C[NH+](C)Cc1ccc(C(O[Si](C)(C)C)(c2ccc(C[NH+](C)c3ccccc3)cc2)C2CCCN2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

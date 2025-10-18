@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=NC(C(=O)Oc1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1N[C@H](c2ccc(F)cc2)[C@H](C(=O)c2ccccc2)[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er=93:7"
+      ]
+    },
+    {
+      "text": "Oc1c2ccc(c1C1=N[C@H](c3ccccc3)CN1Cc1ccccc1)CCc1ccc(cc1)CC2",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccc([Fe]2=CC=CC=C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=NC(C(=O)Oc1ccccc1)c1ccc([Fe]2=CC=CC=C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H]1N[C@H](c2ccc([Fe]3=CC=CC=C3)cc2)[C@H](C(=O)c2ccccc2)[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "20% yield",
+        "er=85:15"
+      ]
+    },
+    {
+      "text": "Oc1c2ccc(c1C1=N[C@H](c3ccccc3)CN1Cc1ccccc1)CCc1ccc(cc1)CC2",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "C1CN2CCN1CC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ]
+]

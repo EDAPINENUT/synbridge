@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (methoxyamine formation)",
+        "67% yield (nitroxide regeneration)"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "O.O.O.O.O.O.O.O=S(=O)([O-])[O-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CON1C(C)(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield (methoxyamine formation)",
+        "67% yield (nitroxide regeneration)"
+      ]
+    },
+    {
+      "relations": [
+        "2.1\u20134.2 equiv"
+      ],
+      "text": "O=C(OO)c1cccc(Cl)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

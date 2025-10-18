@@ -1,0 +1,589 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](F)(Br)[C@@H](O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "E/A = 63:37",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](F)(Br)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "E/A = 35:75",
+        "ZE > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](F)(Br)[C@@H](O)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "E/A = 56:44",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@](F)(Br)[C@@H](O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C(F)=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "E/A = 68:32",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "rt"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "E/A = 63:37",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "E/A = 35:75",
+        "ZE > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=Cc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "E/A = 56:44",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "E/A = 68:32",
+        "Z/E > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=C(CC)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "ZE = 5:95"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=C(c1ccccc1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "ZE < 1:99"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=C(C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "ZE > 99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=C(C)CC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "ZE = 70:30"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)=C(C)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "Z/E = 52:48"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(F)(F)Br"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC[Zn]CC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[Cl-].[NH4+]"
+    }
+  ]
+]

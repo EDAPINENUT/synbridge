@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "CC(C)OC(=O)C(=N[S@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[Ru]1(Cl)[PH](c2ccccc2)(c2ccccc2)CCNC[Pd]1(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)OC(=O)[C@@H](N[S@@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)OC(=O)[C@H](N[S@@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Ru-MACHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "NaOMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25-40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=N[S@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[Ru]1(Cl)[PH](c2ccccc2)(c2ccccc2)CCNC[Pd]1(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)[C@H](N[S@@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)[C@H](N[S@@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Ru-MACHO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "NaOMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25-40\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

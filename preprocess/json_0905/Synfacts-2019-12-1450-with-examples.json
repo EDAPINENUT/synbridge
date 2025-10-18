@@ -1,0 +1,284 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](CC(c1ccccc1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "97% ee",
+        "Pf(NMB)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCCC1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        ">99% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCC1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "98% ee",
+        "P(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C(C[C@H](N)C(=O)O)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "24% yield",
+        "92% ee",
+        "Pf(NMB)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC(c1ccc2ccccc2c1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "19% yield",
+        "61% ee",
+        "P(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C(C[C@H](N)C(=O)O)[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "9% yield",
+        "81% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "Pf(NMB)",
+        "Pf(\u03b2-Me)",
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: 68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(B-Me)",
+        "Pr(\u03b2-Me)",
+        "mutations: LI61V, 165T"
+      ],
+      "text": "TrpB enzyme",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "pH 12"
+      ],
+      "text": "buffer",
+      "type": "other conditions"
+    }
+  ]
+]

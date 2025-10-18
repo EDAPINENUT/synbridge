@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "text": "O=C(CC=C(Cl)Cl)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(-c2ccc(-c3cc4n(n3)CCOC4)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "NNCCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "aq"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    }
+  ]
+]

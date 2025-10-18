@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "text": "CC1CCC(C(=O)OC(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@]2(C(=O)OC(C)(C)C)CC[C@@H](C)CC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr=7.9:1"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Br1->[Pd]Br->[Pd]1.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC(C)[N-]C(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1CCC(C(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@]1(c2ccc(F)cc2)CC[C@H](C(C)(C)C)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr=10:1"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Br1->[Pd]Br->[Pd]1.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC(C)[N-]C(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1CCC(N(C(=O)OC)C2CC2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@]1(c2ccc(F)cc2)CC[C@@H](N(C(=O)OC)C2CC2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=37:1"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Br1->[Pd]Br->[Pd]1.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CC(C)[N-]C(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

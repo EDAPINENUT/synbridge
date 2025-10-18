@@ -1,0 +1,409 @@
+[
+  [
+    {
+      "text": "COc1cccc(C(=O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(O)c(C(=O)O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C(=O)O)ccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C(=O)O)c(O)cc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccc(C(=O)O)c(O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "86% yield (5 atm O2)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(C(=O)O)c(O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield (5 atm O2)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1ccc([N+](=O)[O-])cc1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield (5 atm O2)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc(C(F)(F)F)ccc1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield (5 atm O2)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)Nc1ccc(C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)Nc1ccc(C(=O)O)c(O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C1C=CC(=O)C=C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "115\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    }
+  ]
+]

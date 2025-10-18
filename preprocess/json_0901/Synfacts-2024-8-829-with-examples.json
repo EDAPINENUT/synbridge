@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "CC(=O)COCC(C)=C=C1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1COC2COCC(Cc3ccccc3)=C12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "dtbpf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "via proximal C\u2013C bond cleavage",
+      "type": "conditions"
+    }
+  ]
+]

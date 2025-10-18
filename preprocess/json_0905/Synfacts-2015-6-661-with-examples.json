@@ -1,0 +1,551 @@
+[
+  [
+    {
+      "text": "COc1ccc2[nH]c3c(c2c1)CCN(C)C3",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(OC)cc23)[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(C=Cc1ccccc1)OCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC=C(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCC(c2ccccc2)=C[C@H]1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "er = 88:12"
+      ]
+    },
+    {
+      "text": "CCOB(OCC)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1=CCN(C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCC(C)=C[C@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "er = 93:7"
+      ]
+    },
+    {
+      "text": "CCOB(C=Cc1ccccc1)OCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCc2c([nH]c3ccc(Cl)cc23)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(Cl)cc23)[C@H]1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(OCC)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCc2c([nH]c3ccccc23)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccccc23)[C@@H]1C=Cc1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(C=Cc1cccs1)OCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CN1CCC=CC1C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)N1CCC=C[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "er = 76:24"
+      ]
+    },
+    {
+      "text": "CCOBOCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(OC)cc23)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(OC)cc23)[C@@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(C=Cc1ccccc1)OCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(Cl)cc23)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccc(Cl)cc23)[C@H]1c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(OCC)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccccc23)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1CCc2c([nH]c3ccccc23)[C@@H]1C=Cc1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "text": "CCOB(C=Cc1cccs1)OCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "diol catalyst"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)CC(=O)[C@@H](O)[C@@H](O)C(=O)O"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "type": "other conditions",
+      "text": "alcohol additive"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    }
+  ]
+]

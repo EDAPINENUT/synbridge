@@ -1,0 +1,209 @@
+[
+  [
+    {
+      "text": "CCC=CC(=O)N(CC#C[Se]c1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC([Se]c1ccccc1)=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "Pt(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2.0\u20133.5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12\u201314 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)C=CC(=O)N(CC#C[Se]c1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C([Se]c1ccccc1)=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si](C)(C)C=C1C=CC(=O)N(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "Pt(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2.0\u20133.5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12\u201314 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=O)N(CC#C[Se]c1ccccc1)CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C=CC(=C[Se]c2ccccc2)CN1CCc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C1C=CC(=O)N(CCc2c[nH]c3ccccc23)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "Pt(PPh3)4",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2.0\u20133.5 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 equiv",
+        "stage 2"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12\u201314 h",
+      "type": "conditions"
+    }
+  ]
+]

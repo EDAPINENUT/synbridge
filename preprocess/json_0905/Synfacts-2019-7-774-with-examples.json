@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "text": "CCCCC#CCCOc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=C(C=O)CCOc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCCC=O"
+    },
+    {
+      "relations": [],
+      "type": "products",
+      "text": "C=CC"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CO1->[Rh]2(O(C)->[Rh]13C1=CCC=CC3CC1)C1=CCC=CC2CC1"
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccc([N+](=O)[O-])cc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    }
+  ]
+]

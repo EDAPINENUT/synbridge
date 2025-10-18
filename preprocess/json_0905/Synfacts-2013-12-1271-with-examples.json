@@ -1,0 +1,286 @@
+[
+  [
+    {
+      "text": "CC(=O)Nc1cc(C(=O)NOC(=O)C(C)(C)C)c[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)c1cc2c(cc(NC(C)=O)c[n+]2[O-])c(=O)[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)ONC(=O)c1cc(O)c[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)c1cc2c(cc(O)c[n+]2[O-])c(=O)[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(=O)NOC(=O)C(C)(C)C)c[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](CC)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)c1cc2c(ccc(C)[n+]2[O-])c(=O)[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)ONC(=O)c1ccc[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1[nH]c(C2CC2)cc2c1ccc[n+]2[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)ONC(=O)c1ccc[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=c1[nH]c(-c2ccccc2)c(CO)c2c1ccc[n+]2[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)ONC(=O)c1ccc[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1Cc2c(ccc[n+]2[O-])C(=O)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)ONC(=O)c1ccc[n+]([O-])c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1CCOC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1NC2CCOC2c2c1ccc[n+]2[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "regioselectivity >20:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC1=C(C)C(C)([Rh]2(Cl)<-Cl[Rh](Cl)(<-Cl2)C2(C)C(C)=C(C)C(C)=C2C)C(C)=C1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

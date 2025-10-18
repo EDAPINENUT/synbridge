@@ -1,0 +1,314 @@
+[
+  [
+    {
+      "text": "Cc1cc(C)cc(C#CC(C)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cc(C)cc(C(=O)C[C@H](C)c2ccc(Cl)cc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccc(C(O)C#Cc2cc(C)cc(C)c2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(C=CC(=O)c2cc(C)cc(C)c2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(=O)c1ccc([C@@H](C)CC(=O)c2cc(C)cc(C)c2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C#CC(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)c1ccccc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccccc1C(=O)C[C@H](C)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(O)C#Cc2cccs2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=CC(=O)c2cccs2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc([C@@H](C)CC(=O)c2cccs2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)C#CC[C@H](c1ccc(C)cc1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CC(=O)C[C@H](c1ccc(C)cc1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCCC(=O)C[C@H](c1ccc(C)cc1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC(O)C#CC[C@@H](c1ccc(C)cc1)c1ccccc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=CC(=O)C[C@@H](c1ccc(C)cc1)c1ccccc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1=CC2C(C(=O)Oc3ccc4ccccc4c3)=CC1=CC2C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCCCC(=O)C[C@@H](c1ccc(C)cc1)c1ccccc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "stage 1"
+      ],
+      "text": "IPrAuTf2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "Meyer-Schuster rearrangement",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "stage 2"
+      ],
+      "text": "Rh(I) catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "asymmetric conjugate addition",
+      "type": "conditions"
+    }
+  ]
+]

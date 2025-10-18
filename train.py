@@ -18,7 +18,7 @@ torch.backends.cuda.matmul.allow_tf32 = True
 torch.backends.cudnn.allow_tf32 = True
 torch.set_float32_matmul_precision("medium")
 
-@hydra.main(version_base=None, config_path="./configs", config_name="difm_retro_usptomit")
+@hydra.main(version_base=None, config_path="./configs", config_name="difm_mix_all")
 def main(config: DictConfig):
     # Get command line overrides
     batch_size = config.train.batch_size

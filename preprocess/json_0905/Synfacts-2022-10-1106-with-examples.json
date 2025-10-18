@@ -1,0 +1,274 @@
+[
+  [
+    {
+      "text": "CC(=O)O[C@@H]1CC[C@@]2(C)[C@@H](C1)C[C@@H](OC(C)=O)[C@@H]1[C@@H]2C[C@H](OC(C)=O)[C@]2(C)[C@@H]([C@H](C)CCC(=O)O)CC[C@@H]12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)O[C@@H]1CC[C@@]2(C)[C@@H](C1)C[C@@H](OC(C)=O)[C@@H]1[C@@H]2C[C@H](OC(C)=O)[C@]2(C)[C@@H]([C@H](C)CCS(=O)(=O)O)CC[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CS(=O)(=O)N1CC[N+](S(=O)(=O)[O-])(S(=O)(=O)[O-])CC1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Acridine-PC"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Ligand"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "400 nm LEDs"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Selectfluor"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.2 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "CCCC(CCC)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(CCC)S(=O)(=O)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CS(=O)(=O)N1CC[N+](S(=O)(=O)[O-])(S(=O)(=O)[O-])CC1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Acridine-PC"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Ligand"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "400 nm LEDs"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Selectfluor"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.2 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C)c(OCCCC(C)(C)C(=O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C)c(OCCCC(C)(C)S(=O)(=O)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CS(=O)(=O)N1CC[N+](S(=O)(=O)[O-])(S(=O)(=O)[O-])CC1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Acridine-PC"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Ligand"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "400 nm LEDs"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Selectfluor"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.2 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "O=C1C2CC3CC1CC(C(=O)O)(C3)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1C2CC3CC1CC(S(=O)(=O)F)(C3)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CS(=O)(=O)N1CC[N+](S(=O)(=O)[O-])(S(=O)(=O)[O-])CC1"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cu]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Acridine-PC"
+      ],
+      "type": "catalyst",
+      "text": "Cc1cc(C)c(-c2c3ccccc3nc3ccccc23)c(C)c1"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Ligand"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "400 nm LEDs"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "Selectfluor"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.2 mmol scale"
+    }
+  ]
+]

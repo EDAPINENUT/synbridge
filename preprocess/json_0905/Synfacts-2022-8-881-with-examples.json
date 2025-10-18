@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CCC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@@](C)(C(C)=O)C(=O)OCC)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "82% ee"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "a1"
+      ],
+      "text": "CC(C)(C)[C@@H](N)CN1CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "8 mol%",
+        "Co-1"
+      ],
+      "text": "[O-]N1C(Cl)=C2CCCCC2=NC12N=C1CCCCC1=N2.[O-][N+]([O-])[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "Ir-1"
+      ],
+      "text": "Ir(ppy)2dtbbpyPF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "72 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

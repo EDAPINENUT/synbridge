@@ -1,0 +1,146 @@
+[
+  [
+    {
+      "text": "CCCCC(=O)[C@]12C[C@H](C1)[C@@]1(C=O)C(=O)Nc3ccc(C(C)C)cc3[C@@H]21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "nPr",
+        "OR",
+        "naphthyl",
+        "thiophenyl"
+      ],
+      "text": "CC(=O)[C@]12C[C@H]1C2",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "O-H",
+        "Me",
+        "CF3",
+        "CO2R",
+        "H",
+        "CHO"
+      ],
+      "text": "Cc1c(C)c2ccccc2[nH]c1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "template 1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "hv (366 nm)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "meta-hexafluoroxylene",
+        "2:1 (with TFT)",
+        "0.01M"
+      ],
+      "text": "C[S@](=O)c1sc(Cl)c2c1C(=O)CCC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "trifluorotoluene",
+        "1 part (in 2:1 with HFX)"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(=O)[C@]12C[C@H](C1)[C@]1(C)C(=O)Nc3ccccc3N21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "er=99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "nPr",
+        "OR",
+        "naphthyl",
+        "thiophenyl"
+      ],
+      "text": "CC(=O)[C@]12C[C@H]1C2",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "O-H",
+        "Me",
+        "CF3",
+        "CO2R",
+        "H",
+        "CHO"
+      ],
+      "text": "Cc1c(C)c2ccccc2[nH]c1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "template 1",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "hv (366 nm)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "meta-hexafluoroxylene",
+        "2:1 (with TFT)",
+        "0.01M"
+      ],
+      "text": "C[S@](=O)c1sc(Cl)c2c1C(=O)CCC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "trifluorotoluene",
+        "1 part (in 2:1 with HFX)"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-24 h",
+      "type": "time"
+    }
+  ]
+]

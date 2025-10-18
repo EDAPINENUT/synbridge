@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(F)C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C(NC(=O)OC(C)(C)C)C(C(=O)OCc2ccccc2)C(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCN(CC)C[C@@H](Cc1c[nH]c2ccccc12)NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst 3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

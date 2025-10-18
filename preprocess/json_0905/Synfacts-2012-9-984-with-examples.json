@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "c1ccc(C2=Nc3ccccc3N=C(c3ccccc3)C2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(C2CC(c3ccccc3)Nc3ccccc3N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 20:1",
+        "99% ee (S,S)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2c(c1)N=C(c1ccc3ccccc3c1)CC(c1ccc3ccccc3c1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc2c(c1)NC(c1ccc3ccccc3c1)CC(c1ccc3ccccc3c1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr > 20:1",
+        ">99% ee (S,S)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc2c(c1)N=C(c1ccccc1)CC(c1ccccc1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)NC(c1ccccc1)CC(c1ccccc1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 16:1",
+        "97% ee (S,S)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc2c(c1)N=C(c1ccccc1)CC(c1ccccc1)=N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccc2c(c1)NC(c1ccccc1)CC(c1ccccc1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr = 18:1",
+        "99% ee (S,S)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

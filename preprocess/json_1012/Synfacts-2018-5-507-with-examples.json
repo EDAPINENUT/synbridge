@@ -1,0 +1,73 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccc2ccccc2c1C1=C2CC=CC=C2C=C=N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc2ccccc2c1-c1nccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)c1ccc2ccccc2c1-c1nccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "97% ee",
+        "dr = 5:1"
+      ]
+    },
+    {
+      "relations": [
+        "ligand",
+        "6 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)c1cc(CN[C@@H](c2ccccc2)[C@@H](NCc2cc(C(C)(C)C)cc(C(C)(C)C)c2)c2ccccc2)cc(C(C)(C)C)c1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Zn+2]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCO[SiH](C)OCC"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "reflux"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "36 h"
+    },
+    {
+      "relations": [
+        "1 M"
+      ],
+      "type": "catalyst",
+      "text": "Cl"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.1 mmol scale"
+    }
+  ]
+]

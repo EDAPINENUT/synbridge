@@ -1,0 +1,53 @@
+[
+  [
+    {
+      "text": "CC1=CC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@@H]1COC(c2ccccn2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@@]1(c2ccccc2)CCC(=O)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "PhB(OH)2"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "DCE"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "60\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "12h"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "conditions",
+      "text": "Pd(OCOCF3)2"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "type": "conditions",
+      "text": "(S)-t-BuPyOX"
+    }
+  ]
+]

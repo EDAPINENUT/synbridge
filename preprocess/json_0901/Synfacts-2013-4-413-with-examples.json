@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "C=CCON=C1C[C@H](C)CC[C@H]1C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1CC[C@@H](C(C)(C)C)C(=NOCC(COC(=O)c2ccccc2)OC(=O)c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "PdCl2(PhCN)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2-3 equiv"
+      ],
+      "text": "PhI(OBz)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCON=C1C[C@H](C)CC[C@H]1C(C)(C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(C)(C)[C@@H]1CC[C@@H](C)CC1=NOCC(COC(=O)c1ccccc1)OC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "PdCl2(PhCN)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2-3 equiv"
+      ],
+      "text": "PhI(OBz)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "8h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "CCCC=C(c1ccc(OC)cc1)N(OCc1ccccc1)C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(CCCC)(NC(=O)C(F)(F)F)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "AraAI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF-CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCCC#N)N(OCc1ccccc1)C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C)(CCCC#N)NC(=O)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "AraAI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF-CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

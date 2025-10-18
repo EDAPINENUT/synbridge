@@ -1,0 +1,642 @@
+[
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(C(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1cccc(C(F)(F)F)c1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "FC(F)(F)c1cccc(C=C(O[K])O[K])c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(C(=O)O)c2cccc(C(F)(F)F)c2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C(=O)O)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cn1ccc2ccc(C(C(=O)O)c3ccccc3)cc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccc(F)cc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Fc1ccc(C=C(O[K])O[K])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(C(=O)O)c2ccc(F)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)c1ccc(C(C(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1cccnc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1cccnc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(C(=O)O)c2cccnc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[K]OC(=Cc1ccccc1)O[K]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C(C(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2cccc3c2Oc2c(cccc2P(c2ccccc2)c2ccccc2)N3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "KN(SiMe3)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Ar2X (X = Cl, Br)",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "NiXantphos",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "stage3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "conditions"
+    }
+  ]
+]

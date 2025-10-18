@@ -1,0 +1,174 @@
+[
+  [
+    {
+      "text": "CC(=O)OCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield (R=4-OMe)",
+        "69% yield (R=4-Me)",
+        "62% yield (R=4-F)",
+        "59% yield (R=3-F)",
+        "51% yield (R=2-F)",
+        "48% yield (R=4-CF3)",
+        "61% yield (R=4-Cl)",
+        "56% yield (R=4-COMe)",
+        "67% yield (R=4-CO2Me)",
+        "61% yield (R=4-NO2)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "PHOX ligand"
+      ],
+      "text": "CC(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)OCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield (R=2-F)",
+        "60% yield (R=4-Cl)",
+        "55% yield (R=2-OMe)",
+        "70% yield (R=4-t-Bu)",
+        "43% yield (R=3-CN)",
+        "59% yield (R=4-CF3)",
+        "59% yield (R=3-Cl)",
+        "62% yield (R=4-OCF3)",
+        "55% yield (R=3-Me)",
+        "58% yield (R=4-OMe)",
+        "52% yield (R=3-Vinyl)",
+        "58% yield (R=4-SMe)",
+        "69% yield (R=4-F)",
+        "62% yield (R=4-Ph)"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "PHOX ligand"
+      ],
+      "text": "CC(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)OCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)c1ccccc1)c1ccsc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "21% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "PHOX ligand"
+      ],
+      "text": "CC(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].O.O.O.O.[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

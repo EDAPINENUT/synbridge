@@ -1,0 +1,220 @@
+[
+  [
+    {
+      "text": "CC(=O)NC1=Cc2ccccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H]1CCc2ccccc2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "Ir catalyst 1",
+        "CH2Cl2",
+        "H2 (3 bar)",
+        "Ir catalyst 1",
+        "EtOAc",
+        "H2 (3 bar)"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar",
+        "3 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "100% conversion",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC1=Cc2c(Br)cccc2CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H]1CCc2cc(Br)ccc2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "Ir catalyst 2",
+        "CH2Cl2",
+        "H2 (50 bar)",
+        "Ir catalyst 1",
+        "EtOAc",
+        "H2 (3 bar)"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar",
+        "3 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "100% conversion",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1=CCCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H]1CCCc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "Ir catalyst 1",
+        "CH2Cl2",
+        "H2 (3 bar)"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar",
+        "3 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "100% conversion",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc2c1C(C)=CCC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)CCC[C@@H]2NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% ee",
+        "Ir catalyst 2",
+        "CH2Cl2",
+        "H2 (3 bar)"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Ir]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar",
+        "3 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "100% conversion",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  [
+    {
+      "text": "C=CC(=C)CCC=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CCC=C(C)C)C[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1\u201310 mol%"
+      ],
+      "text": "Ni(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0-2.4 equiv"
+      ],
+      "text": "EtaB or Et2Zn",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "16-96% yield",
+        "56 examples"
+      ],
+      "text": "reaction yield",
+      "type": "conditions"
+    }
+  ]
+]

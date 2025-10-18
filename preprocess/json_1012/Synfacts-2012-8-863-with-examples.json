@@ -1,0 +1,206 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](C#CC=CC(=O)Oc1ccccc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@H]1CC(=O)O[C@]12C(=O)N(C)c1ccccc12)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr=11.4:1",
+        "ee=76%"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-ProPhenol"
+      ],
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.25 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=Cc1ccccc1)Oc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCN1C(=O)[C@]2(OC(=O)C[C@@H]2c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=7.4:1",
+        "ee=97%"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-ProPhenol"
+      ],
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.25 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC(=O)Oc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C(O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2CC(=O)O[C@]23C(=O)N(C)c2ccccc23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=13:1",
+        "ee=96%"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "(R,R)-ProPhenol"
+      ],
+      "text": "Cc1cc(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1",
+        "0.60 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.25 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

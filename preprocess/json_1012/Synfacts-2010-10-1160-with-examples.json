@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "text": "O=C(OCc1ccccc1)N1CC=C(c2ccccc2)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCc1ccccc1)N1CCC(c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">78% conversion",
+        "99% ee",
+        "(+)",
+        "ligand B"
+      ]
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "[Ir(cod)L]+ BArF-",
+        "ligand A"
+      ],
+      "text": "c1ccc(-c2nc3c(s2)CCC[C@@H]3CP(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "[Ir(cod)L]+ BArF-",
+        "ligand B"
+      ],
+      "text": "CN([C@@H]1CCCc2sc(-c3ccccc3)nc21)P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "[Ir(cod)L]+ BArF-",
+        "ligand C"
+      ],
+      "text": "Cc1ccccc1P(c1ccccc1C)N1[C@H]2CC[C@H](C2)[C@@H]1C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 bar"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

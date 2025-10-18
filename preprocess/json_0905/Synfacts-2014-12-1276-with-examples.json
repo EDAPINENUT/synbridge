@@ -1,0 +1,109 @@
+[
+  [
+    {
+      "text": "O=CNC=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)NC(Cc1ccccc1)C(=O)OC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "86% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "(S)-Binapine"
+      ],
+      "text": "*[P@@]1Cc2ccc3ccccc3c2[C@@H]2c3c(ccc4ccccc34)C[P@](C(C)(C)C)[C@H](c3cccc4ccc5ccccc5c34)[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:2"
+      ],
+      "text": "CCN(CC)CC.O=CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(=Cc1ccccc1)C(=O)OC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)NC(Cc1ccccc1)C(=O)OC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "86% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)[O-].CC(=O)[O-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "(S)-Binapine"
+      ],
+      "text": "*[P@@]1Cc2ccc3ccccc3c2[C@@H]2c3c(ccc4ccccc34)C[P@](C(C)(C)C)[C@H](c3cccc4ccc5ccccc5c34)[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:2",
+        "3:3"
+      ],
+      "text": "CCN(CC)CC.O=CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "90\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ]
+]

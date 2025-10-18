@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCCC1N=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCC[C@@]1(CC=Cc1ccccc1)N=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)[C@@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "CuBF4/ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "[Pd(PPha)4]",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "NaBH4",
+      "type": "conditions"
+    }
+  ]
+]

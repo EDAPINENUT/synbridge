@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "text": "CC(Cl)(C#N)c1ccccc1C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)c2ccccc2C2=C(c3ccccc3)C(=O)NC21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "O=C=[Co]1(=C=O)(=C=O)C(=O)[Co](=C=O)(=C=O)(=C=O)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.4 equiv"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "CC#N.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "one-pot",
+      "type": "other conditions"
+    }
+  ]
+]

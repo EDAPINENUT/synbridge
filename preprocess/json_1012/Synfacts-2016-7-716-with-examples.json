@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "text": "CC#CCN(CC#Cc1ccccc1Cl)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1nc(C)c2c(c1-c1ccccc1Cl)CN(S(=O)(=O)c1ccc(C)cc1)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "chiral product 83% yield",
+        "63% ee",
+        "achiral product 0% yield"
+      ]
+    },
+    {
+      "text": "CCOC(=O)c1nc(-c2ccccc2Cl)c2c(c1C)CN(S(=O)(=O)c1ccc(C)cc1)C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "(S)-Hg-BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2CCCC4)CCCC3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16h",
+      "type": "time"
+    }
+  ]
+]

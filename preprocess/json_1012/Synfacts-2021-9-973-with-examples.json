@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "text": "CC#CCC(CC#C[Si](C)(C)C)(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1(C(=O)OCC)Cc2c(C)nc(-c3ccccc3)c([Si](C)(C)C)c2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "59% yield",
+        "99:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Ni+2]([cH-]1cccc1)([cH-]1cccc1)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC1(C)c2cc(P(c3ccccc3)c3ccccc3)ccc2Oc2ccc(P(c3ccccc3)c3ccccc3)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "[2+2+2]",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,546 @@
+[
+  [
+    {
+      "text": "S=P(N=Cc1ccc2ccccc2c1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NP(=S)(c1ccccc1)c1ccccc1)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C=NP(=S)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc([C@@H](CC#N)NP(=S)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)c1cccc(C=NP(=S)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@H](NP(=S)(c1ccccc1)c1ccccc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cccc(C=NP(=S)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@@H](CC#N)NP(=S)(c2ccccc2)c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "S=P(N=Cc1ccc(Cl)cc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NP(=S)(c1ccccc1)c1ccccc1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Fc1ccc(C=NP(=S)(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NP(=S)(c1ccccc1)c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "S=P(N=Cc1ccoc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NP(=S)(c1ccccc1)c1ccccc1)c1ccoc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "S=P(N=Cc1ccsc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC[C@@H](NP(=S)(c1ccccc1)c1ccccc1)c1ccsc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)[C@@H](c1cccc(P(c2ccccc2)c2ccccc2)c1)c1ccccc1P(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(MeCN)4PF6",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Barton's base",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DME",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "3 \u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,137 @@
+[
+  [
+    {
+      "text": "Cc1ccccc1C(C)C(=O)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@@H](C)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr >20:1",
+        "er=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "0.08 mol%"
+      ],
+      "text": "TtArAT",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Gln",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "pH 9.0",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C(=O)C(=O)O)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(c1cccc(C(F)(F)F)c1)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr >20:1",
+        "er=96.5:3.5"
+      ]
+    },
+    {
+      "relations": [
+        "0.08 mol%"
+      ],
+      "text": "TtArAT",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Gln",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "pH 9.0",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)C(=O)C(=O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H](C)[C@H](N)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr >20:1",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "0.08 mol%"
+      ],
+      "text": "TtArAT",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "PLP",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Gln",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "pH 9.0",
+      "type": "other conditions"
+    }
+  ]
+]

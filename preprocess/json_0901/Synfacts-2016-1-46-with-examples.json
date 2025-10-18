@@ -1,0 +1,262 @@
+[
+  [
+    {
+      "text": "O=C(O)C=C(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(O)CCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "1 mol%"
+      ],
+      "text": "Rh(cod)2BF4/ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "morpholine",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "25 atm"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "CH2Cl2-H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC(=CC(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC(Oc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(O)CCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "1 mol%"
+      ],
+      "text": "Rh(cod)2BF4/ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "morpholine",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "25 atm"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "CH2Cl2-H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C=C(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CC(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)CC(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "Rh(cod)2BF4/ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "morpholine",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "25 atm",
+        "stage1"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1",
+        "stage1"
+      ],
+      "text": "CH2Cl2-H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2N2 (in Et2O)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(OC(=CC(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(OC(CC(=O)O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COC(=O)CC(Oc1ccc(OC)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "1 mol%",
+        "stage1"
+      ],
+      "text": "Rh(cod)2BF4/ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage1"
+      ],
+      "text": "morpholine",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "25 atm",
+        "stage1"
+      ],
+      "text": "H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1",
+        "stage1"
+      ],
+      "text": "CH2Cl2-H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2N2 (in Et2O)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    }
+  ]
+]

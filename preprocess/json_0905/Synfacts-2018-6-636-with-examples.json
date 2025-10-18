@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "COc1cccc([Si](C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(N=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "2.0 equiv"
+      ],
+      "text": "F[B-](F)(F)F.N#[O+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)c1cccc(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Nc1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "2.0 equiv"
+      ],
+      "text": "F[B-](F)(F)F.N#[O+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)c1cccc(-c2ccccc2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[NH+]c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "2.0 equiv"
+      ],
+      "text": "F[B-](F)(F)F.N#[O+]",
+      "type": "catalyst"
+    }
+  ]
+]

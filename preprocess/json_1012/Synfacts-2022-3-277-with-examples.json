@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "C=C(CC1(C(=O)O)CCCCC1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@@]1(CC(=C)c2ccccc2)CCCCC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "6.25 mol%",
+        "(S)-t-BuPHOX"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Na+]"
+    },
+    {
+      "relations": [
+        "0.033 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C(=O)O)CCCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COC(=O)OC)c1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C[C@]1(C)CCC(C)(C)CC1=O)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "6.25 mol%",
+        "(S)-t-BuPHOX"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Na+]"
+    },
+    {
+      "relations": [
+        "0.033 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C(=O)O)CCCCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COCc1ccccc1)COC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COCc1ccccc1)C[C@@]1(C)CCC(C)(C)CC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "6.25 mol%",
+        "(S)-t-BuPHOX"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[C@H]1COC(c2ccccc2P(c2ccccc2)c2ccccc2)=N1"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "ClC(Cl)Cl.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Na+]"
+    },
+    {
+      "relations": [
+        "0.033 M"
+      ],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12 h"
+    }
+  ]
+]

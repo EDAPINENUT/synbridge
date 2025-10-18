@@ -1,0 +1,134 @@
+[
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@@H](O)COc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@@H](O)COc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "[NH3+]C(C(=O)[O-])[C@H](O)COc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[NH3+][C@](CO)(C(=O)[O-])[C@H](O)COc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@H](O)COCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC([NH3+])C(=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]([NH3+])(C(=O)[O-])[C@H](O)c1c(F)c(F)c(F)c(F)c1F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "SHMTstn Y55T",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "C=C(O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@H](CC(=O)c1cccc[n+]1[O-])c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "BOX ligand"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1cccc([N+](=O)[O-])c1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@H](CC(=O)c1cccc[n+]1[O-])c1cccc([N+](=O)[O-])c1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "BOX ligand"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccc2ccccc2c1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@H](CC(=O)c1cccc[n+]1[O-])c1ccc2ccccc2c1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "BOX ligand"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=CC=Cc1ccccc1)c1cccc[n+]1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@@H](C=Cc1ccccc1)CC(=O)c1cccc[n+]1[O-])c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "72% ee"
+      ]
+    },
+    {
+      "relations": [
+        "BOX ligand"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

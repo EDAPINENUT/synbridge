@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "text": "CCOC(=O)CNc1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCCCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC#C[C@@H](Nc1ccc(C)cc1)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "er=93.5:6.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "10 mol%"
+      ],
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CNc1ccc(C)cc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H](C#Cc1ccccc1)Nc1ccc(C)cc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "er=87:13"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "10 mol%"
+      ],
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CNc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](C#Cc1ccccc1)Nc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "er=84:16"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "10 mol%"
+      ],
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)nc(C2=N[C@@H]3c4ccccc4C[C@@H]3O2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "overnight",
+      "type": "time"
+    }
+  ]
+]

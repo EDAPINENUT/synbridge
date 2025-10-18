@@ -1,0 +1,161 @@
+[
+  [
+    {
+      "text": "CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C(N)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](NC(=O)c1ccc(C(C)(C)C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "R = 4-CH2OAc",
+        "er = 93:7",
+        "67% yield",
+        "R = 4-OAc",
+        "er = 92:8",
+        "R = 3-OMe",
+        "R = 4-OTs",
+        "R = 2-Py",
+        "56% yield",
+        "R = 4-COMe",
+        "er = 91:9",
+        "50% yield",
+        "er = 91:9",
+        "53% yield",
+        "er = 91:9",
+        "29% yield",
+        "er = 81:19"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "BOX L*"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[Ir(dF(CF3)ppy)2(dtbpy)]PF6"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(C)(C)OOC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "N#Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "425 nm LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-9\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc([C@H](C)C(N)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc([C@H](C)C(=O)N[C@H](C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr > 30:1",
+        "ibuprofen analogue"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "BOX L*"
+      ],
+      "text": "CC(C)(C1=N[C@H](c2ccccc2)CO1)C1=N[C@H](c2ccccc2)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[Ir(dF(CF3)ppy)2(dtbpy)]PF6"
+      ],
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CC(C)(C)OOC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "N#Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "425 nm LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "-9\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

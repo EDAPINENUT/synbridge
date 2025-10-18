@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "text": "C=C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C=O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@](C=O)(CC=Cc1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C=CC[Pd]Cl.C=CC[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "DpePhos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "org-Cat"
+      ],
+      "text": "CCC(CC)N(C[C@@H](N)C(C)(C)C)C(CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "40\u201372 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.3 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "text": "Ic1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "IC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "55% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "CO surrogate"
+      ],
+      "text": "O=C(Cl)C(=O)Cl",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Ni+2]([Cl-])([Cl-]).COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "c1ccc(-c2ccccn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "3:1"
+      ],
+      "text": "C1CCOC1.CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

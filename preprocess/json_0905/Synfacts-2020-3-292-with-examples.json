@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CC(Br)S(=O)(=O)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](C)S(=O)(=O)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "84% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Br[Ni]Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "(S,S)-ligand"
+      ],
+      "text": "CC(Cc1ccccc1)(C1=N[C@H](c2ccccc2)C(c2ccccc2)(c2ccccc2)O1)C1=N[C@@H](c2ccccc2)C(c2ccccc2)(c2ccccc2)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "CO[SiH](OC)OC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1"
+      ],
+      "text": "COCCOC.ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "18\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

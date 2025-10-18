@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C=CC(c2ccnc(C(F)(F)F)c2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "38% yield"
+      ]
+    },
+    {
+      "relations": [
+        "Het(substituted) pyridine",
+        "1,2- or 1,3-diazine",
+        "isoquinoline",
+        "n=1-3"
+      ],
+      "text": "c1ccncc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "[TC]",
+        "20 mol%"
+      ],
+      "text": "thiol catalyst",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "n1c(C)cc(C)c(C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "365 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "EvoluChem",
+      "type": "other conditions"
+    }
+  ]
+]

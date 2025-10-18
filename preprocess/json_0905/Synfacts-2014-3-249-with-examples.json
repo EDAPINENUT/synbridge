@@ -1,0 +1,462 @@
+[
+  [
+    {
+      "text": "C=CCN1C(=O)CC1Cc1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCCC2c3[nH]c4ccccc4c3CCN12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(CCc1c[nH]c2ccccc12)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(C)c2[nH]c3ccccc3c2CCN1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "with a chiral phosphoric acid",
+        "73% yield",
+        "50% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(CCc1c[nH]c2ccccc12)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1c2cc(OC)c(OC)cc2CCN1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C=CCN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC1(C)c2[nH]c3ccccc3c2CCN1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "with a chiral phosphoric acid",
+        "73% yield",
+        "50% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Br/C=C/CN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage 1"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 2"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C=CCN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC1c2cc(OC)c(OC)cc2CCN1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Br/C=C/CN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage 1"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 2"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OBO",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C=CCN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC[C@@H]1c2[nH]c3ccccc3c2C[C@@H](C(=O)OC)N1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "dr=15:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Br/C=C/CN(CCc1c[nH]c2ccccc12)Cc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "stage 1"
+      ],
+      "text": "CC(C)(C)P(C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv",
+        "stage 1"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "stage 2"
+      ],
+      "text": "Cl[RuH].[C-]#[O+].c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1.c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 2"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "reflux",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "8 h",
+      "type": "time"
+    }
+  ]
+]

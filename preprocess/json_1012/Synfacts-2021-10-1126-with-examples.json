@@ -1,0 +1,638 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C#N)(C#N)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C#N)([Mg]Br)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CI",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)[Si](Oc1ccc(C(C)(C#N)c2ccccc2)cc1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)(C#N)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)([Mg]Br)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Ic1ccc(N2CCCC2)nc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C#N)(c1ccc(N2CCCC2)nc1)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC(C#N)(C#N)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C#N)([Mg]Br)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)c1ccc(I)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCC(C#N)(c1ccc(N(C)C)cc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C#N)(C#N)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C#N)([Mg]Br)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Ic1ccc(OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C#N)(c1ccc(OCc2ccccc2)cc1)c1cccc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cn1cc(C(C#N)(C#N)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1cc(C(C#N)([Mg]Br)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CI",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "Cn1cc(C(C)(C#N)c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@H]1CC[C@@H](C)C[C@@H]1Oc1ccc(C(C#N)(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1CC[C@@H](C)C[C@@H]1Oc1ccc(C(C#N)([Mg]Br)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CI",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)[C@H]1CC[C@@H](C)C[C@@H]1Oc1ccc(C(C)(C#N)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.8 equiv"
+      ],
+      "text": "[Br-].[Mg+2].[c-]1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "40 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "Ligand D",
+        "20 mol%"
+      ],
+      "text": "COc1ccc(C#N)c(-n2cccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "6 h",
+      "type": "time"
+    }
+  ]
+]

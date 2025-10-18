@@ -1,0 +1,78 @@
+[
+  [
+    {
+      "text": "CC1(C)N=CC2(CCCCC2)S1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)NC(=O)C1N(C(=O)C=CBr)C(C)(C)SC12CCCCC2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)N1C(=O)[C@H]2[C@H]3SC4(CCCCC4)[C@H](C3=O)N2C1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.0 equiv"
+      ],
+      "text": "R -NC",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 d",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "1.0 equiv each"
+      ],
+      "text": "Cul/CuBr2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 2",
+        "5.0 equiv"
+      ],
+      "text": "K2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30h",
+      "type": "conditions"
+    }
+  ]
+]

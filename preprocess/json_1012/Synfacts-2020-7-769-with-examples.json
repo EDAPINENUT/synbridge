@@ -1,0 +1,79 @@
+[
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1COC(CCc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "COCN(C)C[Si](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[F-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50-80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CCC(C=O)(Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "40% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "NHMe"
+      ],
+      "text": "CN",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "temperature"
+    }
+  ]
+]

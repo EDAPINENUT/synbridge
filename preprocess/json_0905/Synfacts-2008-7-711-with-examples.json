@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "O=C1OC[C@H]2C[C@]3(c4ccccc4)O[C@@H]3C=C12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "ee=93%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "COC(=O)/C=C/C[S+](C)C1C2CCC(C)(C1O)C2(C)C.[Br-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0-50\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "O=C1OCC[C@H]2C[C@@]3(c4ccc(Br)cc4)O[C@H]3C=C12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "ee=93%"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "COC(=O)/C=C/C[S+](C)C1C2CCC(C)(C1O)C2(C)C.[Br-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0-50\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1=C[C@@H]2O[C@]2(c2ccc(Br)cc2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "COC(=O)/C=C/C[S+](C)C1C2CCC(C)(C1O)C2(C)C.[Br-]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0-50\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccc(-c2cncnc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(-c2cncnc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield (Mn(OAc)3)",
+        "73% yield (KMnO4)"
+      ]
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-]->[Mn+3](<-[O-]C(C)=O)<-[O-]C(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "zeolite"
+    },
+    {
+      "relations": [
+        "ArH"
+      ],
+      "type": "catalyst",
+      "text": "c1ccccc1"
+    },
+    {
+      "relations": [
+        "ArH"
+      ],
+      "type": "catalyst",
+      "text": "c1ccsc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "ArH:AcOH = 20:1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "microwave irradiation"
+    }
+  ]
+]

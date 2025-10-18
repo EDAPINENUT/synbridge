@@ -1,0 +1,278 @@
+[
+  [
+    {
+      "text": "COc1cccc(C=CC=O)c1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=C(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(C=CC(=O)C(NC(=O)OC(C)(C)C)(c2ccccc2)C(F)(F)F)c1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=C(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N[C@](C(=O)C#Cc1ccccc1)(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C(=NC(=O)OC(C)(C)C)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C(NC(=O)OC(C)(C)C)(C(=O)C=Cc2ccccc2)C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=NC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)[C@@](NC(=O)OC(C)(C)C)(C(=O)C=Cc1ccc(Cl)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(=NC(=O)OC(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)[C@@](NC(=O)OC(C)(C)C)(C(=O)C=Cc1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=CC=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N=C(C#N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)[C@@H]1CCc2n[n+](Cc3ccccc3)cn21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(C=CC(=O)C(C#N)(NC(=O)OC(C)(C)C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "NHC precursor A",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

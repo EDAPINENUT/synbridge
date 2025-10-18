@@ -1,0 +1,272 @@
+[
+  [
+    {
+      "text": "O=C(C(Cl)Cl)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C([C@H](F)CCc1ccccc1)N1CCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "er = 94:6",
+        "from chloro-fluoro substrate"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ERED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "NC(=O)c1ccc[n+](C2C(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C(OP(=O)(O)O)C3O)OC(CO)C2O)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "GDH-105",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=CC(O)C(O)C(O)C(O)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 8"
+      ],
+      "text": "KP buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 v%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "497 nm LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CON(C)C(=O)C(Cl)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON(C)C(=O)[C@H](Cl)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "19% yield",
+        "er = 61:39"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ERED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "NC(=O)c1ccc[n+](C2C(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C(OP(=O)(O)O)C3O)OC(CO)C2O)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "GDH-105",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=CC(O)C(O)C(O)C(O)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 8"
+      ],
+      "text": "KP buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 v%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "497 nm LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C(Cl)Cl)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1cccnc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C([C@H](Cl)CCc1cccnc1Cl)N1CCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "27% yield",
+        "er = 85:15"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ERED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "NC(=O)c1ccc[n+](C2C(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C(OP(=O)(O)O)C3O)OC(CO)C2O)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "GDH-105",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=CC(O)C(O)C(O)C(O)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 8"
+      ],
+      "text": "KP buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 v%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "497 nm LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C(Cl)Cl)N1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C[C@@H](Cl)C(=O)N1CCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "er = 96:4",
+        "dr = 88:12"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "ERED",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "NC(=O)c1ccc[n+](C2C(COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C(OP(=O)(O)O)C3O)OC(CO)C2O)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "GDH-105",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=CC(O)C(O)C(O)C(O)CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 8"
+      ],
+      "text": "KP buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 v%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "497 nm LED",
+      "type": "other conditions"
+    }
+  ]
+]

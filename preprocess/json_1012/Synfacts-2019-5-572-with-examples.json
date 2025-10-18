@@ -1,0 +1,562 @@
+[
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccccc1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccccc2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr=99:1",
+        "92% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccccc2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccccc1Br)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccccc2Br)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=99:1",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccccc2Br)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccccc1C#N)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@]1([C@@H](NC(=O)OC(C)(C)C)c2ccccc2C#N)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=99:1",
+        "97% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccccc2C#N)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccccc1[N+](=O)[O-])S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccccc2[N+](=O)[O-])C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr=99:1",
+        "91% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccccc2[N+](=O)[O-])C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1cccc(Cl)c1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2cccc(Cl)c2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr=99:1",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2cccc(Cl)c2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccc(-c2ccccc2)cc1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccc(-c3ccccc3)cc2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=99:1",
+        "83% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccc(-c3ccccc3)cc2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(NC(=O)OC(C)(C)C)S(=O)(=O)c2ccccc2)cc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccc(OC)c(OC)c2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=99:1",
+        "82% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccc(OC)c(OC)c2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1ccc(Cl)cc1F)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2ccc(Cl)cc2F)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=99:1",
+        "88% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2ccc(Cl)cc2F)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1cc(Br)cs1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2cc(Br)cs2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr=99:1",
+        "98% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2cc(Br)cs2)C(=O)c2ccccc2N1C(C)=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1C(=O)c2ccccc2N1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NC(c1cccc(Cl)c1)S(=O)(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@@H](NC(=O)OC(C)(C)C)c2cccc(Cl)c2)C(=O)c2ccccc2N1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=99:1",
+        "80% ee"
+      ]
+    },
+    {
+      "text": "COC(=O)[C@@]1([C@H](NC(=O)OC(C)(C)C)c2cccc(Cl)c2)C(=O)c2ccccc2N1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@@H]2CCCC[C@H]2N2CCCCC2)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "aqueous"
+      ],
+      "text": "O=C([O-])[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylene",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-3 d",
+      "type": "time"
+    }
+  ]
+]

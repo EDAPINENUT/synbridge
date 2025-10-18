@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "Clc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1c(F)c(F)c(C2=C3C=CC(=N3)C(c3c(F)c(F)c(F)c(N(C)C)c3F)c3ccc(n3F)C(c3c(F)c(F)c(F)c(N(C)C)c3F)=C(F)C3=NC2C=CN2[GeH2]N(F)C4C=CC3=C2C=CC4c2c(F)c(F)c(N(C)C)c(F)c2F)c(F)c1F",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Clc1cc(Cl)cc(NC2CCc3ccccc32)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "R\u00b3-N\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Fe(TF4DMAP)CI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25-35\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u201310h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@@H](C)c1ccc(CC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1c(F)c(F)c(C2=C3C=CC(=N3)C(c3c(F)c(F)c(F)c(N(C)C)c3F)c3ccc(n3F)C(c3c(F)c(F)c(F)c(N(C)C)c3F)=C(F)C3=NC2C=CN2[GeH2]N(F)C4C=CC3=C2C=CC4c2c(F)c(F)c(N(C)C)c(F)c2F)c(F)c1F",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)[C@@H](C)c1ccc(C(Nc2cc(C(F)(F)F)cc(C(F)(F)F)c2)C(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "R\u00b3-N\u2083",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "Fe(TF4DMAP)CI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u00c5 MS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25-35\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4\u201310h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ]
+]

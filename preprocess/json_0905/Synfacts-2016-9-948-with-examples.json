@@ -1,0 +1,37 @@
+[
+  [
+    {
+      "text": "CCOC(=O)CNc1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCCCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC#C[C@@H](Nc1ccc(C)cc1)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "er=93.5:6.5"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "c1cc(C2=N[C@H]3c4ccccc4C[C@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1"
+    }
+  ]
+]

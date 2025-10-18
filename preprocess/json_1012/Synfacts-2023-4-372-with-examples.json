@@ -1,0 +1,273 @@
+[
+  [
+    {
+      "text": "CC(Br)CCCC(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(Br)CCCC(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 72% yield",
+        "B: 71% yield",
+        "C: 70% yield",
+        "A rr > 20:1",
+        "B rr = 20:1",
+        "C rr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "[Ni] salt",
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L",
+        "12 mol%"
+      ],
+      "text": "Clc1cc(C2=NCCO2)nc(C2=NCCO2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CNC(=O)CCCC(C)Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CNC(=O)CCCC(C)Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 71% yield",
+        "B: 70% yield",
+        "C: 71% yield",
+        "A rr > 20:1",
+        "B rr > 20:1",
+        "C rr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "[Ni] salt",
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L",
+        "12 mol%"
+      ],
+      "text": "Clc1cc(C2=NCCO2)nc(C2=NCCO2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OCCCCC(Br)CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCCCCCCBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 69% yield",
+        "B: 78% yield",
+        "C: 82% yield",
+        "A rr > 20:1",
+        "B rr = 13:1",
+        "C rr > 20:1",
+        "R = Me"
+      ]
+    },
+    {
+      "relations": [
+        "[Ni] salt",
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L",
+        "12 mol%"
+      ],
+      "text": "Clc1cc(C2=NCCO2)nc(C2=NCCO2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent"
+      ],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OCCCCC(Br)CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCCCCCCBr",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 69% yield",
+        "B: 78% yield",
+        "C: 82% yield",
+        "A rr > 20:1",
+        "B rr = 13:1",
+        "C rr > 20:1",
+        "R = Me"
+      ]
+    },
+    {
+      "relations": [
+        "[Ni] salt",
+        "10 mol%"
+      ],
+      "text": "O.O.O.O.O.O.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L",
+        "12 mol%"
+      ],
+      "text": "Cc1ccc(-c2ccc(C)cn2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent",
+        "1:1"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "solvent",
+        "1:1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON1C(C)(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 equiv"
+      ],
+      "text": "FeSO4\u00b77H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5.0 equiv"
+      ],
+      "text": "H2O2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMSO",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.1-4.2 equiv"
+      ],
+      "text": "MCPBA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "CCSC(=O)c1cc(B2OC(C)(C)C(C)(C)O2)ccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB(c2ccc(C#N)cc2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.[OH-].[OH-].[Rh+].[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "CCCCP(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(=O)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "CPME"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

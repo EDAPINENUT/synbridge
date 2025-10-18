@@ -1,0 +1,173 @@
+[
+  [
+    {
+      "text": "CN1CCC(=O)N(C)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1cc(C(F)(F)F)c(=O)n(C)c1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "F[C-](F)F.[Cu+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)C#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "F[C-](F)F.[Cu+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "FC(F)(F)C#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield"
+      ]
+    },
+    {
+      "text": "OB(O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "O=S(c1ccccc1)C(F)(F)F",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "F[C-](F)F.[Cu+]",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "2.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

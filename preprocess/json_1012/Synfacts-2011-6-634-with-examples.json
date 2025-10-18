@@ -1,0 +1,307 @@
+[
+  [
+    {
+      "text": "C[C@@H](N=CC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)Oc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H]([C@H]1C=CC(=O)O1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "L1",
+        "11 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N=CC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccoc1O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=CC(=O)O[C@H]1[C@@H](N[C@@H](C)c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "L1",
+        "11 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N=CC(F)(F)Cl)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)Oc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H]([C@H]1C=CC(=O)O1)C(F)(F)Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "L1",
+        "11 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N=CC(F)(F)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)Oc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H]([C@H]1C=CC(=O)O1)C(F)(F)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "L1",
+        "11 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@H](N=CC(F)(F)c1ccc(Br)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)Oc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](N[C@H]([C@H]1C=CC(=O)O1)C(F)(F)c1ccc(Br)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "L1",
+        "11 mol%"
+      ],
+      "text": "CC(C)(C)[C@H]1COC(c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "7 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

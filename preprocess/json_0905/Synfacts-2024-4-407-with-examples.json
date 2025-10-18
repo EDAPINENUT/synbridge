@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "text": "C=CC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@]1(C)CCCC=C1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "er=84:16"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "HX*"
+      ],
+      "text": "ClN=P1(N=P2(NCl)Oc3c(Cl)cc4ccccc4c3-c3c(Cl)cc4ccccc4c3O2)Oc2c(Cl)cc3ccccc3c2-c2c(c(Cl)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1cccc(OC)c1)C1(C)C2C3C2C31",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@@]2(C)CCCC=C2C)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "HX*"
+      ],
+      "text": "ClN=P1(N=P2(NCl)Oc3c(Cl)cc4ccccc4c3-c3c(Cl)cc4ccccc4c3O2)Oc2c(Cl)cc3ccccc3c2-c2c(c(Cl)cc3ccccc23)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

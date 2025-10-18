@@ -1,0 +1,183 @@
+[
+  [
+    {
+      "text": "C=C(COC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cn1cc(C[C@H](NC(=O)OC(C)(C)C)C(=O)OC)c2ccccc21)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "peptide"
+      ],
+      "type": "reactants",
+      "text": "CCc1c[nH]c2ccccc12"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DABCO"
+      ],
+      "type": "catalyst",
+      "text": "CN1CC2CC(C1)N2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cn1cc(C[C@H](NC(=O)OC(C)(C)C)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC)c2ccccc21)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "relations": [
+        "peptide"
+      ],
+      "type": "reactants",
+      "text": "CCc1c[nH]c2ccccc12"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DABCO"
+      ],
+      "type": "catalyst",
+      "text": "CN1CC2CC(C1)N2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cn1cc(C[C@H](NC(=O)[C@H](CC(C)C)NC(=O)OC(C)(C)C)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC)c2ccccc21)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield"
+      ]
+    },
+    {
+      "relations": [
+        "peptide"
+      ],
+      "type": "reactants",
+      "text": "CCc1c[nH]c2ccccc12"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DABCO"
+      ],
+      "type": "catalyst",
+      "text": "CN1CC2CC(C1)N2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cn1cc(C[C@H](NC(=O)[C@@H]2CCCN2C(=O)[C@@H](Cc2ccc(OC(C)(C)C)cc2)NC(=O)OC(C)(C)C)C(=O)N[C@@H](Cc2ccccc2)C(=O)OC)c2ccccc21)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "from Endomorphin-1"
+      ]
+    },
+    {
+      "relations": [
+        "peptide"
+      ],
+      "type": "reactants",
+      "text": "CCc1c[nH]c2ccccc12"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DABCO"
+      ],
+      "type": "catalyst",
+      "text": "CN1CC2CC(C1)N2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ]
+]

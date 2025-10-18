@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "COc1ccc(C=CC(=S)N(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC=CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@@H](CC(=S)N(C)C)[C@@H]2C=CC(=O)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u201310 mol%",
+        "[Cu(MeCN)4]PF6"
+      ],
+      "type": "conditions",
+      "text": "(R)-segphos (0.5\u201310 mol%) Cy2NMe or EtgN (50 mol%)"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cy2NMe or EtgN"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "6\u201372 h"
+    }
+  ],
+  [
+    {
+      "text": "S=C(C=Cc1cccnc1)N(Cc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC=CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C1C=C[C@@H]([C@@H](CC(=S)N(Cc2ccccc2)Cc2ccccc2)c2cccnc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5\u201310 mol%",
+        "[Cu(MeCN)4]PF6"
+      ],
+      "type": "conditions",
+      "text": "(R)-segphos (0.5\u201310 mol%) Cy2NMe or EtgN (50 mol%)"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "conditions",
+      "text": "Cy2NMe or EtgN"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "THF"
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "r.t."
+    },
+    {
+      "relations": [],
+      "type": "conditions",
+      "text": "6\u201372 h"
+    }
+  ]
+]

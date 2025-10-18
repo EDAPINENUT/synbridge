@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "CCOC(=O)N1C(=O)C(C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1C(=O)[C@@](C)([C@@H](C[N+](=O)[O-])c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccc3ccccc3c2-c2c(CN[C@@H](c3ccccc3)[C@@H](NCc3ccc4ccccc4c3-c3c(-c4ccccc4)ccc4ccccc34)c3ccccc3)ccc3ccccc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ni(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)N1C(=O)C(C)c2cc(C)ccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)N1C(=O)[C@](C)([C@@H](C[N+](=O)[O-])c2ccccc2)c2cc(C)ccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc(-c2ccc3ccccc3c2-c2c(CN[C@@H](c3ccccc3)[C@@H](NCc3ccc4ccccc4c3-c3c(-c4ccccc4)ccc4ccccc34)c3ccccc3)ccc3ccccc23)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ni(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ]
+]

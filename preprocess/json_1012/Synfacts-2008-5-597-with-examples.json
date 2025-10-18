@@ -1,0 +1,746 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr=97:3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=N[S@](=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@@](=O)C(C)(C)C)c1ccccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=Cc1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr=94:6"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=96:4"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1cc(OC)cc(OC)c1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1c(OC)cc(OC)cc1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1cc2ccccc2cc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1cc2ccccc2cc1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(Br)cc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1cc(Br)ccc1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "4 equiv"
+      ],
+      "text": "[In]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@](=O)N=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "dr=97:3"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2cc(C(F)(F)F)ccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=N[S@](=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2cc(OC)ccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@@](=O)C(C)(C)C)c1ccccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2cccc(OC)c21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1cc(OC)cc(OC)c1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1c(OC)cc(OC)cc1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2cc(OC)cc(OC)c21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1cc2ccccc2cc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1cc2ccccc2cc1C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2cc3ccccc3cc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(Br)cc1C=N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](N[S@](=O)C(C)(C)C)c1cc(Br)ccc1C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr>99:1"
+      ]
+    },
+    {
+      "text": "C=CC[C@@H]1NC(=O)c2ccc(Br)cc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C=CCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "sat. aq"
+      ],
+      "text": "[Br-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    }
+  ]
+]

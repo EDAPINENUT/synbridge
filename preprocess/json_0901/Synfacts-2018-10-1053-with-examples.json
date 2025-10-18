@@ -1,0 +1,794 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@H](CC1CCCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC1CCCC1)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc([C@@H](C#N)CC2CCCC2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC1CCCC1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@H](C#N)CC1CCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc([C@H](C#N)CC2CCCC2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cccc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@H](C#N)CC2CCCC2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)ON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@H](C#N)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(=O)ON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C[C@H](C#N)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)ON1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C[C@H](C#N)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(ON1C(=O)c2ccccc2C1=O)C1CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@@H](CC1CCC1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@H]5c6ccccc6C[C@@H]5O4)CCCC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "TMSCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 mol%"
+      ],
+      "text": "Ir(ppy)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "CuBr",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2:3"
+      ],
+      "text": "NMP-PhCI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    }
+  ]
+]

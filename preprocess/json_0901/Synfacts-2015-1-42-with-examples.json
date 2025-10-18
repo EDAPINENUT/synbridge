@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "text": "O=c1ccc(Cl)c[nH]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=CC1(O)CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(n1cc(Cl)ccc1=O)C1(O)CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.3 M"
+      ],
+      "text": "DCE",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[{Rh(cod)Cl}z]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "COC1=CC=CC(*)=C1C1=C(*)C=CC=C1*<sep><a>7:PAr[2]</a><a>11:OMe</a><a>16:PAr[2]</a>"
+      ],
+      "text": "ligand structure",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "phosphoric acid",
+      "type": "conditions"
+    }
+  ]
+]

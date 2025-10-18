@@ -1,0 +1,296 @@
+[
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCN(C(C(=O)NC2CCCCC2)c2ccccc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccc(C(F)(F)F)cc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCN(C(C(=O)NC2CCCCC2)c2ccc(C(F)(F)F)cc2)N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "7% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=[N+]2CCC(=O)[N-]2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)NC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(C(=O)NC2CCCCC2)N2CCC(=O)N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)N[C@@H](C(=O)OC)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)C(c1ccccc1)N1CCC(=O)N1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H](C(=O)OC)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)C(c1ccccc1)N1CCC(=O)N1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[N+](=Cc2ccccc2)[N-]1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)N[C@@H](C(=O)N[C@@H](CCSC)C(=O)OC)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](CCSC)NC(=O)[C@@H](NC(=O)C(c1ccccc1)N1CCC(=O)N1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%"
+      ],
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "36 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    }
+  ]
+]

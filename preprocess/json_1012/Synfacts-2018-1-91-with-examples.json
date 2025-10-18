@@ -1,0 +1,202 @@
+[
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1C[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% conversion",
+        "dr >99.5:0.5",
+        "er 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "CCOC(=O)C=[N+]=[N-]"
+    },
+    {
+      "relations": [
+        "0.1-0.2 mol%",
+        "myoglobin Mb(H64V,V68A)[Fe(Ce6)]",
+        "Fe-chlorin e6 cofactor"
+      ],
+      "text": "C=Cc1c(C)c2n3c1C=C1C(C)=C(CC)C4=N1->[Fe]31<-N3=C(C(CCC(=O)O)=c5c(CCC(=O)O)c(C)c(n51)=C4)[C@@H](CCC(=O)O)[C@H](C)C3=C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S([O-])S(=O)[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "aerobic conditions",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1C[C@@]1(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% conversion",
+        "dr 98:2",
+        "er 97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "CCOC(=O)C=[N+]=[N-]"
+    },
+    {
+      "relations": [
+        "0.1-0.2 mol%",
+        "myoglobin Mb(H64V,V68A)[Fe(Ce6)]",
+        "Fe-chlorin e6 cofactor"
+      ],
+      "text": "C=Cc1c(C)c2n3c1C=C1C(C)=C(CC)C4=N1->[Fe]31<-N3=C(C(CCC(=O)O)=c5c(CCC(=O)O)c(C)c(n51)=C4)[C@@H](CCC(=O)O)[C@H](C)C3=C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S([O-])S(=O)[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "aerobic conditions",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1C[C@@H]1c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% conversion",
+        "dr 96.5:3.5",
+        "er 89:11"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "CCOC(=O)C=[N+]=[N-]"
+    },
+    {
+      "relations": [
+        "0.1-0.2 mol%",
+        "myoglobin Mb(H64V,V68A)[Fe(Ce6)]",
+        "Fe-chlorin e6 cofactor"
+      ],
+      "text": "C=Cc1c(C)c2n3c1C=C1C(C)=C(CC)C4=N1->[Fe]31<-N3=C(C(CCC(=O)O)=c5c(CCC(=O)O)c(C)c(n51)=C4)[C@@H](CCC(=O)O)[C@H](C)C3=C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S([O-])S(=O)[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "aerobic conditions",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)c1ccc(C(F)(F)F)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@H]1C[C@@]1(C)c1ccc(C(F)(F)F)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% conversion",
+        "dr 99:1",
+        "er 96.5:3.5"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "CCOC(=O)C=[N+]=[N-]"
+    },
+    {
+      "relations": [
+        "0.1-0.2 mol%",
+        "myoglobin Mb(H64V,V68A)[Fe(Ce6)]",
+        "Fe-chlorin e6 cofactor"
+      ],
+      "text": "C=Cc1c(C)c2n3c1C=C1C(C)=C(CC)C4=N1->[Fe]31<-N3=C(C(CCC(=O)O)=c5c(CCC(=O)O)c(C)c(n51)=C4)[C@@H](CCC(=O)O)[C@H](C)C3=C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=S([O-])S(=O)[O-].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 7.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "aerobic conditions",
+      "type": "other conditions"
+    }
+  ]
+]

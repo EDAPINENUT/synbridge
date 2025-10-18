@@ -1,0 +1,227 @@
+[
+  [
+    {
+      "text": "Cc1ccccc1C#CC1C=CC=CC=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C#C[C@@H]1C[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "dr = 13:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.[Rh+2].[Rh+2]"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe-hexane"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C#CC1C=CC=CC=C1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(NC(=O)OCc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(NC(=O)OCc2ccccc2)C[C@@H]1C#C[Si](C)(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "dr = 1:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.[Rh+2].[Rh+2]"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe-hexane"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ],
+  [
+    {
+      "text": "C(#CC1C=CC=CC=C1)C1=CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(#C[C@H]1[C@H]2Cc3ccccc3[C@@H]12)C1=CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "34% yield",
+        "dr > 15:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.[Rh+2].[Rh+2]"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe-hexane"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC[Ge](C#CC1C=CC=CC=C1)(CC)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Ge](C#C[C@H]1C[C@H]1N1C(=O)c2ccccc2C1=O)(CC)CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr > 15:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.[Rh+2].[Rh+2]"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe-hexane"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C#CC1C=CC=CC=C1)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C#C[C@H]1C[C@H]1c1cccc(Br)c1)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "dr = 5:1"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.O=C([O-])C(F)(F)F.[Rh+2].[Rh+2]"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe-hexane"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "80\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16-24 h"
+    }
+  ]
+]

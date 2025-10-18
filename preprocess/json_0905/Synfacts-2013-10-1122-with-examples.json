@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "CC1(C)Cc2ccccc2N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1Cc2ccccc2N1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=NN1C(C)(C)CCCC1(C)C)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1"
+    }
+  ],
+  [
+    {
+      "text": "CC1(c2ccccc2)Cc2ccccc2N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc([C@@H]2Cc3ccccc3N2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield",
+        "er > 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=NN1C(C)(C)CCCC1(C)C)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc2c(c1)CC(C)(c1ccccc1)N2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2c(c1)C[C@@H](c1ccccc1)N2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "46% yield",
+        "er > 99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "0.6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=NN1C(C)(C)CCCC1(C)C)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "TRIP"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1"
+    }
+  ]
+]

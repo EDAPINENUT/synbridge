@@ -1,0 +1,230 @@
+[
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% isolated yield",
+        "dr >99:1",
+        "1 kg scale",
+        "KRED P1-B12",
+        "98% conversion"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "trans-selective",
+        "KRED 130",
+        "NADH-110"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% conversion",
+        "dr=96:4",
+        "KRED 130"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "trans-selective",
+        "KRED 130",
+        "NADH-110"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% conversion",
+        "dr >99:1",
+        "KRED P1-B12"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "trans-selective",
+        "KRED 130",
+        "NADH-110"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% conversion",
+        "dr=95:5",
+        "KRED 130"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "trans-selective",
+        "KRED 130",
+        "NADH-110"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% isolated yield",
+        "dr >99:1",
+        "1 kg scale",
+        "KRED P1-B12",
+        "98% conversion"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "cis-selective",
+        "KRED P1-B10",
+        "KRED P1-B12",
+        "KRED P2-B02",
+        "KRED P2-D11"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)NC1(C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(=O)N[C@]1(C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% conversion",
+        "dr=96:4",
+        "KRED 130"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "cis-selective",
+        "KRED P1-B10",
+        "KRED P1-B12",
+        "KRED P2-B02",
+        "KRED P2-D11"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% conversion",
+        "dr >99:1",
+        "KRED P1-B12"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "cis-selective",
+        "KRED P1-B10",
+        "KRED P1-B12",
+        "KRED P2-B02",
+        "KRED P2-D11"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC1(NC(=O)OCC=C)CCC(=O)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CC[C@]1(NC(=O)OCC=C)CC[C@H](O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% conversion",
+        "dr=95:5",
+        "KRED 130"
+      ]
+    },
+    {
+      "relations": [
+        "KRED",
+        "cis-selective",
+        "KRED P1-B10",
+        "KRED P1-B12",
+        "KRED P2-B02",
+        "KRED P2-D11"
+      ],
+      "text": "ketoreductase",
+      "type": "catalyst"
+    }
+  ]
+]

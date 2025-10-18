@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "text": "C=CCOCC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc2c(c(C)n1)CC1COCC1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "F[P-](F)(F)(F)(F)F.[Ir+]34(n5c(-c6ccccc6)cccc5)(n7c(-c8ccccc8)cccc7)(n13ccc(C(C)(C)C)cc1-c2cc(C(C)(C)C)ccn24)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "O.O.O.O.O.O.O.O=S(=O)([O-])[O-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs (427 nm, 40 W)",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    }
+  ]
+]

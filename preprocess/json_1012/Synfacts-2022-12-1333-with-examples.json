@@ -1,0 +1,570 @@
+[
+  [
+    {
+      "text": "C=CCCCC(NC(=O)c1ccccc1)(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCCCCC(NC(=O)c1ccccc1)(C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "dicarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1cc(-c2ccccc2)ccc1C(C)(C)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C(=O)O)c1ccc(-c2ccccc2)cc1CCCC(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield",
+        "dicarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(NC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCC(NC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1CCN(C(=O)OC(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC(CCC(=O)O)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CCC(C)CC(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1CC=CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCC1CC=CCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CCC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCCC(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)CCC1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "hydrocarboxylation"
+      ]
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Ir+3]123456(n17c(cccc7)-c8[c-]2cccc8)(n39c(cccc9)-c%10[c-]4cccc%10)(n5%11c(cccc%11)-c%12[c-]6cccc%12)"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCN(C(C)C)C(C)C"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.[Cl-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "48 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ]
+]

@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "O=C(O)c1ccccc1C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1O[C@@H](c2ccccc2)[C@H](Br)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)NBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "C1=C(Cc2ccccc2)CCCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1OC(=O)CC[C@H]1Br",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "27% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC(=O)NBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "C1=C(Cc2ccccc2)CCCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

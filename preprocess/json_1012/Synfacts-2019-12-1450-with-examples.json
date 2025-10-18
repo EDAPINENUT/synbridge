@@ -1,0 +1,344 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC(c1ccccc1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "97% ee",
+        "Pf(NMB)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCCC1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        ">99% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C1CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC1([N+](=O)[O-])CCCC1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "98% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C(C[C@H](N)C(=O)O)[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "24% yield",
+        "92% ee",
+        "Pf(NMB)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](CC(c1ccc2ccccc2c1)[N+](=O)[O-])C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "19% yield",
+        "61% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)c1ccc(C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(C(C[C@H](N)C(=O)O)[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "9% yield",
+        "81% ee",
+        "Pf(NC)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "N[C@@H](CO)C(=O)O"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme A (Pf(NMB))"
+    },
+    {
+      "relations": [
+        "derived from tryptophan synthase (TrpB) of Pyrococcus furiosus",
+        "mutations: I68V, F95L, I16V, F274S, T292S, T321A, V384A",
+        "P(\u03b2-Me) +183",
+        "Pr(\u03b2-Me) + LI61V, I65T"
+      ],
+      "type": "catalyst",
+      "text": "enzyme B (Pf(NC))"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "phosphate buffer"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "50\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "12h"
+    }
+  ]
+]

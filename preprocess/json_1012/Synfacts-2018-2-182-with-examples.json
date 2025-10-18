@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "Brc1ccccc1On1nnc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CCC[C@@H](C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "COc1ccc(CCC[C@@H](C)[B-]2(c3ccccc3On3nnc4ccccc43)OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(CCC[C@@H](C)c2ccccc2O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "100% es"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30 min",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[CH2-]CCC.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

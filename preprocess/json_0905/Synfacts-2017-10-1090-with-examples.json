@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])c1ccc2cc[nH]c2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](Cc1c[nH]c2cccc([N+](=O)[O-])c12)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "er >99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.02\u20130.1 mol%"
+      ],
+      "text": "mutant tryptophan synthase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "PLP"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 8.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc2[nH]ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccc2[nH]cc(C[C@H](N)C(=O)O)c2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "er = 95:5"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.02\u20130.1 mol%"
+      ],
+      "text": "mutant tryptophan synthase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "PLP"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 8.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1cccc2[nH]ccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@@H](Cc1c[nH]c2cc(B(O)O)ccc12)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield",
+        "er >99.5:0.5"
+      ]
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "N[C@@H](CO)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "0.02\u20130.1 mol%"
+      ],
+      "text": "mutant tryptophan synthase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1\u20130.5 mol%",
+        "PLP"
+      ],
+      "text": "Cc1ncc(COP(=O)([O-])[O-])c(C=O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 8.0"
+      ],
+      "text": "KPi buffer",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

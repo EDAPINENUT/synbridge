@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "C=CCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)C(F)(F)Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(F)(F)CC=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "50\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Co(dppbz)Br2",
+        "dppbz ligand"
+      ],
+      "text": "[Br-].[Br-].[Co+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Ni(dtbbpy)Br2",
+        "dtbbpy: 4,4'-di-tert-butyl-2,2'-bipyridine"
+      ],
+      "text": "CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

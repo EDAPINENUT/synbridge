@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "text": "C=C(c1ccccc1)N(Cc1ccccc1)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)N(Cc1ccccc1)c1c[se]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Se]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1)N(Cc1ccccc1)C(=O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)N(Cc1ccccc1)c1c[se]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Se]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1)N(Cc1ccccc1Br)C(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N(Cc1ccccc1Br)c1c[se]c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "[Se]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C[Si](C)(C)C#N"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(C)=O"
+    }
+  ]
+]

@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "C#CC[C@H](NS(=O)(=O)c1ccc(C)cc1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC[C@H]2C2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        ">99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC[PH]([Au+])(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC(C)[SiH](C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#CC[C@H](NS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CCC[C@H]2c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC[PH]([Au+])(CC)CC.O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC(C)[SiH](C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.3 equiv"
+      ],
+      "text": "CC(=O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    }
+  ]
+]

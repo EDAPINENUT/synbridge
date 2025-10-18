@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "C=C(COc1c(C=O)cccc1C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cccc2c1OC[C@](C)(c1ccccc1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)COC[C@H]3Cc2ccccc2)c(C)c1.[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COc1c(C=O)cccc1OC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc2c1OC(C)[C@](C)(c1ccccc1)C2=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr = 1:1",
+        "(S,R) er = 99.5:0.5",
+        "(S,S) er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "2"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)COC[C@H]3Cc2ccccc2)c(C)c1.[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C1CCCN2CCN=C2CC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

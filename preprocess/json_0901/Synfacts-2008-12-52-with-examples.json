@@ -1,0 +1,236 @@
+[
+  [
+    {
+      "text": "C=CC[C@H](O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H]1C[C@@H](O)C[C@@H](CCc2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)C1CC(O)CC(CCc2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC[C@H](O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2C[C@@H](O)C[C@@H](CCc3ccccc3)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C2CC(O)CC(CCc3ccccc3)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC[C@H](O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@@H]2O[C@H](CCc3ccccc3)C[C@H](O)[C@@H]2C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc(C2OC(CCc3ccccc3)CC(O)C2C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC[C@H](O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccccc1[C@@H]1O[C@H](CCc2ccccc2)C[C@H](O)[C@@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccccc1C1OC(CCc2ccccc2)CC(O)C1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC[C@H](O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1[C@@H](O)C[C@@H](CCc2ccccc2)O[C@H]1c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1C(O)CC(CCc2ccccc2)OC1c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC[C@H](O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)O[C@H](CCOCc1ccccc1)[C@H](C)C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)O[C@H](CCOCc1ccccc1)[C@H](C)C=C[C@@H]1O[C@H](CCc2ccccc2)C[C@H](O)[C@@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)O[C@H](CCOCc1ccccc1)[C@H](C)C=CC1OC(CCc2ccccc2)CC(O)C1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ReO3(OSiPha)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r",
+      "type": "conditions"
+    }
+  ]
+]

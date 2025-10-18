@@ -1,0 +1,597 @@
+[
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CO)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "9% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cc(Cl)cc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1cc(Cl)cc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)c1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "94% ee",
+        "80\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(OC(C)=O)c1cn(S(=O)(=O)c2ccccc2)c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CO)c1cn(S(=O)(=O)c2ccccc2)c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C=Cc1ccccc1)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C=Cc1ccccc1)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "89% ee",
+        "70\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(CC(C)C)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@H](CO)CC(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "90% ee",
+        "70\u00b0C"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[I] catalyst"
+      ],
+      "text": "C[I+]1(P(c2ccccc2)c2ccc3c(c2-c2c4c(cc5c2OCO5)OCO4)OCO3)OC(=O)c2cc([N+](=O)[O-])c(C#N)cc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "*CO*",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "O=P(O)(O)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "80 mol%"
+      ],
+      "text": "C[N+]1([O-])CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "microwave",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "6 h",
+      "type": "time"
+    }
+  ]
+]

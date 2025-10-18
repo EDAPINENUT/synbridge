@@ -1,0 +1,296 @@
+[
+  [
+    {
+      "text": "C=C(C)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(C=O)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "endo/exo = 83:17"
+      ]
+    },
+    {
+      "text": "CC1(C=O)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCC=C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "supramolecular catalyst",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-98\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(Br)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@]1(Br)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "endo/exo = 93:7",
+        ">99% ee"
+      ]
+    },
+    {
+      "text": "O=CC1(Br)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCC=C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "supramolecular catalyst",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-98\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(Cl)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@]1(Cl)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% yield",
+        "endo/exo = 88:12",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "O=CC1(Cl)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCC=C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "supramolecular catalyst",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-98\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(F)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@@]1(F)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% yield",
+        "endo/exo = 82:18",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "O=CC1(F)C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCC=C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "supramolecular catalyst",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-98\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@H]1C[C@@H]2C=C[C@H]1C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% yield",
+        "endo/exo = 20:80",
+        "94% ee"
+      ]
+    },
+    {
+      "text": "O=CC1C[C@H]2C=C[C@@H]1C2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "C1=CCC=C1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "supramolecular catalyst",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-78\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-98\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ]
+]

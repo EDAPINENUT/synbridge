@@ -1,0 +1,214 @@
+[
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@](CC(F)(F)F)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "82% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc(C3=N[C@@H](C(C)(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "COC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@](CC(F)(F)F)(c2ccc(Br)cc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc(C3=N[C@@H](C(C)(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "COC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CCC(=O)O)c1ccsc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@@](CC(F)(F)F)(c2ccsc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "74% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc(C3=N[C@@H](C(C)(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "COC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)CC(=O)O[C@](CC(F)(F)F)(c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "74% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1OI(C(F)(F)F)c2ccccc21",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "7.5 mol%"
+      ],
+      "text": "CC#N->[Cu+](<-N#CC)(<-N#CC)<-N#CC.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "7.5 mol%",
+        "ligand"
+      ],
+      "text": "CC(C)(C)[C@@H]1COC(c2cccc(C3=N[C@@H](C(C)(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.05 M"
+      ],
+      "text": "COC(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    }
+  ]
+]

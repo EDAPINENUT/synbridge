@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "text": "C=CCc1ccccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc2ccccc2[nH]1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stoichiometric"
+      ],
+      "text": "CC#N->[Pd](Cl)(Cl)<-N#CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1cc(C)ccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2[nH]c(C)cc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stoichiometric"
+      ],
+      "text": "CC#N->[Pd](Cl)(Cl)<-N#CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1cc(C(=O)OCC)ccc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc2[nH]c(C)cc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stoichiometric"
+      ],
+      "text": "CC#N->[Pd](Cl)(Cl)<-N#CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CCc1ccc(OC)cc1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2cc(C)[nH]c2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield"
+      ]
+    },
+    {
+      "relations": [
+        "stoichiometric"
+      ],
+      "text": "CC#N->[Pd](Cl)(Cl)<-N#CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)CC",
+      "type": "catalyst"
+    }
+  ]
+]

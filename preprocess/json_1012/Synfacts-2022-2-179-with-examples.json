@@ -1,0 +1,87 @@
+[
+  [
+    {
+      "text": "O=Cc1cnc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H](O)c1cnc2ccccc2c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)[C@@H](O)c1cnc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "20% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2\u20132.2 equiv"
+      ],
+      "text": "CC(C)[Zn]C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C#Cc1ncc(C=O)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H](O)c1cnc(C#CC(C)(C)C)nc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC(C)[C@H](O)c1cnc(C#CC(C)(C)C)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2\u20132.2 equiv"
+      ],
+      "text": "CC(C)[Zn]C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

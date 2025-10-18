@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "CC(=CN1CCOC1=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(O)(C=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[C@@](O)(CO)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "AD-mix-\u03b2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC(=CN1CCOC1=O)c1cccs1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC(O)(C=O)c1cccs1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCC[C@](O)(CO)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "AD-mix-\u03b2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "CC(C)(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "[BH4-].[Na+]",
+      "type": "catalyst"
+    }
+  ]
+]

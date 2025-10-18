@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)OC)C(F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC)[C@H](F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "er=98.5:1.5"
+      ]
+    },
+    {
+      "text": "C=C(C(=O)OC)[C@H](c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(DHQD)2PHAL",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "C1CCOC1.C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C(=O)OC(C)(C)C)C(F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC(C)(C)C)[C@H](F)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "42% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "text": "C=C(C(=O)OC(C)(C)C)[C@H](c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "C[Si](C)(C)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "(DHQD)2PHAL",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "C1CCOC1.C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

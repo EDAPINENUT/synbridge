@@ -1,0 +1,575 @@
+[
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr=97:3 (syn/anti)",
+        "95% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(=O)c1ccccc1)C(=O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](NC(=O)c1ccccc1)[C@@H](O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "dr=95:5 (syn/anti)",
+        "94% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(=O)OC(C)(C)C)C(=O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](NC(=O)OC(C)(C)C)[C@@H](O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr=75:25 (syn/anti)",
+        "51% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(=O)OCc1ccccc1)C(=O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(=O)OCc1ccccc1)[C@H](O)c1ccc(SC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=78:22 (syn/anti)",
+        "71% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccc(S(C)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccc(S(C)(=O)=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr=89:11 (syn/anti)",
+        "87% ee (syn)",
+        "24 h"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr=97:3 (syn/anti)",
+        "97% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(NC(C)=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr=97:3 (syn/anti)",
+        "96% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(C(=O)c1ccccc1)C(=O)N(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H](C(=O)N(C)C)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "dr=58:42 (syn/anti)",
+        "67% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=95:5 (syn/anti)",
+        "95% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](NC(C)=O)[C@@H](O)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=94:6 (syn/anti)",
+        "95% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=95:5 (syn/anti)",
+        "96% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(NC(C)=O)C(=O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](NC(C)=O)[C@@H](O)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=96:4 (syn/anti)",
+        "96% ee (syn)"
+      ]
+    },
+    {
+      "relations": [
+        "1.0 mol%",
+        "[RuCl(p-cymene)(S)-SunPhos]Cl",
+        "(S)-SunPhos"
+      ],
+      "text": "CC1(C)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(C)(C)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "8 h",
+      "type": "time"
+    }
+  ]
+]

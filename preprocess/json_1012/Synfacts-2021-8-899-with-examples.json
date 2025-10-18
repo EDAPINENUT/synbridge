@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=NP(=O)(c1ccccc1)c1ccccc1)B1OC(C)(C)C(C)(C)O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@](NP(=O)(c1ccccc1)c1ccccc1)(B1OC(C)(C)C(C)(C)O1)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "chiral ligand"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2[C@@H]3C3CCC2(C)C3(C)C)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=NP(=O)(c1ccccc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)OB([C@](C)(NP(=O)(c2ccccc2)c2ccccc2)c2ccccc2)OC1(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "traces"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)OB(B2OC(C)(C)C(C)(C)O2)OC1(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "[Cl-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "chiral ligand"
+      ],
+      "text": "Cc1cc(C)c(-[n+]2cn3c(n2)CO[C@H]2[C@@H]3C3CCC2(C)C3(C)C)c(C)c1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2\u20136 h",
+      "type": "time"
+    }
+  ]
+]

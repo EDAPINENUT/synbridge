@@ -1,0 +1,235 @@
+[
+  [
+    {
+      "text": "Cl[Zn]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(=C(c1ccccc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield (BINAP)",
+        "1/2 = 10:90 (BINAP)",
+        "61% yield (cod)",
+        "1/2 = 92:8 (cod)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "with cod ligand"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "II",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "[2H]O[2H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "O=C1C=CCCC1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Cl[Zn]c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CI",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(I)=C(CCC)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield (BINAP)",
+        "82% yield (cod)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "with cod ligand"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "II",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "[2H]O[2H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "O=C1C=CCCC1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "Cl[Zn]c1ccccc1I",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC(I)=C(CCC)c1ccccc1I",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield (BINAP)",
+        "82% yield (cod)"
+      ]
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "with BINAP ligand"
+      ],
+      "text": "[Rh]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.9 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "II",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "[2H]O[2H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8\u20133.0 equiv"
+      ],
+      "text": "O=C1C=CCCC1",
+      "type": "catalyst"
+    }
+  ]
+]

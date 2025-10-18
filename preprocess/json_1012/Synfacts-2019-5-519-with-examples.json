@@ -1,0 +1,263 @@
+[
+  [
+    {
+      "text": "COC(=O)[C@@H](C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](C(=O)OC)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "2 mmol scale"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "electron mediator"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.[Ni+2].c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "HP single LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "405 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "irradiance 50 mW/cm2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCCCCCCCCCC(=O)OCC(CCCCC)COC(=O)CCCCCCCCCC(CCCCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(C)C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1n1c2ccccc2c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CCn1c2ccccc2c2ccccc21)C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "electron mediator"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.[Ni+2].c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "HP single LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "405 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "irradiance 50 mW/cm2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCCCCCCCCCC(=O)OCC(CCCCC)COC(=O)CCCCCCCCCC(CCCCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1OC(=O)C1C(=O)Oc2ccccc2C1C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1C(=O)Oc2ccccc2C1C1CCOCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "electron mediator"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.[Ni+2].c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "HP single LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "405 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "irradiance 50 mW/cm2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCCCCCCCCCC(=O)OCC(CCCCC)COC(=O)CCCCCCCCCC(CCCCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1COCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CCCCOCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "electron mediator"
+      ],
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.[Ni+2].c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1.c1ccc(-c2cccnc2)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "HP single LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "405 nm",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "irradiance 50 mW/cm2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "0.5 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCCCCCCCCCC(=O)OCC(CCCCC)COC(=O)CCCCCCCCCC(CCCCCCC)COC(=O)C1CCN(C)CC1",
+      "type": "catalyst"
+    }
+  ]
+]

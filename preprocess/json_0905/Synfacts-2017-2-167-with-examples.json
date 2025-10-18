@@ -1,0 +1,322 @@
+[
+  [
+    {
+      "text": "COC(=O)C1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@]1(C(=O)OC)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "b/l = 93:7",
+        "dr = 6:1",
+        "ee = 96%"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mmol"
+      ],
+      "text": "C/C=C/CCl",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*",
+        "4 mol%"
+      ],
+      "text": "c1(-c2cc3ccccc3c3c2op(N2c4ccccc4CC[C@@H]2C)oc2c(-c4ccccc4)cc4ccccc4c23)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TBD"
+      ],
+      "text": "C1CN2CN=C3NC1CC32",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%",
+        "proton sponge"
+      ],
+      "text": "CN(C)c1cccc2cccc(N(C)C)c12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "400 mol%"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#CC1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@]1(C#N)CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "b/l = 9:1",
+        "dr = 5.1:1",
+        "ee = 52%"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mmol"
+      ],
+      "text": "C/C=C/CCl",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*",
+        "4 mol%"
+      ],
+      "text": "c1(-c2cc3ccccc3c3c2op(N2c4ccccc4CC[C@@H]2C)oc2c(-c4ccccc4)cc4ccccc4c23)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TBD"
+      ],
+      "text": "C1CN2CN=C3NC1CC32",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%",
+        "proton sponge"
+      ],
+      "text": "CN(C)c1cccc2cccc(N(C)C)c12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "400 mol%"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@]1(C(=O)OCC)CCc2ccc([N+](=O)[O-])cc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "b/l = 9:1",
+        "dr = 15.5:1",
+        "ee = 93%"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mmol"
+      ],
+      "text": "C/C=C/CCl",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*",
+        "4 mol%"
+      ],
+      "text": "c1(-c2cc3ccccc3c3c2op(N2c4ccccc4CC[C@@H]2C)oc2c(-c4ccccc4)cc4ccccc4c23)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TBD"
+      ],
+      "text": "C1CN2CN=C3NC1CC32",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%",
+        "proton sponge"
+      ],
+      "text": "CN(C)c1cccc2cccc(N(C)C)c12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "400 mol%"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1CCc2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@]1(C(=O)OC)CCc2cc(Br)ccc2C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "b/l = 92:8",
+        "dr = 10.4:1",
+        "ee = 98%"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mmol"
+      ],
+      "text": "C/C=C/CCl",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "L*",
+        "4 mol%"
+      ],
+      "text": "c1(-c2cc3ccccc3c3c2op(N2c4ccccc4CC[C@@H]2C)oc2c(-c4ccccc4)cc4ccccc4c23)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "TBD"
+      ],
+      "text": "C1CN2CN=C3NC1CC32",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "200 mol%",
+        "proton sponge"
+      ],
+      "text": "CN(C)c1cccc2cccc(N(C)C)c12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "400 mol%"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

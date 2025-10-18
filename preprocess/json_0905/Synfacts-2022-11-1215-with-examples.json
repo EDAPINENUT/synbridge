@@ -1,0 +1,493 @@
+[
+  [
+    {
+      "text": "CCCCc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@]12c3ccccc3C(=O)N1c1ccccc1[C@@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)CCc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CC[C@]12c3ccccc3C(=O)N1c1ccccc1[C@@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "33% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1C(=O)n1c(-c2ccccc2)cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@H]1c2ccccc2N2C(=O)c3ccccc3[C@@]12c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2cc(F)ccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12c3ccccc3C(=O)N1c1ccc(F)cc1[C@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr = 17:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc2c(c1)cc(C)n2C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)[C@@H](C#N)[C@@]1(C)c3ccccc3C(=O)N21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12c3cc(Cl)ccc3C(=O)N1c1ccccc1[C@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)C(=O)N1c3ccccc3[C@H](C#N)[C@@]21C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr = 17:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12c3cccc(F)c3C(=O)N1c1ccccc1[C@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc2ccccc2n1C(=O)c1ccccc1C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12c3ccccc3C(=O)N1c1ccccc1[C@H]2C#N",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccccc1C(=O)n1c(CCOCc2ccccc2)cc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#C[C@H]1c2ccccc2N2C(=O)c3ccccc3[C@]12CCOCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr = 15:1",
+        "62% ee",
+        "42% yield",
+        "dr > 20:1",
+        "55% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni](Br)([PH](c1ccccc1)(c1ccccc1)c1ccccc1)[PH](c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "C[Al](C)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.125 M"
+      ],
+      "text": "Cc1cccc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

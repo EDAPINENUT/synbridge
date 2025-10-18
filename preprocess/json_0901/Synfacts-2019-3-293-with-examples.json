@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CNC(=O)C(C)(C1)CC(C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "hv (420 nm)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mM"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCC=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC12CNC(=O)C(C)(C1)CC(C)(c1nc3cc4c(=O)c5ccccc5sc4cc3o1)C2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CCC=C=C1CCCNC1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "hv (420 nm)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mM"
+      ],
+      "text": "MeCN",
+      "type": "conditions"
+    }
+  ]
+]

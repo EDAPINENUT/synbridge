@@ -1,0 +1,331 @@
+[
+  [
+    {
+      "text": "CC(C)C(C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O)n1cnc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H](N(C)C(=O)OCc1ccccc1)n1cnc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)CCC(NC(=O)OC(C)(C)C)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CC[C@H](NC(=O)OC(C)(C)C)n1cnc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1n1c(-c2cscn2)nc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "from thiabendazole"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1n1nc(C(F)(F)F)cc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1n1cncn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1n1cnc(-c2ccccc2)c1-c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(=O)OC1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1CCC[C@H]1n1c(=O)sc2cc(OC(F)(F)F)ccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "analogue of riluzole"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "C1CCNC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "[Bi]"
+      ],
+      "text": "CC(C)(C)[N+]1=Cc2cccc3c2[Bi]1[N+](C(C)(C)C)=C3",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "DMA"
+      ],
+      "text": "CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "time"
+    }
+  ]
+]

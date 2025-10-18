@@ -1,0 +1,302 @@
+[
+  [
+    {
+      "text": "CCCCC1(c2ccccc2)CN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(CCCCOC(=O)C(C)(C)C)(CNS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield"
+      ]
+    },
+    {
+      "text": "CC(C)(C)C(=O)OCCCC[Zn]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(c2ccc(C(F)(F)F)nc2)CN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C)(CNS(=O)(=O)c1ccc(C)cc1)c1ccc(C(F)(F)F)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "text": "C[Zn]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ],
+  [
+    {
+      "text": "O=S(=O)(c1ccccc1)N1CC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C)(CNS(=O)(=O)c1cccc2c(N(C)C)cccc12)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield"
+      ]
+    },
+    {
+      "text": "C[Zn]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2(C)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NCC(C)(CCC2OCCO2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "text": "Br[Zn]CCC1OCCO1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2CC2(C)c2cc(C)cc(C)c2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NCC(C)(c2ccccc2)c2cc(C)cc(C)c2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "text": "Br[Zn]c1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC1(c2ccc(C(=O)N3CCOCC3)cc2)CN1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(C)(CNS(=O)(=O)c1ccc(C)cc1)c1ccc(C(=O)N2CCOCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "text": "C[Zn]Br",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Fro-DO"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/C(=O)N1[C@H]2c3ccccc3C[C@H]2CS1(=O)=O)N1[C@@H]2c3ccccc3C[C@@H]2CS1(=O)=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "23\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "10-42 h"
+    }
+  ]
+]

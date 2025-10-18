@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "Cc1cccc(-n2cccc2)c1N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COCc1nc2c(C)cccc2n2cccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "precatalyst"
+      ],
+      "text": "CC1(C)[C@H](C)C(C)(C)[P@]1(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.20 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12-14 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.40 equiv"
+      ],
+      "text": "Br+source",
+      "type": "other conditions"
+    }
+  ]
+]

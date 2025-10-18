@@ -1,0 +1,677 @@
+[
+  [
+    {
+      "text": "COC(=O)c1cc(C=O)ccc1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc(OC)c(C(=O)OC)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc2c(c1)OCCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc2c(c1)OCCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(C)C(C)(C)C(O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)n2cccc2C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1cccn1S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCCCCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)CCCCCl",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1ccco1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC1(C)O[C@@H]2O[C@@H](OC(=O)c3cccc(C=O)c3)[C@@H]([C@@H]3COC(C)(C)O3)[C@@H]2O1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1cc(C(c2ccc(N)c(C(C)(C)C)c2)C2CCCCC2)ccc1N",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=CC(C)C(O)c1cccc(C(=O)O[C@@H]2O[C@H]3OC(C)(C)O[C@H]3[C@@H]2[C@@H]2COC(C)(C)O2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc2c(c1)-c1ccc(C)c[n+]1[Si]2(Cl)Cl",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "NiCl2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "Hantzsch ester",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "conditions"
+    }
+  ]
+]

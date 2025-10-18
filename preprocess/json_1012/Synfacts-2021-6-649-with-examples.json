@@ -1,0 +1,735 @@
+[
+  [
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=CC=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@@H](C=Cc1ccccc1)CC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccccc2)C[C@@H](C=Cc2ccccc2)C1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@H](CC(=O)c1ccccc1)c1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccccc2)C[C@@H](c2ccco2)C1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@H](CC(=O)c1ccc(I)cc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccc(I)cc2)C[C@@H](c2ccccc2)C1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)C[C@@H](CCC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(C=Cc2ccccc2)C[C@@H](c2ccccc2)C1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(C2=CCCCC2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@H](CC(=O)c1ccccc1)c1ccccc1)C1=CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=CCCCC1)C1=C(c2ccccc2)C[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2cccs2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C[C@@H](CCC(=O)c1cccs1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccccc2)C[C@@H](c2ccccc2)C1)c1cccs1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er=96:4"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2ccc(Br)cc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@H](CC(=O)c1ccccc1)c1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccccc2)C[C@@H](c2ccccc2)C1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "er=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "OC1(c2ccccc2)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(C=CC(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC[C@H](CC(=O)c1ccccc1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "O=C(C1=C(c2ccccc2)C[C@H](C(F)(F)F)C1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "39% yield",
+        "er=77:23"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "stage1"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "ligand",
+        "stage1"
+      ],
+      "text": "C[C@H]([C@@H](O)c1ccccc1)N1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CN1CCCN(C)C1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "48h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "6h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "same pot",
+      "type": "other conditions"
+    }
+  ]
+]

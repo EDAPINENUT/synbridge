@@ -1,0 +1,72 @@
+[
+  [
+    {
+      "text": "c1ccc(Oc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Oc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1ccc(C(=O)Oc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=4-Me 64% yield",
+        "Phenol (R=4-Me) 54% yield",
+        "R=4-Cl 88% yield",
+        "Phenol (R=4-Cl) 85% yield",
+        "R=3-Me 76% yield",
+        "Phenol (R=3-Me) 74% yield",
+        "R=3-Cl 90% yield",
+        "Phenol (R=3-Cl) 86% yield",
+        "R=2-Me 82% yield",
+        "Phenol (R=2-Me) 82% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "CC(C)(C)C(=O)C(=C[O-])C(=O)C(C)(C)C.CC(C)(C)C(=O)C(=C[O-])C(=O)C(C)(C)C.[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "photocatalyst",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 W"
+      ],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "30-60 h",
+      "type": "time"
+    }
+  ]
+]

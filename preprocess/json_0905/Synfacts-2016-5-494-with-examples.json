@@ -1,0 +1,446 @@
+[
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C=Cc1ccc(Cl)cc1)[C@@]1(C)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=19:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C=Cc1ccc([N+](=O)[O-])cc1)[C@@]1(C)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=8:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[C@H](C)[C@@]2(C)N=C(c3ccccc3)OC2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=4:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C=C[C@H](C)[C@@]1(C)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1cccc(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(C=C[C@H](C)[C@@]2(C)N=C(c3ccccc3)OC2=O)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C=Cc1ccco1)[C@@]1(C)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "dr=9:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CCCC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@]1([C@H](C)C=Cc2ccco2)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr=6:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CCCC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@]1([C@H](C)C=Cc2ccccc2C)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "dr=10:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC1N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C[C@@]1([C@H](C)C=Cc2ccco2)N=C(c2ccccc2)OC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=19:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "CDC-Rh 1"
+      ],
+      "type": "catalyst",
+      "text": "C(=C[C@]12C3=CCCN3CCN3CCN4CCN(C1=C34)C(c1ccccc1)(c1ccccc1)[C@]2(C=Cc1ccccc1)c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[P-](F)(F)(F)(F)F.[Li+]"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Li+]"
+    },
+    {
+      "relations": [
+        "40:1"
+      ],
+      "type": "other conditions",
+      "text": "PhMe/PrOH"
+    }
+  ]
+]

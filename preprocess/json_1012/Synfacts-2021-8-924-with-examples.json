@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "Clc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)NCCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([Na])CCS"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C[O-].[Na+]"
+    },
+    {
+      "relations": [
+        "1:1 v/v"
+      ],
+      "type": "catalyst",
+      "text": "CC#N.CS(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue light"
+    },
+    {
+      "relations": [
+        "4CzIPN"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(-n2c3ccccc3c3ccccc32)c(-n2c3ccccc3c3ccccc32)c(C#N)c(-n2c3ccccc3c3ccccc32)c1-n1c2ccccc2c2ccccc21"
+    }
+  ]
+]

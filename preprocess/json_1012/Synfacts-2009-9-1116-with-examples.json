@@ -1,0 +1,55 @@
+[
+  [
+    {
+      "text": "COc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([C@]2(C)C(=O)N(C)c3ccccc32)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CC1C(=O)N(C)c2ccccc21"
+    },
+    {
+      "relations": [
+        "4 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)CCN(C)C.C[Pd]C"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "Ligand"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)c1ccc2ccccc2c1-c1c([P@@](c2ccccc2)C(C)(C)C)ccc2ccccc12"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCCCC1"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24h"
+    }
+  ]
+]

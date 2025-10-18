@@ -1,0 +1,69 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1B(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1cccc(CF)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "FCBr",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5-10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5-10 mol%"
+      ],
+      "text": "n1c2cccc3ccccn3c2cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10-20 mol%"
+      ],
+      "text": "CN(C)c1ccncc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1"
+      ],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "text": "C=C(C)C(=O)N(C)c1cccc(Cl)c1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1cccc2ccccc12)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)[C@](C)(CC(=C(F)F)c2cccc3ccccc23)c2ccc(Cl)cc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ni(acac)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "Mn",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "B2pin2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "Et3N",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "Nal",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    }
+  ]
+]

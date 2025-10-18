@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "O=C(c1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(C(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(c1ccc(C(=O)c2ccccc2)cc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "COCCOC.[Cl-].[Cl-].[Ni+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "CC(C)(C)c1ccnc(-c2cc(C(C)(C)C)ccn2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 mol%"
+      ],
+      "text": "[Ru+2]123(n%101c(-c%11ccccn%111)cccc%10)(n%123c(-c%13ccccn%132)cccc%12)(n%145c(-c%15ccccn%153)cccc%14).F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "O=S([O-])c1ccc(F)cc1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.85 equiv"
+      ],
+      "text": "B1OC(C)(C)C(C)(C)O1B2OC(C)(C)C(C)(C)O2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[Na+].[Na+].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 parts"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 parts"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 W"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

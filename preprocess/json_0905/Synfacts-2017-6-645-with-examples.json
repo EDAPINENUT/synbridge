@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)c1ccc(-c2cccc3ccccc23)cc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[HH]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(-c2cccc3ccccc23)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "49% yield (isolated)"
+      ]
+    },
+    {
+      "relations": [
+        "2\u20135 mol%",
+        "A",
+        "[HCB11C11]"
+      ],
+      "text": "ClC1(Cl)C(Cl)(Cl)C2(Cl)C1(Cl)C1(Cl)C2(Cl)C2(Cl)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C41Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4\u201310 mol%"
+      ],
+      "text": "CC[SiH](CC)CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4\u201310 mol%"
+      ],
+      "text": "CC(C)[SiH](C(C)C)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0\u201310 equiv"
+      ],
+      "text": "Clc1ccccc1Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u2013100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.2\u201348 h",
+      "type": "time"
+    }
+  ]
+]

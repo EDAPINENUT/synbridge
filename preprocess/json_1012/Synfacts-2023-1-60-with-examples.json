@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "c1ccc2[nH]cnc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCn1cnc2c(N(C)C)ncnc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "N9:N7 > 20:1",
+        "without boronic acid",
+        "20% yield (without boronic acid)",
+        "1:1 selectivity (without boronic acid)"
+      ]
+    },
+    {
+      "relations": [
+        "1\u20132.5 mol%"
+      ],
+      "text": "[Pd+2]([CH2-]C=CH2).[Pd+2]([CH2-]C=CH2).[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "OB(O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "OB(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2[nH]nnc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)Cn1nnc2cccnc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "N3:(N1+N2) = 3.8:1",
+        "without borinic acid",
+        "50% yield (without borinic acid)",
+        "1.1:1 selectivity (without borinic acid)"
+      ]
+    },
+    {
+      "relations": [
+        "1\u20132.5 mol%"
+      ],
+      "text": "[Pd+2]([CH2-]C=CH2).[Pd+2]([CH2-]C=CH2).[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2\u20135 mol%"
+      ],
+      "text": "Xantphos",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "OB(O)c1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "OB(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

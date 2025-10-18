@@ -1,0 +1,311 @@
+[
+  [
+    {
+      "text": "Clc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "N"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Triphos"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)CCP(c2ccccc2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[K+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-140\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1cccc(C#N)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "37% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "N"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Triphos"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)CCP(c2ccccc2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[K+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-140\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc(C#N)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "N"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Triphos"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)CCP(c2ccccc2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[K+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-140\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(C)(C)Oc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C)(C)Oc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield",
+        "from Clofibrate"
+      ]
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "O=C=O"
+    },
+    {
+      "relations": [
+        "1/1 atm"
+      ],
+      "type": "reactants",
+      "text": "N"
+    },
+    {
+      "relations": [
+        "12 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "Triphos"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc(P(CCP(c2ccccc2)c2ccccc2)CCP(c2ccccc2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "6 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[SiH3]c1ccccc1"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Zn]"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[F-].[K+]"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "type": "catalyst",
+      "text": "CN1CCCC1=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "90-140\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "O=C(O)c1ccccc1C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1O[C@@H](c2ccccc2)[C@H](Br)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)NBr",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C1=C2CCCC2=C(Cc2ccccc2)CC1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccccc1C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1OC(=O)CC[C@H]1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(=O)NBr",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C1=C2CCCC2=C(Cc2ccccc2)CC1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2",
+      "type": "conditions"
+    }
+  ]
+]

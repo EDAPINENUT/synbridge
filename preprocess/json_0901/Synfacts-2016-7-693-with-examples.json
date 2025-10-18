@@ -1,0 +1,522 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@H]1C[C@H](C(=O)c2ccccc2)[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@@H]2C[C@@H](C(=O)OC(C)(C)C)C[C@H]2C(=O)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@H]1C[C@@H](C(=O)c2ccccc2)[C@H](c2ccc(C(F)(F)F)cc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H]1CCCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@H]1C[C@H](C(=O)c2ccccc2)[C@]2(CCCc3ccccc32)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C=C(C)[C@@]1(C)C[C@H](C(=O)OC(C)(C)C)C[C@@H]1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC1C(=O)c1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@H]1C[C@@H](C(=O)c2cccnc2)[C@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C1CC1C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(=O)[C@@H]1C[C@H](C(=O)c2ccccc2)[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(c1ccccc1)C1CC12CCCC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C)[C@@H]1COC(c2cc(N(C)C)cc(C3=N[C@H](C(C)CC)CO3)n2)=N1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@H]1CC2(CCCC2)C[C@@H]1c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Ru(bpy)3(PF6)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Gd(OTf)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "DIPEA",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "visible light",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "6\u201320 h",
+      "type": "conditions"
+    }
+  ]
+]

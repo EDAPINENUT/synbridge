@@ -1,0 +1,150 @@
+[
+  [
+    {
+      "text": "C=CC(=CCCCC)CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=CC(C)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "ratio (4a+4b):5 = 95:5",
+        "ratio 4a:4b = 92:8"
+      ]
+    },
+    {
+      "text": "CCCCC=C1COC(=O)[C@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C1CCC(=O)OC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Rh+2]([O-]C=C(C)C(=O)C)([O-]C=C(C)C(=O)C)(C#O)(C#O)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "200 psi"
+      ],
+      "text": "CO/H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCP",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(=CCCCC)CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=CC(C)CO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "ratio (4a+4b):5 = 94:6",
+        "ratio 4a:4b = 78:22"
+      ]
+    },
+    {
+      "text": "CCCCC=C1COC(=O)[C@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C1CCC(=O)OC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[Rh+2]([O-]C=C(C)C(=O)C)([O-]C=C(C)C(=O)C)(C#O)(C#O)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "ligand",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "200 psi"
+      ],
+      "text": "CO/H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cc1ccc(S(=O)(=O)O)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "CCP",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    }
+  ]
+]

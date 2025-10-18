@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "text": "C=COCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@H](c2ccccc2)C[C@@H](OCC)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr=76:24",
+        "81% ee (major)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)C2CCC1(C1=N[C@H](c3ccccc3)CO1)[C@H](O)C2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=COCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@H](c2cccs2)C[C@H](OCC)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr=78:22",
+        "81% ee (major)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)C2CCC1(C1=N[C@H](c3ccccc3)CO1)[C@H](O)C2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@H](c2ccccc2)C[C@@](C)(OCC)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "dr=90:10",
+        "75% ee (major)"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=S(=O)([O-])C(F)(F)F.O=S(=O)([O-])C(F)(F)F.[Cu+2]"
+    },
+    {
+      "relations": [
+        "0.1 equiv",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)C2CCC1(C1=N[C@H](c3ccccc3)CO1)[C@H](O)C2"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    }
+  ]
+]

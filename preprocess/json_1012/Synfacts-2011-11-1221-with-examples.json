@@ -1,0 +1,524 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@@H](c2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1C=CC=CC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv",
+        "2 M"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)cc(B(O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc([C@@H]2CCCC(=O)C2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "O=C1C=CC=CC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv",
+        "2 M"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)CC(c1ccccc1)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C[C@H](c2ccccc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccccc1Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C[C@H](c2ccccc2Cl)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "87% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccc(OC(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C[C@H](c2ccc(OC(F)(F)F)cc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(B(O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H]2CC(=O)N(C)C2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C(=O)C[C@H](c2ccc(Br)cc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN1C(=O)C=CC1=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "text": "C=C[Rh+]C=C.C=C[Rh+]C=C.[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "phosphine ligand"
+      ],
+      "text": "FC(F)(F)c1cc(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2ccc3c(c2-c2c(P(c4cc(C(F)(F)F)cc(C(F)(F)F)c4)c4cc(C(F)(F)F)cc(C(F)(F)F)c4)ccc4c2OCCO4)OCCO3)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[K+].[OH-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1 (with H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3 h",
+      "type": "time"
+    }
+  ]
+]

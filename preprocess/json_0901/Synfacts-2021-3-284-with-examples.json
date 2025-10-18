@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "C=CC1(O[Si](CC(F)(F)F)(c2ccccc2)C(C)(C)C)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[N-]=[N+]=C(C(=O)OCC(F)(F)F)c1ccccc1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](OC1(C=C(C(=O)OCC(F)(F)F)c2ccccc2F)CCC1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC(C)(C=C(C(=O)OCC(F)(F)F)c1ccccc1F)O[Si](c1ccccc1)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Rh(cod)2OTf",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

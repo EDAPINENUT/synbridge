@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(P(Cc2ccccc2-c2ccccc2CP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([N+]2=C(C)c3ccccc3[I-]2(Cl)c2c(C)c(C)c(C)c(C)c2C)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COC(=O)CC(C)(C)CCCNc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "3.4 bar"
+      ],
+      "text": "CO/H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "HCO2Na buffer",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "PhMe\u2013MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COC1=CC2=CC2C=C1OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1CSCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccc(P(Cc2ccccc2-c2ccccc2CP(c2ccccc2)c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([N+]2=C(C)c3ccccc3[I-]2(Cl)c2c(C)c(C)c(C)c(C)c2C)cc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(CCN2CCSCC2)cc1OC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1:1",
+        "3.4 bar"
+      ],
+      "text": "CO/H2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "HCO2Na buffer",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "PhMe\u2013MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "conditions"
+    }
+  ]
+]

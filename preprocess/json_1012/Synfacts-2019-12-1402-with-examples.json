@@ -1,0 +1,338 @@
+[
+  [
+    {
+      "text": "CC(=O)c1ccccc1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)[C@H](CO)[C@](C)(O)c1ccccc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "72% ee",
+        "dr=46:54"
+      ]
+    },
+    {
+      "text": "c1ccc([C@H](N(p2oc3c(c4c(ccc5c4cccc5)o2)c2c(cc3)cccc2)[C@@H](c2ccccc2)C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0-10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (optional)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)[C@H](CO)[C@](C)(O)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "87% ee",
+        "dr=65:35"
+      ]
+    },
+    {
+      "text": "c1ccc([C@H](N(p2oc3c(c4c(ccc5c4cccc5)o2)c2c(cc3)cccc2)[C@@H](c2ccccc2)C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0-10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (optional)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)=O)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)[C@H](CO)[C@@](C)(O)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "90% ee",
+        "dr=90:10"
+      ]
+    },
+    {
+      "text": "c1ccc([C@H](N(p2oc3c(c4c(ccc5c4cccc5)o2)c2c(cc3)cccc2)[C@@H](c2ccccc2)C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0-10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (optional)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](CO)[C@@](C)(O)C=C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "92% ee",
+        "dr=96:4"
+      ]
+    },
+    {
+      "text": "c1ccc([C@H](N(p2oc3c(c4c(ccc5c4cccc5)o2)c2c(cc3)cccc2)[C@@H](c2ccccc2)C)C)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0-10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "40 mol%"
+      ],
+      "text": "CC(C)(C)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "CC1(C)COC(C)(C)B(B2OC(C)(C)COC2(C)C)O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "co-solvent (optional)"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "workup"
+      ],
+      "text": "[Na+].[OH-]",
+      "type": "catalyst"
+    }
+  ]
+]

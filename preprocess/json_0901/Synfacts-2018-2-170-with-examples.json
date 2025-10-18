@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=CC1c1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2c3c1OP(N(C)C)Oc1c(C)ccc4c1C3(CC2)CC4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(C2=CC3CC2C2c4ccccc4C3N2C(=O)OC(C)(C)C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ZnI2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=CC1c1ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2c3c1OP(N(C)C)Oc1c(C)ccc4c1C3(CC2)CC4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C2C=C([Si](C)(C)C)C3C2c2ccccc2C31",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "ZnI2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

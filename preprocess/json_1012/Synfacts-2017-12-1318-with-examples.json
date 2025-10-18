@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "text": "O=C(C(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "0-1.0 mol%",
+        "DPZ"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(-c2nc(C#N)c(C#N)nc2-c2ccc(OC)s2)s1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA1"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.c1ccc([C@H]([NH+]=C(N2CCCC2)N2CCCC2)[C@@H]([NH+]=C(N2CCCC2)N2CCCC2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA2"
+      ],
+      "type": "catalyst",
+      "text": "O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)N[C@H]1CCCC[C@@H]1N1CCCCC1"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "THIQ"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c(c1)CCN(c1ccc3ccccc3c1)C2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 W blue LED"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)[C@@H](O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "er=90:10"
+      ]
+    },
+    {
+      "relations": [
+        "0-1.0 mol%",
+        "DPZ"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(-c2nc(C#N)c(C#N)nc2-c2ccc(OC)s2)s1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA1"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.c1ccc([C@H]([NH+]=C(N2CCCC2)N2CCCC2)[C@@H]([NH+]=C(N2CCCC2)N2CCCC2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA2"
+      ],
+      "type": "catalyst",
+      "text": "O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)N[C@H]1CCCC[C@@H]1N1CCCCC1"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "THIQ"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c(c1)CCN(c1ccc3ccccc3c1)C2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 W blue LED"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(N=C(C(=O)c2ccccc2)c2ccccc2)c(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(N[C@@H](C(=O)c2ccccc2)c2ccccc2)c(Br)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "0-1.0 mol%",
+        "DPZ"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(-c2nc(C#N)c(C#N)nc2-c2ccc(OC)s2)s1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA1"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.c1ccc([C@H]([NH+]=C(N2CCCC2)N2CCCC2)[C@@H]([NH+]=C(N2CCCC2)N2CCCC2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA2"
+      ],
+      "type": "catalyst",
+      "text": "O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)N[C@H]1CCCC[C@@H]1N1CCCCC1"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "THIQ"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c(c1)CCN(c1ccc3ccccc3c1)C2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 W blue LED"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)C(=Nc1ccc(OC)cc1Br)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(=O)[C@H](Nc1ccc(OC)cc1Br)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er=82:18"
+      ]
+    },
+    {
+      "relations": [
+        "0-1.0 mol%",
+        "DPZ"
+      ],
+      "type": "catalyst",
+      "text": "COc1ccc(-c2nc(C#N)c(C#N)nc2-c2ccc(OC)s2)s1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA1"
+      ],
+      "type": "catalyst",
+      "text": "F[B-](F)(F)F.F[B-](F)(F)F.c1ccc([C@H]([NH+]=C(N2CCCC2)N2CCCC2)[C@@H]([NH+]=C(N2CCCC2)N2CCCC2)c2ccccc2)cc1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "BA2"
+      ],
+      "type": "catalyst",
+      "text": "O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)N[C@H]1CCCC[C@@H]1N1CCCCC1"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "THIQ"
+      ],
+      "type": "catalyst",
+      "text": "c1ccc2c(c1)CCN(c1ccc3ccccc3c1)C2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "3 W blue LED"
+    }
+  ]
+]

@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "text": "C=C(C(=O)OC)C(OC(C)(C)C)c1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C#N)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OC)[C@@H](c1cccc(Br)c1)C(C#N)(C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "er=90:10"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "\u03b2-ICPD"
+      ],
+      "text": "CCC12CC3[C@@H](c4ccnc5ccc(O)cc45)OC1CCN3C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-20\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24-96 h",
+      "type": "time"
+    }
+  ]
+]

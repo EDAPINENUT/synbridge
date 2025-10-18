@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "CC=C=CC(=O)N(C)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON(C)C(=O)C=C[C@H](C)C[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "er=98.5:1.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCCC=C=CC(=O)N(C)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H](C=CC(=O)N(C)OC)C[N+](=O)[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er=96.5:3.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CON(C)C(=O)C=C=CC(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON(C)C(=O)C=C[C@@H](C[N+](=O)[O-])C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "er=90.5:9.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C[N+](=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CCN(CC)P1Cc2ccc3ccccc3c2-c2c(ccc3ccccc23)C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10%"
+      ],
+      "text": "Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

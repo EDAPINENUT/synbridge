@@ -1,0 +1,272 @@
+[
+  [
+    {
+      "text": "CSCC[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCNC(=O)[C@@H](N)CCSC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er = 96:4"
+      ]
+    },
+    {
+      "text": "CCCN",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCNC(=O)C1CCCN1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "er = 99:1"
+      ]
+    },
+    {
+      "text": "C=CCN",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N[C@@H](Cc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](Cc1ccccc1)C(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "text": "NCc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CC[C@@H](C(=O)O)N1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CCN(C(=O)[C@H]2CCC(=O)N2)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "er = 97:3"
+      ]
+    },
+    {
+      "text": "CN1CCNCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)[C@H]1CCCN1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CNC(=O)[C@@H]1CCCN1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "text": "CC(C)(C)OC(=O)CN",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@H](N)C(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er = 95:5"
+      ]
+    },
+    {
+      "text": "NCc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "FC(F)(F)COB(OCC(F)(F)F)OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "cyclopentyl methyl ether"
+      ],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "3-15 h",
+      "type": "time"
+    }
+  ]
+]

@@ -1,0 +1,308 @@
+[
+  [
+    {
+      "text": "C=CCN([C@@H](C)CO)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC[C@H]2CN(S(=O)(=O)c3ccc(C)cc3)[C@@H](C)CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN([C@H](CO)CO[Si](C)(C)C(C)(C)C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC[C@@H]2CN(S(=O)(=O)c3ccc(C)cc3)[C@@H](CO[Si](C)(C)C(C)(C)C)CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN([C@H](CO)Cc1ccccc1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)NC[C@@H]2CN(S(=O)(=O)c3ccc([N+](=O)[O-])cc3)[C@H](Cc3ccccc3)CO2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "text": "Cc1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN([C@H](CO)Cc1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C[C@@H](CNS(=O)(=O)c3ccc([N+](=O)[O-])cc3)OC[C@H]2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "text": "NS(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN([C@H](CO)Cc1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C[C@H](CNS(=O)(=O)CC[Si](C)(C)C)OC[C@@H]2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr >20:1"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C)CCS(N)(=O)=O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN([C@H](CO)Cc1ccccc1)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N2C[C@H](CN=[N+]=[N-])OC[C@@H]2Cc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield",
+        "dr =10:1"
+      ]
+    },
+    {
+      "text": "[N-]=[N+]=N",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "alias: Cu(eh)2"
+      ],
+      "text": "CCCCC(CC)C(=O)[O-].CCCCC(CC)C(=O)[O-].[Cu+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "xylenes",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "130\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24h",
+      "type": "time"
+    }
+  ]
+]

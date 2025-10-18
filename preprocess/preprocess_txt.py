@@ -150,7 +150,9 @@ def molecule(mols, src_len, reactant_mask = None, ranges = None):
                     continue
                     
                 num_map = {'SINGLE': 1, 'DOUBLE': 2, 'TRIPLE': 3, 'AROMATIC': 1}
-                num = num_map[str(b.GetBondType())]
+                if str(b.GetBondType()) not in num_map:
+                    return None
+                num = num_map[str(b.GetBondType())] 
                 for k in range(num):
                     if cnt == MAX_BONDS:
                         return None
@@ -266,6 +268,7 @@ def process(name):
             rxn = line.split()[0].split('>>')
             src.append(rxn[0])
             tgt.append(rxn[1])
+    # src = src[:1000]
     dataset = []   
     if mp:
         pool = ProcessPoolExecutor(10)
@@ -274,10 +277,14 @@ def process(name):
             upper = min((i+1)*batch_size, len(src))
             arg_list = [(src[idx], tgt[idx]) for idx in range(i*batch_size, upper)]
             result = pool.map(reaction, arg_list, chunksize= 64)
-            result = list(result)  
+            result = list(result) 
+            process_num = len(result)
+            success_num = 0 
             for item in result:
                 if not item is None:
-                    dataset += [item]        
+                    dataset += [item] 
+                    success_num += 1
+            print(f"process:{process_num}, success:{success_num}")       
         pool.shutdown()
     else:
         for i in trange(len(src)):
@@ -296,7 +303,7 @@ if __name__ =='__main__':
     lg.setLevel(RDLogger.CRITICAL)
     RDLogger.DisableLog('rdApp.info') 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data_path", type=str, default="/data/uspto50k")
+    parser.add_argument("--data_path", type=str, default="/fs_mol/linhaitao/synflow_mix/data/all")
     args = parser.parse_args()
    
     process(args.data_path + "/train")

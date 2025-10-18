@@ -1,0 +1,236 @@
+[
+  [
+    {
+      "text": "COCCOC(c1cccnc1)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](c1cccnc1)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "92% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COCCOC[C@@H](C)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](C)c1ccnc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "98% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COCCOC(c1ccc(-c2ccccc2)cc1)c1cc(OC)cc(OC)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cc(OC)cc([C@H](C)c2ccc(-c3ccccc3)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "94% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COCCOC(c1ccccc1)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](c1ccccc1)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "98% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COCCOC(c1ccccc1)c1ccc(CO)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](c1ccccc1)c1ccc(CO)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "88% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "COCCOC(c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccccc1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "98% es"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "Ni(acac)2"
+      ],
+      "text": "CC1=C[Si]2(OC(C)=C1)OC(C)=CC(C)=[O+]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "DPEphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2Oc2ccccc2P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "[CH3-].[I-].[Mg+2]",
+      "type": "catalyst"
+    }
+  ]
+]

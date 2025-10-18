@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CCCCCC=C=C(C)c1ccc2c(c1)C(C)(C)CCS2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=C=C(C)c1ccc2c(c1)C(C)(C)CCS2)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1ccc2c(c1)C[C@@H]1OC(C3(C4=N[C@@H]5c6ccccc6C[C@H]5O4)CC3)=N[C@H]21",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=S(=O)(c1ccc(C(F)(F)F)cc1)N(F)C12CC3CC(CC(C3)C1)C2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.10 mol%"
+      ],
+      "text": "CuOAc",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.15 mol%"
+      ],
+      "text": "Box ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "NF sulfonamide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6.0 equiv"
+      ],
+      "text": "(MeO)3Si",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN-DMAc (4:1)",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "C(sp2)\u2013H alkynylation",
+      "type": "conditions"
+    }
+  ]
+]

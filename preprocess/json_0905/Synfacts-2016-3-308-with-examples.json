@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "C=CC=CNC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(C=O)CCC=C[C@@H]1NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "2.5\u20135 mol%",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C=CNC(=O)OCc1ccccc1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Br)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@]1(Br)CCC(Cc2ccccc2)=C[C@H]1NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "77% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "2.5\u20135 mol%",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NC=CC1=CCCCC1)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(Cl)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C[C@]1(Cl)C[C@@H]2CCCCC2=C[C@H]1NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "er = 95:5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "2.5\u20135 mol%",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=CNC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1CC=C[C@H](NC(=O)OCc2ccccc2)[C@@H]1C=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "34% yield",
+        "er = 94:6"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "2.5\u20135 mol%",
+      "type": "other conditions"
+    }
+  ]
+]

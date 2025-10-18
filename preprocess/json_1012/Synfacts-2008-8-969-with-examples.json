@@ -1,0 +1,317 @@
+[
+  [
+    {
+      "text": "CC(=O)CCN(Cc1ccccc1)C(=O)C=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(O)CCN(Cc2ccccc2)C(=O)[C@@H]1Cc1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">99% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)CCN(Cc1ccccc1)C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@]1(O)CCN(Cc2ccccc2)C(=O)[C@@H]1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr = 9:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CCN(Cc1ccccc1)C(=O)C=Cc1ccco1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1[C@H](Cc2ccco2)[C@@](O)(c2ccccc2)CCN1Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCOC(=O)C=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]1(O)CCOC(=O)[C@@H]1Cc1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)CC=CC(=O)OCCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CC[C@H]1C(=O)OCC[C@@]1(O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield",
+        "dr = 5.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=CCc1ccccc1)OCCC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1OCC[C@](O)(c2ccccc2)[C@H]1CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr > 10:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)[C@]12CC3CC1C3C(=O)OCCC2=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@@]12CCC[C@@]1(O)[C@@H](CC)C(=O)OC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr > 19:1"
+      ]
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "CC(=O)C=C(C)[O-]->[Ni+2]<-[O-]C(C)=CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to r.t.",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,103 @@
+[
+  [
+    {
+      "text": "CCO[C@@H]1C=C(C(=O)OCC(N)=O)C[C@@H](Br)[C@H]1NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@@H](OCC)[C@H](NC(C)=O)[C@H](Br)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr=9:1",
+        "3j",
+        "from Oseltamivir"
+      ]
+    },
+    {
+      "text": "CCO[C@@H]1C=C(C(=O)OCSS)C[C@@H](Br)[C@H]1NC(C)=O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2\u20132.0 equiv",
+        "2",
+        "CAS 2648454-31-1"
+      ],
+      "text": "[N-]=[NH+]C(=O)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "Bromination"
+      ],
+      "text": "BrC(Br)(Br)Br",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv",
+        "Chlorination and Iodination"
+      ],
+      "text": "ClC(Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv",
+        "Chlorination and Iodination"
+      ],
+      "text": "CC(C)I",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Thiolation"
+      ],
+      "text": "K2PO4",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 equiv",
+        "Phosphonylation"
+      ],
+      "text": "CCOP(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "1 atm",
+        "Hydroxylation"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Hydroxylation"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    }
+  ]
+]

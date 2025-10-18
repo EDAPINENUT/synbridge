@@ -1,0 +1,147 @@
+[
+  [
+    {
+      "text": "C=C(CCC(=O)ONC(=O)OCC(Cl)(Cl)Cl)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@](CNC(=O)OCC(Cl)(Cl)Cl)(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "30% yield",
+        "16% ee",
+        "R=2-Me",
+        "74% yield",
+        "88% ee",
+        "R=3-Me",
+        "86% yield",
+        "92% ee",
+        "R=4-Me"
+      ]
+    },
+    {
+      "relations": [
+        "\u039b-Ru",
+        "0.5-2.0 mol%"
+      ],
+      "text": "[Ru]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC=C(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1)C(C)(C)CC(=O)ONC(=O)OCC(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)CC(=O)O[C@]1(CNC(=O)OCC(Cl)(Cl)Cl)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "\u039b-Ru",
+        "0.5-2.0 mol%"
+      ],
+      "text": "[Ru]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC=C(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CCCC(=C)CCC(=O)ONC(=O)OCC(Cl)(Cl)Cl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC[C@@]1(CNC(=O)OCC(Cl)(Cl)Cl)CCC(=O)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "\u039b-Ru",
+        "0.5-2.0 mol%"
+      ],
+      "text": "[Ru]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "O=C([O-])[O-].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC=C(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    }
+  ]
+]

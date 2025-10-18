@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "N#CCc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(OC)c(P(C2CCCCC2)C2CCCCC2)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CCc1ccc(SC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 or 3.0 mol%"
+      ],
+      "text": "[(cod)Pd(CH2TMS)2]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.75 or 3.30 mol%"
+      ],
+      "text": "BrettPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "Ph(Et)3NI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "AgSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Brc1cccc(N2CCOCC2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(OC)c(P(C2CCCCC2)C2CCCCC2)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "FC(F)(F)Sc1ccc(N2CCOCC2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.5 or 3.0 mol%"
+      ],
+      "text": "[(cod)Pd(CH2TMS)2]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.75 or 3.30 mol%"
+      ],
+      "text": "BrettPhos",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "Ph(Et)3NI",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "AgSCF3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

@@ -1,0 +1,155 @@
+[
+  [
+    {
+      "text": "COc1ccc(CCC(=O)Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccc(C[n+]2c(-c3ccccc3)cc(-c3ccccc3)cc2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CCC(=O)Cc2ccc(F)cc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "n13cccc(c1)c2ccccn24[Ni+2]34([Br-])[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "95:5"
+      ],
+      "text": "CC#N.CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC(=O)Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[n+]1c(-c2ccccc2)cc(-c2ccccc2)cc1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(CC(=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "n13cccc(c1)c2ccccn24[Ni+2]34([Br-])[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "95:5"
+      ],
+      "text": "CC#N.CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(Cl)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Fc1ccc(-[n+]2c(-c3ccccc3)cc(-c3ccccc3)cc2-c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Cc1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "n13cccc(c1)c2ccccn24[Ni+2]34([Br-])[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.8 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "95:5"
+      ],
+      "text": "CC#N.CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6-12 h",
+      "type": "time"
+    }
+  ]
+]

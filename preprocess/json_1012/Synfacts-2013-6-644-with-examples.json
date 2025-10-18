@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "text": "Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(N)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "NC(=O)C(Br)=CNc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "Z/E = 6:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "[Br-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)O[Pd]OC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 atm"
+      ],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.5 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

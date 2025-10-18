@@ -1,0 +1,198 @@
+[
+  [
+    {
+      "text": "CC(=CC(=O)n1cccn1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)n1cccn1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "4.4 mol%"
+      ],
+      "text": "C[C@H](NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1=CC=C[C@@H]1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "CCO.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(C)=CC(=O)n2cccn2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C)CC(=O)n2cccn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "4.4 mol%"
+      ],
+      "text": "C[C@H](NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1=CC=C[C@@H]1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "CCO.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CC(=O)n1cccn1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)n1cccn1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "4.4 mol%"
+      ],
+      "text": "C[C@H](NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1=CC=C[C@@H]1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "CCO.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CC(=O)n1cccn1)c1ccc(CC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc([C@H](C)CC(=O)n2cccn2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "4.0 mol%"
+      ],
+      "text": "C1=CCCC=CCC1.C1=CCCC=CCC1.F[B-](F)(F)F.[Rh+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "ligand",
+        "4.4 mol%"
+      ],
+      "text": "C[C@H](NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1=CC=C[C@@H]1P(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "50 atm"
+      ],
+      "text": "H2",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "5:1"
+      ],
+      "text": "CCO.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0.1 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

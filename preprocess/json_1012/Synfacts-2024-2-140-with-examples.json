@@ -1,0 +1,202 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)c1cccc(I)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(I)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1cccc([Si](C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1cccc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)c1cccc(C2CCCCC2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])c1ccc(C2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)c1ccc([Si](C)(C)C)c(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)c1cc(Br)cc([N+](=O)[O-])c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)c1cccc(N2C(=O)CCC2=O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC(=O)N1c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1cccc([Si](C)(C)C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ],
+  [
+    {
+      "text": "C[n+]1c2ccccc2c(-c2cccc([Si](C)(C)C)c2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[n+]1c2ccccc2c(-c2ccc([N+](=O)[O-])cc2)c2ccccc21.[I-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2S(=O)(=O)N1[N+](=O)[O-]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].CC(=O)[O-].[Mg+2]"
+    }
+  ]
+]

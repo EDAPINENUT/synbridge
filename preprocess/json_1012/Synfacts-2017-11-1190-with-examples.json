@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "text": "O=C(O)CCC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=CC1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1->[Zn+2]<-[N-]1C(C)(C)CCCC1(C)C.[Cl-].[Cl-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40 to 0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1.5h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd+2]([CH2-]C=CH2).[Pd+2]([CH2-]C=CH2).[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C=CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CN1CC(CCC(=O)O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1CC(C=CC(=O)O)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "CC1(C)CCCC(C)(C)[N-]1->[Zn+2]<-[N-]1C(C)(C)CCCC1(C)C.[Cl-].[Cl-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 equiv"
+      ],
+      "text": "[Cl-].[Cl-].[Zn+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40 to 0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1.5h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Pd+2]([CH2-]C=CH2).[Pd+2]([CH2-]C=CH2).[Cl-].[Cl-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "C=CCOC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ]
+]

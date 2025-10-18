@@ -1,0 +1,131 @@
+[
+  [
+    {
+      "text": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "text": "Cc1ccc(O)c(CN[C@@H](c2ccc([N+](=O)[O-])cc2)c2ccccc2O)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccccc1C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](O)c1ccccc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "COc1ccccc1[C@H](NCc1cc(C)ccc1O)c1ccccc1O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H](O)CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "text": "Cc1ccc(O)c(CN[C@@H](CCc2ccccc2)c2ccccc2O)c1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-4 h",
+      "type": "time"
+    }
+  ]
+]

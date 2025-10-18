@@ -1,0 +1,125 @@
+[
+  [
+    {
+      "text": "CC(C)(C)[S@@+]([O-])N=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccccc2)N([S@+]([O-])C(C)(C)C)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Pd(PPh3)4]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2-5 mmol scale"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t. or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@+]([O-])N=Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccccc2Br)N([S@+]([O-])C(C)(C)C)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Pd(PPh3)4]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2-5 mmol scale"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t. or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[S@@+]([O-])N=C1CCc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CN([S@@+]([O-])C(C)(C)C)[C@@]2(CCc3ccccc32)C1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Pd(PPh3)4]",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.2-5 mmol scale"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t. or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "18h",
+      "type": "conditions"
+    }
+  ]
+]

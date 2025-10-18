@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "text": "COC(=O)[C@H](CC(=O)O)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)CCC[C@@H](NC(=O)OC(C)(C)C)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield",
+        "37% yield",
+        "visible light",
+        "phenanthrene (4 equiv)",
+        "9-cyano-10-ethoxycarbonylanthracene (4 equiv)",
+        "NaOH (1 equiv)"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "N#Cc1ccc(C#N)c2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "CC#N.O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "UV light",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20-24 h",
+      "type": "time"
+    }
+  ]
+]

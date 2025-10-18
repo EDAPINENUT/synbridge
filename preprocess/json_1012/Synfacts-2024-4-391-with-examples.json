@@ -1,0 +1,262 @@
+[
+  [
+    {
+      "text": "CC1(C)[C@@H]2CC[C@]1(C)C(=O)C2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H]2CC[C@@]1(C)C2(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1 M in DCM"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-40 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)CCC=C(C)CCC=C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C)CCC=C(C)CCC=C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1 M in DCM"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-40 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@@H]1CC(=O)[C@@H]2CC[C@]3(O)C[C@@]21CC31OCCO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@@H](C(=O)OC)[C@]23CC4(OCCO4)[C@](O)(CC[C@@H]12)C3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1 M in DCM"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-40 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)[C@H]1[C@H]2[C@@]3(CC=C[C@@]2(C)C(=O)O3)[C@@H]2CC[C@@H]3C[C@@]21CC3=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@]23C[C@H]1CC[C@H]2[C@@]12CC=C[C@@](C)(C(=O)O1)[C@H]2[C@@H]3C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1 M in DCM"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-40 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C[C@@]12C(=O)O[C@]3(CC[C@@H]1O)[C@@H]1CC[C@@]4(O)C[C@]1(CC4=O)[C@@H](C(=O)O)[C@@H]32",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@]23C[C@]1(O)CC[C@H]2[C@@]12CC[C@H](O)[C@@](C)(C(=O)O1)[C@H]2[C@@H]3C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "38% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "BrCBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "1 M in DCM"
+      ],
+      "text": "Cl[Ti](Cl)(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-40 h",
+      "type": "time"
+    }
+  ]
+]

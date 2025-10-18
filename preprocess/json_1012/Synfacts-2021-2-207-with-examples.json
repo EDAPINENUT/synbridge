@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "O=C(C=CO)Nc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(O)(C(=O)Nc1ccc(C(F)(F)F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "93% D"
+      ]
+    },
+    {
+      "relations": [
+        "0.5 mol%",
+        "CBZ",
+        "E1/2 (Pc\u2022/Pc+) = \u22121.92 V (vs SCE)"
+      ],
+      "text": "Cn1c2c(-c3ccccc3)ccc(-c3ccccc3)c2c2c3ccccc3c3ccccc3c21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "O=S(=O)(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "~32\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "Ar atmosphere",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "9 W or 12 W LEDs (407 nm)",
+      "type": "other conditions"
+    }
+  ]
+]

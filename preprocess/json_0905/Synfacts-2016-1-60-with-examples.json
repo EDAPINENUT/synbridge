@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "text": "C(=CC1CCCCC1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C1=C[C@@H](C2CCCCC2)c2cc3c(cc2C1)OCO3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "99% ee",
+        "substrate: 99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "Cl[Au][PH](C[PH]([Au]Cl)(c1ccccc1)c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=S(=O)([O-])C(F)(F)F.[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

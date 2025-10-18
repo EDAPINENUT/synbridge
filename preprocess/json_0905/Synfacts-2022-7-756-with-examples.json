@@ -1,0 +1,217 @@
+[
+  [
+    {
+      "text": "COCCC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@H](c2ccccc2)[C@@H](C[Si](C)(C)C)[C@H](OC)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "endo/exo = 1.8:1",
+        "er = 96:4 (endo)",
+        "er = 96:4 (exo)"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "[L*Cu](SbF6)2",
+        "L* = (S,S)-t-BuBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](C(C)(C)C)CO1)C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "CC(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u201360\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COCCC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C=CN1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@@H](N2C(=O)c3ccccc3C2=O)[C@@H](C[Si](C)(C)C)[C@H](OC)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "endo/exo = 1:2.1",
+        "er = 93:7 (endo)",
+        "er = 95:5 (exo)"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "[L*Cu](SbF6)2",
+        "L* = (S,S)-t-BuBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](C(C)(C)C)CO1)C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "CC(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u201360\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@H]1C[C@@H](c2ccccc2)C=C(c2ccccc2)O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "endo/exo = 8.5:1",
+        "er = 95:5 (endo)"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "[L*Cu](SbF6)2",
+        "L* = (S,S)-t-BuBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](C(C)(C)C)CO1)C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "CC(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u201360\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C[C@H](c2ccccc2)[C@H]2CCCO[C@H]2O1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "endo/exo = 28",
+        "er = 94:6 (endo)",
+        "er = 79:21 (exo)"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%",
+        "[L*Cu](SbF6)2",
+        "L* = (S,S)-t-BuBOX"
+      ],
+      "text": "CC(C)(C1=N[C@@H](C(C)(C)C)CO1)C1=N[C@@H](C(C)(C)C)CO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "CC(=O)OC(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u201360\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

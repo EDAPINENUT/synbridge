@@ -1,0 +1,324 @@
+[
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@H]1OC1(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C(=CC(=O)c2ccccc2)C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cccc([C@@]2(C(F)(F)F)O[C@H]2C(=O)c2ccccc2)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccc2ccccc2c1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@H]1O[C@]1(c1ccc2ccccc2c1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccc(Cl)cc1)C(F)(F)F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccccc1)[C@@H]1O[C@]1(c1ccc(Cl)cc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1cccc(Cl)c1)[C@@H]1O[C@]1(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccc2ccccc2c1)[C@@H]1O[C@]1(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(C=C(c1ccccc1)C(F)(F)F)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1C[N@+]2(Cc3cc(C(F)(F)F)cc(C(F)(F)F)c3)CCC1C[C@H]2[C@@H](O)c1ccnc2ccc(OC)cc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "O=C(c1ccc(Cl)cc1)[C@@H]1OC1(c1ccccc1)C(F)(F)F",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "H2NNHMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "Air",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MTBE",
+      "type": "conditions"
+    }
+  ]
+]

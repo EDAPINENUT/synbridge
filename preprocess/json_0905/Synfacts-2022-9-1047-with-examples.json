@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "text": "CCN(CC)C(=O)Oc1ccc(C[C@H](Nc2ccccc2)C(=O)N[C@H](C(=O)OC)C(C)C)cc1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "*C(=O)[C@H](Cc1ccc(O)cc1)NC(Cc1ccc(OC(=O)N(CC)CC)cc1)N[C@@H](Cc1ccc(O)cc1)C(*)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C(OI(OC(=O)C(F)(F)F)c1ccccc1)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccc(OC(=O)N(CC)CC)c(O)c1)Nc1ccccc1)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "*C(=O)[C@H](Cc1ccc(O)cc1)NC(Cc1ccc(OC(=O)N(CC)CC)cc1)N[C@@H](Cc1ccc(O)cc1)C(*)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Cc1ccc(C(C)C)cc1.Cc1ccc(C(C)C)cc1.[Cl-].[Cl-].[Cl-].[Cl-].[Ru+2].[Ru+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C(OI(OC(=O)C(F)(F)F)c1ccccc1)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "9:1"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "16 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "air",
+      "type": "other conditions"
+    }
+  ]
+]

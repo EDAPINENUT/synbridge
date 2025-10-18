@@ -1,0 +1,226 @@
+[
+  [
+    {
+      "text": "CC[C@@H]1[C@H](C)[C@H](C)CN(c2ccccc2)[C@@H]1CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1=CCC(C#N)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H]1[C@H](C)[C@H](C)[C@H](c2ccc(C#N)cc2)N(c2ccccc2)[C@@H]1CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "dr = 85:15"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir(ppy)3"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[I-].[I-].[I-].[I-].[I-].[IH2+].c1ccc2c(c1)-c1ccccc1[I+]2(c1ccc2ccccc2n1)n1c2ccccc2c2ccccc21"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@H]1[C@@H](CC)N(c2ccccc2)CC[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1=CCC(C#N)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@H]1[C@@H](CC)N(c2ccccc2)[C@@H](c2ccc(C#N)cc2)C[C@H]1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir(ppy)3"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[I-].[I-].[I-].[I-].[I-].[IH2+].c1ccc2c(c1)-c1ccccc1[I+]2(c1ccc2ccccc2n1)n1c2ccccc2c2ccccc21"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CC[C@@H]1C[C@H](C)CN(c2ccccc2)[C@@H]1CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1=CCC(C#N)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[C@@H]1C[C@H](C)[C@@H](c2ccc(C#N)cc2)N(c2ccccc2)[C@@H]1CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir(ppy)3"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[I-].[I-].[I-].[I-].[I-].[IH2+].c1ccc2c(c1)-c1ccccc1[I+]2(c1ccc2ccccc2n1)n1c2ccccc2c2ccccc21"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[C@@H]1[C@H](C)C[C@H](C)CN1c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CC1=CCC(C#N)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H]1[C@H](C)C[C@H](C)[C@@H](c2ccc(C#N)cc2)N1c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr >95:5"
+      ]
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir(ppy)3"
+      ],
+      "type": "catalyst",
+      "text": "[I-].[I-].[I-].[I-].[I-].[I-].[IH2+].c1ccc2c(c1)-c1ccccc1[I+]2(c1ccc2ccccc2n1)n1c2ccccc2c2ccccc21"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[Na+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CNC"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "2 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ]
+]

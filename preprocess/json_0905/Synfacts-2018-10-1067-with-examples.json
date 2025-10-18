@@ -1,0 +1,230 @@
+[
+  [
+    {
+      "text": "C=C(c1ccccc1)C1(O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@]1(C[C@@H](C=Cc1ccccc1)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr = 5.5:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccc(OC)cc1)C1(O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@]2(C[C@H](C=Cc3ccccc3)c3ccccc3)CCCC2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccc(F)cc1)C1(O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@]1(C[C@H](C=Cc1ccccc1)c1ccccc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr = 5.2:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(C[C@@H](C=Cc2ccccc2)c2ccccc2)CCCC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "dr = 2.2:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1)C1(O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(C=Cc1ccc(F)cc1)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CCC[C@@]1(CC(C=Cc1ccc(F)cc1)c1ccc(F)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "94% yield",
+        "dr = 5.0:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "C=C(c1ccccc1)C1(O)CCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(O)C=Cc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](C=Cc1ccc(F)cc1)C[C@]1(c2ccccc2)CCCC1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "dr = 11.4:1"
+      ]
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Br-].[Br-].[Zn+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ]
+]

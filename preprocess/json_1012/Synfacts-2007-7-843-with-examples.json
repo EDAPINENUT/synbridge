@@ -1,0 +1,155 @@
+[
+  [
+    {
+      "text": "CC=CC(OCC(C)=CCCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(OC=C(C)CCCC)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCC[C@](C)(C=O)[C@@H](C)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "dr=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1CCC([PH](C2CCCCC2)(C2CCCCC2)[Ir+]([PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)[PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)CC1.c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "[3,3]-sigmatropic rearrangement",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(C=Cc1ccco1)CC)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C=Cc1ccco1)OC=C(C)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCC=C[C@@H](c1ccco1)[C@](C)(C=O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield",
+        "dr=96:4",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1CCC([PH](C2CCCCC2)(C2CCCCC2)[Ir+]([PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)[PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)CC1.c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "[3,3]-sigmatropic rearrangement",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(COC(C)C=Cc1ccccc1)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=COC(C)C=Cc1ccccc1)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC=C[C@H](c1ccccc1)[C@@](C)(C=O)OCC[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "58% yield",
+        "dr=94:6"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1CCC([PH](C2CCCCC2)(C2CCCCC2)[Ir+]([PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)[PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)CC1.c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "[3,3]-sigmatropic rearrangement",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(CC)COC(C=CC)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(CCCC)OC=C(C)CC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCCCC=C[C@H](C)[C@](C)(C=O)CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "dr=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1CCC([PH](C2CCCCC2)(C2CCCCC2)[Ir+]([PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)[PH](C2CCCCC2)(C2CCCCC2)C2CCCCC2)CC1.c1ccc([B-](c2ccccc2)(c2ccccc2)c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "[3,3]-sigmatropic rearrangement",
+      "type": "other conditions"
+    }
+  ]
+]

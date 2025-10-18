@@ -1,0 +1,746 @@
+[
+  [
+    {
+      "text": "OCc1ccc(Cl)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(CO)[C@H](O)c1ccc(Cl)nc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@H]1c1ccc(Cl)nc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCc1cccc(Br)n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(CO)[C@H](O)c1cccc(Br)n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@H]1c1cccc(Br)n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCc1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(CO)[C@H](O)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@H]1c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)NCCCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@](C)(CO)[C@H](O)CCNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@H]1CCNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(C)CO[C@@H]1c1ccc(Cl)nc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1(C)COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(C)CO[C@@H]1c1cccc(Br)n1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1(C)COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@@]1(C)CO[C@@H]1c1ccc(F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1(C)COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@]1(C)CO[C@@H]1CCNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C=CC1(C)COC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "(S)-lr-Tol-BINAP",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "3-4 equiv",
+        "stage1"
+      ],
+      "text": "isoprene oxide",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage1"
+      ],
+      "text": "KqPO4",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "45\u00b0C or 60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.4 equiv",
+        "stage2"
+      ],
+      "text": "TsCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.5 M",
+        "stage2"
+      ],
+      "text": "pyridine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "55\u00b0C, 9h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.1 equiv",
+        "stage2"
+      ],
+      "text": "n-BuLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0-25\u00b0C, 2h",
+      "type": "conditions"
+    }
+  ]
+]

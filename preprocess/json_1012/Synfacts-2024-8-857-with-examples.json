@@ -1,0 +1,242 @@
+[
+  [
+    {
+      "text": "CC(C(=O)C(=O)O)c1cccc2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1cccc2ccccc12)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NCCCC[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "50 wt%"
+      ],
+      "text": "wild-type transaminase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "pyridoxal 5'-phosphate"
+      ],
+      "text": "Cc1ncc(C=O)c(COP(=O)(O)O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "borate buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 10",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C(=O)C(=O)O)c1ccncc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](c1ccncc1)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr=97:3"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NCCCC[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "50 wt%"
+      ],
+      "text": "wild-type transaminase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "pyridoxal 5'-phosphate"
+      ],
+      "text": "Cc1ncc(C=O)c(COP(=O)(O)O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "borate buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 10",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(O)C(=O)C(c1cccc2ccccc12)C1CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N[C@H](C(=O)O)[C@H](c1cccc2ccccc12)C1CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NCCCC[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "50 wt%"
+      ],
+      "text": "wild-type transaminase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "pyridoxal 5'-phosphate"
+      ],
+      "text": "Cc1ncc(C=O)c(COP(=O)(O)O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "borate buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 10",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC(C(=O)C(=O)O)c1c[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC[C@@H](c1c[nH]c2ccccc12)[C@H](N)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield",
+        "dr>20:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "NCCCC[C@H](N)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "50 wt%"
+      ],
+      "text": "wild-type transaminase",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "pyridoxal 5'-phosphate"
+      ],
+      "text": "Cc1ncc(C=O)c(COP(=O)(O)O)c1O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "borate buffer",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "pH 10",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "37\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "48h",
+      "type": "time"
+    }
+  ]
+]

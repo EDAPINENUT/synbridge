@@ -1,0 +1,776 @@
+[
+  [
+    {
+      "text": "COC(=O)c1ccc(C(=O)N=C(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc(C(=O)NC(C(=O)OC)(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 48% yield",
+        "B: 94% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=O)N=C(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1ccc(OC)cc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 63% yield",
+        "B: 95% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C)c(C(=O)N=C(c2ccccc2)c2ccccc2)c(C)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1c(C)cc(C)cc1C)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 25% yield",
+        "B: 55% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)N=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)C(C)(C)C)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 43% yield",
+        "B: 91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CCc1ccccc1)N=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)CCc1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 23% yield",
+        "B: 67% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(=NC(=O)c2ccccc2)c2ccc(C)cc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1ccccc1)(c1ccc(C)cc1)c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 71% yield",
+        "B: 93% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N=C(c1ccccc1)c1ccccc1F)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1ccccc1)(c1ccccc1)c1ccccc1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 26% yield",
+        "B: 83% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1C(=NC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1ccccc1)(c1ccccc1)c1ccccc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 32% yield",
+        "B: 84% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=NC(=O)c2ccccc2)c2ccc(F)cc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(NC(=O)c1ccccc1)(c1ccc(F)cc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "A: 50% yield",
+        "B: 99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "CCCC[N+](CCCC)(CCCC)CCCC.CCCC[N+](CCCC)(CCCC)CCCC.O=C([O-])C(=O)[O-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2 equiv",
+        "A"
+      ],
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv",
+        "B",
+        "1,1,3,3-tetramethylguanidine"
+      ],
+      "text": "CN(C)C(=N)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "CN(C)C=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "A"
+      ],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "B"
+      ],
+      "text": "5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "A",
+        "B"
+      ],
+      "text": "blue LED",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "B"
+      ],
+      "text": "3DPAFIPN",
+      "type": "other conditions"
+    }
+  ]
+]

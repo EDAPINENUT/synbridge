@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "C=CC(Br)=C[SiH3]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(CC=C=C[Si](C)(c1ccccc1)c1ccccc1)(C(=O)OCC)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R)-Segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=CC(Br)=C[SiH3]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC(OC)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C(CC=C=C[Si](C(C)C)(C(C)C)C(C)C)(CC(OC)OC)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "38% yield",
+        "87% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R)-Segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C(Br)=C[SiH3]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(CC(OC)OC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(CC(C)=C=C[Si](C)(C)C)(CC(OC)OC)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "76% ee"
+      ]
+    },
+    {
+      "relations": [
+        "(R)-Segphos"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3c(c2-c2c(P(c4ccccc4)c4ccccc4)ccc4c2OCO4)OCO3)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[Cs+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    }
+  ]
+]

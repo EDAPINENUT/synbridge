@@ -1,0 +1,538 @@
+[
+  [
+    {
+      "text": "CCOP(=O)(OCC)C(=NS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](NS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=C(c2ccccc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](c2ccccc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(S(=O)(=O)N=C(c2ccc(Cl)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](c2ccc(Cl)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(=NS(=O)(=O)c2ccc(C)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@H](NS(=O)(=O)c2ccc(C)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)C(=N[SH](=O)=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](NS(=O)(=O)c1ccc(C)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)OP(=O)(OC(C)C)C(=N[SH](=O)=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](c2ccccc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)OP(=O)(OC(C)C)C(=N[SH](=O)=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(S(=O)(=O)N[C@@H](c2ccc(Cl)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(C(=N[SH](=O)=O)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc([C@H](NS(=O)(=O)c2ccc(C)cc2)P(=O)(OC(C)C)OC(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2.4 mol%",
+        "(R)-DifluorPhos"
+      ],
+      "text": "FC1(F)Oc2ccc(P(c3ccccc3)c3ccccc3)c(-c3c(P(c4ccccc4)c4ccccc4)ccc4c3OC(F)(F)O4)c2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 mol%"
+      ],
+      "text": "O=C(O[Pd])C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "600 psi"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CH2Cl2"
+      ],
+      "text": "OCC(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 with CF3CH2OH"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

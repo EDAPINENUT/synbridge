@@ -1,0 +1,189 @@
+[
+  [
+    {
+      "text": "CCOC(=O)c1ccc(F)c(F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(F)c(F)c1-c1c(C(=O)OCC)ccc(F)c1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "base 1"
+      ]
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 1"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Li+].[Mg+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 2"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCC(C)(C)[N-]C1.[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 4"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Li+].[Mg+2].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1\u20133 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "O2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u201350\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1nccnc1-c1nccnc1OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "base 1",
+        "base 4"
+      ]
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 1"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Li+].[Mg+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 2"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCC(C)(C)[N-]C1.[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 4"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Li+].[Mg+2].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1\u20133 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "O2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u201350\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)c1c(F)c(F)cc(F)c1F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1c(F)c(F)c(-c2c(F)c(F)c(N(C)C)c(F)c2F)c(F)c1F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "base 4"
+      ]
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 1"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Li+].[Mg+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 2"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCC(C)(C)[N-]C1.[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1.2\u20131.5 equiv",
+        "base 4"
+      ],
+      "type": "catalyst",
+      "text": "CC1(C)CCCC(C)(C)[N-]1.CC1(C)CCCC(C)(C)[N-]1.[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Cl-].[Li+].[Li+].[Mg+2].[Mg+2].[Zn+2]"
+    },
+    {
+      "relations": [
+        "1\u20133 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-].[Cl-].[Cu+2]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "O2"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u201350\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "COc1cccc(B2OCC(C)(C)CO2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(CCc2ccc3c(c2)OCO3)CO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC(=O)c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc(CC(C)(O)CCc2ccc3c(c2)OCO3)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cul",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "ligand L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "t-BuOLi",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "KI",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "DMF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "14 h",
+      "type": "conditions"
+    }
+  ]
+]

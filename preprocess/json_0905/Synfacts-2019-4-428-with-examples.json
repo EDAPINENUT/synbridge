@@ -1,0 +1,280 @@
+[
+  [
+    {
+      "text": "CCOC(=O)CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "242 mmol scale"
+      ]
+    },
+    {
+      "text": "C=CC(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 1"
+      ],
+      "text": "C1CCNCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 M",
+        "stage 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "heat",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R1 = OH; R2 = H",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=C(C(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "9% yield",
+        "100 mmol scale"
+      ]
+    },
+    {
+      "text": "CC=CC(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 1"
+      ],
+      "text": "C1CCNCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 M",
+        "stage 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "heat",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R1 = OH; R2 = H",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)CC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C(=Cc1ccccc1)C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "1 mol scale"
+      ]
+    },
+    {
+      "text": "O=C(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 1"
+      ],
+      "text": "C1CCNCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 M",
+        "stage 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "heat",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R1 = OH; R2 = H",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield"
+      ]
+    },
+    {
+      "text": "O=C(O)C=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 1"
+      ],
+      "text": "C1CCNCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 M",
+        "stage 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "heat",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R1 = OH; R2 = H",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=CCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)C=Cc1ccco1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield"
+      ]
+    },
+    {
+      "text": "C=CC(=O)O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "stage 1"
+      ],
+      "text": "C1CCNCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 M",
+        "stage 1"
+      ],
+      "text": "CCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "heat",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "R1 = OH; R2 = H",
+      "type": "other conditions"
+    }
+  ]
+]

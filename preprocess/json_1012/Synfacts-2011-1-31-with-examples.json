@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "text": "C#Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1ccccc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(c2ccccc2Br)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(c2ccc(Br)cc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1cc(Br)cc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1cc(Br)cc(Br)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(c2cc(Br)cc(Br)c2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1ccc(N(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1ccc(N(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CN(C)c1ccc(C2=Cc3ccccc3[Si]2(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1cccnc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1cccnc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(c2cccnc2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(C2CCCCC2)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#CCCCCC1=Cc2ccccc2[Si]1(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)CCCCC1=Cc2ccccc2[Si]1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(CCCCC2=Cc3ccccc3[Si]2(C)C)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "C#Cc1cc(Br)c(C2=Cc3ccccc3[Si]2(C)C)cc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=Cc1ccccc1[Si](C)(C)C(=C)c1cc(Br)c(C2=Cc3ccccc3[Si]2(C)C)cc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "C[Si]1(C)C(c2cc(Br)c(C3=Cc4ccccc4[Si]3(C)C)cc2Br)=Cc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [],
+      "text": "C=Cc1ccccc1[SiH](C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "stage1"
+      ],
+      "text": "[Ru+2]([N]#CC)([N]#CC)([N]#CC)[c-]1(C)c(C)c(C)c(C)1.F[P-](F)(F)(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage2"
+      ],
+      "text": "Cl[Ru](Cl)(=C(c1ccccc1)H)([P](C1CCCCC1)(C1CCCCC1)C1CCCCC1)[C]2N(c3c(C)cc(C)cc3C)CCN(c4c(C)cc(C)cc4C)2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.1 M",
+        "stage2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "2h",
+      "type": "time"
+    }
+  ]
+]

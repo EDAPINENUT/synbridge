@@ -1,0 +1,89 @@
+[
+  [
+    {
+      "text": "CC=CC=CNC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1C=C[C@@H](NC(=O)OCc2ccccc2)N(c2ccccc2)O1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "TRIP",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC=CNC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(N=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)c1ccc(N2O[C@@H](C)C=C[C@@H]2NC(=O)OCc2ccccc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "TRIP",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=C(C)C=CNC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=C[C@@H](NC(=O)OCc2ccccc2)N(c2ccccc2)O[C@H]1C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)c1cc(C(C)C)c(-c2cc3ccccc3c3c2OP(=O)(O)Oc2c(-c4c(C(C)C)cc(C(C)C)cc4C(C)C)cc4ccccc4c2-3)c(C(C)C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "TRIP",
+      "type": "conditions"
+    }
+  ]
+]

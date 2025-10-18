@@ -1,0 +1,210 @@
+[
+  [
+    {
+      "text": "OCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "OC1OCOC[C@H]1Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C[C@H](CO)Cc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 1"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe-MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[C@@H]1COCOC1O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C[C@@H](C)CO",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 1"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe-MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(COCCC=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(COC[C@@H]2COCOC2O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C[C@H](CO)COCc1ccc(OC)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 1"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe-MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "OCO",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CCCC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OC(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)C1CCCN1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C[Si](C)(C)C#CC[C@@H]1COCOC1O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CCOC(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C=C[C@H](CO)CC#C[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "stage 1"
+      ],
+      "text": "catalyst 1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "PhMe-MeOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

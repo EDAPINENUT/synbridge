@@ -1,0 +1,303 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCCc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "TTN=4500"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1cccc(Cl)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCCc1cccc(Cl)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "TTN=770"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCCc1ccccc1C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "TTN=740"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CO)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "28% yield",
+        "TTN=1100",
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](O)Cc1ccccc1.C[C@@H](O)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "31% yield",
+        "TTN=2900"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=CCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "TTN=3800",
+        "81% selectivity"
+      ]
+    },
+    {
+      "relations": [
+        "anti-Markovnikov oxygenase"
+      ],
+      "text": "aMOx",
+      "type": "other conditions"
+    },
+    {
+      "relations": [
+        "alcohol dehydrogenase"
+      ],
+      "text": "ADH",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "O=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)+",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "NAD(P)H recycling",
+      "type": "other conditions"
+    }
+  ]
+]

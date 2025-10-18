@@ -1,0 +1,632 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)C(c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)[C@@](C#N)(c2ccccc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C2C(=O)N(C(=O)OC(C)(C)C)c3ccccc32)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@@]2(C#N)C(=O)N(C(=O)OC(C)(C)C)c3ccccc32)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)C(c2ccc(F)cc2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)[C@@](C#N)(c2ccc(F)cc2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cccc(C2C(=O)N(C(=O)OC(C)(C)C)c3ccccc32)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cccc([C@]2(C#N)C(=O)N(C(=O)OC(C)(C)C)c3ccccc32)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(Cl)cc1C1C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc(Cl)cc1[C@@]1(C#N)C(=O)N(C(=O)OC(C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc2c(c1)C(c1ccccc1)C(=O)N2C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc2c(c1)[C@](C#N)(c1ccccc1)C(=O)N2C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)C(c2ccccc2)c2cc(Br)ccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)[C@](C#N)(c2ccccc2)c2cc(Br)ccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)C(c2cccc3ccccc23)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)[C@@](C#N)(c2cccc3ccccc23)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)C(c2ccccc2)c2ccc(Cl)cc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)c1ccc(OC#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C(C1=N[C@H](c2ccccc2)CO1)=c1[nH]c(=CC2=N[C@H](c3ccccc3)CO2)c2ccccc12",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)[C@](C#N)(c2ccccc2)c2ccc(Cl)cc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10.0 mol%"
+      ],
+      "text": "Zn(BF4)2-6H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "12.0 mol%"
+      ],
+      "text": "ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1.2 equiv"
+      ],
+      "text": "2,6-lutidine",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "4AMS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201336h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol"
+      ],
+      "text": "scale",
+      "type": "conditions"
+    }
+  ]
+]

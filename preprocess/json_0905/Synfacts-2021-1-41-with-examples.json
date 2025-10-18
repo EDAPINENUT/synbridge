@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CC=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN[C@@H](CCCC(C)(C)C(=O)OC)CCC(C)(C)C(=O)OC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "98% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1cccc(N)n1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "[Ir(coe)2Cl]2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(S)-DTBM-SEGPHOS"
+      ],
+      "text": "COc1c(C(C)(C)C)cc(Pc2ccc3c(c2-c2c(Pc4cc(C(C)(C)C)c(OC)c(C(C)(C)C)c4)ccc4c2OCO4)OCO3)cc1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1COCCO1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "120\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "n=1,2,3,4",
+      "type": "other conditions"
+    }
+  ]
+]

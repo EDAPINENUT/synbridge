@@ -1,0 +1,307 @@
+[
+  [
+    {
+      "text": "Cc1ccc(OP(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(OCCCC#CBr)[C@H](Cc1ccccc1)N1C(=O)c2ccccc2C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(O[P@@](=O)(C#CCCCOC(=O)[C@H](Cc2ccccc2)N2C(=O)c3ccccc3C2=O)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "32% yield",
+        "dr=9:1",
+        "L-phenylalanine derivative F"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "(S,S)-Et-DuPhos"
+      ],
+      "text": "CC[C@H]1CC[C@H](CC)P1c1ccccc1P1[C@@H](CC)CC[C@@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc(C)cc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "S1SSSSSSS1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "[BH3-][PH](=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[BH3-][P@+](C#Cc1ccccc1)(c1ccccc1)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "62% yield",
+        "84% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "(S,S)-Et-DuPhos"
+      ],
+      "text": "CC[C@H]1CC[C@H](CC)P1c1ccccc1P1[C@@H](CC)CC[C@@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc(C)cc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "S1SSSSSSS1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)P(=O)=S",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[P@@](=S)(C#Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=H: 76% yield",
+        "R=H: 86% ee",
+        "R=2-OMe: 73% yield",
+        "R=2-OMe: 76% ee",
+        "R=4-OMe: 78% yield",
+        "R=4-OMe: 76% ee",
+        "R=4-t-Bu: 73% yield",
+        "R=4-t-Bu: 90% ee",
+        "R=4-CF3: 63% yield",
+        "R=4-CF3: 84% ee",
+        "R=3-F: 70% yield",
+        "R=3-F: 82% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "C1=CCCC([Ni]C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "(S,S)-Et-DuPhos"
+      ],
+      "text": "CC[C@H]1CC[C@H](CC)P1c1ccccc1P1[C@@H](CC)CC[C@@H]1CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc(C)cc(C)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "CC(=O)[O-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "1h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "S1SSSSSSS1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "[BH3-][S+](C)C",
+      "type": "catalyst"
+    }
+  ]
+]

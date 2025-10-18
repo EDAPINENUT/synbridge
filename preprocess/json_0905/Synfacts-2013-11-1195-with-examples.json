@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "CCC(=O)CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC1CC2CCCC1C(=O)C2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr>99:1",
+        "53% ee"
+      ]
+    },
+    {
+      "relations": [
+        "LHMDS",
+        "2.0 equiv"
+      ],
+      "text": "C[Si](C)(C)[N-][Si](C)(C)C.[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "text": "C=C(C)[Pd](Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4.0 equiv"
+      ],
+      "text": "[Cl-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "SIOCPhox",
+        "5 mol%",
+        "(Sc, Sphos,Sa)-SIOCPhox"
+      ],
+      "text": "Oc1ccc2ccccc2c1-c1c(O)ccc2ccccc12.Oc1ccc2ccccc2c1-c1c(O)ccc2ccccc12",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=O)N1CC1(C)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(CCC(=O)OC(C)(C)C)(CCc1ccccc1)CNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield"
+      ]
+    },
+    {
+      "text": "CC(CCc1ccccc1)CNC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "1,4-CHD"
+      ],
+      "text": "C1=CCC=CC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10\u201320 mol%"
+      ],
+      "text": "Cl[Ti]Cl.Cc1c(C)c(C)c(C)c1C.Cc1c(C)c(C)c(C)c1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.5 equiv"
+      ],
+      "text": "Cc1cc(C)[nH+]c(C)c1.[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC1N(C=O)C12CCCCC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)NC(C)C1(CCC(=O)OC(C)(C)C)CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "text": "CC(NC(=O)O)C1CCCCC1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "8.0 equiv",
+        "1,4-CHD"
+      ],
+      "text": "C1=CCC=CC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "10\u201320 mol%"
+      ],
+      "text": "Cl[Ti]Cl.Cc1c(C)c(C)c(C)c1C.Cc1c(C)c(C)c(C)c1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.0 equiv"
+      ],
+      "text": "[Mn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20132.5 equiv"
+      ],
+      "text": "Cc1cc(C)[nH+]c(C)c1.[Br-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    }
+  ]
+]

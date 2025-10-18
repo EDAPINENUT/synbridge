@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "text": "CC(C)(C=O)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C=NN)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1.0 equiv",
+        "20 mol%",
+        "40 mol%",
+        "stage 2"
+      ],
+      "text": "NiCl\u2082(Py)\u2084 Ph\u2083P",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 2"
+      ],
+      "text": "t-BuOK",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "1,4-dioxane",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N\u2082H\u2084\u00b7H\u2082O",
+      "type": "conditions"
+    }
+  ]
+]

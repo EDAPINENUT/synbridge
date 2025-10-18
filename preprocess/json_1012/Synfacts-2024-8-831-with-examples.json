@@ -1,0 +1,166 @@
+[
+  [
+    {
+      "text": "C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(CC)OC(=O)[C@H](CC1CCCCC1)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "text": "CCC(CC)OC(=O)N1C[C@H]([C@H](C)CC)N=C1C1=N[C@@H]([C@@H](C)CC)CN1C1CCCCC1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "TBADT"
+      ],
+      "text": "[(n-Bu)4N]4[W10O32]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "390 nm Kessil lamp",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)(C)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](CC(C)(C)O)c1ccc(C#N)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "text": "CCOP(=O)(OCC)N1C[C@H]([C@H](C)CC)N=C1C1=N[C@@H]([C@@H](C)CC)CN1C(C)(C)O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Brc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 mol%",
+        "TBADT"
+      ],
+      "text": "[(n-Bu)4N]4[W10O32]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "CC(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1:1 (v/v)"
+      ],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "390 nm Kessil lamp",
+      "type": "other conditions"
+    }
+  ]
+]

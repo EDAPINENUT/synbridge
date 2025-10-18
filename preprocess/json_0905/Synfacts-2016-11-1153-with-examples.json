@@ -1,0 +1,294 @@
+[
+  [
+    {
+      "text": "O=C(CO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccc([N+](=O)[O-])cc1)[C@H](O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "97% ee",
+        "dr=14:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Et2Zn"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R,R)-L4"
+      ],
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(R,R,R)-L6"
+      ],
+      "text": "c1([C@@H](C)N(C(C)C)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,S)-L6"
+      ],
+      "text": "c1([C@@H](C)N([C@H](C)c2ccccc2)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=Cc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccc(Br)cc1)[C@H](O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "99% ee",
+        "dr=14:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Et2Zn"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R,R)-L4"
+      ],
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(R,R,R)-L6"
+      ],
+      "text": "c1([C@@H](C)N(C(C)C)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,S)-L6"
+      ],
+      "text": "c1([C@@H](C)N([C@H](C)c2ccccc2)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=CCOCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](COCc1ccccc1)[C@H](O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "67% yield",
+        "96% ee",
+        "dr=3:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Et2Zn"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R,R)-L4"
+      ],
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(R,R,R)-L6"
+      ],
+      "text": "c1([C@@H](C)N(C(C)C)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,S)-L6"
+      ],
+      "text": "c1([C@@H](C)N([C@H](C)c2ccccc2)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=C(CO)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)OCC=CC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C=Cc1ccccc1)[C@H](O)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "98% ee",
+        "dr=17:1"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "Et2Zn"
+      ],
+      "text": "CC[Zn]CC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R,R)-L4"
+      ],
+      "text": "Cc1cc(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c(O)c(CN2CCC[C@@H]2C(O)(c2ccccc2)c2ccccc2)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(R,R,R)-L6"
+      ],
+      "text": "c1([C@@H](C)N(C(C)C)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,S)-L6"
+      ],
+      "text": "c1([C@@H](C)N([C@H](C)c2ccccc2)p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

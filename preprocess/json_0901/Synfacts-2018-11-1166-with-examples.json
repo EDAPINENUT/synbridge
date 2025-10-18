@@ -1,0 +1,482 @@
+[
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccc(C(C)(C)C)cc2)N(c2ccc(Br)cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccccc2)N(c2ccc([N+](=O)[O-])cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccc(Cl)cc2)N(c2ccc([N+](=O)[O-])cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccc(C(F)(F)F)cc2)N(c2ccc([N+](=O)[O-])cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(N2C(=O)N(C)C[C@@H]2Cc2ccc(C(C)(C)C)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccc(C(C)(C)C)cc2)N(c2ccccc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C[C@H]2CN(C)C(=O)N2c2ccc(C#N)cc2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCN(C)C(=O)Nc1ccc(C#N)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN1C[C@H](Cc2ccc(C(F)(F)F)cc2)N(c2ccc(C#N)cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "Cc1cc2c(c(C(C)(C)C)c1)[C@]1(C)CC(C)(C)c3cc(C)cc(c31)OP(N([C@H](C)c1ccccc1)[C@H](C)c1ccccc1)O2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Pd2(dba)3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "6 mol%"
+      ],
+      "text": "L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "t-BuONa",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe\u2013H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.05 mmol scale"
+      ],
+      "text": "reaction scale",
+      "type": "conditions"
+    }
+  ]
+]

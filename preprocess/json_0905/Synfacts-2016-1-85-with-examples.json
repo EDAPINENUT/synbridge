@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "text": "C[Si](C)(C)OC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCO[C@H](C=O)[C@@H](O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr = 90:10"
+      ]
+    },
+    {
+      "relations": [
+        "0.5\u20131 mol%"
+      ],
+      "text": "O=S(=O)(NS(=O)(=O)C(F)(F)F)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Ic1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5\u20133 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "R1 = Alk, (Het)Ar, alkynyl",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "R2 = Si, Bn, TES, allyl",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "Si = Si(SiMe3)3",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,382 @@
+[
+  [
+    {
+      "text": "CC(c1ccccc1)N(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(c1ccccc1)N(C)C(C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "19% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.8 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "R2\u2260H"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.6 equiv",
+        "R2=H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method A",
+        "R2=H"
+      ],
+      "text": "H2C=CHCH2ZnBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C[Si](C)(C)OS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "-20 to 25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(C(=O)NCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(NCc1ccccc1)c1ccc(C(=O)OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield (method A)",
+        "76% yield (method B)"
+      ]
+    },
+    {
+      "relations": [
+        "1.8 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "R2\u2260H"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.6 equiv",
+        "R2=H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method A",
+        "R2=H"
+      ],
+      "text": "H2C=CHCH2ZnBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C[Si](C)(C)OS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "-20 to 25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=O)NCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCC(NCc1ccccc1)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield (method A)",
+        "38% yield (method B)"
+      ]
+    },
+    {
+      "relations": [
+        "1.8 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "R2\u2260H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "R2\u2260H"
+      ],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "R2\u2260H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "2.6 equiv",
+        "R2=H"
+      ],
+      "text": "C1=CC=C(C=C1)[ZrH](C2=CC=CC=C2)Cl ",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method A",
+        "R2=H"
+      ],
+      "text": "H2C=CHCH2ZnBr",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C=CC[Sn](CCCC)(CCCC)CCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "method B",
+        "R2=H"
+      ],
+      "text": "C[Si](C)(C)OS(=O)(=O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "-20 to 25\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "method B",
+        "R2=H"
+      ],
+      "text": "overnight",
+      "type": "time"
+    }
+  ]
+]

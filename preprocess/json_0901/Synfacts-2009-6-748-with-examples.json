@@ -1,0 +1,41 @@
+[
+  [
+    {
+      "text": "CC1CN1S(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C=C(CC(=O)OCC)C(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(Cc2ccc([N+](=O)[O-])cc2)N[C@H](C)C[C@@H]1C(=O)OCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "hP",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2C2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "72h",
+      "type": "conditions"
+    }
+  ]
+]

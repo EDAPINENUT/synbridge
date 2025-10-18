@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "text": "C=Cc1ccc(COC(=O)Cc2c(C)n(C(=O)c3ccc(Cl)cc3)c3ccccc23)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1c(CC(=O)OCc2ccc(CC(Br)C#C[Si](C)(C)C)cc2)c2ccccc2n1C(=O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 h under air",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#CC(Br)CCOC(=O)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Pd(OAc)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhMe",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "75\u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "20 h under air",
+      "type": "conditions"
+    }
+  ]
+]

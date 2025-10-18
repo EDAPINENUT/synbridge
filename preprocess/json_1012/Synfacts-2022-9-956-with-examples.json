@@ -1,0 +1,437 @@
+[
+  [
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(=O)(=O)n2cccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(=O)(=O)O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "100 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(N)(=O)=O)cc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)n3cccc3)cc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)O)cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "100 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(N)(=O)=O)cc2)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)n3cccc3)cc2)cn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)O)cc2)cn1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccc(S(=O)(=O)O)cc1.O"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.2 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "Cc1ccccc1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "100 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(=O)(=O)n2cccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "text": "Cc1onc(-c2ccccc2)c1-c1ccc(S(=O)(=O)O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "150 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(N)(=O)=O)cc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)n3cccc3)cc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield"
+      ]
+    },
+    {
+      "text": "CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)O)cc2)C1=O",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "150 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(N)(=O)=O)cc2)cn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)n3cccc3)cc2)cn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield"
+      ]
+    },
+    {
+      "text": "Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)O)cc2)cn1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "di-MeOTHF"
+      ],
+      "type": "reactants",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "di-MeOTHF",
+        "1.5 equiv",
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCC(OC)O1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "150 \u00b0C"
+    },
+    {
+      "relations": [
+        "3-5 equiv",
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "catalyst",
+      "text": "CCO"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "temperature",
+      "text": "35-70 \u00b0C"
+    }
+  ]
+]

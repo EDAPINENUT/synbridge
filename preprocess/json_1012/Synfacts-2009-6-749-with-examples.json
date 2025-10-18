@@ -1,0 +1,172 @@
+[
+  [
+    {
+      "text": "COc1ccc2[nH]ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)c1nccn1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2[nH]cc([C@H](C)CC(=O)c3nccn3C)c2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "82% ee",
+        "(+)"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc[n+]2*[n+]3ccc(C)cc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "salmon testes DNA",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 6.5"
+      ],
+      "text": "O=S(=O)(O)CCCN1CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h to 3 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.45 mmol (preparative scale)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Clc1ccc2[nH]ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=CC(=O)c1nccn1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CC(=O)c1nccn1C)c1c[nH]c2ccc(Cl)cc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "54% yield",
+        "69% ee",
+        "(+)",
+        "R"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc[n+]2*[n+]3ccc(C)cc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "salmon testes DNA",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 6.5"
+      ],
+      "text": "O=S(=O)(O)CCCN1CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h to 3 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.45 mmol (preparative scale)",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "Cn1ccc2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1ccnc1C(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cn1ccnc1C(=O)C[C@H](c1ccccc1)c1cn(C)c2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "77% ee",
+        "(+)",
+        "S"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "Cc1cc[n+]2*[n+]3ccc(C)cc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "salmon testes DNA",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "pH 6.5"
+      ],
+      "text": "O=S(=O)(O)CCCN1CCOCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "5\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h to 3 d",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "0.45 mmol (preparative scale)",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,667 @@
+[
+  [
+    {
+      "text": "CCC(=O)C#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C#Cc1ccccc1)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]CCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCC[C@@](C#Cc1ccccc1)(CC)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "dr = 97:3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC#CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(=N[S@@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]CCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCC#C[C@@](CCC)(N[S@](=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "dr = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC#CC(=O)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(CCCC)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]C=CC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC=C[C@@](C#CCCC)(CCCC)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "dr = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC#CC(=O)CCCCCl",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(CCCCCl)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]CCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCC#C[C@](CCC)(CCCCCl)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "dr = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCC(=O)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC(C#C[Si](C)(C)C)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]CCC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCC[C@@](C#C[Si](C)(C)C)(CC)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr = 95:5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC#CC(=O)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(CCCC)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CCCC#C[C@@](C)(CCCC)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "dr = 94:6"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CCCC#CC(=O)CCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(CCCC)=N[S@@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "[Li]C=CC",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "CC=C[C@@](C#CCCC)(CCCC)N[S@](=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr = 98:2"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[S@@](N)=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "2.0 equiv",
+        "stage 1"
+      ],
+      "text": "CCO[Ti](OCC)(OCC)OCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "1.2 equiv",
+        "stage 2"
+      ],
+      "text": "C[Al](C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "0.5 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "-40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "text": "1 h",
+      "type": "time"
+    }
+  ]
+]

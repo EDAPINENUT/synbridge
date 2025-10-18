@@ -1,0 +1,138 @@
+[
+  [
+    {
+      "text": "CCCCCC(=C=Cc1ccc2c(c1)C(C)(C)CCS2)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=C=C(C)c1ccc2c(c1)C(C)(C)CCS2)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "C(sp2):C(sp3) = 10:1"
+      ]
+    },
+    {
+      "text": "CB(O)O",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5.0 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "6.0 mol%",
+        "Phen ligand"
+      ],
+      "text": "Cc1cnc2c(ccc3c(C)c(C)cnc32)c1C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.5 equiv",
+        "NF sulfonamide"
+      ],
+      "text": "O=S(=O)(c1cc(C(F)(F)F)cc(C(F)(F)F)c1)N(F)C12CC3CC(CC(C3)C1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv"
+      ],
+      "text": "O=C([O-])[O-].[Li+].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5\u20135 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CC(=O)N(C)C.ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C to r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "C(sp2)-H arylation",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCCCCC=C=C(C)c1ccc2c(c1)C(C)(C)CCS2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCC(=C=C(C)c1ccc2c(c1)C(C)(C)CCS2)C#C[Si](C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "C(sp2):C(sp3) = 10:1"
+      ]
+    },
+    {
+      "text": "CO[Si](OC)(OC)[Si](C)(C)C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.10 mol%"
+      ],
+      "text": "CC(=O)[O-].[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.15 mol%",
+        "Box ligand"
+      ],
+      "text": "c1ccc2c(c1)CC1OC(C3(C4=N[C@H]5c6ccccc6CC5O4)CC3)=N[C@@H]21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.0 equiv",
+        "NF sulfonamide"
+      ],
+      "text": "O=S(=O)(c1ccc(C(F)(F)F)cc1)N(F)C12CC3CC(CC(C3)C1)C2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4:1"
+      ],
+      "text": "CC#N.CC(=O)N(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "r.t.",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "C(sp2)-H alkynylation",
+      "type": "other conditions"
+    }
+  ]
+]

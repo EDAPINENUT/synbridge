@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "text": "CC(C)OC(=O)C=NNC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1=CCN(NC(=O)C(C)(C)C)[C@@H](C(=O)OC(C)C)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "85% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C@@H]1[C@@H](c2ccccc2)O[Si](Cl)(c2ccccc2)N1C"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)OC(=O)C=NNC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(=C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)OC(=O)[C@H]1CC(c2ccccc2)=CCN1NC(=O)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "type": "catalyst",
+      "text": "C[C@@H]1[C@@H](c2ccccc2)O[Si](Cl)(c2ccccc2)N1C"
+    }
+  ]
+]

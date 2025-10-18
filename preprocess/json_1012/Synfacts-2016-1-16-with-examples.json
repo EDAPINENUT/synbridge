@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(c1ccccc1)c1ccccn1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield"
+      ]
+    },
+    {
+      "relations": [
+        "isoquinoline",
+        "pyrazine",
+        "pyridine"
+      ],
+      "text": "C1=NCCCC1",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O=C(O)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "110\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

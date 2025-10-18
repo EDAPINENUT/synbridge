@@ -1,0 +1,154 @@
+[
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)CCc2ccccc2)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@@H](CCc1ccccc1)C(F)(F)F)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "94% ee",
+        "es=0.95",
+        "conditions A"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[C-]#N.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[Si](C)(C)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "conditions A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "98% ee",
+        "es=0.99",
+        "conditions B"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[C-]#N.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "C[Si](C)(C)C(F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "conditions A",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(S(=O)(=O)O[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCN(CC)C(=O)C(F)(F)[C@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "98% ee",
+        "es=0.99",
+        "conditions B"
+      ]
+    },
+    {
+      "relations": [
+        "30 mol%"
+      ],
+      "text": "[C-]#N.[Cu+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "CCN(CC)C(=O)C(F)(F)[Si](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "conditions B",
+      "type": "other conditions"
+    }
+  ]
+]

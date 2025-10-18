@@ -1,0 +1,261 @@
+[
+  [
+    {
+      "text": "CCC(=O)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccccc1-c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C(=O)C(C)c1ccc(-c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "t-BuONa"
+      ],
+      "text": "CC(C)(C)O[Na]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "Pd2(dba)3"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "Tol-BINAP"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccccc1N=C(c1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC(=O)Cc1ccc(N=C(c2ccccc2)c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield",
+        "mono/di=28:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "t-BuONa"
+      ],
+      "text": "CC(C)(C)O[Na]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "Pd2(dba)3"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "Tol-BINAP"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)c1ccc(C2CCCCC2=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "mono/di=33:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "t-BuONa"
+      ],
+      "text": "CC(C)(C)O[Na]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "Pd2(dba)3"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "Tol-BINAP"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1[Fe]c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccccc1Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccc(CC(=O)c2ccccc2[Fe]c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "mono/di=27:1"
+      ]
+    },
+    {
+      "relations": [
+        "1.3 equiv",
+        "t-BuONa"
+      ],
+      "text": "CC(C)(C)O[Na]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "Pd2(dba)3"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "BINAP"
+      ],
+      "text": "c1ccc(P(c2ccccc2)c2ccc3ccccc3c2-c2c(P(c3ccccc3)c3ccccc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3.6 mol%",
+        "Tol-BINAP"
+      ],
+      "text": "Cc1ccc(P(c2ccc(C)cc2)c2ccc3ccccc3c2-c2c(P(c3ccc(C)cc3)c3ccc(C)cc3)ccc3ccccc23)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "THF"
+      ],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "70\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

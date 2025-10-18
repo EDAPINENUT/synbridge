@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "text": "CC(=O)OC1=CCCc2cccc(Br)c21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(CC(F)F)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "43% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "FC(F)[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "fac",
+        "3 mol%"
+      ],
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1cc(F)cc2c1C(OC(C)=O)=CCC2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)CC(F)F)c(F)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "76% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "FC(F)[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-]",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "fac",
+        "3 mol%"
+      ],
+      "text": "[Ir+3]%10%11%12%13%14%15n1%10cccc(c1-c2[c-]%11cccc2)n3%12cccc(c3-c4[c-]%13cccc4)n5%14cccc(c5-c6[c-]%15cccc6)",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CN1CCCC1=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "36 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "blue LED",
+      "type": "other conditions"
+    }
+  ]
+]

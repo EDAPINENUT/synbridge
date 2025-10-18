@@ -1,0 +1,212 @@
+[
+  [
+    {
+      "text": "Cc1ccc(C(O)C2=CCCC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=C2C(=O)CC[C@@H]2c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "26% yield",
+        "99% ee"
+      ]
+    },
+    {
+      "text": "Cc1ccc([C@H](O)C2=CCCC2=O)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[S@@](=O)N[C@H](/C=C/c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "type": "catalyst",
+      "text": "C1COCCO1.CO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.4 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CCC=C1C(O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C1CC[C@H](c2ccccc2)C1=Cc1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "37% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "text": "O=C1CCC=C1[C@@H](O)c1ccc([N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[S@@](=O)N[C@H](/C=C/c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "type": "catalyst",
+      "text": "C1COCCO1.CO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.4 mmol scale"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CCC=C1C(O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc(B(O)O)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cccc([C@H]2CCC(=O)C2=Cc2ccc(Cl)cc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "48% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "text": "O=C1CCC=C1[C@@H](O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1"
+    },
+    {
+      "relations": [
+        "6 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[S@@](=O)N[C@H](/C=C/c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[K+].[OH-]"
+    },
+    {
+      "relations": [
+        "10:1"
+      ],
+      "type": "catalyst",
+      "text": "C1COCCO1.CO"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "30\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24 h"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "0.4 mmol scale"
+    }
+  ]
+]

@@ -1,0 +1,482 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=O)NC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)NC=N[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)C(=O)NC(B1OC(C)(C)C(C)(C)O1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "chiral catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)NC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)NC=N[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)C(=O)N[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "chiral catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=N[Si](C)(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1ccc([C@@H](NC(=O)C(C)(C)C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "chiral catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C(=O)NC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C(=O)NC=N[Si](C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)C(=O)N[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "chiral catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)n1cc(C=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)n1cc(C=N[Si](C)(C)C)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)n1cc([C@@H](NC(=O)C(C)(C)C)B2OC(C)(C)C(C)(C)O2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [],
+      "text": "LiHMDS",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "chiral catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)O[C@@H]2[C@@H](O1)C(c1cc(C)cc(C)c1)(c1cc(C)cc(C)c1)OP(c1ccccc1)OC2(c1cc(C)cc(C)c1)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C(=O)NC(B1OC(C)(C)C(C)(C)O1)c1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 h"
+      ],
+      "text": "LiHMDS THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 h"
+      ],
+      "text": "then TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "6 mol%"
+      ],
+      "text": "Pt(dba)3 (R,R)-L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2 PhMe\u2013THF, r.t., 14h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t, 1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)O[C@@H]2[C@@H](O1)C(c1cc(C)cc(C)c1)(c1cc(C)cc(C)c1)OP(c1ccccc1)OC2(c1cc(C)cc(C)c1)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C(=O)N[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 h"
+      ],
+      "text": "LiHMDS THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 h"
+      ],
+      "text": "then TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "6 mol%"
+      ],
+      "text": "Pt(dba)3 (R,R)-L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2 PhMe\u2013THF, r.t., 14h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t, 1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)O[C@@H]2[C@@H](O1)C(c1cc(C)cc(C)c1)(c1cc(C)cc(C)c1)OP(c1ccccc1)OC2(c1cc(C)cc(C)c1)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1ccc([C@@H](NC(=O)C(C)(C)C)B2OC(C)(C)C(C)(C)O2)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 h"
+      ],
+      "text": "LiHMDS THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 h"
+      ],
+      "text": "then TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "6 mol%"
+      ],
+      "text": "Pt(dba)3 (R,R)-L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2 PhMe\u2013THF, r.t., 14h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t, 1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)O[C@@H]2[C@@H](O1)C(c1cc(C)cc(C)c1)(c1cc(C)cc(C)c1)OP(c1ccccc1)OC2(c1cc(C)cc(C)c1)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)C(=O)N[C@@H](B1OC(C)(C)C(C)(C)O1)c1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 h"
+      ],
+      "text": "LiHMDS THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 h"
+      ],
+      "text": "then TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "6 mol%"
+      ],
+      "text": "Pt(dba)3 (R,R)-L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2 PhMe\u2013THF, r.t., 14h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t, 1 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)n1cc(C=O)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCC1(CC)O[C@@H]2[C@@H](O1)C(c1cc(C)cc(C)c1)(c1cc(C)cc(C)c1)OP(c1ccccc1)OC2(c1cc(C)cc(C)c1)c1cc(C)cc(C)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)n1cc([C@@H](NC(=O)C(C)(C)C)B2OC(C)(C)C(C)(C)O2)c2ccccc21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "0.5 h"
+      ],
+      "text": "LiHMDS THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 h"
+      ],
+      "text": "then TMSCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "6 mol%"
+      ],
+      "text": "Pt(dba)3 (R,R)-L1",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "B2(pin)2 PhMe\u2013THF, r.t., 14h",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PivOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "r.t, 1 h",
+      "type": "conditions"
+    }
+  ]
+]

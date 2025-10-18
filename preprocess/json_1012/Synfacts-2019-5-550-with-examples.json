@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C(C)(Br)C#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@](C)(C#N)N=[N+]=[N-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er=93:7"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "reactants",
+      "text": "[N-]=[N+]=[N-].[Na+]"
+    },
+    {
+      "relations": [
+        "3 mol%"
+      ],
+      "type": "other conditions",
+      "text": "catalyst b"
+    },
+    {
+      "relations": [
+        "sat. aq"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[K+].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(C)OC(C)C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-40\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "3-4h"
+    }
+  ]
+]

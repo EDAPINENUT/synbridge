@@ -1,0 +1,290 @@
+[
+  [
+    {
+      "text": "COC(=O)OCC=CCN(Cc1ccccc1)Cc1c(-c2ccccc2)[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CN(Cc2ccccc2)CC12c1ccccc1N[C@H]2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "96% ee",
+        "dr >95:5",
+        "t1 = 44 h",
+        "t2 = 24 h",
+        "X-ray structure"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,Sa)-ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)C([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t1",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t2",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC=CN(CC=CCOC(=O)OC)Cc1c(-c2ccccc2)[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CN(C=CC)CC12c1ccccc1N[C@H]2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "94% ee",
+        "dr >95:5",
+        "t1 = 41 h",
+        "t2 = 19 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,Sa)-ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)C([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t1",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t2",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OCC=CCN(Cc1ccccc1)Cc1c(-c2ccc(C)cc2)[nH]c2ccccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CN(Cc2ccccc2)CC12c1ccccc1N[C@@H]2c1ccc(C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "83% yield",
+        "95% ee",
+        "dr = 94:6",
+        "t1 = 37 h",
+        "t2 = 18 h",
+        "88% yield (gram scale)",
+        "95% ee (gram scale)",
+        "dr = 93:7 (gram scale)"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,Sa)-ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)C([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t1",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t2",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)OCC=CCN(Cc1ccccc1)Cc1c(-c2ccccc2)[nH]c2cc(F)ccc12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CN(Cc2ccccc2)CC12c1ccc(F)cc1N[C@H]2c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "96% ee",
+        "dr = 95:5",
+        "t1 = 27 h",
+        "t2 = 18 h"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "C1=CCCC([Ir]2<-Cl[Ir](<-Cl2)C2=CCCC=CCC2)=CCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "(S,S,Sa)-ligand"
+      ],
+      "text": "C[C@@H](c1ccccc1)C([C@@H](C)c1ccccc1)p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "O=P([O-])([O-])[O-].[K+].[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t1",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[AlH4-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C to reflux",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "t2",
+      "type": "time"
+    }
+  ]
+]

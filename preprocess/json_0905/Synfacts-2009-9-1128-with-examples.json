@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "text": "C#CCN(CC=CCO[Si](C)(C)C(C)(C)C)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CN(S(=O)(=O)c2ccc(C)cc2)C[C@H]1C=CO[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(S)-binap]SbF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC(CC=CC=O)(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC(C(=O)OC)(C(=O)OC)C[C@H]1CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "7% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(S)-binap]SbF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CCC(CC=CC=O)(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC(C(=O)OC)(C(=O)OC)C[C@H]1CC=O",
+      "relations": [],
+      "type": "products",
+      "relation": []
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(S)-binap]SbF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "C#CCN(CC=CCC)S(=O)(=O)c1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CN(S(=O)(=O)c2ccc(C)cc2)C[C@H]1C=CC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        ">98% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "[Rh(S)-binap]SbF6",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.4 M"
+      ],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "23\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

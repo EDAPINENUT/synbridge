@@ -1,0 +1,299 @@
+[
+  [
+    {
+      "text": "COS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1sccc1C=C(OC(C)(C)C)O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1sccc1[C@H](C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CN1(C)CCN(C)(C)->[Pd+2]<-1(<-[CH3-])<-[CH3-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-L",
+        "(R)-\u25a1",
+        "2.4 mol%"
+      ],
+      "text": "c1ccc2c(COc3ccc4c(c3-c3c(P(C5CCCCC5)C5CCCCC5)ccc5c3CCCC5)CCCC4)cccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2cc(C=C(OC(C)(C)C)O[Si](C)(C)C)ccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2cc([C@H](C)C(=O)OC(C)(C)C)ccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "99% yield",
+        "90% ee",
+        "(S)-naproxen ester"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CN1(C)CCN(C)(C)->[Pd+2]<-1(<-[CH3-])<-[CH3-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-L",
+        "(R)-\u25a1",
+        "2.4 mol%"
+      ],
+      "text": "c1ccc2c(COc3ccc4c(c3-c3c(P(C5CCCCC5)C5CCCCC5)ccc5c3CCCC5)CCCC4)cccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(c1ccccc1)c1cccc(OS(=O)(=O)C(F)(F)F)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=C(OC(C)(C)C)O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](C(=O)OC(C)(C)C)c1cccc(C(=O)c2ccccc2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "88% ee",
+        "(S)-ketoprofen ester"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CN1(C)CCN(C)(C)->[Pd+2]<-1(<-[CH3-])<-[CH3-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-L",
+        "(R)-\u25a1",
+        "2.4 mol%"
+      ],
+      "text": "c1ccc2c(COc3ccc4c(c3-c3c(P(C5CCCCC5)C5CCCCC5)ccc5c3CCCC5)CCCC4)cccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COS(=O)(=O)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2cccc(C=C(OC(C)(C)C)O[Si](C)(C)C)c2n1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc2cccc([C@H](C)C(=O)OC(C)(C)C)c2n1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CN1(C)CCN(C)(C)->[Pd+2]<-1(<-[CH3-])<-[CH3-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-L",
+        "(R)-\u25a1",
+        "2.4 mol%"
+      ],
+      "text": "c1ccc2c(COc3ccc4c(c3-c3c(P(C5CCCCC5)C5CCCCC5)ccc5c3CCCC5)CCCC4)cccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=S(=O)(Oc1cccc2ccccc12)C(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=CCc1ccccc1)O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@@H](Cc1ccccc1)c1cccc2ccccc12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "CN1(C)CCN(C)(C)->[Pd+2]<-1(<-[CH3-])<-[CH3-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(R)-L",
+        "(R)-\u25a1",
+        "2.4 mol%"
+      ],
+      "text": "c1ccc2c(COc3ccc4c(c3-c3c(P(C5CCCCC5)C5CCCCC5)ccc5c3CCCC5)CCCC4)cccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "CC(=O)[O-].[Li+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "FC(F)(F)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "6h",
+      "type": "time"
+    }
+  ]
+]

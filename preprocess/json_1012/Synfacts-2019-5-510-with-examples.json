@@ -1,0 +1,232 @@
+[
+  [
+    {
+      "text": "CC(Br)[Si](c1ccccc1)(c1ccccc1)[C@H](CCC1OCCO1)Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](c1ccccc1)(c1ccccc1)[C@H](CCC1OCCO1)Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "Tgana"
+      ],
+      "text": "CC(C)C[C@H]1COC(c2cccc(C3=N[C@@H](CC(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(CC[C@@H](CCC2OCCO2)[Si](c2ccccc2)(c2ccccc2)C(C)Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](c1ccccc1)(c1ccccc1)[C@@H](CCc1ccc(OC)cc1)CCC1OCCO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "86% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "Tgana"
+      ],
+      "text": "CC(C)C[C@H]1COC(c2cccc(C3=N[C@@H](CC(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(CC[C@@H](CCC2OCCO2)[Si](c2ccccc2)(c2ccccc2)C(C)Br)o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](c1ccccc1)(c1ccccc1)[C@@H](CCc1ccc(C)o1)CCC1OCCO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "72% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "Tgana"
+      ],
+      "text": "CC(C)C[C@H]1COC(c2cccc(C3=N[C@@H](CC(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(Br)[Si](c1ccccc1)(c1ccccc1)[C@@H](CCc1ccccc1)CCC1OCCO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](c1ccccc1)(c1ccccc1)[C@@H](CCc1ccccc1)CCC1OCCO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "74% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "Tgana"
+      ],
+      "text": "CC(C)C[C@H]1COC(c2cccc(C3=N[C@@H](CC(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC[Si](CC)(C(C)Br)[C@@H](CCc1ccccc1)CCC1OCCO1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "[Zn]Br",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC[Si](CC)(CC)[C@@H](CCc1ccccc1)CCC1OCCO1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "50% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Br[Ni]Br.COCCOCCOC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "13 mol%",
+        "Tgana"
+      ],
+      "text": "CC(C)C[C@H]1COC(c2cccc(C3=N[C@@H](CC(C)C)CO3)n2)=N1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CNC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    }
+  ]
+]

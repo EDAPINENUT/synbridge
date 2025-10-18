@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "text": "Brc1ccc2ncccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OB(O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(Oc1ccccc1)N1c2ccc(Br)cc2C=C[C@H]1C=Cc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "er = 97.5:2.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN(CCO)[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C(Cl)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "14 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2ncccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=CB(O)O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C=C[C@@H]2C=Cc3ccccc3N2C(=O)Oc2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "er = 95.5:4.5"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CN(CCO)[C@@H]1CCCC[C@H]1NC(=S)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C(Cl)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "O=C([O-])O.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-70\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "14 h",
+      "type": "time"
+    }
+  ]
+]

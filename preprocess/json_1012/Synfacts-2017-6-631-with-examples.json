@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "text": "O=S(=O)(Cc1ccc2ccccc2c1)OCC(F)(F)F",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)C=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "E/Z = 95:5"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "[Li]OC(C)(C)C"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    },
+    {
+      "relations": [],
+      "type": "other conditions",
+      "text": "argon"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "16h"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "r.t."
+    }
+  ]
+]

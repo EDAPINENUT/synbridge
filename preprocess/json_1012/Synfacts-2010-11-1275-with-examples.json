@@ -1,0 +1,342 @@
+[
+  [
+    {
+      "text": "OB(O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C[N+](=O)[O-])c2ccccc2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "78% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "chiral diene",
+        "C2-symmetric chiral diene"
+      ],
+      "text": "C1=C(c2ccc3ccccc3c2)[C@H]2CC=C(c3ccc4ccccc4c3)[C@H]2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "F.[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-7 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=[N+]([O-])C[C@H](c1ccccc1)c1ccc(Br)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "92% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "chiral diene",
+        "C2-symmetric chiral diene"
+      ],
+      "text": "C1=C(c2ccc3ccccc3c2)[C@H]2CC=C(c3ccc4ccccc4c3)[C@H]2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "F.[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-7 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1C=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccccc1[C@H](C[N+](=O)[O-])c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "chiral diene",
+        "C2-symmetric chiral diene"
+      ],
+      "text": "C1=C(c2ccc3ccccc3c2)[C@H]2CC=C(c3ccc4ccccc4c3)[C@H]2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "F.[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-7 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "OB(O)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C=C[N+](=O)[O-])cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc([C@H](C[N+](=O)[O-])C2CCCCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "84% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "chiral diene",
+        "C2-symmetric chiral diene"
+      ],
+      "text": "C1=C(c2ccc3ccccc3c2)[C@H]2CC=C(c3ccc4ccccc4c3)[C@H]2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "F.[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-7 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccccc1B(O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCC=C[N+](=O)[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC[C@@H](C[N+](=O)[O-])c1ccccc1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "86% ee"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%"
+      ],
+      "text": "[Cl-]1[Rh+](C=C)(C=C)[Cl-]2[Rh+](C=C)(C=C)1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 mol%",
+        "chiral diene",
+        "C2-symmetric chiral diene"
+      ],
+      "text": "C1=C(c2ccc3ccccc3c2)[C@H]2CC=C(c3ccc4ccccc4c3)[C@H]2C1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3 equiv"
+      ],
+      "text": "F.[F-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2:1 (PhMe:H2O)"
+      ],
+      "text": "O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "4-7 h",
+      "type": "time"
+    }
+  ]
+]

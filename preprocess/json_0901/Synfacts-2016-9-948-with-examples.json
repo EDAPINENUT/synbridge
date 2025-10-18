@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "text": "CCOC(=O)CNc1ccc(C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C#CCCCCCCCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCCCCCC#C[C@@H](Nc1ccc(C)cc1)C(=O)OCC",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "c1cc(C2=N[C@@H]3c4ccccc4C[C@H]3O2)nc(C2=N[C@H]3c4ccccc4C[C@H]3O2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "Cu(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "liqand",
+      "type": "conditions"
+    }
+  ]
+]

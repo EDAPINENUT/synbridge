@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "text": "CC=CCCc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CN(CC(C)C)P1(=[Se])N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C[C@@H]1c2cc3c(cc2CC[C@H]1Sc1ccccc1)OCO3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er = 97:3",
+        "from (E)-2a"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2C(=O)N1Sc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.75 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCS(=O)(=O)O"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "20\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC=CCCc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CN(CC(C)C)P1(=[Se])N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C[C@H]1c2cc3c(cc2CC[C@H]1Sc1ccccc1)OCO3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "91% yield",
+        "er = 52:48",
+        "from (Z)-2a"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2C(=O)N1Sc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.75 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCS(=O)(=O)O"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "20\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "CC(=CCCc1ccc2c(c1)OCO2)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)CN(CC(C)C)P1(=[Se])N(C)c2ccc3ccccc3c2-c2c(ccc3ccccc23)N1C",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "text": "C[C@@]1(c2ccccc2)c2cc3c(cc2CC[C@H]1Sc1ccccc1)OCO3",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "er = 71:29",
+        "from (E)-2a"
+      ]
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "reactants",
+      "text": "O=C1c2ccccc2C(=O)N1Sc1ccccc1"
+    },
+    {
+      "relations": [
+        "0.75 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCS(=O)(=O)O"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "-20\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "0\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "20\u00b0C"
+    }
+  ]
+]

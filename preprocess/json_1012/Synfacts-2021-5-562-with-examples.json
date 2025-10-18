@@ -1,0 +1,112 @@
+[
+  [
+    {
+      "text": "CC1(Cc2ccccc2)C(=O)CCC1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@]1(Cc2ccccc2)C(=O)CC[C@@H]1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "dr = 98:2",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)COc1ccc([P@@](=O)(Nc2c(F)c(F)c(F)c(F)c2F)c2cc(C(C)(C)C)c(OCC(C)C)cc2-c2ccc(C(C)(C)C)cc2)cc1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(C)N(c1ccccc1)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "CB"
+      ],
+      "text": "B1Oc2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "Cc1ccc(CC2(C)C(=O)COCC2=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ccc(C[C@@]2(C)C(=O)COC[C@@H]2O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "dr = 96.5:3.5",
+        "er = 98:2"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)COc1ccc([P@@](=O)(Nc2c(F)c(F)c(F)c(F)c2F)c2cc(C(C)(C)C)c(OCC(C)C)cc2-c2ccc(C(C)(C)C)cc2)cc1C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%"
+      ],
+      "text": "CC(C)N(c1ccccc1)C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.5 equiv",
+        "CB"
+      ],
+      "text": "B1Oc2ccccc2O1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2h",
+      "type": "time"
+    }
+  ]
+]

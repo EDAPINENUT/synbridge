@@ -1,0 +1,518 @@
+[
+  [
+    {
+      "text": "COC(=O)C(=Cc1cc(C)c(N)c(C)c1)NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1cc(C)c(N)c(C)c1)NC(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Co(II) (A): >95% conv.",
+        "Co(II) (A): 90% ee",
+        "Co(1)* (A): >99% conv.",
+        "Co(1)* (A): >99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1cc(C)c(N(Cc2ccccc2)Cc2ccccc2)c(C)c1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@@H](Cc1cc(C)c(N(Cc2ccccc2)Cc2ccccc2)c(C)c1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Co(I) (A): >95% conv.",
+        "Co(I) (A): 99% ee",
+        "Co(1) (A): >99% conv.",
+        "Co(1) (A): 97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC(=Cc1cc(C)c2[nH]ncc2c1)C(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H](Cc1cc(C)c2[nH]ncc2c1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        ">95% conv. (B)",
+        "7% ee (B)"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Cc1cc(C=C(NC(=O)c2ccccc2)C(=O)O)cc2cn[nH]c12",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C[C@@H](NC(=O)c2ccccc2)C(=O)O)cc2cn[nH]c12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Co(1) (B): >99% conv.",
+        "Co(1) (B): >99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1cc(C)c2[nH]ncc2c1)NC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cc(C)c2[nH]ncc2c1)NC(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Co(II) (B): >99% conv.",
+        "Co(II) (B): 99% ee",
+        "Co(1)* (A): >99% conv.",
+        "Co(1)* (A): >99% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)C(=Cc1cc(C)c2[nH]ncc2c1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)[C@H](Cc1cc(C)c2[nH]ncc2c1)NC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "Co(I) (B): 80% conv.",
+        "Co(I) (B): 97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "Co(II)",
+        "2 mol%"
+      ],
+      "text": "CC1(C)c2ccccc2[P](C)(C)C1(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "Co(1)",
+        "2 mol%"
+      ],
+      "text": "CC(C)(C)[P@]12C=CC=CC1[P](C)(C)C(c1ccccc1)C2c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mol%"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "300 psi",
+        "(A)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(A)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(A)"
+      ],
+      "text": "65\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [
+        "500 psi",
+        "(B)"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.03 M",
+        "(B)"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "(B)"
+      ],
+      "text": "50\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

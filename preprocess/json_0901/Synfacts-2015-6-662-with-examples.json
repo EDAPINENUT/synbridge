@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)CC2(C=CC(=O)C=C2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@H]2CCCC[C@@H]2N2CCCC2)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)N1c2ccccc2[C@]2(CC(=O)NCc3ccccc3)C=CC(=O)CC12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)CC2(C=CC(=O)C=C2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@H]2CCCC[C@@H]2N2CCCC2)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "COc1cccc2c1N(C(=O)OC(C)(C)C)C1CC(=O)C=C[C@@]21CC(=O)NCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)N1C(=O)CC2(C=CC(=O)C=C2)c2ccccc21",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1cc(NC(=S)N[C@H]2CCCC[C@@H]2N2CCCC2)cc(C(F)(F)F)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "C#CCNC(=O)C[C@@]12C=CC(=O)CC1N(C(=O)OC(C)(C)C)c1ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "PhCl",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "25\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

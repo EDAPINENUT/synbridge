@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@]1(C(=O)OC(C)(C)C)CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "80% ee"
+      ]
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C1CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)OC(=O)[C@]1(CC=Cc2ccccc2)CC(=O)N(Cc2ccccc2)C1=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "R=H: 77% yield",
+        "R=H: 92% ee",
+        "R=4-Me: 91% yield",
+        "R=4-Me: 96% ee",
+        "R=3-Br: 85% yield",
+        "R=3-Br: 76% ee",
+        "R=4-CF3: 95% yield",
+        "R=4-CF3: 77% ee",
+        "R=4-OMe: 91% yield",
+        "R=4-OMe: 94% ee",
+        "R=4-Ph: 90% yield",
+        "R=4-Ph: 92% ee"
+      ]
+    },
+    {
+      "text": "CC(=O)OCC=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "O=C(N[C@@H]1CCCC[C@H]1NC(=O)c1ccccc1P(c1ccccc1)c1ccccc1)c1ccccc1P(c1ccccc1)c1ccccc1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "C1CCOC1"
+    }
+  ]
+]

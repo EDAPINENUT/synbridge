@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "text": "CCC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](CO)CCO",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "10 h",
+        "69% ee (S)"
+      ]
+    },
+    {
+      "relations": [
+        "0.2 mol%",
+        "(R)-catalyst",
+        "Ar=3,5-(t-Bu)2C6H3"
+      ],
+      "text": "Cc1ccc[n+]2c1CN1c3cccc4c3[C@]3(CC4)CCc4cccc(c43)[P@](Cl)[I+]12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 atm"
+      ],
+      "text": "[H][H]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC(C)(C)[O-].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "25-30\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,215 @@
+[
+  [
+    {
+      "text": "CC(=C(O[Si](C)(C)C)O[Si](C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H](C(=O)O)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)c2cc(-c3cc4ccccc4c4c3S(=O)(=O)NS(=O)(=O)c3c(-c5cc6c(C)cc(C)cc6c6ccccc56)cc5ccccc5c3-4)c3ccccc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "H2O",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(Cc1ccccc1)=C(O[Si](C)(C)C)O[Si](C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@H](Cc1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield",
+        "er=51:49"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)c2cc(-c3cc4ccccc4c4c3S(=O)(=O)NS(=O)(=O)c3c(-c5cc6c(C)cc(C)cc6c6ccccc56)cc5ccccc5c3-4)c3ccccc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "H2O",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=C(O[Si](C)(C)C)O[Si](C)(C)C)c1ccc(CC(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)Cc1ccc([C@H](C)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yield",
+        "er=95:5",
+        "5 g scale"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)c2cc(-c3cc4ccccc4c4c3S(=O)(=O)NS(=O)(=O)c3c(-c5cc6c(C)cc(C)cc6c6ccccc56)cc5ccccc5c3-4)c3ccccc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "H2O",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C[Si](C)(C)OC(O[Si](C)(C)C)=C(Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)[C@@H](Cc1ccccc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "er=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "2 mol%",
+        "catalyst"
+      ],
+      "text": "Cc1cc(C)c2cc(-c3cc4ccccc4c4c3S(=O)(=O)NS(=O)(=O)c3c(-c5cc6c(C)cc(C)cc6c6ccccc56)cc5ccccc5c3-4)c3ccccc3c2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.1 equiv"
+      ],
+      "text": "CO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.2 M"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "15 min",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "H2O",
+      "type": "other conditions"
+    }
+  ]
+]

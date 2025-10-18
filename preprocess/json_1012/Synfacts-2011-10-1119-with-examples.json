@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "text": "N#CCc1cccc(Br)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#CCc1ccc(SC(F)(F)F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "3.0 mol%"
+      ],
+      "text": "C[Si](C)(C)C[Pd]1(C[Si](C)(C)C)C2=CCCCC1=CCC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "BrettPhos",
+        "1.75 mol%",
+        "3.30 mol%"
+      ],
+      "text": "COc1ccc(OC)c(P(C2CCCCC2)C2CCCCC2)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.3\u20131.6 equiv"
+      ],
+      "text": "CC[N+](CC)(CC)c1ccccc1.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "FC(F)(F)[S-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "Brc1cccc(N2CCOCC2)c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)Sc1ccc(N2CCOCC2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "> 99% yield"
+      ]
+    },
+    {
+      "relations": [
+        "1.5 mol%",
+        "3.0 mol%"
+      ],
+      "text": "C[Si](C)(C)C[Pd]1(C[Si](C)(C)C)C2=CCCCC1=CCC2",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "BrettPhos",
+        "1.75 mol%",
+        "3.30 mol%"
+      ],
+      "text": "COc1ccc(OC)c(P(C2CCCCC2)C2CCCCC2)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.3\u20131.6 equiv"
+      ],
+      "text": "CC[N+](CC)(CC)c1ccccc1.[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.3 equiv"
+      ],
+      "text": "FC(F)(F)[S-].[Ag+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

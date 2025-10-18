@@ -1,0 +1,373 @@
+[
+  [
+    {
+      "text": "CC(C)C1CCCC([Zn]I)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "BrC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H]1CCC[C@H](C#Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)C1CCCC([Zn]I)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1ccc(C#CBr)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@@H]1CCC[C@H](C#Cc2ccc(C#N)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OC1CCCC([Zn]I)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#CBr)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@H]1CCC[C@@H](O[Si](C)(C)C(C)(C)C)C1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "BrC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "I[Zn]C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@H]1CCC[C@H](C#Cc2ccccc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "N#Cc1ccc(C#CBr)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "I[Zn]C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[C@@H]1CCC[C@H](C#Cc2ccc(C#N)cc2)C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        "dr=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](C#CBr)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "I[Zn]C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@H]1CCC[C@@H](O[Si](C)(C)C(C)(C)C)C1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC#CBr",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)C1CCC([Zn]I)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)(C)[Si](C)(C)OCCC#C[C@H]1CC[C@H](C(C)(C)C)CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "79% yield",
+        "dr=98:2"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](C#CBr)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1CCC([Zn]I)CC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[Si](C#C[C@H]1CC[C@H](C)CC1)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr=95:5"
+      ]
+    },
+    {
+      "relations": [
+        "4 mol%",
+        "ligand",
+        "mgana"
+      ],
+      "text": "Cc1ccc2ccc3ccc(C)nc3c2n1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "Cl[Pd]Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCOC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "-30\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12h",
+      "type": "time"
+    }
+  ]
+]

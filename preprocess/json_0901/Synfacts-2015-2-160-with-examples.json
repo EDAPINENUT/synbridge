@@ -1,0 +1,320 @@
+[
+  [
+    {
+      "text": "CC(=Cc1ccc(Cl)cc1)C(=O)OC(C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC1(C(=O)OC(C)(C)C(C)(C)C)OC1c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=Cc1cccc2ccccc12)C(=O)OC(C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC1(C(=O)OC(C)(C)C(C)(C)C)OC1c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=Cc1cccc(C)c1)C(=O)OC(C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1cccc(C2OC2(C)C(=O)OC(C)(C)C(C)(C)C)c1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=Cc1cccc2ccccc12)C(=O)OC(C)(C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)C(C)(C)OC(=O)C1(C)OC1c1cccc2ccccc12",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=Cc1ccccc1Br)C(=O)OC(C)(C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "CC(C)C(C)(C)OC(=O)C1(C)OC1c1ccccc1Br",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(=Cc1ccc(C)cc1)C(=O)OC(C)(C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1cc(C)cc(-c2cnc3c(ccc4cc(-c5cc(C)cc(C)c5)c(-c5ccc6ccccc6c5-c5cccc6ccccc56)nc43)c2)c1",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "Cc1ccc(C2OC2(C)C(=O)OC(C)(C)C(C)C)cc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Fe(OTf)2",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "L",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "AcOOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "MeCN",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "0 \u00b0C",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "2 h",
+      "type": "conditions"
+    }
+  ]
+]

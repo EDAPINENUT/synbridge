@@ -1,0 +1,209 @@
+[
+  [
+    {
+      "text": "O=C1CCCC(=O)C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1oc2c(c1C#N)C(=O)CCC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "84% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)CC(=O)c1ccccn1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1c(-c2ccccn2)oc(C#N)c1C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ],
+  [
+    {
+      "text": "O=C1CCSCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1oc2c(c1C#N)CSCC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "34% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC#N"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "reflux"
+    }
+  ],
+  [
+    {
+      "text": "C1C2=C3C1SC3O2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "N#Cc1oc2c(c1C#N)CSCC2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "34% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)CC(=S)N1CCOCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1c(N2CCOCC2)sc(C#N)c1C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "53% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ],
+  [
+    {
+      "text": "CN(C)C(=S)CC#N",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CN(C)c1sc(C#N)c(C#N)c1C#N",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "45% yield"
+      ]
+    },
+    {
+      "relations": [
+        "(3.0 equiv)"
+      ],
+      "type": "reactants",
+      "text": "N#CC1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CCOC(C)=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    }
+  ]
+]

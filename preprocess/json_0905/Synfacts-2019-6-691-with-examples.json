@@ -1,0 +1,356 @@
+[
+  [
+    {
+      "text": "CC(C)(C)OC(=O)CNC(=O)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NOCc1ccccc1)C(=O)NCC(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "63% ee",
+        "ent-catalyst was used",
+        "ee was determined after N-benzoylation"
+      ]
+    },
+    {
+      "text": "NOCc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC[C@H](NC(=O)C=CC(=O)O)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NCc1ccccc1)C(=O)N[C@@H](COC(C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "dr=73:27",
+        "ent-catalyst was used",
+        "ee was determined after N-benzoylation"
+      ]
+    },
+    {
+      "text": "NCc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NOCc1ccc(OC)cc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "89% ee"
+      ]
+    },
+    {
+      "text": "COc1ccc(CON)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NOCc1ccc(C(F)(F)F)cc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "text": "NOCc1ccc(C(F)(F)F)cc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NCOCc1ccccc1)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "60% yield",
+        "87% ee"
+      ]
+    },
+    {
+      "text": "NCOCc1ccccc1",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)OC(=O)C=CC(=O)O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C[C@H](NOCOCC[Si](C)(C)C)C(=O)OC(C)(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield",
+        "85% ee",
+        "ent-catalyst was used",
+        "ee was determined after N-benzoylation"
+      ]
+    },
+    {
+      "text": "C[Si](C)(C)CCOCON",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "catalyst"
+      ],
+      "text": "OB(O)c1ccccc1CN1CCCC[C@@H]1CNC(=S)Nc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "text": "O=C(O)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "4 \u00c5 MS",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "rt",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24\u201348 h",
+      "type": "time"
+    },
+    {
+      "relations": [
+        "post-treatment"
+      ],
+      "text": "TMSCHN2",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "text": "CC1(OCCO)C=CC(=O)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@@]12C=CC(=O)C[C@@H]1OCCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "er=97.5:2.5"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1C(=O)O.N[C@@H](c1ccccc1)C(c1ccccc1)[C@@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)C1(OCCO)C=CC(=O)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(C)[C@@]12C=CC(=O)C[C@@H]1OCCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "er=91.5:8.5"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1C(=O)O.N[C@@H](c1ccccc1)C(c1ccccc1)[C@@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "COC1(OCCO)C=CC(=O)C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CO[C@@]12C=CC(=O)C[C@@H]1OCCO2",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "er=95.5:4.5"
+      ]
+    },
+    {
+      "relations": [
+        "15 mol%",
+        "catalyst"
+      ],
+      "text": "CC(C)(C)OC(=O)N1CCC[C@@H]1C(=O)O.N[C@@H](c1ccccc1)C(c1ccccc1)[C@@H](N)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "0\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

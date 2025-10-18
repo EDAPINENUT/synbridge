@@ -1,0 +1,402 @@
+[
+  [
+    {
+      "text": "COc1ccc([C@@H](O)C[C@H](NF)C(=O)O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "TTN = 2300 \u00b1 300",
+        "dr >99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CN[C@H](C[C@@H](O)c1ccc(Cl)c(Cl)c1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "TTN = 7100 \u00b1 800",
+        "dr = 97:3"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CN[C@H](C[C@@H](O)c1ccc(-c2ccccc2)cc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "TTN = 2000 \u00b1 400",
+        "dr >99:1"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "CN[C@@H](C[C@H](O)CO)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "TTN = 5600 \u00b1 500",
+        "dr >92:8"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NC(C[C@H](O)c1cnc[nH]1)C(=O)O)OCC1c2ccccc2-c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "17% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "O=C(N[C@@H](C[C@H](O)c1ccc(Br)cc1)C(=O)O)OCC1c2ccccc2-c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "56% yield"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](C[C@H](O)c1ccc([N+](=O)[O-])cc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "98% yield",
+        "740 mg",
+        "5 mmol scale"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ],
+  [
+    {
+      "text": "N[C@H](C[C@H](O)c1ccccc1)C(=O)O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "47% yield",
+        "250 mg",
+        "5 mmol scale"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=O",
+      "type": "reactants"
+    },
+    {
+      "relations": [],
+      "text": "N[C@@H](CC(=O)O)C(=O)O",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "text": "N[C@@H](C[C@H](O)F)C(=O)O",
+      "type": "products"
+    },
+    {
+      "relations": [
+        "100 mM",
+        "pH 7"
+      ],
+      "text": "KPi",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "100 mM"
+      ],
+      "text": "[Cl-].[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 equiv"
+      ],
+      "text": "Cc1ncc(COP(=O)(O)O)c(C=O)c1O",
+      "type": "catalyst"
+    }
+  ]
+]

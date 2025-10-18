@@ -1,0 +1,130 @@
+[
+  [
+    {
+      "text": "Cc1ncsc1C(=O)OCCCC(Br)P(=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "FC(F)(F)c1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Cc1ncsc1C(=O)OCCC[C@@H](c1ccc(C(F)(F)F)cc1)P(=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        "96% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@H](C)[C@@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1"
+    },
+    {
+      "relations": [
+        "4CE"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(C#N)c(C#N)c(C#N)c(C#N)c1C#N"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ],
+  [
+    {
+      "text": "CCOP(=O)(OCC)C(Br)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[Si](C)(C)C#Cc1ccc(I)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOP(=O)(OCC)[C@H](CCc1ccccc1)c1ccc(C#C[Si](C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "44% yield",
+        "90% ee"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "Br[Ni]Br.COCCOC"
+    },
+    {
+      "relations": [
+        "12 mol%",
+        "L*"
+      ],
+      "type": "catalyst",
+      "text": "CC[C@H](C)[C@@H]1CN(c2cccc(C(C)(C)C)c2)C(C2=N[C@@H]([C@@H](C)CC)CN2c2cccc(C(C)(C)C)c2)=N1"
+    },
+    {
+      "relations": [
+        "4CE"
+      ],
+      "type": "catalyst",
+      "text": "N#Cc1c(C#N)c(C#N)c(C#N)c(C#N)c1C#N"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C([O-])[O-].[Cs+].[Cs+]"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CCOC(=O)C1=C(C)NC(C)=C(C(=O)OCC)C1"
+    },
+    {
+      "relations": [
+        "30 W"
+      ],
+      "type": "other conditions",
+      "text": "blue LEDs"
+    }
+  ]
+]

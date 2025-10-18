@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "text": "CCOC(=O)C(CCC=CCOC(=O)OC)c1nc2ccccc2o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CCC(C(=O)OCC)=C2Oc3ccccc3N21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[{lr(cod)Cl}2] ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2, reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Me-THQphos)"
+      ],
+      "text": "C[C@@H]1CCc2ccccc2N1p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(CCC=CCOC(=O)OC)c1nc2c(F)cccc2o1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CCC(C(=O)OCC)=C2Oc3cc(F)ccc3N21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[{lr(cod)Cl}2] ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2, reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Me-THQphos)"
+      ],
+      "text": "C[C@@H]1CCc2ccccc2N1p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCOC(=O)C(CCC=CCOC(=O)OC)c1nc2ccccc2s1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H]1CCC(C(=O)OCC)=C2Sc3ccccc3N21",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "2 mol%"
+      ],
+      "text": "[{lr(cod)Cl}2] ligand",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "CH2Cl2, reflux",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "(Me-THQphos)"
+      ],
+      "text": "C[C@@H]1CCc2ccccc2N1p1oc2ccc3ccccc3c2c2c(ccc3ccccc32)o1",
+      "type": "conditions"
+    }
+  ]
+]

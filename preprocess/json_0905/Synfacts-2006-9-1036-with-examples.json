@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "text": "CC(=O)OC(C#CC1CCCCC1)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)C(=Cc1ccccc1)C(=O)C1CCCCC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "E/Z = 9:1",
+        "substrate: C(C#CC1CCCCC1)(OC(C)=O)c1ccccc1"
+      ]
+    },
+    {
+      "relations": [
+        "1-10 mol%"
+      ],
+      "text": "O=c1o*(Cl)(Cl)[n+]2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ],
+  [
+    {
+      "text": "CCCCC#CC(C)OC(=O)C=Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC=C(C(=O)C=Cc1ccccc1)C(=O)CCCC",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "93% yield",
+        "E/Z = 50:1",
+        "substrate: c1(/C=C/C(=O)OC(C)C#CCCCC)ccccc1"
+      ]
+    },
+    {
+      "relations": [
+        "1-10 mol%"
+      ],
+      "text": "O=c1o*(Cl)(Cl)[n+]2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "Cc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "80\u00b0C",
+      "type": "temperature"
+    }
+  ]
+]

@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CON1C(C)(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C1(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "CC1(C)c2ccc(C#Cc3c4ccccc4c(C#Cc4ccccc4)c4ccccc34)cc2C(C)(C)N1[O-]",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "95% yielda",
+        "67% yieldb"
+      ]
+    },
+    {
+      "relations": [
+        "stage1",
+        "2.5 equiv"
+      ],
+      "text": "O.O.O.O.O.O.O.O=S(=O)([O-])[O-].[Fe+2]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1",
+        "5.0 equiv"
+      ],
+      "text": "OO",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage1"
+      ],
+      "text": "CS(C)=O",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2",
+        "2.1-4.2 equiv"
+      ],
+      "text": "O=C(OO)c1cccc(Cl)c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "stage2"
+      ],
+      "text": "ClCCl",
+      "type": "catalyst"
+    }
+  ]
+]

@@ -1,0 +1,128 @@
+[
+  [
+    {
+      "text": "CC(C)(C)C(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(Cc1cc(C(=O)OCC)ccc1C(=O)C(C)(C)C)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "63% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C[PH](C)(C)[Fe]([PH](C)(C)C)([PH](C)(C)C)[PH](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC1(C)CCc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)(CCc1ccccc1)Cc1ccccc1C(C)=O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C[PH](C)(C)[Fe]([PH](C)(C)C)([PH](C)(C)C)[PH](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "O=C(c1ccccc1)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1CC1c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(Cc1cc(Cl)ccc1C(=O)c1ccc(Cl)cc1)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "51% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "C[PH](C)(C)[Fe]([PH](C)(C)C)([PH](C)(C)C)[PH](C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "C1CCCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "20 h",
+      "type": "time"
+    }
+  ]
+]

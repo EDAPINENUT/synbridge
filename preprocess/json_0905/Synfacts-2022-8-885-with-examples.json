@@ -1,0 +1,106 @@
+[
+  [
+    {
+      "text": "C=C(C)C(=O)N(C)c1ccccc1SC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC1(C)C(=O)N(C)c2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "89% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "25 mol%",
+        "IPr"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1-n1[c-][n+](-c2c(C(C)C)cccc2C(C)C)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "base-free",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "up to 5 mmol scale",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)CCOc1ccccc1SC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CSCC1(C)CCOc2ccccc21",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "35% yield"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "25 mol%",
+        "IPr"
+      ],
+      "text": "CC(C)c1cccc(C(C)C)c1-n1[c-][n+](-c2c(C(C)C)cccc2C(C)C)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.25 M"
+      ],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "base-free",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "up to 5 mmol scale",
+      "type": "other conditions"
+    }
+  ]
+]

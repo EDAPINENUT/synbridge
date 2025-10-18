@@ -1,0 +1,129 @@
+[
+  [
+    {
+      "text": "C=CC=CC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC#CC(=O)OCC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)C1=C(C)CC=C[C@H]1C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "75% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "L*CoBr2",
+        "5.0 mol%"
+      ],
+      "text": "C[P@@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt to 40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[4+2] cycloaddition",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "C=CC=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC#CC(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCC1=C(C(=O)OC)[C@H](c2ccco2)C=CC1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "41% yield",
+        "86% ee",
+        "rr=3:1"
+      ]
+    },
+    {
+      "relations": [
+        "L*CoBr2",
+        "5.0 mol%"
+      ],
+      "text": "C[P@@](c1ccccc1[P@](C)C(C)(C)C)C(C)(C)C",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "FC(F)(F)c1cc([B-](c2cc(C(F)(F)F)cc(C(F)(F)F)c2)(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)cc(C(F)(F)F)c1.[Na+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "[Zn]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "rt to 40\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "2-18 h",
+      "type": "time"
+    },
+    {
+      "relations": [],
+      "text": "[4+2] cycloaddition",
+      "type": "other conditions"
+    }
+  ]
+]

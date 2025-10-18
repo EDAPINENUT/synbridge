@@ -1,0 +1,128 @@
+[
+  [
+    {
+      "text": "CCOS(=NC(=O)OCc1ccccc1)c1nc2ccccc2s1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCCCS(=NC(=O)OCc1ccccc1)c1nc2ccccc2s1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "39% yield"
+      ]
+    },
+    {
+      "text": "C=CCN(Sc1nc2ccccc2s1)C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "AllylMgI"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "time",
+      "text": "5 min"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "other conditions",
+      "text": "open air flask"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "other conditions",
+      "text": "[2,3]-sigmatropic rearrangement"
+    }
+  ],
+  [
+    {
+      "text": "CCOS(=NC(=O)OCc1ccccc1)C1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(N=S(Cc1ccccc1)C1CCCCC1)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "57% yield"
+      ]
+    },
+    {
+      "text": "C=CCN(SC1CCCCC1)C(=O)OCc1ccccc1",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "relations": [
+        "stage 1",
+        "1.1 equiv"
+      ],
+      "type": "catalyst",
+      "text": "AllylMgI"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "catalyst",
+      "text": "COC1CCCC1"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "temperature",
+      "text": "-78\u00b0C"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "time",
+      "text": "5 min"
+    },
+    {
+      "relations": [
+        "stage 1"
+      ],
+      "type": "other conditions",
+      "text": "open air flask"
+    },
+    {
+      "relations": [
+        "stage 2"
+      ],
+      "type": "other conditions",
+      "text": "[2,3]-sigmatropic rearrangement"
+    }
+  ]
+]

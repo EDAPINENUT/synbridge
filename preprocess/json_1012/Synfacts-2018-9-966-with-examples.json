@@ -1,0 +1,116 @@
+[
+  [
+    {
+      "text": "c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCc1nc2cc(Cl)c(Cl)cc2n1Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Clc1cc2nc(C=Cc3ccccc3)n(Cc3ccccc3)c2cc1Cl",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Mn+]([Br-])([C-]#[O+])([C-]#[O+])([C-]#[O+])([C-]#[O+])([C-]#[O+])"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "C/C(=N\\Nc1ccccn1)c1ccccn1"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(C)(C)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "140\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-36 h"
+    }
+  ],
+  [
+    {
+      "text": "c1ccc2ncccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "OCc1ccc(Br)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Brc1ccc(C=Cc2ccc3ccccc3n2)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield"
+      ]
+    },
+    {
+      "relations": [
+        "2.5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "[Mn+]([Br-])([C-]#[O+])([C-]#[O+])([C-]#[O+])([C-]#[O+])([C-]#[O+])"
+    },
+    {
+      "relations": [
+        "2.5 mol%",
+        "ligand"
+      ],
+      "type": "catalyst",
+      "text": "C/C(=N\\Nc1ccccn1)c1ccccn1"
+    },
+    {
+      "relations": [
+        "1.0 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(C)(C)[O-].[K+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CC(C)(C)O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "140\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "14-36 h"
+    }
+  ]
+]

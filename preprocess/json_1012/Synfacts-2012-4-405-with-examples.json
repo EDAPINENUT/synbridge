@@ -1,0 +1,207 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccc(Cl)cc2)[C@@H]([N+](=O)[O-])C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "65% yield",
+        "95% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc2cc([C@H]3CC[C@H](c4ccc5ccccc5c4)N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)ccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "R = Ar, HetAr, Alk",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccc2ccccc2c1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccc3ccccc3c2)[C@@H]([N+](=O)[O-])C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc2cc([C@H]3CC[C@H](c4ccc5ccccc5c4)N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)ccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "R = Ar, HetAr, Alk",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccc2c(c1)OCO2",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccc3c(c2)OCO3)[C@@H]([N+](=O)[O-])C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "80% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc2cc([C@H]3CC[C@H](c4ccc5ccccc5c4)N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)ccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "R = Ar, HetAr, Alk",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=Cc1ccco1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](c2ccco2)[C@@H]([N+](=O)[O-])C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "66% yield",
+        "88% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc2cc([C@H]3CC[C@H](c4ccc5ccccc5c4)N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)ccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "R = Ar, HetAr, Alk",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "O=[N+]([O-])C=CC1CCCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C1C[C@H](C2CCCCC2)[C@@H]([N+](=O)[O-])C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "97% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C=C(COC(C)=O)C[Si](C)(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "ligand"
+      ],
+      "text": "c1ccc2cc([C@H]3CC[C@H](c4ccc5ccccc5c4)N3p3oc4ccc5ccccc5c4c4c(ccc5ccccc54)o3)ccc2c1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "R = Ar, HetAr, Alk",
+      "type": "other conditions"
+    }
+  ]
+]

@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "text": "O=C(O)C1=CC(c2ccccn2)=C=C=C1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(O)c1cc(-c2ccccn2)ccc1O",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "70% yield"
+      ]
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)O[Pd]OC(C)=O"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L1",
+        "tautomeric ligand (L1)",
+        "pyridine-pyridine (L,L) for O2 activation"
+      ],
+      "type": "catalyst",
+      "text": "CC(c1ccccn1)(c1cccc(O)n1)C1CCCCC1"
+    },
+    {
+      "relations": [
+        "10 mol%",
+        "L1",
+        "tautomeric ligand (L1)",
+        "pyridine-pyridone (L,X) for C-H activation"
+      ],
+      "type": "catalyst",
+      "text": "CC(c1ccccn1)(c1cccc(=O)[nH]1)C1CCCCC1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "O=C1C=CC(=O)C=C1"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "type": "catalyst",
+      "text": "CC(=O)[O-].[K+]"
+    },
+    {
+      "relations": [
+        "1 atm"
+      ],
+      "type": "catalyst",
+      "text": "O=O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CN(C)C=O"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "110\u00b0C"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "24h"
+    }
+  ]
+]

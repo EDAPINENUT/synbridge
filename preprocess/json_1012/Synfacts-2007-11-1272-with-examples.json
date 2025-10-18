@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "text": "CC=CC=CCC(CC#Cc1ccccc1)(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(C(=O)OC)CC2=C(c3ccccc3)[C@@H](C)C=C[C@H]2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "94% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[RhCl(diene*)]2"
+      ],
+      "type": "catalyst",
+      "text": "C1=C(c2ccccc2)[C@@H]2C=C(c3ccccc3)[C@H]1CC2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC=CCOCC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1C=C[C@H]2COCC2=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "90% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[RhCl(diene*)]2"
+      ],
+      "type": "catalyst",
+      "text": "C1=C(c2ccccc2)[C@@H]2C=C(c3ccccc3)[C@H]1CC2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "CC=CC=CCN([Ts])CC#Cc1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C[C@H]1C=C[C@H]2CN([Ts])CC2=C1c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "96% yield",
+        "91% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[RhCl(diene*)]2"
+      ],
+      "type": "catalyst",
+      "text": "C1=C(c2ccccc2)[C@@H]2C=C(c3ccccc3)[C@H]1CC2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ],
+  [
+    {
+      "text": "C=C(C)C=CCC(CC#Cc1ccccc1)(C(=O)OC)C(=O)OC",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)C1(C(=O)OC)CC2=C(c3ccccc3)CC(C)=C[C@H]2C1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "92% yield",
+        "83% ee"
+      ]
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[RhCl(diene*)]2"
+      ],
+      "type": "catalyst",
+      "text": "C1=C(c2ccccc2)[C@@H]2C=C(c3ccccc3)[C@H]1CC2"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "type": "catalyst",
+      "text": "F[Sb-](F)(F)(F)(F)F.[Ag+]"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "ClCCl"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "room temperature"
+    },
+    {
+      "relations": [],
+      "type": "time",
+      "text": "1 h"
+    }
+  ]
+]

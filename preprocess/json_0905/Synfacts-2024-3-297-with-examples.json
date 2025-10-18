@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "text": "NC1(c2ccccc2)CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1cccc(C2(N)CCCCC2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "m:p = 6.7:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "[NH3+]OS(=O)(=O)[O-]"
+    },
+    {
+      "relations": [
+        "BTMG",
+        "40 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C"
+    },
+    {
+      "relations": [
+        "organo-initiator 4",
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccc(C(F)(F)F)cn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "30\u00b0C"
+    }
+  ],
+  [
+    {
+      "text": "NC1(c2ccccc2)CCCC1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "Nc1cccc(C2(N)CCCCC2)c1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "87% yield",
+        "m:p = 6.7:1"
+      ]
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)O[NH3+].O=S(=O)([O-])C(F)(F)F"
+    },
+    {
+      "relations": [
+        "BTMG",
+        "40 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CN(C)C(=NC(C)(C)C)N(C)C"
+    },
+    {
+      "relations": [
+        "organo-initiator 4",
+        "5 mol%"
+      ],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccc(C(F)(F)F)cn1"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "OC(C(F)(F)F)C(F)(F)F"
+    },
+    {
+      "relations": [],
+      "type": "temperature",
+      "text": "30\u00b0C"
+    }
+  ]
+]

@@ -1,0 +1,43 @@
+[
+  [
+    {
+      "text": "COc1ccc2c(c1)C(=NC(=O)OC(C)(C)C)C(=O)N2C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc2c(c1)[C@](CC(=O)Sc1ccccc1)(NC(=O)OC(C)(C)C)C(=O)N2C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "81% yield",
+        "er = 89:11"
+      ]
+    },
+    {
+      "relations": [
+        "2.2 equiv"
+      ],
+      "text": "O=C(O)CC(=O)Sc1ccccc1",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "catalyst 1"
+      ],
+      "text": "C=CC1CN2CCC1CC2[C@H](NS(=O)(=O)c1cccc2cccnc12)c1ccnc2ccccc12",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "COC1CCCC1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "48 h",
+      "type": "time"
+    }
+  ]
+]

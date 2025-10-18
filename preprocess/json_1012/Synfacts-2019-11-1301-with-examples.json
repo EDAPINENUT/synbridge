@@ -1,0 +1,107 @@
+[
+  [
+    {
+      "text": "Cc1[nH]c2ccccc2c1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@](O)(Cc1[nH]c2ccccc2c1C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "88% yield",
+        "er = 95:5",
+        "after one recrystallization"
+      ]
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "chiral urea"
+      ],
+      "text": "CN(C(=O)[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(C)(C)C)C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ],
+  [
+    {
+      "text": "CCc1[nH]c2ccccc2c1C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CCOC(=O)[C@](O)([C@H](C)c1[nH]c2ccccc2c1C)C(F)(F)F",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "71% yield",
+        "dr = 8:1",
+        "ermajor = 82:18",
+        "with 20 mol% (PhO)2PO2H"
+      ]
+    },
+    {
+      "text": "CCOC(=O)C(=O)C(F)(F)F",
+      "relations": [],
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "20 mol%",
+        "chiral urea"
+      ],
+      "text": "CN(C(=O)[C@@H](NC(=O)Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C(C)(C)C)C(c1ccccc1)c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "10 mol%"
+      ],
+      "text": "O=P(O)(Oc1ccccc1)Oc1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CCCCCC",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "room temperature",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "5 \u00c5 molecular sieves",
+      "type": "other conditions"
+    }
+  ]
+]

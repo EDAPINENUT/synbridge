@@ -1,0 +1,188 @@
+[
+  [
+    {
+      "text": "CC(=O)NC=C(C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)[C@H](C)c1ccc(F)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "61% yield",
+        ">99% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "*C#C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3-5 mol%"
+      ],
+      "text": "C1=CCCC([Ir+]C2=CCCC=CCC2)=CCC1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand A"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand B"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4c(c3c3c5c(ccc3o2)CCCC5)CCCC4)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "CC(=O)NC=C(C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC(=O)N[C@H](C#C[Si](C(C)C)(C(C)C)C(C)C)[C@H](C)c1ccc(Cl)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "85% yield",
+        ">97% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "*C#C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3-5 mol%"
+      ],
+      "text": "C1=CCCC([Ir+]C2=CCCC=CCC2)=CCC1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand A"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand B"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4c(c3c3c5c(ccc3o2)CCCC5)CCCC4)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COC(=O)c1ccc(C(C)=CNC(C)=O)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COC(=O)c1ccc([C@@H](C)[C@@H](C#C[Si](C(C)C)(C(C)C)C(C)C)NC(C)=O)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        ">99% ee",
+        "dr > 20:1"
+      ]
+    },
+    {
+      "relations": [
+        "2.0 equiv"
+      ],
+      "text": "*C#C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "3-5 mol%"
+      ],
+      "text": "C1=CCCC([Ir+]C2=CCCC=CCC2)=CCC1.F[B-](F)(F)F",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand A"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4ccccc4c3c3c(ccc4ccccc43)o2)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "3-5 mol%",
+        "phosphine ligand B"
+      ],
+      "text": "C1=Cc2ccccc2N(p2oc3ccc4c(c3c3c5c(ccc3o2)CCCC5)CCCC4)c2ccccc21",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClCCCl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60-100\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "12 h",
+      "type": "time"
+    }
+  ]
+]

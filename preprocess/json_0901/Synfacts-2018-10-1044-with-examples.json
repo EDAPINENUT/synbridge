@@ -1,0 +1,337 @@
+[
+  [
+    {
+      "text": "CC(C)[Si](OC(C)(C)C#CC=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](O)C#CC(C)(C)O[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2c(cc1Cl)P(c1ccccc1)[P+](c1ccccc1)([I+]1(c3ccccc3)OC(=O)c3cc([N+](=O)[O-])c(C#N)cc31)c1cc(Cl)c(OC)cc1-2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CC1=CC2P(c3ccccc3)c3cc4c(cc3-c3c(ccc5c3OCO5)[P+](c3ccccc3)(c3ccccc3)[I+]2(c2ccccc2)OC=C1[N+](=O)[O-])OCO4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.8M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)(C)[Si](C)(C)C#CC=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](O)C#C[Si](C)(C)C(C)(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2c(cc1Cl)P(c1ccccc1)[P+](c1ccccc1)([I+]1(c3ccccc3)OC(=O)c3cc([N+](=O)[O-])c(C#N)cc31)c1cc(Cl)c(OC)cc1-2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CC1=CC2P(c3ccccc3)c3cc4c(cc3-c3c(ccc5c3OCO5)[P+](c3ccccc3)(c3ccccc3)[I+]2(c2ccccc2)OC=C1[N+](=O)[O-])OCO4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.8M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](C#CC=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CCOC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC[C@H](O)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2c(cc1Cl)P(c1ccccc1)[P+](c1ccccc1)([I+]1(c3ccccc3)OC(=O)c3cc([N+](=O)[O-])c(C#N)cc31)c1cc(Cl)c(OC)cc1-2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CC1=CC2P(c3ccccc3)c3cc4c(cc3-c3c(ccc5c3OCO5)[P+](c3ccccc3)(c3ccccc3)[I+]2(c2ccccc2)OC=C1[N+](=O)[O-])OCO4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.8M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](C#CC=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(C)OC(C)=O",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](C)[C@H](O)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2c(cc1Cl)P(c1ccccc1)[P+](c1ccccc1)([I+]1(c3ccccc3)OC(=O)c3cc([N+](=O)[O-])c(C#N)cc31)c1cc(Cl)c(OC)cc1-2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CC1=CC2P(c3ccccc3)c3cc4c(cc3-c3c(ccc5c3OCO5)[P+](c3ccccc3)(c3ccccc3)[I+]2(c2ccccc2)OC=C1[N+](=O)[O-])OCO4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.8M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ],
+  [
+    {
+      "text": "CC(C)[Si](C#CC=O)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=CC(OC(C)=O)c1ccc(OC)nc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "C=C[C@H](c1ccc(OC)nc1)[C@@H](O)C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "relations": [],
+      "type": "products"
+    },
+    {
+      "text": "COc1cc2c(cc1Cl)P(c1ccccc1)[P+](c1ccccc1)([I+]1(c3ccccc3)OC(=O)c3cc([N+](=O)[O-])c(C#N)cc31)c1cc(Cl)c(OC)cc1-2",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "text": "N#CC1=CC2P(c3ccccc3)c3cc4c(cc3-c3c(ccc5c3OCO5)[P+](c3ccccc3)(c3ccccc3)[I+]2(c2ccccc2)OC=C1[N+](=O)[O-])OCO4",
+      "relations": [],
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "5 mol%"
+      ],
+      "text": "Ir catalyst",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "text": "Cs2CO3",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "2 equiv"
+      ],
+      "text": "i-PrOH",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "1 equiv"
+      ],
+      "text": "H2O",
+      "type": "conditions"
+    },
+    {
+      "relations": [
+        "0.8M"
+      ],
+      "text": "THF",
+      "type": "conditions"
+    },
+    {
+      "relations": [],
+      "text": "100\u00b0C",
+      "type": "conditions"
+    }
+  ]
+]

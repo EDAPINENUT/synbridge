@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "text": "CC=CNC(=O)c1ccc(OC)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)NC[C@@H](C)C#C[Si](C(C)C)(C(C)C)C(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "82% yield",
+        "97% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[Ir(cod)(Ph-BPE)]OTf",
+        "Ph-BPE"
+      ],
+      "text": "c1ccc([C@@H]2CC[C@@H](c3ccccc3)P2CCP2[C@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ],
+  [
+    {
+      "text": "COc1ccc(C(=O)NC=CCCCO[Si](C)(C)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "COc1ccc(C(=O)NC[C@H](C#C[Si](C(C)C)(C(C)C)C(C)C)CCCO[Si](C)(C)C(C)(C)C)cc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "64% yield",
+        "93% ee"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "C#C[Si](C(C)C)(C(C)C)C(C)C",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "5 mol%",
+        "[Ir(cod)(Ph-BPE)]OTf",
+        "Ph-BPE"
+      ],
+      "text": "c1ccc([C@@H]2CC[C@@H](c3ccccc3)P2CCP2[C@H](c3ccccc3)CC[C@H]2c2ccccc2)cc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "ClC(Cl)Cl",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "60\u00b0C",
+      "type": "temperature"
+    },
+    {
+      "relations": [],
+      "text": "24 h",
+      "type": "time"
+    }
+  ]
+]

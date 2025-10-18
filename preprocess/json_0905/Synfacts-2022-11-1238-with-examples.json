@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "text": "CC1(C=C(S(=O)(=O)c2ccccc2)S(=O)(=O)c2ccccc2)CC[C@@H]2C[C@H]1C2(C)C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(CC(S(=O)(=O)c2ccccc2)S(=O)(=O)c2ccccc2)CC[C@@H]2C[C@H]1C2(C)C",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "73% yield",
+        "rr >20:1",
+        "dr >20:1"
+      ]
+    },
+    {
+      "relations": [
+        "= Alk, H R1 = Ar, EWG EWG,H R4 = Alk, H, halogen, EWG"
+      ],
+      "type": "reactants",
+      "text": "CC=O"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c(O)c(Br)cc12"
+    }
+  ],
+  [
+    {
+      "text": "C=C",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "CC1(C)C[C@@H](F)C[C@@]2(C)C1CC[C@@]1(C)OC(=O)C[C@@H]12",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "68% yield",
+        "rr 3:1",
+        "from sclareolide"
+      ]
+    },
+    {
+      "relations": [
+        "= Alk, H R1 = Ar, EWG EWG,H R4 = Alk, H, halogen, EWG"
+      ],
+      "type": "reactants",
+      "text": "CC=O"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c(O)c(Br)cc12"
+    }
+  ],
+  [
+    {
+      "text": "O=C(NC12C=C3CC(C1)CC(c1ccncc1)(C3)C2)c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NC12CC3CC(C1)CC(c1ccncc1)(C3)C2)c1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "78% yield",
+        "rr >20:1",
+        "from amantadine"
+      ]
+    },
+    {
+      "relations": [
+        "= Alk, H R1 = Ar, EWG EWG,H R4 = Alk, H, halogen, EWG"
+      ],
+      "type": "reactants",
+      "text": "CC=O"
+    },
+    {
+      "relations": [
+        "50 mol%"
+      ],
+      "type": "catalyst",
+      "text": "CS(=O)(=O)O"
+    },
+    {
+      "relations": [],
+      "type": "catalyst",
+      "text": "O=C(O)c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c(O)c(Br)cc12"
+    }
+  ]
+]

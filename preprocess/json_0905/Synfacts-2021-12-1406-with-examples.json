@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "text": "O=[N+]([O-])c1ccccc1",
+      "relations": [],
+      "type": "reactants"
+    },
+    {
+      "text": "O=C(NC1(C(=O)Nc2ccccc2)CC1)OCc1ccccc1",
+      "relations": [],
+      "type": "products",
+      "relation": [
+        "52% yield",
+        "from aminocyclopropanecarboxylic acid"
+      ]
+    },
+    {
+      "relations": [],
+      "text": "CO",
+      "type": "reactants"
+    },
+    {
+      "relations": [
+        "1 mol%",
+        "Ir catalyst"
+      ],
+      "text": "*c1ccc(-c2c(F)cc(F)cc2[C@@H]2[C@H]([n+]3cc(C(F)(F)F)ccc3-c3ccc(F)cc3F)[n+]3ccc(C(C)(C)C)cc3-c3cc(C(C)(C)C)cc[n+]32)nc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "30 mol%",
+        "Phosphine catalyst"
+      ],
+      "text": "CC(C)=[P+](C)[O-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "15 mol%"
+      ],
+      "text": "[Fe+2].[I-].[I-]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "0.5 equiv"
+      ],
+      "text": "O=P([O-])([O-])O.[K+].[K+]",
+      "type": "catalyst"
+    },
+    {
+      "relations": [
+        "5 equiv"
+      ],
+      "text": "[SiH3]c1ccccc1",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "CC#N",
+      "type": "catalyst"
+    },
+    {
+      "relations": [],
+      "text": "blue LEDs",
+      "type": "other conditions"
+    },
+    {
+      "relations": [],
+      "text": "24\u201360 h",
+      "type": "time"
+    }
+  ]
+]
