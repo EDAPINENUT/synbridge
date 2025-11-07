@@ -507,7 +507,9 @@ class VAEDIFMUniform(nn.Module):
             'flags': interm['flags'],
             'bond_masks': interm['bond_masks'],
         }
-
+        
+        del interm, pred
+        
         return next_interm
     
     def element_loss(self, logits, tgt_element_types, tgt_masks):

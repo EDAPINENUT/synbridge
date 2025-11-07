@@ -28,23 +28,12 @@ def clean_smiles(reaction):
     product = Chem.MolToSmiles(mol, isomericSmiles=True, canonical=True, allHsExplicit=False)
     return reactant + ">" + condition + ">" + product
     
-# df = pd.read_csv(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'train_data_pistachio2023.csv'))
 
-# filtered_rxn = df[df['confidence']>=0.8]['mapped_rxn']
-# index = filtered_rxn.index
-# with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'filtered_train_reactions_0.8.txt'), 'w', encoding='utf-8') as f:
-#     for reaction in filtered_rxn:
-#         f.write(reaction + "\n")
-
-# with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'filtered_train_reactions_index_0.8.txt'), 'w', encoding='utf-8') as f:
-#     for i in index:
-#         f.write(str(i) + "\n")
-
-with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'filtered_train_reactions_0.8.txt'), 'r', encoding='utf-8') as f:
+with open('/fs_mol/linhaitao/synflow_mix/data/pistachio23/train.txt', 'r', encoding='utf-8') as f:
     reactions = [line.strip() for line in f if line.strip()]
 reactions
 
-with open('/fs_mol/linhaitao/synflow_mix/data/uspto50k/train.txt', 'r', encoding='utf-8') as f:
+with open('/fs_mol/linhaitao/synflow_mix/data/usptomit/train.txt', 'r', encoding='utf-8') as f:
     reactions_usptomit = [line.strip() for line in f if line.strip()]
 for reaction in reactions_usptomit:
     reactions.append(reaction)
@@ -57,27 +46,25 @@ for reaction in tqdm.tqdm(reactions, desc="Removing atom mapping"):
         pass
 
 reaction_tests = []
-with open('/fs_mol/linhaitao/synflow_mix/data/uspto50k/test.txt', 'r', encoding='utf-8') as f:
+with open('/fs_mol/linhaitao/synflow_mix/data/usptomit/test.txt', 'r', encoding='utf-8') as f:
     reactions_usptomit = [line.strip() for line in f if line.strip()]
-for reaction in reactions_usptomit:
-    reaction_tests.append(reaction)
 
-with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'filtered_test_reactions_0.8.txt'), 'r', encoding='utf-8') as f:
-    reactions = [line.strip() for line in f if line.strip()]
-for reaction in reactions:
-    reaction_tests.append(reaction) 
 
-filter_final_tests = []
-for reaction_test in tqdm.tqdm(reaction_tests, desc="Filtering test reactions"):
+with open('/fs_mol/linhaitao/synflow_mix/data/pistachio23/test.txt', 'r', encoding='utf-8') as f:
+    reactions_pistachio = [line.strip() for line in f if line.strip()]
+
+
+filter_final_tests = reactions_pistachio
+for reaction_test in tqdm.tqdm(reactions_usptomit, desc="Filtering test reactions"):
     try:
         clean_reaction_test = clean_smiles(reaction_test)
         if clean_reaction_test not in reaction_noatommap:
             filter_final_tests.append(reaction_test)
     except:
-        pass
+        filter_final_tests.append(reaction_test)
 
-with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'all_train_reactions_0.8.txt'), 'w', encoding='utf-8') as f:
+with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/pistachioaisi/', 'train.txt'), 'w', encoding='utf-8') as f:
     f.write("\n".join(reactions))
 
-with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/all/', 'all_test_reactions_0.8.txt'), 'w', encoding='utf-8') as f:
+with open(os.path.join('/fs_mol/linhaitao/synflow_mix/data/pistachioaisi/', 'test.txt'), 'w', encoding='utf-8') as f:
     f.write("\n".join(filter_final_tests))

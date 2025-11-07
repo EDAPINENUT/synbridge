@@ -80,3 +80,8 @@ fail_analysis.txt
 # Temporary files
 *.tmp
 *.temp 
+
+.json
+
+!synflow/
+preprocess/

@@ -13,6 +13,7 @@ from synflow.models.diffusion.utils import prepare_ground_truth
 from synflow.models.roundtrip_sample import prepare_roundtrip_sample, roundtrip_sample
 import random
 import copy
+import gc
 
 def get_arccos_schedule(step, end_step, start_step, min_value, max_value):    
     """
@@ -140,10 +141,20 @@ class SynFlowWrapper(pl.LightningModule):
             mode = random.choice(['retro', 'forward'])
         else:
             mode = self.config.train.mode
-        loss_dict = self.diffusion.get_loss(batch, t=t, mode=mode)
-        loss_weights = copy.deepcopy(self.loss_weights)
+        try:
+            loss_dict = self.diffusion.get_loss(batch, t=t, mode=mode)
+            loss_weights = copy.deepcopy(self.loss_weights)
 
-        loss_sum = sum_weighted_losses(loss_dict, loss_weights)
+            loss_sum = sum_weighted_losses(loss_dict, loss_weights)
+        except RuntimeError as e:
+            if 'out of memory' in str(e).lower():
+                self.print(f"Skip iteration with OOM: {self.global_step} steps")
+                if torch.cuda.is_available():
+                    torch.cuda.empty_cache()
+                # return a dummy zero loss to safely skip this batch
+                return torch.tensor(0.0, device=self.device, requires_grad=True)
+            else:
+                raise
 
         if is_loss_nan_check(loss_sum):
             self.print(f"Skip iteration with NaN loss: {self.global_step} steps")
@@ -265,6 +276,12 @@ class SynFlowWrapper(pl.LightningModule):
         
         if 'loss_kl' in outputs:
             self.validation_step_outputs['kl_losses'].append(outputs['loss_kl'])
+
+        gc.collect()
+        for device_id in range(torch.cuda.device_count()):
+            with torch.cuda.device(device_id):
+                torch.cuda.empty_cache()
+                torch.cuda.ipc_collect()
 
     def on_validation_epoch_end(self) -> None:
         """

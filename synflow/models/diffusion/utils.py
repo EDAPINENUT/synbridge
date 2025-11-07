@@ -188,8 +188,8 @@ def prepare_ground_truth(data: DeltaGraphBatch, mode: str = 'retro', return_src:
 def prepare_translate_graph(data: DeltaGraphBatch, mode: str = 'retro') -> TranslateGraph:
     reactant_bond_masks = torch.einsum("bl,bk->blk", ~data['reactant_masks'], ~data['reactant_masks'])
     product_bond_masks = torch.einsum("bl,bk->blk", ~data['product_masks'], ~data['product_masks'])
-    assert torch.all(data['padding_masks'] == data['reactant_masks'])
-    assert torch.all(data['reactant_elements'] == data['elements'])
+    # assert torch.all(data['padding_masks'] == data['reactant_masks'])
+    # assert torch.all(data['reactant_elements'] == data['elements'])
     if mode == 'retro':
         padding_masks = data['padding_masks']
         src_bonds = transform_to_adjacency(

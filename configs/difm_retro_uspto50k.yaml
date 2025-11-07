@@ -54,7 +54,7 @@ train:
     type: adamw
     lr: 1.e-4
     weight_decay: 0
-    beta1: 0.9
+    beta1: 0.9 
     beta2: 0.999
   scheduler:
     type: "cosine"

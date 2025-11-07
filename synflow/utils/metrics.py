@@ -6,15 +6,7 @@ import torch.nn.functional as F
 from synflow.chem.utils import evaluate_single_smiles
 from tqdm import tqdm
 from synflow.chem.constants import MAX_BONDS, MAX_DIFF
-import multiprocessing as mp
-from functools import partial
-import signal
-import atexit
-import os
-import wandb
-import torch.distributed as dist
-from rdkit import Chem
-import numpy as np
+
 
 class AUROCCallback(Callback):
     def __init__(self, num_classes: int, key_name='cls'):
@@ -84,7 +76,7 @@ class ACCRecCallback(Callback):
 
         pl_module.log(self.metric_name, mean_accuracy_smiles.to(pl_module.device), sync_dist=True)
         print(f"Epoch {trainer.current_epoch}, {self.metric_name}: {mean_accuracy_smiles.item()}")
-
+        del samples, outputs
             
     def on_validation_start(self, trainer, pl_module):
         self.accuracy_smiles = []

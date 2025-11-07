@@ -271,7 +271,7 @@ def process(name):
     # src = src[:1000]
     dataset = []   
     if mp:
-        pool = ProcessPoolExecutor(10)
+        pool = ProcessPoolExecutor(64)
         batch_size = 2048
         for i in trange(len(src)//batch_size+1):
             upper = min((i+1)*batch_size, len(src))
@@ -303,7 +303,7 @@ if __name__ =='__main__':
     lg.setLevel(RDLogger.CRITICAL)
     RDLogger.DisableLog('rdApp.info') 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data_path", type=str, default="/fs_mol/linhaitao/synflow_mix/data/all")
+    parser.add_argument("--data_path", type=str, default="/fs_mol/linhaitao/synflow_mix/data/pistachioaisi") # /internfs/linhaitao/synflow/data/pistachio
     args = parser.parse_args()
    
     process(args.data_path + "/train")
